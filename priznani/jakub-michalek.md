@@ -49,7 +49,7 @@ Jsem zaměstnán v pracovním poměru na dobu neurčitou na pozici advokátního
 
 
 ### Neziskové aktivity
-Jsem členem Ediční komise Akademického senátu Univerzity Karlovy.
+Jsem členem Ediční komise Akademického senátu Univerzity Karlovy. Jsem dále zapsán v přípravném výboru spolku Černá perla, který ovšem nikdy nebyl uveden v život.
 
 Informace o významných změnách
 ----------------------------------
