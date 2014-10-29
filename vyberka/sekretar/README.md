@@ -45,9 +45,9 @@ Z těchto 3 tisků vyberte 1 tisk a zpracujte k němu návrh stanoviska zastupit
 
 ---
 
-Tyto dokumenty do **neděle 2. listopadu 2014 do 12:00** nahrajte jako [pull request](https://help.github.com/articles/creating-a-pull-request/) do [repozitáře našeho klubu](https://github.com/pirati-cz/KlubPraha/tree/master/vyberka/sekretar) na githubu. Použijte strukturu [vzorového dokumentu](https://github.com/pirati-cz/KlubPraha/blob/master/vyberka/sekretar/jana-pilna.md), která odpovídá formátu [markdown](http://daringfireball.net/projects/markdown/syntax). Soubor pojmenujte ve tvaru ``jmeno-prijmeni.md``.
+Tyto dokumenty do **neděle 2. listopadu 2014 do 12:00** nahrajte jako [pull request](https://help.github.com/articles/creating-a-pull-request/) do [repozitáře našeho klubu](https://github.com/pirati-cz/KlubPraha/tree/master/vyberka/sekretar) na githubu. Použijte strukturu [vzorového dokumentu](https://github.com/pirati-cz/KlubPraha/blob/master/vyberka/sekretar/jana-pilna.md), která odpovídá formátu [markdown](http://daringfireball.net/projects/markdown/syntax). (Doporučujeme po zobrazení vzorového dokumentu kliknout na „Raw“, text zkopírovat do textového souboru a na příslušná místa doplnit vlastní text.) Soubor pojmenujte ve tvaru ``jmeno-prijmeni.md``.
 
-*Pokud nevíte, co to je ``pull request`` či github, něco si o nich přečtěte (např. na uvedených odkazech). Na pull requesty nahrané po termínu nebude brán zřetel.*
+*Pokud nevíte, co to je ``pull request``, github či markdown, něco si o nich přečtěte (např. na uvedených odkazech). Na pull requesty nahrané po termínu nebude brán zřetel.*
 
 Zaslané materiály do 10. listopadu zhodnotíme a ty nejlepší z vás si pozveme na [osobní pohovor](kriteria.md). 
 
