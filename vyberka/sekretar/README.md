@@ -49,7 +49,7 @@ Tyto dokumenty do **neděle 2. listopadu 2014 do 12:00** nahrajte jako [pull req
 
 *Pokud nevíte, co to je ``pull request`` či github, něco si o nich přečtěte (např. na uvedených odkazech). Na pull requesty nahrané po termínu nebude brán zřetel.*
 
-Zaslané materiály do 10. listopadu zhodnotíme a ty nejlepší z vás si pozveme na osobní pohovor. 
+Zaslané materiály do 10. listopadu zhodnotíme a ty nejlepší z vás si pozveme na [osobní pohovor](kriteria.md). 
 
 Hodně štěstí, těšíme se na vaši práci!
 
