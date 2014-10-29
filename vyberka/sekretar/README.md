@@ -10,7 +10,7 @@ A. Vybrané tisky
 
 Projděte si následujících 20 tisků z jednání Rady hl. m. Prahy a Zastupitelstva hl. m. Prahy. Vyberte z nich 3 tisky, které jsou pro Piráty nejdůležitější (tj. tisky, kterým bychom měli věnovat co nejvíce pozornosti). 
 
-Ttisky zobrazíte kliknutím na „Veřejný přístup“ na následujících stránkách:
+Tisky zobrazíte kliknutím na „Veřejný přístup“ na následujících stránkách:
 
    1. [R-15769 Ďolíček](http://zastupitelstvo.praha.eu/ina2014/tedusndetail.aspx?id=223198)
    2. [R-15659 Codexis](http://zastupitelstvo.praha.eu/ina2014/tedusndetail.aspx?id=222331)
