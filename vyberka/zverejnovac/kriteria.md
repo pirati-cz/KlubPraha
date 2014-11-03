@@ -25,8 +25,9 @@ Výsledky hodnocení
 | [Lucie Tykalová](lucie-tykalova.md)       | čt 6. 11. 2014, 11.00 |      |      |      |      |      |      |        |
 | [Pavla Maksantová](pavla-maksantova.md)   | čt 6. 11. 2014, 12.00 |      |      |      |      |      |      |        |
 | [Adam Skořepa](adam-skorepa.md)           | čt 6. 11. 2014, 13.00 |      |      |      |      |      |      |        |
-| [Marie Račická](marie-racicka.md)         | čt 6. 11. 2014, 14.00 |      |      |      |      |      |      |        |
-| [Roman Lelek](roman-lelek.md)             | čt 6. 11. 2014, 15.00 |      |      |      |      |      |      |        |
+| [Roman Lelek](roman-lelek.md)             | čt 6. 11. 2014, 14.00 |      |      |      |      |      |      |        |
+| [Marie Račická](marie-racicka.md)         | čt 6. 11. 2014, 15.00 |      |      |      |      |      |      |        |
+
 
 Místem konání je vždy Pirátské centrum, Řehořova 19, Praha-Žižkov.
 
