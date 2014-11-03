@@ -12,7 +12,7 @@ Usnesení o zveřejňování smluv
        veřejného ceníků anebo jiného zveřejněného způsobu výpočtu.
 
 2. Zastupitelstvo hlavního města Prahy se **usneslo** na tom, že text městských smluv, pokud 
-   ho připravuje městská organizace, by měl vycházet ze vzorového smluvního vzoru, smluvních 
+   ho připravuje městská organizace, by měl vycházet ze smluvního vzoru, smluvních 
    podmínek a doložek, pokud jsou pro daný smluvní vztah uloženy v knihovně smluvních vzorů 
    hlavního města Prahy v upravitelné podobě. Knihovnu smluvních vzorů by mělo zřídit hlavní 
    město Praha jako svůj informační systém veřejné správy a měl by ji provozovat Magistrát 
