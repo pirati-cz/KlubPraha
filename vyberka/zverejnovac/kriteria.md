@@ -20,12 +20,12 @@ Výsledky hodnocení
 
 | Uchazeč                                   | Termín                | A.   | B.   | C.   | D.   | E.   | F.   | Celkem |
 | ----------------------------------------  | --------------------- | ---: | ---: | ---: | ---: | ---: | ---: | -----: |
+| [Roman Lelek](roman-lelek.md)             | út 4. 11. 2014, 15.00 |      |      |      |      |      |      |        |
 | [Jan Loužek](jan-louzek.md)               | út 4. 11. 2014, 16.00 |      |      |      |      |      |      |        |
 | [Pavla Čechová](pavla-cechova.md)         | čt 6. 11. 2014, 10.00 |      |      |      |      |      |      |        |
 | [Lucie Tykalová](lucie-tykalova.md)       | čt 6. 11. 2014, 11.00 |      |      |      |      |      |      |        |
 | [Pavla Maksantová](pavla-maksantova.md)   | čt 6. 11. 2014, 12.00 |      |      |      |      |      |      |        |
 | [Adam Skořepa](adam-skorepa.md)           | čt 6. 11. 2014, 13.00 |      |      |      |      |      |      |        |
-| [Roman Lelek](roman-lelek.md)             | čt 6. 11. 2014, 14.00 |      |      |      |      |      |      |        |
 | [Marie Račická](marie-racicka.md)         | čt 6. 11. 2014, 15.00 |      |      |      |      |      |      |        |
 
 
