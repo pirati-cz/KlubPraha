@@ -27,6 +27,7 @@ Následující seznam obsahuje přehled o veškerém majetku výše uvedeného f
 | Notebook | 14 500 Kč | dar od matky |
 | Letenky z Prahy do Bangkoku, z Bangkoku do Jakarty a z Bandar Lampungu do Prahy | 11 500 Kč | mzda MEDIARESEARCH, a.s. | 
 | Bankovní účet u FIO banky a.s. | 5 000 Kč | mzda MEDIARESEARCH, a.s. |
+| Příjem zastupitele říjen | 1 392 Kč | Magistrát HM Prahy |
 
 
 
