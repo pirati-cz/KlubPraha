@@ -8,10 +8,10 @@ prijemce:
   DS:       48ia97h
 styl:       pirati-klub
 vase:
-  znacka:   Č. j. MHMP 1633973/2014
-  den:      14.11.2014
+  znacka:   MHMP 1538022/2014
+  den:      30.10.2014
 nase:
-  znacka:   ZK Pha 6/2014
+  znacka:   ZK Pha 3/2014
   misto:    Praha
 
 vec:        Stížnost zastupitele hl. m. Prahy na postup při vyřizování žádosti o informace
@@ -24,16 +24,18 @@ vyrizuje:
 
 Vážení,
 
-v žádosti o informace, odeslané dne 25. 10. 2014, jsem žádal uvedení konkrétních částek, které byly vyplaceny každému jednotlivému zastupiteli v jednotlivých měsících právních důvodů (např. odměna neuvolněného zastupitele, kompenzace neuvolněného zastupitele za čas jednání, resp. plnění úkolů z pověření výboru, odměna za výkon funkce uvolněného člena zastupitelstva apod.) 
+v žádosti o informace, odeslané dne 31. 10. 2014, jsem v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, žádal o poskytnutí auditu hospodaření Dopravního podniku hl. m. Prahy, a. s., který vyhotovil na objednávku tehdejšího primátora Bohuslava Soboty advokát Mgr. Václav Láska.
 
-Odpověď povinného subjektu s nadepsanými referenčními údaji obsahovala pouze souhrnné informace (Příloha 1: „Reprezentační výdaje politických klubů za období 2010-2014", Příloha 2: „Mzdové náklady klubů zastupitelů HMP volební období 2010-2014“). 
-
-Povinný subjekt mi poskytl informace pouze částečně, a proto podávám stížnost na postup při vyřizování žádosti o informace podle § 16a odst. 1 písm. c) zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů (dále jen „InfZ“).
+Povinný subjekt neposkytl požadované informace, ani nevydal rozhodnutí o odmítnutí žádosti. Povinný subjekt uvádí, že požadované informace nemá k dispozici, neboť je prý má Dopravní podnik hlavního města Prahy a. s. Tato skutečnost se však nezakládá na pravdě, neboť z přiloženého vyjádření Dopravního podniku hlavního města Prahy vyplývá, že tuto informaci má Magistrát hlavního města Prahy. Proto podávám stížnost na postup při vyřizování žádosti o informace podle § 16a odst. 1 písm. b) zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů (dále jen „InfZ“).
 
 Navrhuji, aby nadřízený správní orgán postupem podle § 16a odst. 6 písm. b) InfZ
 povinnému subjektu přikázal, aby žádost vyřídil ve lhůtě 5 dnů ode dne doručení rozhodnutí nadřízeného správního orgánu.
 
 Prosím o poskytnutí informací prostřednictvím datové schránky uvedené v patičce tohoto dopisu. Předem děkuji za Vaši vstřícnost.
+
+**Přílohy**
+
+* Vyjádření Dopravního podniku hlavního města Prahy a. s.
 
 ---
 podpis: 
