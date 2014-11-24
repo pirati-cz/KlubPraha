@@ -20,9 +20,11 @@ vyrizuje:   Jakub Michálek
 
 Vážení,
 
-v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o poskytnutí informací o tom, které IT systémy či služby jsou outsourcovany na TSK. Žádám Vás o uvedení odpovědi v podobě bodového seznamu, uvádějící každý jeden IT systém nebo službu, vždy s uvedenou společností, ke které byl daný systém nebo služba outsourcovaný.
+v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o poskytnutí následující informace:
 
-Prosím o poskytnutí informace na můj e-mail [jakub.michalek@praha.eu](mailto:jakub.michalek@praha.eu). Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Předem děkuji za Vaši vstřícnost.
+Seznam IT systémů či služeb, které jsou outsourcovany na TSK. Žádám Vás o uvedení odpovědi obsahující bodový seznam, uvádějící každý jeden IT systém nebo službu, vždy s uvedenou společností, ke které byl daný systém nebo služba outsourcovaný.
+
+Prosím o poskytnutí informace do datové schránky uvedené v patičce této zprávy. Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více datových zprávách, nebo se dostavím s paměťovým médiem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
 
 ---
 podpis: 
