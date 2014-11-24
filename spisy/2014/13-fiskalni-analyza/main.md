@@ -13,9 +13,12 @@ vase:
 nase:
   znacka:   ZK Pha 13/2014
   misto:    Praha
-
 vec:        Žádost zastupitele hl. m. Prahy o informace
-vyrizuje:   Jakub Michálek
+vyrizuje:   
+  jmeno:    Jakub Michálek
+  telefon:  +420 775 978 550
+  ds:       4memzkm
+  mail:     jakub.michalek@praha.eu
 ---
 
 Vážení,
