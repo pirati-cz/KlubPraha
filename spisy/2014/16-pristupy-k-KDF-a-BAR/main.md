@@ -11,7 +11,7 @@ vase:
   znacka:   
   den:
 nase:
-  znacka:   ZK Pha 15/2014
+  znacka:   ZK Pha 16/2014
   misto:    Praha
 
 vec:        Žádost zastupitele hl. m. Prahy o informace
@@ -20,7 +20,7 @@ vyrizuje:   Jakub Michálek
 
 Vážení,
 
-v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o informace o všech probíhajících soudních sporech, které se týkají poskytování informací o příjemcích veřejných prostředků podle § 8b zákona č. 106/1999 Sb. (dále jen InfZ), a to v následujícím rozsahu: jméno žadatele, rozhodnutí správního orgánu 1. a 2. stupně, rozhodnutí všech Správních soudů, označení odpovědné osoby, která nese odpovědnost podle zák. 82/1998 Sb. O odpovědnosti státu za škodu, pokud Hlavní město Praha v těchto sporech prohraje.
+v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o poskytnutí přístupů k informačním systémům BAR a KDF, které provozuje Hlavní město Praha prostřednictvím své intranetové služby na portálu Praha.eu. Přestože mi jako zastupiteli bylo zřízení těchto přístupů předem přislíbeno ze strany ředitelky Odboru účetnictví Jarmily Melkesové, byl jsem po několika urgencích odkázán na chybějící součinnost odboru účetnictví, odboru pro bezpečnost a odboru informatiky.
 
 Prosím o poskytnutí informace na můj e-mail [jakub.michalek@praha.eu](mailto:jakub.michalek@praha.eu). Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Předem děkuji za Vaši vstřícnost.
 
