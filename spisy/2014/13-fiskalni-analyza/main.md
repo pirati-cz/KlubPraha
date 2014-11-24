@@ -20,7 +20,7 @@ vyrizuje:   Jakub Michálek
 
 Vážení,
 
-v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o poskytnutí dokumentu "Fiskální analýza", kterou provedl Institut plánování a rozvoje (IPR).
+v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o poskytnutí dokumentu "Fiskální analýza Hlavního města Prahy", kterou vyhotovil Institut plánování a rozvoje (IPR) na podzim (říjen-listopad) 2014.
 
 Prosím o poskytnutí informace na můj e-mail [jakub.michalek@praha.eu](mailto:jakub.michalek@praha.eu). Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Předem děkuji za Vaši vstřícnost.
 
