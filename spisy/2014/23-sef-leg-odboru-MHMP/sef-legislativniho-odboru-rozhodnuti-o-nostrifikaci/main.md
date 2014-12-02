@@ -23,7 +23,7 @@ vyrizuje:
 
 Vážení,
 
-v souladu s § 2 odst. 1 zákona č. 106/1999 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o následující informace:
+v souladu s § 2 odst. 1 zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů, Vás žádám o následující informace:
 
 Rozhodnutí o nostrifikaci vzdělání Františka Koukolíka, magistra práva, provedené Západočeskou univerzitou. 
 
