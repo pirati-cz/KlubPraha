@@ -1,19 +1,19 @@
 ---
 prijemce: 
   role:     Povinný subjekt
-  nazev:    Hlavní město Praha
-  ulice:    Mariánské náměstí 2/2
-  PSC:      11001
-  mesto:    Praha 1
-  DS:       48ia97h
+  nazev:    Vrchní státní zastupitelství v Praze
+  ulice:    náměstí Hrdinů 1300/11
+  PSC:      14000
+  mesto:    Praha 4
+  DS:       uzcaety
 styl:       pirati-klub
 vase:
   znacka:   
   den:
 nase:
-  znacka:   ZK Pha 19/2014
+  znacka:   ZK Pha 21/2014
   misto:    Praha
-vec:        Žádost zastupitele hl. m. Prahy o informace
+vec:        Žádost o informace
 vyrizuje:   
   jmeno:    Jakub Michálek
   telefon:  +420 775 978 550
@@ -23,7 +23,7 @@ vyrizuje:
 
 Vážení,
 
-v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o následující informace:
+v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím
 
 1. oznámení o činnostech, o příjmech a adarech a o nemovitém majetku podle čl. 3 až 5 Etického kodexu, a to za člena Zastupitelstva hlavního města Prahy a za manžela/manželku, registrovaného partnera/registrovanou partnerku, a to pro všechny osoby, pro které je oznámení k dispozici,
 
