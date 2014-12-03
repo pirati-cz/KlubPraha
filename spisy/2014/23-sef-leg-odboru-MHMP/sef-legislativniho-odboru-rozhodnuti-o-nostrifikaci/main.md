@@ -24,7 +24,7 @@ Vážení,
 
 v souladu s § 2 odst. 1 zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů, Vás žádám o následující informace:
 
-Rozhodnutí o nostrifikaci vzdělání Františka Koukolíka, magistra práva, provedené Západočeskou univerzitou. 
+Rozhodnutí o nostrifikaci vzdělání Františka Kotalíka, magistra práva, provedené Západočeskou univerzitou. 
 
 Prosím o poskytnutí informace elektronickou cestou na e-mailovou adresu adam.zabransky@praha.eu. Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více datových zprávách. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
 
