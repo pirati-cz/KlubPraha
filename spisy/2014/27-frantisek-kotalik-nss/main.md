@@ -1,17 +1,17 @@
 ---
 prijemce: 
   role:     Povinný subjekt
-  nazev:    Hlavní město Praha
-  ulice:    Mariánské náměstí 2/2
-  PSC:      11001
-  mesto:    Praha 1
-  DS:       48ia97h
+  nazev:    Nejvyšší správní soud
+  ulice:    Moravské náměstí 6
+  PSC:      657 40
+  mesto:    Brno
+  DS:       wwjaa4f
 styl:       pirati-klub
 vase:
   znacka:   
   den:
 nase:
-  znacka:   ZK Pha 26/2014
+  znacka:   ZK Pha 27/2014
   misto:    Praha
 vec:        Žádost zastupitele hl. m. Prahy o informace
 vyrizuje:   
@@ -23,9 +23,9 @@ vyrizuje:
 
 Vážení,
 
-v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o následující informace:
+v souladu s § 5 odst. 2 písm. f zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o následující informace:
 
-- Rozpis výdajů na produkty společnosti Gordic, které užívá, užívalo nebo bude užívat hlavní město Praha. 
+Úplné, neanonymizované znění rozsudku Nejvyššího správního soudu, spisové značky 9 As 105/2011. 
 
 Prosím o poskytnutí informace do datové schránky uvedené v patičce této zprávy. Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více datových zprávách, nebo se dostavím s paměťovým médiem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
 
