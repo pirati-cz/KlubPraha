@@ -26,7 +26,8 @@ Následující seznam obsahuje přehled o veškerém majetku výše uvedeného f
 | Stavební spoření u ČMSS | 110 000 Kč | od rodičů | 
 | Notebook | 14 500 Kč | dar od matky |
 | Bankovní účet u FIO banky a.s. | 5 000 Kč | mzda MEDIARESEARCH, a.s. |
-| Příjem zastupitele říjen | 1 392 Kč | Magistrát HM Prahy |
+| Příjem zastupitele říjen | 1 392 Kč | Magistrát hlavního města Prahy |
+| Příjem zastupitele listopad | 2 335 Kč | Magistrát hlavního města Prahy |
 
 
 

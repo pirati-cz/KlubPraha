@@ -29,8 +29,8 @@ Následující seznam obsahuje přehled o veškerém majetku výše uvedeného f
 | Notebook | 12 000 Kč | vlastní úspory |
 | Monitor, reproduktory | 10 000 Kč | vlastní úspory |
 | Mobilní telefon | 10 000 Kč | dar od matky |
-| Příjem zastupitele říjen | 1 392 Kč | Magistrát HM Prahy |
-
+| Příjem zastupitele říjen | 1 392 Kč | Magistrát hlavního města Prahy |
+| Příjem zastupitele listopad | 2 335 Kč | Magistrát hlavního města Prahy |
 
 ### Dluhy
 

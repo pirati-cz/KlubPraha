@@ -25,8 +25,8 @@ Následující seznam obsahuje přehled o veškerém majetku výše uvedeného f
 | Bankovní účet u ČSOB |  60 000 Kč | Příjmy z překladatelské činnosti |
 | Notebook | 12 000 Kč | Dar od rodičů |
 | 2 akordeony | celkem 30 000 Kč | dar od rodiny |
-| Příjem zastupitele říjen | 1 853 Kč | Magistrát HM Prahy |
-
+| Příjem zastupitele říjen | 1 853 Kč | Magistrát hlavního města Prahy |
+| Příjem zastupitele říjen | 2 974 Kč | Magistrát hlavního města Prahy |
 
 
 
