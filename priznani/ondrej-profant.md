@@ -27,8 +27,6 @@ Následující seznam obsahuje přehled o veškerém majetku výše uvedeného f
 | Nábytek | 15 000 Kč | úspory, dar z rodiny |
 | Automobil Škoda Felicia, rok výroby  | 15 000 Kč | dar od rodičů |
 | Mobilní telefon | 3 000 Kč | vlastní úspory |
-| Příjem zastupitele říjen | 1 853 Kč | Magistrát hlavního města Prahy |
-| Příjem zastupitele listopad | 2974 Kč | Magistrát hlavního města Prahy |
 
 ### Dluhy
 
@@ -63,7 +61,8 @@ Následuje seznam příjmů poskytnutých od veřejných institucí. Veřejnou i
 
 | Datum plnění | Popis plnění | Odhad hodnoty | 
 | ----------   | ----------   | ------------: |
-| Zatím nejsou. |  |  |
+| Příjem zastupitele říjen | 1 853 Kč | Magistrát hlavního města Prahy |
+| Příjem zastupitele listopad | 2974 Kč | Magistrát hlavního města Prahy |
 
 
 Prohlašuji, že jsem výše uvedené údaje uvedl úplně a pravdivě. 
