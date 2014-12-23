@@ -25,9 +25,6 @@ Následující seznam obsahuje přehled o veškerém majetku výše uvedeného f
 | Bankovní účet u ČSOB |  60 000 Kč | Příjmy z překladatelské činnosti |
 | Notebook | 12 000 Kč | Dar od rodičů |
 | 2 akordeony | celkem 30 000 Kč | dar od rodiny |
-| Příjem zastupitele říjen | 1 853 Kč | Magistrát hlavního města Prahy |
-| Příjem zastupitele říjen | 2 974 Kč | Magistrát hlavního města Prahy |
-
 
 
 ### Dluhy
@@ -39,6 +36,14 @@ V následujícím seznamu jsou uvedeny všechny nesplacené dluhy (půjčky, úv
 | půjčka od Jakuba Michálka | 6000 Kč |
 | sociální pojištění | 10000 Kč |
 
+
+### Seznam příjmů od veřejných institucí
+Následuje seznam příjmů poskytnutých od veřejných institucí. Veřejnou institucí je stát, územní samosprávné celky, veřejné vysoké školy, veřejné výzkumné instituce, školy, prosefní komory, jakož i akciové společnosti nebo jiné veřejné instituce jimi ovládané.
+
+| Datum plnění | Popis plnění | Odhad hodnoty | 
+| ----------   | ----------   | ------------: |
+| Příjem zastupitele říjen | 1 853 Kč | Magistrát hlavního města Prahy |
+| Příjem zastupitele listopad | 2 974 Kč | Magistrát hlavního města Prahy |
 
 ### Způsob obživy
 
