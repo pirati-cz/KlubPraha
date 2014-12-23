@@ -36,15 +36,6 @@ V následujícím seznamu jsou uvedeny všechny nesplacené dluhy (půjčky, úv
 | půjčka od Jakuba Michálka | 6000 Kč |
 | sociální pojištění | 10000 Kč |
 
-
-### Seznam příjmů od veřejných institucí
-Následuje seznam příjmů poskytnutých od veřejných institucí. Veřejnou institucí je stát, územní samosprávné celky, veřejné vysoké školy, veřejné výzkumné instituce, školy, prosefní komory, jakož i akciové společnosti nebo jiné veřejné instituce jimi ovládané.
-
-| Datum plnění | Popis plnění | Odhad hodnoty | 
-| ----------   | ----------   | ------------: |
-| Příjem zastupitele říjen | 1 853 Kč | Magistrát hlavního města Prahy |
-| Příjem zastupitele listopad | 2 974 Kč | Magistrát hlavního města Prahy |
-
 ### Způsob obživy
 
 Následující text vysvětluje, jakým způsobem výše uvedený funkcionář aktuálně financuje svou obživu, bydlení a další základní životní potřeby, zejména u koho je zaměstnán, ve službě, nebo kde vykonává funkci člena orgánu právnické osoby či kde podniká, jakou pobírá odměnu a jiné příjmy z veřejných zdrojů, případně kdo je jeho podpůrcem.
@@ -70,8 +61,8 @@ Následuje seznam příjmů poskytnutých od veřejných institucí. Veřejnou i
 
 | Datum plnění | Popis plnění | Odhad hodnoty | 
 | ----------   | ----------   | ------------: |
-| Zatím nejsou. |  |  |
-
+| Příjem zastupitele říjen | 1 853 Kč | Magistrát hlavního města Prahy |
+| Příjem zastupitele listopad | 2 974 Kč | Magistrát hlavního města Prahy |
 
 Prohlašuji, že jsem výše uvedené údaje uvedl úplně a pravdivě. 
 
