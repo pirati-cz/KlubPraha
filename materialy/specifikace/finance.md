@@ -17,6 +17,7 @@ Do tohoto modulu patří sestavování rozpočtu, jeho změna v průběhu roku a
 Přehled pojmů
 -------------
 
+### Automatická změna rozpočtu
 **Automatická změna rozpočtu** je rozpočtovým opatřením, které se provádí,
 kdykoliv je zjištěn nesoulad oproti skutečnému stavu a nelze postupovat jiným 
 způsobem (viz § 16 rozpočtových pravidel). Díky tomu nemusí být přijímán
@@ -28,6 +29,7 @@ Není-li v rozpočtu přebytek nebo není změna dostatečná, vyzve příslušn
 předsednictvo k nápravě nedostatků nebo provedení jiné změny rozpočtu. 
 Viz § 15 odst. 1 písm. e) rozpočtových pravidel.
 
+### Hospodář
 **Hospodář** s určitou věcí je člověk, který věc spravuje a hospodaří s ní
 za organizační složku, která věc spravuje (viz správa věci). V jiných 
 organizacích se taková funkce nazývá také příkazce operace.
@@ -38,6 +40,7 @@ Hospodář je člověk, který stojí v čele
 organizační složky, zástupce nebo jiný člen, kterého organizační složka 
 určila hospodářem. Viz § 4 pravidel hospodaření.
 
+### Poznamenání do rozpočtu
 **Poznamenání do rozpočtu** je rozpočtové opatření, které finanční odbor provede, 
 pokud jsou nepředvídané skutečné příjmy účelově určeny takovým způsobem, 
 že může dovodit všechny náležitosti rozpočtové položky. O nepředvídané 
@@ -49,48 +52,57 @@ přidá do existující rozpočtové položky a ve vazbě na to navýší výdaj
 rozpočtovou položku. Z výdajové rozpočtové položky pak mohou být čerpány peníze
 na konkrétní projekt. Viz § 15 odst. 1 písm. f) rozpočtových pravidel.
 
+### Pracovní rozpočet
 **Pracovní rozpočet** je rozpočet schválený příslušným předsednictvem, který
 není závazný jako ostatní rozpočty, ale je závazný podobně jako úkol uložený
 podřízeným orgánům předsednictvem. Může jít například o pracovní rozpočet 
 volební kampaně nebo orientační rozpočet organizační složky. Viz
 § 18 rozpočtových pravidel. 
 
+### Předkladatel
 **Předkladatel** rozpočtu je v rozpočtovém procesu ten, kdo sestavuje návrh 
 rozpočtu určité rozpočtové jednotky a předkládá ho schvalujícímu orgánu. 
 Předkladatelem rozpočtu je vždy příslušné předsednictvo (§ 6 odst. 3 
 rozpočtových pravidel), také schvaluje záměry 
 s celkovými náklady nad prahovou hodnotu 5 000 Kč (§ 11 pravidel hospodaření).
 
+### Přesunutí rezerv
 **Přesunutí rezerv** je rozpočtovým opatřením, při kterém příslušné 
 předsednictvo může kdykoliv během rozpočtového období svou rozpočtovou rezervu 
 zcela nebo zčásti převést do jiné výdajové rozpočtové položky téhož rozpočtu.
 Viz § 15 odst. 1 písm. d) rozpočtových pravidel.
 
+### Registrace rozpočtu
 **Registrace rozpočtu** je rozhodnutí finančního odboru, na základě kterého
 nabývá schválený rozpočet nebo schválená změna rozpočtu účinnosti.
 Viz § 14 rozpočtových pravidel.
 
+### Rezerva předsednictva
 **Rezerva předsednictva** je výdajovou rozpočtovou kapitolou, ze které 
 předsednictvo platí rozpočtově nezajištěné výdaje v průběhu rozpočtového období.
 Viz § 11 rozpočtových pravidel. Rezerva má také roli v automatické změně 
 rozpočtu (§ 15 odst. 1 písm. e) rozpočtových pravidel). 
 
+### Rozpočtová jednotka
 **Rozpočtová jednotka** je vymezený organizační celek, za který se sestavuje 
 samostatný rozpočet a v rámci něhož se uplatní pravidla pro schvalování 
 záměrů. Rozpočtovou jednotkou je jednak strana jako celek, jednak každé
 krajské sdružení, volitelně i místní sdružení, které má vlastní rozpočet. 
 
+### Rozpočtová kontrola
 **Rozpočtová kontrola** je kontrola prováděná na celostátní úrovni kontrolní 
 komisí, případně na nižší organizační úrovni kontrolní komisí nebo kontrolním
 odborem zřízeným oblastním sdružením nebo kýmkoliv dalším. 
 Postup přezkumných orgánů při kontrole upravuje rozhodčí řád a statut kontrolní
 komise. Viz § 19 rozpočtových pravidel. 
 
+### Rozpočtová položka
 **Rozpočtová položka** je oddělenou částí rozpočtu, u které musí být uveden
 název, rozpočtový limit, správce, datum registrace, případně účel, vazba a 
 zdrojové třídění, viz § 8 rozpočtových pravidel. Rozpočtová položka je základním 
 prvkem, ze kterého je rozpočet poskládán.
 
+### Rozpočtová skladba
 **Rozpočtová skladba** je předpis, který stanoví, jakým způsobem jsou tříděny
 jednotlivé rozpočtové položky. Používá se zejména třídění podle druhu (na 
 příjmy, výdaje a saldo), viz § 7 rozpočtových pravidel. Vedle toho však 
@@ -103,17 +115,20 @@ druhového třídění výdajů na výdaje mzdové, volební, odvodové a provoz
 být závazná pro tvorbu rozpočtu, ale bude závazná pro jeho čerpání. O rozpočtové
 skladbě blíže v části níže.
 
+### Rozpočtové období
 **Rozpočtové období** je doba, na kterou se vztahuje rozpočet. V případě rozpočtu 
 je to doba jednoho kalendářního roku od 1. 1. do 31. 12, viz § 5 rozpočtových
 pravidel. V případě rozpočtového provizoria trvá rozpočtové období od 1. 1. 
 až do registrace rozpočtu, viz § 17 rozpočtových pravidel. 
 
+### Rozpočtové opatření
 **Rozpočtové opatření** je schválené nebo automatické rozhodnutí, na základě 
 něhož je rozpočet změněn. Rozpočtovými opatřeními jsou rozpočtový 
 dodatek, náprava nedostatků, zkrácení rozpočtové položky, přesunutí rezerv,
 automatická změna rozpočtu a poznamenání do rozpočtu. Viz § 15 rozpočtových
 pravidel.
 
+### Rozpočtové provizorium
 **Rozpočtové provizorium** je postup, který nastupuje, pokud byla porušena 
 povinnost sestavit rozpočet, a tedy rozpočtová jednotka by jinak neměla podle 
 čeho hospodařit. Rozpočtové provizorium trvá až do registrace rozpočtu. 
@@ -124,6 +139,7 @@ v minulém rozpočtovém období. Rozpočtové provizorium je tak v podstatě
 rozpočtovým dokumentem svého druhu. Rozpočtové provizorium je upraveno 
 § 17 rozpočtových pravidel.
 
+### Rozpočtový systém
 **Rozpočtový systém** je veřejným informačním systémem strany vedeným finančním 
 odborem, ve kterém jsou soustředěny všechny rozpočtové příjmy a výdaje. Jde 
 tedy o počítačovou aplikaci, která umožňuje jednoduchým způsobem zobrazovat
@@ -131,6 +147,7 @@ všechny rozpočty, údaje o jejich plnění a filtrovat podle zadaných kritér
 (např. různých druhů třídění podle rozpočtové skladby). Viz § 6 odst. 1 
 rozpočtových pravidel. 
 
+### Rozpočtový výhled
 **Rozpočtový výhled** je finančním plánem, kterým se řídí hospodaření 
 rozpočtové jednotky na výhledové období mezi volbami do Poslanecké sněmovny 
 Parlamentu České republiky. Obsah rozpočtového výhledu je popsán
@@ -138,6 +155,7 @@ v § 20 rozpočtových pravidel. Rozpočtový výhled může stanovit závazné 
 kterými se musí rozpočty řídit (§ 6 odst. 2 rozpočtových pravidel).
 Rozpočtový výhled lze změnit jen dodatkem.
 
+### Schvalující orgán
 **Schvalující orgán** je orgán strany, který podle vnitřního řádu strany
 schvaluje rozpočet (§ 6 rozpočtových pravidel) a také schvaluje záměry 
 s celkovými náklady nad prahovou hodnotu 50 000 Kč (§ 11 pravidel hospodaření). 
@@ -146,6 +164,7 @@ v případě rozpočtu oblastního sdružení je schvalujícím orgánem přísl
 oblastní fórum. Těmito ustanoveními je zajištěno, že schvalující orgán bude
 mít pravidelný vliv na základní finanční rozhodnutí ve straně.
 
+### Soustava rozpočtů
 **Soustava rozpočtů** je hierarcicky uspořádaný celek rozpočtů jednotlivých
 rozpočtových jednotek (viz výše), ve kterém je rozpočet na vyšší organizační 
 úrovni nadřízen rozpočtu na nižší organizační úrovni (např. rozpočet strany
@@ -153,6 +172,7 @@ je nadřízen rozpočtu krajského sdružení, a tedy strana stanoví pravideln�
 výši příjmů krajského sdružení). Viz § 6 odst. 3 
 rozpočtových pravidel. 
 
+### Správa věci
 **Správa věci** je zahrnuje širokou škálu oprávnění ve vztahu k věci. Správcem
 věci je vždy organizační složka, tedy některý orgán strany s výjimkou 
 celostátního a oblastního fóra. Viz § 9 pravidel hospodaření. 
@@ -164,6 +184,7 @@ Pro případ rozpočtu se správcem rozpočtených prostředků v určité rozpo
 položce rozumí organizační složka strany, která za s položkou prostřednictvím
 hospodáře hospodaří (viz § 8 odst. 1 písm. c) a d) rozpočtových pravidel).
 
+### Účel věci
 **Účel věci** může být zákonem nebo vnitřním předpisem určen a takovou věc
 je zásadně zakázáno použít k jinému účelu. Určité peníze v rozpočtu mohou být
 tímto způsobem účelově vázány, např. dárce přikáže, aby byl jeho dar použit
@@ -173,15 +194,16 @@ na volebních příspěvcích (tzv. rozpočtové určení příjmů), viz § 2 r
 pravidel. Co se týče požadavků na rozpočtový systém, platí totéž, co je dále
 řečeno o zdrojovém třídění.
 
+### Vazba
 **Vazba** mezi rozpočtovými položkami nastává vždy mezi příjmovou a výdajovou
 rozpočtovou položkou. 
 
-1. Při vazbě uvnitř rozpočtu mají být výdaje ve výdajové 
+1. Při vnitřní vazbě (vazbě uvnitř rozpočtu) mají být výdaje ve výdajové 
    rozpočtové položce financovány z příjmové rozpočtové položky 
    (např. výdajová rozpočtová položka na volební kampaň bude financována 
    z příjmové rozpočtové položky s dary na kampaň určenými).
    Viz k tomu § 9 rozpočtových pravidel. 
-2. Při vazba mezi různými rozpočty
+2. Při vnější vazbě (vazbě mezi různými rozpočty)
    mají být příjmy v příjmové rozpočtové položce financovány z výdajové rozpočtové
    položky nadřízeného rozpočtu (např. výdaje ve prospěch krajských sdružení). 
    Viz k tomu § 10 rozpočtových pravidel. 
@@ -190,6 +212,7 @@ Výdaje z nevázaných rozpočtových položek se financují z ostatních příj
 bez vazby. Není tedy zásadně pravda, že by každá výdajová položka měla jen jednu
 příjmovou položku, ze které je financována, naopak půjde o výjimečné případy.
 
+### Výroční finanční zpráva
 **Výroční finanční zpráva** je zákonem stanovený dokument, který zpracovává 
 pro republikové předsednictvo finanční odbor a republikové předsednictvo ji 
 předloží republikovému výboru ke schválení. Republikový výbor předloží výroční 
@@ -197,6 +220,7 @@ finanční zprávu celostátnímu fóru k projednání v referendu. Viz § 22
 rozpočtových pravidel a § 18 zákona č. 424/1991 Sb., o sdružování v politických 
 stranách a politických hnutích, ve znění pozdějších předpisů.
 
+### Výsledky hospodaření
 **Výsledky hospodaření** jsou informace o plnění rozpočtu v předchozím 
 rozpočtovém období. Ve výsledcích hospodaření je tedy uvedeno, kolik skutečně
 bylo v jednotlivých příjmových položkách přijato a ve výdajových položkách
@@ -216,12 +240,13 @@ rozpočtových pravidel). Pokud se odhad finančního odboru uvedený v rozpočt
 liší od skutečnosti, provede se po schválení výsledku hospodaření 
 automatická změna rozpočtu. Viz § 21 odst. 2 rozpočtových pravidel.
 
+### Záměr
 **Záměr** je souhrn závazků v jedné rozpočtové jednotce, které spolu věcně 
 a časově úzce souvisí (např. koupě nebo prodej věci s příslušenstvím, 
 organizace akce nebo turné, objednávka série plakátů a vylepení, 
 koupě raznice a matrice na odznaky, počítač s monitorem a jeho příslušenství).
 Za záměr se považuje i opomenutí, které má za následek promlčení dluhu nebo 
-jiné náklady.  
+jiné náklady. 
 Záměr si lze představit jako štítek, který je nalepen na všechny žádosti
 o proplacení. Velmi snadno tak můžeme zobrazit všechny žádosti o proplacení, 
 které jsou součástí určitého záměru (např. stavby, rekonstrukce, části kampaně
@@ -229,9 +254,12 @@ apod.) Vnitřní předpis stanoví, jak se určí celkové náklady záměru a j
 v závislosti na jejich výši podléhá záměr schválení jiných orgánů. Viz
 § 10 a § 11 pravidel hospodaření.
 
-**Zdrojové třídění**  je třídění (viz výše), které slouží k přehledu o tom,
+### Zdrojové třídění
+**Zdrojové třídění**  je třídění (viz výše o rozpočtové skladbě), které 
+slouží k přehledu o tom,
 z jakého zdroje pocházejí spravované prostředky a jak bylo naloženo s prostředky
-z daného zdroje (zejména s veřejnými penězi). Strana hospodaří s veřejnými 
+z daného zdroje (zejména s veřejnými penězi, granty a jinými odděleně 
+evidovanými penězi). Strana hospodaří s veřejnými 
 penězi tak, aby se veřejnost mohla průběžně seznamovat s rozpočtovanými i 
 skutečnými výdaji z veřejných peněz, tedy zdrojové třídění je předepsáno 
 vnitřním předpisem. Znamená to prakticky, že se tyto prostředky evidují 
@@ -240,12 +268,14 @@ který umožňuje zobrazit jen informace o penězích z daného zdroje (tzv.
 restrikce podle zdroje). I tyto restrikce musí splňovat požadavky na konzistenci
 rozpočtu (bilance příjmů, výdajů a salda). Viz § 3 odst. 2 rozpočtových pravidel.
 
+### Zkrácení rozpočtové položky
 **Zkrácení rozpočtové položky** je rozpočtovým opatřením, při kterém 
 předsednictvo určitou výdajovou rozpočtovou položku zkrátí nejvýše o jednu 
 pětinu; postupuje se obdobně jako u žádosti o proplacení. 
 Takto získaná částka se převede do jiné rozpočtové položky. 
 Viz § 15 odst. 1 písm. c) rozpočtových pravidel.
 
+### Žádost o proplacení
 **Žádost o proplacení** je základním nástrojem čerpání peněz z rozpočtu,
 případně převodu mezi rozpočtovými položkami, pokud to předpis připouští. 
 Na základě žádosti o proplacení finanční odbor převádí peníze 
@@ -446,7 +476,8 @@ možnost vkládat omezující podmínky.
 > 2. pokud je definováno druhové a účelové třídění, musí být úhrn příjmů s určeným
 >    účelem menší roven výdajům a financování se stejným účelem. 
 
-Tyto omezující podmínky se následně použijí při validaci návrhu rozpočtu vůči rozpočtové skladbě (uživateli javascript neumožní takový rozpočet ani vytvořit 
+Tyto omezující podmínky se následně použijí při validaci návrhu rozpočtu 
+vůči rozpočtové skladbě (uživateli javascript neumožní takový rozpočet ani vytvořit 
 a pokud ho vytvoří, server ho neakceptuje).
 
 #### Rozpočtová skladba
@@ -476,3 +507,8 @@ Rozpočtová skladba určuje, které třídění rozpočtu je povinné. Půjde z
 o třídění odpovědnostní (na různé správce) a dále o třídění druhové 
 (na příjmy a výdaje). 
 
+Následně by se mělo uživateli nabídnout vytvoření příjmů rozpočtu. Příjmy
+rozpočtu krajského sdružení jsou pevně dány odpovídající výdajovou položkou
+rozpočtu strany (vnější vazba). V případě rozpočtu strany by se měly nabídnout
+stejné nebo lineárně interpolované hodnoty z předchozího roku (s výjimkou
+příspěvků) doplněné o odhad výsledku hospodaření za předchozí rok. 
