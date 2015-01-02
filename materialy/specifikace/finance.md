@@ -299,12 +299,15 @@ Přehled pohledů
 Rozpočtová skladba, rozpočtová položka, rozpočet, žádost o proplacení a další materiály
 mají povahu *dokumentu*. U každého dokumentu musí být možné zobrazit jeho
 kompletní historii revizí a zobrazit si verzi platnou k libovolnému dni, jakož
-i zobrazit si, kdo provedl jeho změny, kdo je odsouhlasil apod. Rozpočet může 
+i zobrazit si, kdo provedl jeho změny, kdo je odsouhlasil apod. (viz příklad
+aplikaci pro [sbírku předpisů](http://sbirka.pirati.cz/predpisy/prp/2014-02-06.html)).
+Rozpočet může 
 být generovaný z jednotlivých rozpočtových položek (to je vnitřní věcí programu),
 ale musí být možné ho tvořit, upravovat a zobrazovat jako celek, jakož i 
 zobrazovat jeho rozdíly. U dokumentu je možnost exportování do standardizovaného
 formátu, jakož i možnost (pro přihlášené uživatele) navrhnout nebo provést 
-změnu dokumentu importováním dokumentu.
+změnu dokumentu importováním dokumentu. Dokument má svého vlastníka, kterým je
+jeho tvůrce, anebo ten, komu vlastník udělil práva vlastníka.
 
 
 #### Seznam dokumentů
@@ -316,6 +319,13 @@ platných dokumentů (a to tak, že v záhlaví se zobrazuje, že je aktivován 
 platného dokumentu). V záhlaví lze přidávat další filtry (např. podle autora,
 data přijetí apod.) a tyto filtry vzájemně kombinovat a nastavovat seskupování
 výsledků a řazení (obdobně jako u úkolů v systému redmine).
+
+V tabulkovém znázornění je např. rozpočet zobrazen jako množství položek, ve kterých 
+se dá vyhledávat podle zadaných údajů (např. položky s určitým štítkem, 
+položky s určitým názvem, položky určité organizační složky). Systém filtrů 
+by měl být dostatečně obecný s možností kupění, např. jako je v systému 
+[redmine](https://redmine.pirati.cz/redmine/projects/praha/issues), jakož i 
+s možností odkazování (parametry metody get ve stavovém řádku).
 
 ### Vstupní stránky
 
@@ -467,7 +477,7 @@ U rozpočtové skladby je definována vlastnost, na jaký typ rozpočtové jedno
 se vztahuje (např. celá strana, krajské sdružení apod.).
 
 Tímto způsobem je možné přidávat neomezený počet třídění. Přitom bude 
-možnost vkládat omezující podmínky. 
+možnost vkládat omezující podmínky konzistance. 
 
 > **Příklad**:
 > 
@@ -507,8 +517,56 @@ Rozpočtová skladba určuje, které třídění rozpočtu je povinné. Půjde z
 o třídění odpovědnostní (na různé správce) a dále o třídění druhové 
 (na příjmy a výdaje). 
 
-Následně by se mělo uživateli nabídnout vytvoření příjmů rozpočtu. Příjmy
-rozpočtu krajského sdružení jsou pevně dány odpovídající výdajovou položkou
-rozpočtu strany (vnější vazba). V případě rozpočtu strany by se měly nabídnout
-stejné nebo lineárně interpolované hodnoty z předchozího roku (s výjimkou
-příspěvků) doplněné o odhad výsledku hospodaření za předchozí rok. 
+Následně by se mělo uživateli nabídnout vytvoření příjmů rozpočtu. 
+
+> **Příklad**:
+> 
+> Příjmy
+> rozpočtu krajského sdružení jsou pevně dány odpovídající výdajovou položkou
+> rozpočtu strany (vnější vazba). V případě rozpočtu strany by se měly nabídnout
+> stejné nebo lineárně interpolované hodnoty z předchozího roku (s výjimkou
+> příspěvků) doplněné o odhad výsledku hospodaření za předchozí rok. 
+
+Po automatickém vytvoření příjmů se uživateli zobrazí stránka s rozpočtem. Na
+této stránce bude dále možnost upravit existující položky a přidat další 
+položku. Nově přidávaná položka se zobrazí na té samé stránce pod existujícími 
+rozpočtovými položkami.
+
+Zároveň se po vytvoření příjmů zobrazí zašedivělé výdajové rozpočtové kapitoly, 
+jak vyplývají z vybrané rozpočtové skladby. 
+
+> **Příklad**:
+> 
+> Například krajské sdružení tam bude mít 
+> výdaje na volby, provozní výdaje, výdaje na mzdy a výdaje na daně a poplatky.
+> Tyto bude moci aktivovat a zakládat v nich další položky.
+
+U rozpočtu bude vedle možnosti přeposlání jako u všech dokumentů také 
+definován pracovní postup, podle něhož dokument typu rozpočet má stavy
+v přípravě, který může založit kdokoliv a upravovat vlastník nebo osoba jím
+nastavená. 
+
+U zadaných rozpočtových položek se průběžně testuje, zda splňují
+omezující podmínky konzistance vybrané rozpočtové skladby (tj. např. zda součet
+příjmů dává součet výdajů a salda). Splnění omezujících podmínek konzistance
+je podmínkou pro to, aby mohl být rozpočet předložen ke schválení schvalujícímu
+orgánu, jakož i pro schválení a registraci. 
+
+#### Rozpočet
+
+Po vytvoření je rozpočet dostupný jako stránka, na které jsou informace o
+tom, o jaký rozpočet jde, kdo ho předkládá a komu, na kterou rozpočtovou 
+jednotku se vztahuje, jsou v něm jednotlivé rozpočtové položky a splňuje
+podmínky konzistence vyplývající z vybrané rozpočtové skladby (viz 
+Tvorba rozpočtové skladby). Rozpočet je možné zobrazit graficky
+např. pomocí pluginů 
+[OpenSpending.gov](http://community.openspending.org/events/open-data-day-2014/), 
+pomocí skriptů [rozpočet obce](http://www.rozpocetobce.cz/seznam-obci/554782-praha) 
+anebo tabulkovým způsobem, ve kterém 
+funguje rozklikávacím způsobem (tj. jde o rozklikávací rozpočet).
+Příklad cesty správným směrem je [rozklikávací rozpočet Nového města na Moravě](http://rozpocet.nmnm.cz/)
+vyrobený firmou Internet Stream s.r.o. 
+
+U rozpočtu, který je již schválen a jehož rozpočtové období již započalo,
+se kromě rozpočtených výdajů zobrazují také výdaje skutečné (tj. plnění neboli
+čerpání rozpočtu). 
