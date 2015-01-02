@@ -499,7 +499,7 @@ je oprávněn vydat novou rozpočtovou skladbu (viz výše).
 #### Tvorba rozpočtu
 
 Pro tvorbu rozpočtu musí být uživatel přihlášen. Rozpočet je dokument, který se
-spravuje pravidly pro dokument (viz výše). Zároveň je rozpočet přehled 
+spravuje pravidly pro dokument (viz [výše](#Dokument)). Zároveň je rozpočet přehled 
 dílčích rozpočtových položek (viz o přehledu nebo seznamu dokumentů výše).
 
 Uživatel nejprve vybere z nabízených možností rozpočtovou skladbu (viz výše). 
