@@ -1,11 +1,11 @@
 ---
 prijemce: 
   role:     Povinný subjekt
-  nazev:    Hlavní město Praha
-  ulice:    Mariánské náměstí 2/2
-  PSC:      11001
-  mesto:    Praha 1
-  DS:       48ia97h
+  nazev:    Institut plánování a rozvoje hlavního města Prahy
+  ulice:    Vyšehradská 57
+  PSC:      12800
+  mesto:    Praha 2
+  DS:       c2zmahu
 styl:       pirati-klub
 vase:
   znacka:   
