@@ -561,6 +561,8 @@ podmínky konzistence vyplývající z vybrané rozpočtové skladby (viz
 Tvorba rozpočtové skladby). Rozpočet je možné zobrazit graficky
 např. pomocí pluginů 
 [OpenSpending.gov](http://community.openspending.org/events/open-data-day-2014/), 
+viz například [rozpočet Bratislavy](http://slovakia.openspending.org/municipality/#bratislava-city/year:2012)
+vytvořený slovenskou TI, 
 pomocí skriptů [rozpočet obce](http://www.rozpocetobce.cz/seznam-obci/554782-praha) 
 anebo tabulkovým způsobem, ve kterém 
 funguje rozklikávacím způsobem (tj. jde o rozklikávací rozpočet).
