@@ -22,10 +22,10 @@ Následující seznam obsahuje přehled o veškerém majetku výše uvedeného f
 | Popis věci            | Odhad hodnoty |  Převažující zdroj                  |
 | --------------------- | ------------: |  ---------------------- |
 | Nemovitost s pozemkem s celkovou rozlohou 400 metrů čtverečních v Čerčanech | odhadem 800 000 Kč (kupovali jsme za 250 000 Kč ve špatném stavu) | úspory prarodičů a rodičů | 
-| Bankovní účet u Air Bank a.s. | 430 000 Kč | úspory rodičů |
+| Bankovní účet u Air Bank a.s. | 450 000 Kč | úspory rodičů, úspory z měsíčních příjmů |
 | Stavební spoření u ČMSS | 110 000 Kč | od rodičů | 
-| Notebook | 14 500 Kč | dar od matky |
-| Bankovní účet u FIO banky a.s. | 5 000 Kč | mzda MEDIARESEARCH, a.s. |
+| Notebook | 14 500 Kč | dar od matky (již nefunkční) |
+| Bankovní účet u FIO banky a.s. | 2 000 Kč | mzda MEDIARESEARCH, a.s., příjmy z Magistrátu hl. m. Prahy a České pirátské strany |
 
 
 ### Dluhy
@@ -41,11 +41,11 @@ V následujícím seznamu jsou uvedeny všechny nesplacené dluhy (půjčky, úv
 
 Následující text vysvětluje, jakým způsobem výše uvedený funkcionář aktuálně financuje svou obživu, bydlení a další základní životní potřeby, zejména u koho je zaměstnán, ve službě, nebo kde vykonává funkci člena orgánu právnické osoby či kde podniká, jakou pobírá odměnu a jiné příjmy z veřejných zdrojů, případně kdo je jeho podpůrcem.
 
-Jsem zaměstnán formou dohody o provedení práce na pozici pracovníka realizace internetového výzkumu ve společnosti MEDIARESEARCH, a.s., občas vypomáhám v tiskařském centru Právnické fakulty UK. Žiju u svých rodičů, obživu z převážné části financují mí rodiče, z menší části já sám.
+Z rozpočtu Magistrátu hl. m. Prahy dostávám odměny za výkon funkce člena zastupitelstva (zákonná měsíční odměna ve výši 3760 Kč) a náhrady za ušlý zisk (jejich výše je každý měsíc jiná, viz níže). Příjem mám i z mandátní smlouvy uzavřené s Českou pirátskou stranou ve výši zhruba 9 000 Kč měsíčně (za výkon mandátu). Jsem také zaměstnán formou dohody o provedení práce na pozici pracovníka realizace internetového výzkumu ve společnosti MEDIARESEARCH, a.s. (měsíční výše příjmu zhruba 2000 Kč). Žiju u svých rodičů, obživu z části financují mí rodiče, z části já sám.
 
 
 ### Neziskové aktivity
-Jsem členem Mladých pirátů a České vegetariánské společnosti.
+Jsem členem Mladých pirátů a České vegetariánské společnosti. Měsíčně přispívám po 150 Kč následujícím neziskovým organizacím: KohoVolit.eu, Auto*Mat.cz, Centrum aplikované ekonomie, Otevři oči, Česká pirátská strana.
 
 
 Informace o významných změnách
@@ -61,11 +61,13 @@ Následuje seznam darovaných plnění, výhod a jiných bezplatných požitků 
 ### Seznam příjmů od veřejných institucí
 Následuje seznam příjmů poskytnutých od veřejných institucí. Veřejnou institucí je stát, územní samosprávné celky, veřejné vysoké školy, veřejné výzkumné instituce, školy, prosefní komory, jakož i akciové společnosti nebo jiné veřejné instituce jimi ovládané.
 
-| Datum plnění | Popis plnění | Odhad hodnoty | 
+| Datum plnění | Odhad hodnoty | Popis plnění | 
 | ----------   | ----------   | ------------: |
-| Příjem zastupitele říjen | 1 392 Kč | Magistrát hlavního města Prahy |
-| Příjem zastupitele listopad | 2 335 Kč | Magistrát hlavního města Prahy |
-
+| Příjem zastupitele říjen | 1392 Kč | Magistrát hlavního města Prahy |
+| Příjem zastupitele listopad | 2335 Kč | Magistrát hlavního města Prahy |
+| Příjem zastupitele prosinec | 3760 Kč | Magistrát hlavního města Prahy |
+| 11.12.2014 | 1920 Kč | Příjem za brigádu v tiskařském centru Právnické fakulty UK |
+| 18.12.2014 | 780 Kč | Čtvrtletní ubytovací stipendium od Univerzity Karlovy |
 
 Prohlašuji, že jsem výše uvedené údaje uvedl úplně a pravdivě. 
 
