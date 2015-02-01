@@ -25,8 +25,9 @@ Následující seznam obsahuje přehled o veškerém majetku výše uvedeného f
 | Stavební spoření | 135 000 Kč | dar od rodičů |
 | Notebook |  20 000 Kč | úspory, dar od rodičů |
 | Nábytek | 15 000 Kč | úspory, dar z rodiny |
-| Automobil Škoda Felicia, rok výroby  | 15 000 Kč | dar od rodičů |
+| Automobil Škoda Felicia, rok výroby 1998 | 15 000 Kč | dar od rodičů |
 | Mobilní telefon | 3 000 Kč | vlastní úspory |
+| Počítač. hry ve službě Steam cca 200 ks (mnoho kupováno v balicích či jiných slevách)| 2000-6000 Kč | úspory |
 
 ### Dluhy
 
