@@ -21,7 +21,7 @@ vyrizuje:
   mail:     jakub.michalek@praha.eu
 ---
 
-Vážení,                                            
+Vážení,
 
 v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o následující informace:
 
@@ -37,7 +37,25 @@ v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve
   * u každé nebytové jednotky údaj, zda je tato jednotka pronajímána,
   * u jednotek, které jsou pronajímány, výši nájmu za metr čtvereční, jméno (popř. název) nájemce, dobu nájmu.
 
-Prosím o poskytnutí informace do datové schránky uvedené v patičce této zprávy. Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více datových zprávách, nebo se dostavím s paměťovým médiem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
+K jednánání v této věci mým jménem s povinným subjektem a dalšími úřady a soudy 
+zmocňuji zastupitele Adama Zábranského, nar. 28. 12. 1993, trvale bytem 
+Zbynická 6, Praha 16 (dále jen „zmocněnec“), a to s výjimkou doručování rozhodnutí, 
+u kterých trvám na tom, aby byly doručovány do mé datové schránky.
+
+Prosím o poskytnutí informace některým z následujících způsobů:
+
+1. do datové schránky uvedené v patičce této zprávy, případně ve více datových 
+zprávách, vyžaduje-li to velikost poskytovaných informací, 
+
+2. předáním informací na datovém nosiči zmocněnci,
+
+3. zpřístupněním informací v informačním systému povinného subjektu zřízením 
+uživatelského účtu pro zmocněnce.
+
+Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. 
+Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě 
+(např. formáty TXT, HTML, ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv 
+je to možné. Předem děkuji za Vaši vstřícnost.
 
 ---
 podpis: 
