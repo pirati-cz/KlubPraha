@@ -36,5 +36,5 @@ podpis:
   - Adam Zábranský
   - nar. 28. 12. 1993
   - bytem Zbynická 6, 153 00 Praha 16
-  - zastupitelstvo hl. m. Prahy
+  - zastupitelst hl. m. Prahy
 ...
