@@ -27,8 +27,8 @@ v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve
 
 přehled všech pokut udělených povinnému subjektu a jiných škod jemu způsobených v souvislosti s programem Opencard; u každé položky prosím uveďte 
 
-1. výši pravomocně udělené pokuty nebo jiné škody, 
-2. označení příslušných rozhodnutí a dále jejich plné znění, pokud není dostupné na internetu, 
+1. výši pravomocně nebo nepravomocně udělené pokuty nebo výši jiné škody, 
+2. označení příslušných rozhodnutí referenčními údaji a dále jejich plné znění, pokud není dostupné na internetu; v případě zveřejněných rozhodnutí postačí odkaz,
 3. příkazce operace nebo jinou osobu, která za způsobenou škodu odpovídá, 
 4. způsob uplatnění nároku hlavního města Prahy na náhradu škody v dané věci, např. regresního nároku (informace o stavu rozhodnutí ve věci, příp. stavu řízení), 
 5. označení organizační složky Magistrátu hl. m. Prahy a osoby, kteří odpovídají za uplatnění nároku na náhradu škody,
