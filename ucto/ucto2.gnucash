@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gnc-v2
+     xmlns:gnc="http://www.gnucash.org/XML/gnc"
+     xmlns:act="http://www.gnucash.org/XML/act"
+     xmlns:book="http://www.gnucash.org/XML/book"
+     xmlns:cd="http://www.gnucash.org/XML/cd"
+     xmlns:cmdty="http://www.gnucash.org/XML/cmdty"
+     xmlns:price="http://www.gnucash.org/XML/price"
+     xmlns:slot="http://www.gnucash.org/XML/slot"
+     xmlns:split="http://www.gnucash.org/XML/split"
+     xmlns:sx="http://www.gnucash.org/XML/sx"
+     xmlns:trn="http://www.gnucash.org/XML/trn"
+     xmlns:ts="http://www.gnucash.org/XML/ts"
+     xmlns:fs="http://www.gnucash.org/XML/fs"
+     xmlns:bgt="http://www.gnucash.org/XML/bgt"
+     xmlns:recurrence="http://www.gnucash.org/XML/recurrence"
+     xmlns:lot="http://www.gnucash.org/XML/lot"
+     xmlns:addr="http://www.gnucash.org/XML/addr"
+     xmlns:owner="http://www.gnucash.org/XML/owner"
+     xmlns:billterm="http://www.gnucash.org/XML/billterm"
+     xmlns:bt-days="http://www.gnucash.org/XML/bt-days"
+     xmlns:bt-prox="http://www.gnucash.org/XML/bt-prox"
+     xmlns:cust="http://www.gnucash.org/XML/cust"
+     xmlns:employee="http://www.gnucash.org/XML/employee"
+     xmlns:entry="http://www.gnucash.org/XML/entry"
+     xmlns:invoice="http://www.gnucash.org/XML/invoice"
+     xmlns:job="http://www.gnucash.org/XML/job"
+     xmlns:order="http://www.gnucash.org/XML/order"
+     xmlns:taxtable="http://www.gnucash.org/XML/taxtable"
+     xmlns:tte="http://www.gnucash.org/XML/tte"
+     xmlns:vendor="http://www.gnucash.org/XML/vendor">
+<gnc:count-data cd:type="book">1</gnc:count-data>
+<gnc:book version="2.0.0">
+<book:id type="guid">4028553b0ff70484b34b23b69d39ee10</book:id>
+<book:slots>
+  <slot>
+    <slot:key>options</slot:key>
+    <slot:value type="frame">
+      <slot>
+        <slot:key>Budgeting</slot:key>
+        <slot:value type="frame"/>
+      </slot>
+      <slot>
+        <slot:key>Business</slot:key>
+        <slot:value type="frame">
+          <slot>
+            <slot:key>Company Address</slot:key>
+            <slot:value type="string">Mariánské nám. 2/2, místnost č. 40
+11001 Praha 1</slot:value>
+          </slot>
+          <slot>
+            <slot:key>Company Contact Person</slot:key>
+            <slot:value type="string">Jan Loužek</slot:value>
+          </slot>
+          <slot>
+            <slot:key>Company Email Address</slot:key>
+            <slot:value type="string">jan.louzek@pirati.cz</slot:value>
+          </slot>
+          <slot>
+            <slot:key>Company Name</slot:key>
+            <slot:value type="string">Klub Pirátů v zastupitelstvu hl. m. Prahy</slot:value>
+          </slot>
+          <slot>
+            <slot:key>Company Website URL</slot:key>
+            <slot:value type="string">http://praha.pirati.cz</slot:value>
+          </slot>
+        </slot:value>
+      </slot>
+    </slot:value>
+  </slot>
+</book:slots>
+<gnc:count-data cd:type="commodity">1</gnc:count-data>
+<gnc:count-data cd:type="account">65</gnc:count-data>
+<gnc:commodity version="2.0.0">
+  <cmdty:space>ISO4217</cmdty:space>
+  <cmdty:id>CZK</cmdty:id>
+  <cmdty:get_quotes/>
+  <cmdty:quote_source>currency</cmdty:quote_source>
+  <cmdty:quote_tz/>
+</gnc:commodity>
+<gnc:commodity version="2.0.0">
+  <cmdty:space>template</cmdty:space>
+  <cmdty:id>template</cmdty:id>
+  <cmdty:name>template</cmdty:name>
+  <cmdty:xcode>template</cmdty:xcode>
+  <cmdty:fraction>1</cmdty:fraction>
+</gnc:commodity>
+<gnc:account version="2.0.0">
+  <act:name>Root Account</act:name>
+  <act:id type="guid">e4c4ed8cd433166887e5351cd82f0cee</act:id>
+  <act:type>ROOT</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Aktiva</act:name>
+  <act:id type="guid">dbdf67e36dbf68a99cf291b8232e7eb8</act:id>
+  <act:type>ASSET</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Aktiva</act:description>
+  <act:parent type="guid">e4c4ed8cd433166887e5351cd82f0cee</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Aktuální aktiva</act:name>
+  <act:id type="guid">90ea841bec04b241fd032fed60152500</act:id>
+  <act:type>ASSET</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Aktuální aktiva</act:description>
+  <act:parent type="guid">dbdf67e36dbf68a99cf291b8232e7eb8</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Šekový účet</act:name>
+  <act:id type="guid">2270b3fa60f7c8fe27fa9a99b4a6f0ba</act:id>
+  <act:type>BANK</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Šekový účet</act:description>
+  <act:parent type="guid">90ea841bec04b241fd032fed60152500</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Úspory</act:name>
+  <act:id type="guid">fc72ba787e913c454e0bc59e50236155</act:id>
+  <act:type>BANK</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Úspory</act:description>
+  <act:parent type="guid">90ea841bec04b241fd032fed60152500</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Hotovost v peněžence</act:name>
+  <act:id type="guid">75abe610fd56b3ac6eb34ee608205165</act:id>
+  <act:type>CASH</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Hotovost v peněžence</act:description>
+  <act:parent type="guid">90ea841bec04b241fd032fed60152500</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Pasiva</act:name>
+  <act:id type="guid">df836563fa8e8594c97a793b1cf46256</act:id>
+  <act:type>LIABILITY</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Pasiva</act:description>
+  <act:parent type="guid">e4c4ed8cd433166887e5351cd82f0cee</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Splatné účty</act:name>
+  <act:id type="guid">55a4bc993b265e8caeaa4d16aa2f46f2</act:id>
+  <act:type>LIABILITY</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Splatné účty</act:description>
+  <act:parent type="guid">df836563fa8e8594c97a793b1cf46256</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Kreditní karta</act:name>
+  <act:id type="guid">2674195890c6c8648284d8bb1f372c84</act:id>
+  <act:type>CREDIT</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Kreditní karta</act:description>
+  <act:parent type="guid">55a4bc993b265e8caeaa4d16aa2f46f2</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Příjem</act:name>
+  <act:id type="guid">84a2f46b5c58b1dc7e69b3288f39c24a</act:id>
+  <act:type>INCOME</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Příjem</act:description>
+  <act:parent type="guid">e4c4ed8cd433166887e5351cd82f0cee</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Bonus</act:name>
+  <act:id type="guid">5a72e234da677ff851a229103bf1f2c0</act:id>
+  <act:type>INCOME</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Bonus</act:description>
+  <act:parent type="guid">84a2f46b5c58b1dc7e69b3288f39c24a</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Přijaté dary</act:name>
+  <act:id type="guid">8f3850012ac3de41ec139ef43d6d88c7</act:id>
+  <act:type>INCOME</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Přijaté dary</act:description>
+  <act:parent type="guid">84a2f46b5c58b1dc7e69b3288f39c24a</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Úrokový příjem</act:name>
+  <act:id type="guid">0b516e0962a31a435e8597eb23f00b22</act:id>
+  <act:type>INCOME</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Úrokový příjem</act:description>
+  <act:parent type="guid">84a2f46b5c58b1dc7e69b3288f39c24a</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Šekový úrok</act:name>
+  <act:id type="guid">cd5c1e5ba34b188cad3e590c749270c2</act:id>
+  <act:type>INCOME</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Šekový úrok</act:description>
+  <act:parent type="guid">0b516e0962a31a435e8597eb23f00b22</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Ostatní úroky</act:name>
+  <act:id type="guid">d05ea5ea96f9e9f18822af7b3155e6ea</act:id>
+  <act:type>INCOME</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Ostatní úroky</act:description>
+  <act:parent type="guid">0b516e0962a31a435e8597eb23f00b22</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Úroky z úspor</act:name>
+  <act:id type="guid">d46e9a7fd4f8340c4107992f0e56fab7</act:id>
+  <act:type>INCOME</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Úroky z úspor</act:description>
+  <act:parent type="guid">0b516e0962a31a435e8597eb23f00b22</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Ostatní příjmy</act:name>
+  <act:id type="guid">212a6fc191f4e548597aa3230083960d</act:id>
+  <act:type>INCOME</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Ostatní příjmy</act:description>
+  <act:parent type="guid">84a2f46b5c58b1dc7e69b3288f39c24a</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Mzda</act:name>
+  <act:id type="guid">bb708399f4aa48bdeb19c5f1e3b2efca</act:id>
+  <act:type>INCOME</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Mzda</act:description>
+  <act:parent type="guid">84a2f46b5c58b1dc7e69b3288f39c24a</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Výdaje</act:name>
+  <act:id type="guid">1b8ce8005b204c87b963f17c778b6b17</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Výdaje</act:description>
+  <act:parent type="guid">e4c4ed8cd433166887e5351cd82f0cee</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Úpravy</act:name>
+  <act:id type="guid">fadb0304a93c5e283070a1d5636b1771</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Úpravy</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Auto</act:name>
+  <act:id type="guid">437eefbaf08c85f9a489a1937e873650</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Auto</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Poplatky</act:name>
+  <act:id type="guid">6befdcdb06663042e106c6b5a4aee463</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Poplatky</act:description>
+  <act:parent type="guid">437eefbaf08c85f9a489a1937e873650</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Benzín</act:name>
+  <act:id type="guid">496bb8a3853486b6995be9833d5ac30f</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Benzín</act:description>
+  <act:parent type="guid">437eefbaf08c85f9a489a1937e873650</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Parkovné</act:name>
+  <act:id type="guid">54c17553f92f7d6b90ef8c41955cc7c9</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Parkovné</act:description>
+  <act:parent type="guid">437eefbaf08c85f9a489a1937e873650</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Opravy a údržba</act:name>
+  <act:id type="guid">7b8677807dbfaf1791ef84b8dffe47c8</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Opravy a údržba</act:description>
+  <act:parent type="guid">437eefbaf08c85f9a489a1937e873650</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Poplatky za bankovní služby</act:name>
+  <act:id type="guid">421a891b8446f35d3cfc36bf6f9ef219</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Poplatky za bankovní služby</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Knihy</act:name>
+  <act:id type="guid">2caee867b1ef68f0f6e22cf2f105611a</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Knihy</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Kabelová TV</act:name>
+  <act:id type="guid">3cdbdf48e54a3a60e58ffcfc5d38d4fc</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Kabelová TV</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Charita</act:name>
+  <act:id type="guid">1974655103a3c59d43cc35cc52364b30</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Charita</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Oděvy</act:name>
+  <act:id type="guid">4c0abb6892d6758a5e7968b0f02bea41</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Oděvy</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Počítač</act:name>
+  <act:id type="guid">c1f88ade51142d6a109f6ea7d28c143c</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Počítač</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Jídelna</act:name>
+  <act:id type="guid">be15ea52faf8004448fea5e63cd82ca5</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Jídelna</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Vzdělání</act:name>
+  <act:id type="guid">0d75540d2e2506033a66e8ff64e7bd02</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Vzdělání</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Zábava</act:name>
+  <act:id type="guid">4916fa1deb7169d21cceda97ff7bba88</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Zábava</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Hudba/Film</act:name>
+  <act:id type="guid">b6e10b4699a7f1b2f05b7c333f3f05c8</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Hudba/Film</act:description>
+  <act:parent type="guid">4916fa1deb7169d21cceda97ff7bba88</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Rekreace</act:name>
+  <act:id type="guid">f03e2c8e5ad12ec3b9adba7c99625f90</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Rekreace</act:description>
+  <act:parent type="guid">4916fa1deb7169d21cceda97ff7bba88</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Cestování</act:name>
+  <act:id type="guid">4d3122a54d811224fb7fe2098de007f7</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Cestování</act:description>
+  <act:parent type="guid">4916fa1deb7169d21cceda97ff7bba88</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Dary</act:name>
+  <act:id type="guid">868a77f95e81f664f15f93a83db974c6</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Dary</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Potraviny</act:name>
+  <act:id type="guid">36cc14a135b0e42f41875eee3d8813a9</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Potraviny</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Zájmy</act:name>
+  <act:id type="guid">4d21884ad7511a8a93850f076d1a9ad2</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Zájmy</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Pojištění</act:name>
+  <act:id type="guid">b87322c5efefc7cd33b47aa2f3481c42</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Pojištění</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Pojištění auta</act:name>
+  <act:id type="guid">cc31bdb3e292052cc4af7874fd91f99b</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Pojištění auta</act:description>
+  <act:parent type="guid">b87322c5efefc7cd33b47aa2f3481c42</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Zdravotní pojištění</act:name>
+  <act:id type="guid">61bde4a1c7ffb11590e90bfdc4690900</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Zdravotní pojištění</act:description>
+  <act:parent type="guid">b87322c5efefc7cd33b47aa2f3481c42</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Životní pojištění</act:name>
+  <act:id type="guid">8e4145218923888c0cf6f6037f8cf8f4</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Životní pojištění</act:description>
+  <act:parent type="guid">b87322c5efefc7cd33b47aa2f3481c42</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Prádelna/Čistírna</act:name>
+  <act:id type="guid">b2e85e2163f461bedddb2888632941f7</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Prádelna/Čistírna</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Výdaje na léčení</act:name>
+  <act:id type="guid">0e30fe87da34f6d61e74e7197129da39</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Výdaje na léčení</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Různé</act:name>
+  <act:id type="guid">cdf622ebb7bd01ba8a5d0689ffc785e8</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Různé</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Online služby</act:name>
+  <act:id type="guid">8c64f4fbfa9720af69242704ea493a41</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Online služby</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Telefon</act:name>
+  <act:id type="guid">7ab0dbe56470825d6669d0d4119dc4b1</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Telefon</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>MHD</act:name>
+  <act:id type="guid">6fe9fb454ca0107978efba7872e61ba2</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Městká hromadná doprava</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Předplatné</act:name>
+  <act:id type="guid">12c8e3889281ead9f87d3ffefd49dc74</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Předplatné</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Zásobování</act:name>
+  <act:id type="guid">cb32af2b75f4210814fdb400020eb9bd</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Zásobování</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Odvody a daně</act:name>
+  <act:id type="guid">f1e3d15e485bb2cc8dae31c8094def53</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Odvody a daně</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Celostátní daně</act:name>
+  <act:id type="guid">cb89bac8b8c189a8fc9bf1f5ef48134d</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Celostátní daně</act:description>
+  <act:parent type="guid">f1e3d15e485bb2cc8dae31c8094def53</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Zdravotní péče</act:name>
+  <act:id type="guid">37e56f25f7a2ead80abf30f9671712f6</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Zdravotní péče</act:description>
+  <act:parent type="guid">f1e3d15e485bb2cc8dae31c8094def53</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Ostatní daně</act:name>
+  <act:id type="guid">cbeb8dcfbeb1be11b108dd822519b002</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Ostatní daně</act:description>
+  <act:parent type="guid">f1e3d15e485bb2cc8dae31c8094def53</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Sociální pojištění</act:name>
+  <act:id type="guid">eb12ef9200baf96798079809837057e0</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Sociální pojištění</act:description>
+  <act:parent type="guid">f1e3d15e485bb2cc8dae31c8094def53</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Místní daně a poplatky</act:name>
+  <act:id type="guid">27105f764395df7638207cfa7e291306</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Místní daně a poplatky</act:description>
+  <act:parent type="guid">f1e3d15e485bb2cc8dae31c8094def53</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Běžné služby</act:name>
+  <act:id type="guid">e929d6ed15b62a6450a0cf4bac3f1d40</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Běžné služby</act:description>
+  <act:parent type="guid">1b8ce8005b204c87b963f17c778b6b17</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Elektrická energie</act:name>
+  <act:id type="guid">85904a2e9f1757addf8bd992c77ce7c4</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Elektrická energie</act:description>
+  <act:parent type="guid">e929d6ed15b62a6450a0cf4bac3f1d40</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Odpadky</act:name>
+  <act:id type="guid">2a0415cb0c56667b71d2b49f42692884</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Odpadky</act:description>
+  <act:parent type="guid">e929d6ed15b62a6450a0cf4bac3f1d40</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Plyn</act:name>
+  <act:id type="guid">9f36ef130d54fb08ac3878373b627aec</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Plyn</act:description>
+  <act:parent type="guid">e929d6ed15b62a6450a0cf4bac3f1d40</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Voda</act:name>
+  <act:id type="guid">6812061d65f2e57f0a47580f8de3b4f7</act:id>
+  <act:type>EXPENSE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Voda</act:description>
+  <act:parent type="guid">e929d6ed15b62a6450a0cf4bac3f1d40</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Majetek</act:name>
+  <act:id type="guid">99acb0cd7d9ec60264fc9c3a4c5cff93</act:id>
+  <act:type>EQUITY</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Majetek</act:description>
+  <act:parent type="guid">e4c4ed8cd433166887e5351cd82f0cee</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Počáteční stav</act:name>
+  <act:id type="guid">dcbcec8472a65d5951a2ce13e42fb2da</act:id>
+  <act:type>EQUITY</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:description>Počáteční stav</act:description>
+  <act:parent type="guid">99acb0cd7d9ec60264fc9c3a4c5cff93</act:parent>
+</gnc:account>
+</gnc:book>
+</gnc-v2>
+
+<!-- Local variables: -->
+<!-- mode: xml        -->
+<!-- End:             -->
