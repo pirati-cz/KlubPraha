@@ -26,9 +26,9 @@ Vážení,
 
 dne 3. prosince 2014 jsem na Magistrát hlavního města Prahy (dále jen MHMP) zaslal žádost o informace, ve které jsem žádal o následující informace:
 
-− Doklad o vzdělání pana Františka Kotalíka, magistra práva, který je pověřen řízením odboru legislativního a právního.
-− Kvalifikační předpoklady pro pracovní pozici ředitele odboru legislativního a právního odboru, zástupce ředitele odboru legislativního, právního, nebo osoby pověřené řízením odboru legislativního a právního, vedoucího oddělení veřejných zakázek.
-− Podklady a důvody pro pověření Františka Kotalíka řízením odboru legislativního a právního.
+* Doklad o vzdělání pana Františka Kotalíka, magistra práva, který je pověřen řízením odboru legislativního a právního.
+* Kvalifikační předpoklady pro pracovní pozici ředitele odboru legislativního a právního odboru, zástupce ředitele odboru legislativního, právního, nebo osoby pověřené řízením odboru legislativního a právního, vedoucího oddělení veřejných zakázek.
+* Podklady a důvody pro pověření Františka Kotalíka řízením odboru legislativního a právního.
 
 Dne 17. prosince 2014 Povinný subjekt tuto žádost částečně zamítl. Nadřízený správní orgán (Ministerstvo vnitra České republiky) v odvolacím řízení dne 6. února 2015 rozhodnutí Povinného subjektu zrušil a vrátil k novému projednání. 
 

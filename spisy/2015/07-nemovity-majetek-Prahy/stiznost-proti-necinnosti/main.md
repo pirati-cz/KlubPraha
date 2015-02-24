@@ -29,19 +29,19 @@ dne 3. února 2015 jsem na Magistrát hlavního města Prahy (dále jen MHMP) za
 1. seznam adres nemovitostí, ve kterých se nacházejí byty v bytovém fondu hl. m. Prahy,
 které nejsou svěřeny městským částem (v minimálním rozsahu: ulice, číslo popisné/číslo
 orientační, parcelní číslo, městská část),
-− u každého domu seznam bytů v bytovém fondu a plochu jednotlivých bytů,
-− u každého domu, popř. bytu, název správcovské společnosti spravující tento dům, popř.
+* u každého domu seznam bytů v bytovém fondu a plochu jednotlivých bytů,
+* u každého domu, popř. bytu, název správcovské společnosti spravující tento dům, popř.
 byt,
-− u každého bytu údaj, zda je tento byt pronajímán,
-− u bytů, které jsou pronajímány, výši nájmu za metr čtvereční, jméno (popř. název) ná-
+* u každého bytu údaj, zda je tento byt pronajímán,
+* u bytů, které jsou pronajímány, výši nájmu za metr čtvereční, jméno (popř. název) ná-
 jemce, dobu nájmu.
 2. seznam adres nemovitostí, ve kterých se nachází nemovitý nebytový majetek hl. m. Prahy, který není svěřen městským částem (v minimálním rozsahu: ulice, číslo popisné/číslo orientační, parcelní číslo, městská část),
-− u každé nemovitosti seznam nebytových jednotek ve vlastnictví hl. m. Prahy, které nejsou
+* u každé nemovitosti seznam nebytových jednotek ve vlastnictví hl. m. Prahy, které nejsou
 svěřeny městským částem, a plochu jednotlivých jednotek,
-− u každé nemovitosti, popř. nebytové jednotky, název správcovské společnosti spravující
+* u každé nemovitosti, popř. nebytové jednotky, název správcovské společnosti spravující
 tuto nemovitost, popř. jednotku,
-− u každé nebytové jednotky údaj, zda je tato jednotka pronajímána,
-− u jednotek, které jsou pronajímány, výši nájmu za metr čtvereční, jméno (popř. název)
+* u každé nebytové jednotky údaj, zda je tato jednotka pronajímána,
+* u jednotek, které jsou pronajímány, výši nájmu za metr čtvereční, jméno (popř. název)
 nájemce, dobu nájmu.
 
 Od Povinného subjektu jsem nicméně nedostal žádnou odpověď a to přesto, že už uplynula 15denní lhůta daná zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen InfZ). Proto dle § 16a odst. 1 písm. b) na tento postup podávám stížnost.
