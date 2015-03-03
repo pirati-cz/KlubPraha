@@ -32,9 +32,14 @@ Mám za to, že povinný subjekt může žádost o informace odepřít pouze ze 
 
 V každém případě Rada hl. m. Prahy odepření informací nijak neodůvodnila. Vysvětlení ředitele odboru volených orgánů je dle mého názoru nedostatečné. Jednací řád Rady hl. m. Prahy nelze považovat za zákonný důvod pro odepření informací, protože zákon o svobodném přístupu k informacím takovýto důvod neuvádí.
 
-Fakt, že žádaný zvukový záznam z jednání Rady již neexistuje, dle mého názoru nemůže mít vliv na rozhodnutí nadřízeného orgánu, protože případné zrušení rozhodnutí o odepření informací by mělo zásadní vliv na mé budoucí žádosti o informace v této věci. Ke zničení záznamu navíc došlo až po mém podání žádosti o informace.
-
-\newpage
+Ve své žádosti jsem výslovně upozornil povinný subjekt na to, aby neničil 
+požadovanou informaci před jejím poskytnutím
+žadateli a že v opačném případě se budu bránit právními prostředky. Podle obsahu
+sdělení Magistrátu hl. m. Prahy je však pravděpodobné, že Magistrát požadovanou
+informaci přes výslovné upozornění zničil, ačkoliv mu přišla žádost o tuto 
+informaci, nebylo o ní pravomocně rozhodnuto a povinný subjekt byl před zničením informace výslovně varován. Pokud povinný subjekt 
+informaci sám zničil po obdržení žádosti, nemůže se tohoto faktu dovolávat,
+neboť nesmí těžit z vlastního protiprávního postupu a maření přístupu k informacím.
 
 Navrhuji, aby nadřízený správní orgán postupem podle § 90 odst. 1 písm. b) zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů, ve spojení s § 20 odst. 4 písm. b) InfZ,
 
