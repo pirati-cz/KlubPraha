@@ -32,7 +32,7 @@ Mám za to, že povinný subjekt může žádost o informace odepřít pouze ze 
 
 V každém případě Rada hl. m. Prahy odepření informací nijak neodůvodnila. Vysvětlení ředitele odboru volených orgánů je dle mého názoru nedostatečné. Jednací řád Rady hl. m. Prahy nelze považovat za zákonný důvod pro odepření informací, protože zákon o svobodném přístupu k informacím takovýto důvod neuvádí.
 
-Fakt, že žádaný zvukový záznam z jednání Rady již neexistuje, dle mého názoru nemůže mít vliv na rozhodnutí nadřízeného orgánu, protože případné zrušení rozhodnutí o odepření informací by mělo zásadní vliv na mé budoucí žádosti o informace v této věci.
+Fakt, že žádaný zvukový záznam z jednání Rady již neexistuje, dle mého názoru nemůže mít vliv na rozhodnutí nadřízeného orgánu, protože případné zrušení rozhodnutí o odepření informací by mělo zásadní vliv na mé budoucí žádosti o informace v této věci. Ke zničení záznamu navíc došlo až po mém podání žádosti o informace.
 
 \newpage
 
