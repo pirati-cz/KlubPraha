@@ -38,11 +38,15 @@
     <slot:value type="frame">
       <slot>
         <slot:key>gncCustomer</slot:key>
-        <slot:value type="integer">1</slot:value>
+        <slot:value type="integer">2</slot:value>
       </slot>
       <slot>
         <slot:key>gncEmployee</slot:key>
         <slot:value type="integer">2</slot:value>
+      </slot>
+      <slot>
+        <slot:key>gncJob</slot:key>
+        <slot:value type="integer">1</slot:value>
       </slot>
     </slot:value>
   </slot>
@@ -59,8 +63,9 @@
 <gnc:count-data cd:type="commodity">1</gnc:count-data>
 <gnc:count-data cd:type="account">20</gnc:count-data>
 <gnc:count-data cd:type="transaction">21</gnc:count-data>
-<gnc:count-data cd:type="gnc:GncCustomer">1</gnc:count-data>
+<gnc:count-data cd:type="gnc:GncCustomer">2</gnc:count-data>
 <gnc:count-data cd:type="gnc:GncEmployee">2</gnc:count-data>
+<gnc:count-data cd:type="gnc:GncJob">1</gnc:count-data>
 <gnc:commodity version="2.0.0">
   <cmdty:space>ISO4217</cmdty:space>
   <cmdty:id>CZK</cmdty:id>
@@ -1220,6 +1225,26 @@
   </cust:currency>
   <cust:use-tt>0</cust:use-tt>
 </gnc:GncCustomer>
+<gnc:GncCustomer version="2.0.0">
+  <cust:guid type="guid">d0b2b3593e419eb00d355d1fb65110f8</cust:guid>
+  <cust:name>Česká pirátská strana</cust:name>
+  <cust:id>000002</cust:id>
+  <cust:addr version="2.0.0">
+    <addr:name>Česká pirátská strana</addr:name>
+    <addr:addr1>Řehořova 19</addr:addr1>
+    <addr:addr2>Praha 3</addr:addr2>
+  </cust:addr>
+  <cust:shipaddr version="2.0.0"/>
+  <cust:taxincluded>USEGLOBAL</cust:taxincluded>
+  <cust:active>1</cust:active>
+  <cust:discount>0/1</cust:discount>
+  <cust:credit>0/1</cust:credit>
+  <cust:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </cust:currency>
+  <cust:use-tt>0</cust:use-tt>
+</gnc:GncCustomer>
 <gnc:GncEmployee version="2.0.0">
   <employee:guid type="guid">21e649a9804990bf4dbc76e98ceedd9d</employee:guid>
   <employee:username>Jakub Michálek</employee:username>
@@ -1253,6 +1278,16 @@
     <cmdty:id>CZK</cmdty:id>
   </employee:currency>
 </gnc:GncEmployee>
+<gnc:GncJob version="2.0.0">
+  <job:guid type="guid">3e1a5d4fea24d14e0e297bc6267e5eb4</job:guid>
+  <job:id>000001</job:id>
+  <job:name>Odměny za leden 2015</job:name>
+  <job:owner version="2.0.0">
+    <owner:type>gncCustomer</owner:type>
+    <owner:id type="guid">1573c091f12423cd37eedafe4cb1b41a</owner:id>
+  </job:owner>
+  <job:active>1</job:active>
+</gnc:GncJob>
 </gnc:book>
 </gnc-v2>
 
