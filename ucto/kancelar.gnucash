@@ -1,0 +1,1590 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gnc-v2
+     xmlns:gnc="http://www.gnucash.org/XML/gnc"
+     xmlns:act="http://www.gnucash.org/XML/act"
+     xmlns:book="http://www.gnucash.org/XML/book"
+     xmlns:cd="http://www.gnucash.org/XML/cd"
+     xmlns:cmdty="http://www.gnucash.org/XML/cmdty"
+     xmlns:price="http://www.gnucash.org/XML/price"
+     xmlns:slot="http://www.gnucash.org/XML/slot"
+     xmlns:split="http://www.gnucash.org/XML/split"
+     xmlns:sx="http://www.gnucash.org/XML/sx"
+     xmlns:trn="http://www.gnucash.org/XML/trn"
+     xmlns:ts="http://www.gnucash.org/XML/ts"
+     xmlns:fs="http://www.gnucash.org/XML/fs"
+     xmlns:bgt="http://www.gnucash.org/XML/bgt"
+     xmlns:recurrence="http://www.gnucash.org/XML/recurrence"
+     xmlns:lot="http://www.gnucash.org/XML/lot"
+     xmlns:addr="http://www.gnucash.org/XML/addr"
+     xmlns:owner="http://www.gnucash.org/XML/owner"
+     xmlns:billterm="http://www.gnucash.org/XML/billterm"
+     xmlns:bt-days="http://www.gnucash.org/XML/bt-days"
+     xmlns:bt-prox="http://www.gnucash.org/XML/bt-prox"
+     xmlns:cust="http://www.gnucash.org/XML/cust"
+     xmlns:employee="http://www.gnucash.org/XML/employee"
+     xmlns:entry="http://www.gnucash.org/XML/entry"
+     xmlns:invoice="http://www.gnucash.org/XML/invoice"
+     xmlns:job="http://www.gnucash.org/XML/job"
+     xmlns:order="http://www.gnucash.org/XML/order"
+     xmlns:taxtable="http://www.gnucash.org/XML/taxtable"
+     xmlns:tte="http://www.gnucash.org/XML/tte"
+     xmlns:vendor="http://www.gnucash.org/XML/vendor">
+<gnc:count-data cd:type="book">1</gnc:count-data>
+<gnc:book version="2.0.0">
+<book:id type="guid">8b3717749d12ce073795bacc98b5e2d0</book:id>
+<book:slots>
+  <slot>
+    <slot:key>book</slot:key>
+    <slot:value type="frame">
+      <slot>
+        <slot:key>tax_US</slot:key>
+        <slot:value type="frame">
+          <slot>
+            <slot:key>name</slot:key>
+            <slot:value type="string">Daň z příjmu</slot:value>
+          </slot>
+          <slot>
+            <slot:key>type</slot:key>
+            <slot:value type="string">F1040</slot:value>
+          </slot>
+        </slot:value>
+      </slot>
+    </slot:value>
+  </slot>
+  <slot>
+    <slot:key>counters</slot:key>
+    <slot:value type="frame">
+      <slot>
+        <slot:key>gncCustomer</slot:key>
+        <slot:value type="integer">2</slot:value>
+      </slot>
+      <slot>
+        <slot:key>gncEmployee</slot:key>
+        <slot:value type="integer">2</slot:value>
+      </slot>
+      <slot>
+        <slot:key>gncExpVoucher</slot:key>
+        <slot:value type="integer">1</slot:value>
+      </slot>
+      <slot>
+        <slot:key>gncInvoice</slot:key>
+        <slot:value type="integer">1</slot:value>
+      </slot>
+      <slot>
+        <slot:key>gncJob</slot:key>
+        <slot:value type="integer">1</slot:value>
+      </slot>
+    </slot:value>
+  </slot>
+  <slot>
+    <slot:key>options</slot:key>
+    <slot:value type="frame">
+      <slot>
+        <slot:key>Budgeting</slot:key>
+        <slot:value type="frame"/>
+      </slot>
+    </slot:value>
+  </slot>
+</book:slots>
+<gnc:count-data cd:type="commodity">1</gnc:count-data>
+<gnc:count-data cd:type="account">13</gnc:count-data>
+<gnc:count-data cd:type="transaction">27</gnc:count-data>
+<gnc:count-data cd:type="gnc:GncCustomer">2</gnc:count-data>
+<gnc:count-data cd:type="gnc:GncEmployee">2</gnc:count-data>
+<gnc:count-data cd:type="gnc:GncEntry">4</gnc:count-data>
+<gnc:count-data cd:type="gnc:GncInvoice">2</gnc:count-data>
+<gnc:count-data cd:type="gnc:GncJob">1</gnc:count-data>
+<gnc:commodity version="2.0.0">
+  <cmdty:space>ISO4217</cmdty:space>
+  <cmdty:id>CZK</cmdty:id>
+  <cmdty:get_quotes/>
+  <cmdty:quote_source>currency</cmdty:quote_source>
+  <cmdty:quote_tz/>
+</gnc:commodity>
+<gnc:commodity version="2.0.0">
+  <cmdty:space>template</cmdty:space>
+  <cmdty:id>template</cmdty:id>
+  <cmdty:name>template</cmdty:name>
+  <cmdty:xcode>template</cmdty:xcode>
+  <cmdty:fraction>1</cmdty:fraction>
+</gnc:commodity>
+<gnc:account version="2.0.0">
+  <act:name>Root Account</act:name>
+  <act:id type="guid">12d3840eb6903f4e129f9a9a5f533c71</act:id>
+  <act:type>ROOT</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Nevyváženost-CZK</act:name>
+  <act:id type="guid">c384347b85a3fb8f3ad628f50f23bcfe</act:id>
+  <act:type>BANK</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:parent type="guid">12d3840eb6903f4e129f9a9a5f533c71</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Pohledávky klubu</act:name>
+  <act:id type="guid">1624aa4a8972135349bc96514fde3f60</act:id>
+  <act:type>BANK</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:slots>
+    <slot>
+      <slot:key>color</slot:key>
+      <slot:value type="string">Not Set</slot:value>
+    </slot>
+  </act:slots>
+  <act:parent type="guid">c384347b85a3fb8f3ad628f50f23bcfe</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Zaměstnanci</act:name>
+  <act:id type="guid">7f85c9c75a22dbf73dfd07f32bb8f0a9</act:id>
+  <act:type>PAYABLE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:slots>
+    <slot>
+      <slot:key>color</slot:key>
+      <slot:value type="string">Not Set</slot:value>
+    </slot>
+  </act:slots>
+  <act:parent type="guid">12d3840eb6903f4e129f9a9a5f533c71</act:parent>
+  <act:lots>
+    <gnc:lot version="2.0.0">
+      <lot:id type="guid">d1d4f928540927c8ab86be94b0a24e5b</lot:id>
+      <lot:slots>
+        <slot>
+          <slot:key>gncOwner</slot:key>
+          <slot:value type="frame">
+            <slot>
+              <slot:key>owner-guid</slot:key>
+              <slot:value type="guid">21e649a9804990bf4dbc76e98ceedd9d</slot:value>
+            </slot>
+            <slot>
+              <slot:key>owner-type</slot:key>
+              <slot:value type="integer">5</slot:value>
+            </slot>
+          </slot:value>
+        </slot>
+      </lot:slots>
+    </gnc:lot>
+    <gnc:lot version="2.0.0">
+      <lot:id type="guid">f4b4fb316a81e9724da0d536db8100e9</lot:id>
+      <lot:slots>
+        <slot>
+          <slot:key>gncInvoice</slot:key>
+          <slot:value type="frame">
+            <slot>
+              <slot:key>invoice-guid</slot:key>
+              <slot:value type="guid">d53c7c9227c1c71f6403e768649c3034</slot:value>
+            </slot>
+          </slot:value>
+        </slot>
+        <slot>
+          <slot:key>title</slot:key>
+          <slot:value type="string">Výdaje 000001</slot:value>
+        </slot>
+      </lot:slots>
+    </gnc:lot>
+  </act:lots>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Pohledávky</act:name>
+  <act:id type="guid">40de577e490d428c04ad16a3477f305f</act:id>
+  <act:type>ASSET</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:slots>
+    <slot>
+      <slot:key>color</slot:key>
+      <slot:value type="string">Not Set</slot:value>
+    </slot>
+  </act:slots>
+  <act:parent type="guid">12d3840eb6903f4e129f9a9a5f533c71</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Odměny z mandátních smluv</act:name>
+  <act:id type="guid">e6c78194047521c53559f14a4621829d</act:id>
+  <act:type>RECEIVABLE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:slots>
+    <slot>
+      <slot:key>color</slot:key>
+      <slot:value type="string">Not Set</slot:value>
+    </slot>
+  </act:slots>
+  <act:parent type="guid">40de577e490d428c04ad16a3477f305f</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Neobdržené odměny zastupitelů</act:name>
+  <act:id type="guid">f513a1333dae5d6cf4d569120e1dfe33</act:id>
+  <act:type>RECEIVABLE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:slots>
+    <slot>
+      <slot:key>color</slot:key>
+      <slot:value type="string">Not Set</slot:value>
+    </slot>
+  </act:slots>
+  <act:parent type="guid">40de577e490d428c04ad16a3477f305f</act:parent>
+  <act:lots>
+    <gnc:lot version="2.0.0">
+      <lot:id type="guid">0b8ba00b3ff53576a2f472bc52fdd01d</lot:id>
+      <lot:slots>
+        <slot>
+          <slot:key>gncInvoice</slot:key>
+          <slot:value type="frame">
+            <slot>
+              <slot:key>invoice-guid</slot:key>
+              <slot:value type="guid">2c95ee6a04a101c5545edfe82971d3be</slot:value>
+            </slot>
+          </slot:value>
+        </slot>
+        <slot>
+          <slot:key>title</slot:key>
+          <slot:value type="string">Faktura 000001</slot:value>
+        </slot>
+      </lot:slots>
+    </gnc:lot>
+    <gnc:lot version="2.0.0">
+      <lot:id type="guid">b57ac68d4af3170129036ae6c79305c6</lot:id>
+      <lot:slots>
+        <slot>
+          <slot:key>gncOwner</slot:key>
+          <slot:value type="frame">
+            <slot>
+              <slot:key>owner-guid</slot:key>
+              <slot:value type="guid">1573c091f12423cd37eedafe4cb1b41a</slot:value>
+            </slot>
+            <slot>
+              <slot:key>owner-type</slot:key>
+              <slot:value type="integer">2</slot:value>
+            </slot>
+          </slot:value>
+        </slot>
+      </lot:slots>
+    </gnc:lot>
+  </act:lots>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Náhrady zastupitelů</act:name>
+  <act:id type="guid">5c7aa1f67497ef446e1ffd8985575b4b</act:id>
+  <act:type>RECEIVABLE</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:slots>
+    <slot>
+      <slot:key>color</slot:key>
+      <slot:value type="string">Not Set</slot:value>
+    </slot>
+  </act:slots>
+  <act:parent type="guid">40de577e490d428c04ad16a3477f305f</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Náklady</act:name>
+  <act:id type="guid">b291971a2b196c8bbccdb1bb17a8b497</act:id>
+  <act:type>LIABILITY</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:slots>
+    <slot>
+      <slot:key>color</slot:key>
+      <slot:value type="string">Not Set</slot:value>
+    </slot>
+  </act:slots>
+  <act:parent type="guid">12d3840eb6903f4e129f9a9a5f533c71</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Aktiva</act:name>
+  <act:id type="guid">b9e6f43276b27c54611eb6d499ff8323</act:id>
+  <act:type>ASSET</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:slots>
+    <slot>
+      <slot:key>color</slot:key>
+      <slot:value type="string">Not Set</slot:value>
+    </slot>
+  </act:slots>
+  <act:parent type="guid">12d3840eb6903f4e129f9a9a5f533c71</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Pasiva</act:name>
+  <act:id type="guid">c2c128b2a8807bc80c52d243c91c9d9f</act:id>
+  <act:type>LIABILITY</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:slots>
+    <slot>
+      <slot:key>color</slot:key>
+      <slot:value type="string">Not Set</slot:value>
+    </slot>
+  </act:slots>
+  <act:parent type="guid">12d3840eb6903f4e129f9a9a5f533c71</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Výnosy</act:name>
+  <act:id type="guid">b747b7f9d2b9f28a65670f14dd8ffb66</act:id>
+  <act:type>INCOME</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:slots>
+    <slot>
+      <slot:key>color</slot:key>
+      <slot:value type="string">Not Set</slot:value>
+    </slot>
+  </act:slots>
+  <act:parent type="guid">12d3840eb6903f4e129f9a9a5f533c71</act:parent>
+</gnc:account>
+<gnc:account version="2.0.0">
+  <act:name>Zákonné odměny zastupitelů</act:name>
+  <act:id type="guid">d77b043900f307449f302357e633b8d1</act:id>
+  <act:type>INCOME</act:type>
+  <act:commodity>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </act:commodity>
+  <act:commodity-scu>100</act:commodity-scu>
+  <act:slots>
+    <slot>
+      <slot:key>color</slot:key>
+      <slot:value type="string">Not Set</slot:value>
+    </slot>
+  </act:slots>
+  <act:parent type="guid">b747b7f9d2b9f28a65670f14dd8ffb66</act:parent>
+</gnc:account>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">0e380bea4086193827c38769e9e83690</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2014-12-04 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 14:17:42 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Mikuláš půjčil Jakubovi 200</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2014-12-04</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">62a4c840603ba7b578e432b37f623b5b</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">9fac200f96d04f7de4eaf33de240988d</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2014-12-08 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 14:18:01 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Ondra půjčil Mikulášovi 100 Kč</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2014-12-08</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">016fc5fa814e6b70f15d5491234c516e</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">3df57afaa088505bb113972f8a1fc5fb</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2014-12-08 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 14:18:52 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Placený oběd Ondra Jakubovi</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2014-12-08</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">8ba3b81753cf597aed7190ff4c9e882e</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">58decb363e57264f5f3ef17a5e43f453</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2014-12-08 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 14:19:07 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Placený oběd Ondra Mikulášovi</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2014-12-08</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">41856295cd8981266a36f0bb748bde4d</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">e0ad90c8767e7ec1cddf5a7073bfbd9c</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-01-19 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 13:52:50 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Půjčka stravenky ve výši 90 Kč</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2015-01-19</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">690f197fb3960e3baa0b8f70d69f2d35</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>9000/100</split:value>
+      <split:quantity>9000/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">0bc5b1f89cd1542934e3a946fee93dcf</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-9000/100</split:value>
+      <split:quantity>-9000/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">8dd66d130dd53da8561449c3c3ccb4a3</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-01-22 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 13:50:42 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Koupě luxusní kávy za 341 v Café Ebel (účtenka existuje) za vlastní. </trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2015-01-22</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">0ef24f5e9d2d115ccc4423287da15f1b</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>34100/100</split:value>
+      <split:quantity>34100/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">e519eb0da2a49f3f0492a1a466d9e5ae</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-34100/100</split:value>
+      <split:quantity>-34100/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">42ff4ef0092e985fae24ccd0f1957470</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-01-26 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 13:52:02 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Půjčka kila Mikulášovi dne 26. 1. 2015</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2015-01-26</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">ffdacfaf8827b01d73ad37e1ff29844a</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">faad8466d1d494534e040b2ef680b163</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-01-26 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 13:56:43 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Tisk propagačních materiálů  (FO 713)
+</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2015-01-26</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">27f93464257eed8d7c3f4f814860c72b</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">e12e5e283e34824630077ec394c66b73</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-01-26 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 13:59:05 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Koupě nože</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2015-01-26</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">5e96b72e9616fe64d4b4919357438c90</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">7314e4e7125354e467e68116dd48d8be</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-01-26 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 13:59:39 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Úhrada nakoupeného nože</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2015-01-26</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">82dc5bf3c5341eb2411142d544060266</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">dc0128f03bd4477c09faaad43519ef31</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-01-26 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 14:01:24 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Nákup webkamery</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2015-01-26</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">9fb016947a90a14d3af16f425f25c2a8</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">781f254b904996e76fd6b9cfec8d6978</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-01-26 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 14:01:40 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Úhrada nakoupené webkamery</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2015-01-26</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">566d2c2c214a084564666b0c78fc2733</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">0e84e51c8f9437ca4c2ab3a7e97e5864</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-01-26 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 14:02:38 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Pohoštění</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2015-01-26</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">71ea0bcbc73f787cdfdb4223d296c3bc</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">67225717a68f8d031a35fc257915aacb</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-01-26 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 14:03:01 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Úhrada pohoštění (FO 718)</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2015-01-26</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">c5e79724a8f17b5ba4ab7fe6cbcc93f1</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">835a044cdfc448ea50e286263b24077f</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-01-26 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 14:04:19 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Nákup v Albertu (???)</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2015-01-26</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">75514cf8d01a360a416ac845c09d4167</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">0e2258bbd450c7ff6776f0f1d5171eb5</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-01-26 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 14:04:22 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Nákup kávy</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2015-01-26</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">27b3d64a4bcc34b3b9acda962c7c1651</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">7d2c88682a40f601e814e00381d9bca1</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-01-26 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 14:05:15 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Nákup kancelářských potřeb</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2015-01-26</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">c66c20a25964cf0aced054a02069b87d</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">ec5d20cb41beaabe7964b384e6c486ec</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-01-26 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 14:05:57 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>La casa blu</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2015-01-26</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">1986d501ba3b4a775c3552b69efefdff</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">9ceae8292e3fa5f06e7e00466edc9e3f</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-01-26 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 14:09:58 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>FO 694/2014, faktura pro Redmine</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2015-01-26</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">df22a80b00adf79a4566c8edc4a9bdca</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">930b2730b0447b14aa6f262d303e221b</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-01-26 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 14:11:29 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>FO 711/2014, Proplacení Jakubovy faktury za Redmine.</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2015-01-26</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">5ad9c82a7d3f234e0ebd42b05d01374b</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">9a6fbcf781e33779a8f14a2bae76edb2</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-01-26 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-01-26 16:09:56 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Náklady spojené s návštěvou Birgitty Jónsdóttir (FO 18/2015)</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>date-posted</slot:key>
+      <slot:value type="gdate">
+        <gdate>2015-01-26</gdate>
+      </slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">db209239cf039e4908120bb8a20a71de</split:id>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>0/100</split:value>
+      <split:quantity>0/100</split:quantity>
+      <split:account type="guid">c384347b85a3fb8f3ad628f50f23bcfe</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">5f4622412451ede36ae7f9105386d187</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-03-03 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-03-03 01:19:45 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Jakub Michálek</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>trans-txn-type</slot:key>
+      <slot:value type="string">P</slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">8dd6ce3e32f5c528bddc0755118fd221</split:id>
+      <split:action>Platba</split:action>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>100000/100</split:value>
+      <split:quantity>100000/100</split:quantity>
+      <split:account type="guid">7f85c9c75a22dbf73dfd07f32bb8f0a9</split:account>
+      <split:lot type="guid">d1d4f928540927c8ab86be94b0a24e5b</split:lot>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">1dca9719141d648caa66602321a10349</split:id>
+      <split:action>Platba</split:action>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-100000/100</split:value>
+      <split:quantity>-100000/100</split:quantity>
+      <split:account type="guid">40de577e490d428c04ad16a3477f305f</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">73dbc382f0c69198a5718aa3d407c199</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-03-03 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-03-03 01:19:45 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Jakub Michálek</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>trans-txn-type</slot:key>
+      <slot:value type="string">L</slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">6e7ad4bd4ea861a0aabba3d687a2efce</split:id>
+      <split:memo>Internal link between invoice and payment lots</split:memo>
+      <split:action>Lot Link</split:action>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>100000/100</split:value>
+      <split:quantity>100000/100</split:quantity>
+      <split:account type="guid">7f85c9c75a22dbf73dfd07f32bb8f0a9</split:account>
+      <split:lot type="guid">f4b4fb316a81e9724da0d536db8100e9</split:lot>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">26f0d771ad969110b8c7a5e6abbb0658</split:id>
+      <split:memo>Internal link between invoice and payment lots</split:memo>
+      <split:action>Lot Link</split:action>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-100000/100</split:value>
+      <split:quantity>-100000/100</split:quantity>
+      <split:account type="guid">7f85c9c75a22dbf73dfd07f32bb8f0a9</split:account>
+      <split:lot type="guid">d1d4f928540927c8ab86be94b0a24e5b</split:lot>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">f50a242d2fbfae6f20d14bd3bae58809</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:num>000001</trn:num>
+  <trn:date-posted>
+    <ts:date>2015-03-03 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-03-03 01:19:04 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Jakub Michálek</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>gncInvoice</slot:key>
+      <slot:value type="frame">
+        <slot>
+          <slot:key>invoice-guid</slot:key>
+          <slot:value type="guid">d53c7c9227c1c71f6403e768649c3034</slot:value>
+        </slot>
+      </slot:value>
+    </slot>
+    <slot>
+      <slot:key>trans-date-due</slot:key>
+      <slot:value type="timespec">
+        <ts:date>2015-03-03 00:00:00 +0100</ts:date>
+      </slot:value>
+    </slot>
+    <slot>
+      <slot:key>trans-read-only</slot:key>
+      <slot:value type="string">Generováno z faktury. Zkuste zrušit vystavení faktury.</slot:value>
+    </slot>
+    <slot>
+      <slot:key>trans-txn-type</slot:key>
+      <slot:value type="string">I</slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">47f53c63663cbc8133dfb88e89b0ab34</split:id>
+      <split:memo>zkušební výplata</split:memo>
+      <split:action>Výdaje</split:action>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>100000/100</split:value>
+      <split:quantity>100000/100</split:quantity>
+      <split:account type="guid">b291971a2b196c8bbccdb1bb17a8b497</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">fd60e236db143703068e3789322e75b0</split:id>
+      <split:memo>zkušební výplata</split:memo>
+      <split:action>Výdaje</split:action>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-100000/100</split:value>
+      <split:quantity>-100000/100</split:quantity>
+      <split:account type="guid">7f85c9c75a22dbf73dfd07f32bb8f0a9</split:account>
+      <split:lot type="guid">f4b4fb316a81e9724da0d536db8100e9</split:lot>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">865c25d153adc3bf3ff5369d52ddbdba</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-03-03 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-03-03 00:45:04 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Hlavní město Praha</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>trans-txn-type</slot:key>
+      <slot:value type="string">P</slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">2146153925f984d3b67eb96c14aa9860</split:id>
+      <split:action>Platba</split:action>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>1100000/100</split:value>
+      <split:quantity>1100000/100</split:quantity>
+      <split:account type="guid">b9e6f43276b27c54611eb6d499ff8323</split:account>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">0425c1e88948ce6fb5ddbc6417698767</split:id>
+      <split:action>Platba</split:action>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-1100000/100</split:value>
+      <split:quantity>-1100000/100</split:quantity>
+      <split:account type="guid">f513a1333dae5d6cf4d569120e1dfe33</split:account>
+      <split:lot type="guid">b57ac68d4af3170129036ae6c79305c6</split:lot>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">89c9861bb3989a11b120d2fa0aabd81c</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:date-posted>
+    <ts:date>2015-03-03 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-03-03 00:45:04 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Hlavní město Praha</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>trans-txn-type</slot:key>
+      <slot:value type="string">L</slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">82480d77ad964d087d093e2c4fac4d2b</split:id>
+      <split:memo>Internal link between invoice and payment lots</split:memo>
+      <split:action>Lot Link</split:action>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>1100000/100</split:value>
+      <split:quantity>1100000/100</split:quantity>
+      <split:account type="guid">f513a1333dae5d6cf4d569120e1dfe33</split:account>
+      <split:lot type="guid">b57ac68d4af3170129036ae6c79305c6</split:lot>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">1b9fc8f07a33fabf1d2e77af705e73cb</split:id>
+      <split:memo>Internal link between invoice and payment lots</split:memo>
+      <split:action>Lot Link</split:action>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-1100000/100</split:value>
+      <split:quantity>-1100000/100</split:quantity>
+      <split:account type="guid">f513a1333dae5d6cf4d569120e1dfe33</split:account>
+      <split:lot type="guid">0b8ba00b3ff53576a2f472bc52fdd01d</split:lot>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:transaction version="2.0.0">
+  <trn:id type="guid">de90b2890a70aa4c0f88c0d7ae3b0f96</trn:id>
+  <trn:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </trn:currency>
+  <trn:num>000001</trn:num>
+  <trn:date-posted>
+    <ts:date>2015-03-03 00:00:00 +0100</ts:date>
+  </trn:date-posted>
+  <trn:date-entered>
+    <ts:date>2015-03-03 00:43:56 +0100</ts:date>
+  </trn:date-entered>
+  <trn:description>Hlavní město Praha</trn:description>
+  <trn:slots>
+    <slot>
+      <slot:key>gncInvoice</slot:key>
+      <slot:value type="frame">
+        <slot>
+          <slot:key>invoice-guid</slot:key>
+          <slot:value type="guid">2c95ee6a04a101c5545edfe82971d3be</slot:value>
+        </slot>
+      </slot:value>
+    </slot>
+    <slot>
+      <slot:key>trans-date-due</slot:key>
+      <slot:value type="timespec">
+        <ts:date>2015-03-03 00:00:00 +0100</ts:date>
+      </slot:value>
+    </slot>
+    <slot>
+      <slot:key>trans-read-only</slot:key>
+      <slot:value type="string">Generováno z faktury. Zkuste zrušit vystavení faktury.</slot:value>
+    </slot>
+    <slot>
+      <slot:key>trans-txn-type</slot:key>
+      <slot:value type="string">I</slot:value>
+    </slot>
+  </trn:slots>
+  <trn:splits>
+    <trn:split>
+      <split:id type="guid">6d32595a27edf097de93f86ca24fd0fb</split:id>
+      <split:action>Faktura</split:action>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>1100000/100</split:value>
+      <split:quantity>1100000/100</split:quantity>
+      <split:account type="guid">f513a1333dae5d6cf4d569120e1dfe33</split:account>
+      <split:lot type="guid">0b8ba00b3ff53576a2f472bc52fdd01d</split:lot>
+    </trn:split>
+    <trn:split>
+      <split:id type="guid">bec977a72bd9496cdd44978ec16b0255</split:id>
+      <split:action>Faktura</split:action>
+      <split:reconciled-state>n</split:reconciled-state>
+      <split:value>-1100000/100</split:value>
+      <split:quantity>-1100000/100</split:quantity>
+      <split:account type="guid">d77b043900f307449f302357e633b8d1</split:account>
+    </trn:split>
+  </trn:splits>
+</gnc:transaction>
+<gnc:GncCustomer version="2.0.0">
+  <cust:guid type="guid">1573c091f12423cd37eedafe4cb1b41a</cust:guid>
+  <cust:name>Hlavní město Praha</cust:name>
+  <cust:id>000001</cust:id>
+  <cust:addr version="2.0.0">
+    <addr:addr1>Mariánské náměstí 2</addr:addr1>
+  </cust:addr>
+  <cust:shipaddr version="2.0.0"/>
+  <cust:taxincluded>USEGLOBAL</cust:taxincluded>
+  <cust:active>1</cust:active>
+  <cust:discount>0/1</cust:discount>
+  <cust:credit>0/1</cust:credit>
+  <cust:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </cust:currency>
+  <cust:use-tt>0</cust:use-tt>
+  <cust:slots>
+    <slot>
+      <slot:key>last-posted-to-acct</slot:key>
+      <slot:value type="guid">f513a1333dae5d6cf4d569120e1dfe33</slot:value>
+    </slot>
+    <slot>
+      <slot:key>payment</slot:key>
+      <slot:value type="frame">
+        <slot>
+          <slot:key>last_acct</slot:key>
+          <slot:value type="guid">b9e6f43276b27c54611eb6d499ff8323</slot:value>
+        </slot>
+      </slot:value>
+    </slot>
+  </cust:slots>
+</gnc:GncCustomer>
+<gnc:GncCustomer version="2.0.0">
+  <cust:guid type="guid">d0b2b3593e419eb00d355d1fb65110f8</cust:guid>
+  <cust:name>Česká pirátská strana</cust:name>
+  <cust:id>000002</cust:id>
+  <cust:addr version="2.0.0">
+    <addr:name>Česká pirátská strana</addr:name>
+    <addr:addr1>Řehořova 19</addr:addr1>
+    <addr:addr2>Praha 3</addr:addr2>
+  </cust:addr>
+  <cust:shipaddr version="2.0.0"/>
+  <cust:taxincluded>USEGLOBAL</cust:taxincluded>
+  <cust:active>1</cust:active>
+  <cust:discount>0/1</cust:discount>
+  <cust:credit>0/1</cust:credit>
+  <cust:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </cust:currency>
+  <cust:use-tt>0</cust:use-tt>
+</gnc:GncCustomer>
+<gnc:GncEmployee version="2.0.0">
+  <employee:guid type="guid">21e649a9804990bf4dbc76e98ceedd9d</employee:guid>
+  <employee:username>Jakub Michálek</employee:username>
+  <employee:id>000001</employee:id>
+  <employee:addr version="2.0.0">
+    <addr:name>Jakub Michálek</addr:name>
+    <addr:addr1>Zenklova 841/193</addr:addr1>
+    <addr:addr2>Praha 8</addr:addr2>
+  </employee:addr>
+  <employee:active>1</employee:active>
+  <employee:workday>0/1</employee:workday>
+  <employee:rate>0/1</employee:rate>
+  <employee:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </employee:currency>
+  <employee:slots>
+    <slot>
+      <slot:key>last-posted-to-acct</slot:key>
+      <slot:value type="guid">7f85c9c75a22dbf73dfd07f32bb8f0a9</slot:value>
+    </slot>
+    <slot>
+      <slot:key>payment</slot:key>
+      <slot:value type="frame">
+        <slot>
+          <slot:key>last_acct</slot:key>
+          <slot:value type="guid">40de577e490d428c04ad16a3477f305f</slot:value>
+        </slot>
+      </slot:value>
+    </slot>
+  </employee:slots>
+</gnc:GncEmployee>
+<gnc:GncEmployee version="2.0.0">
+  <employee:guid type="guid">7b392adff6c2e72cb068f51139c0d985</employee:guid>
+  <employee:username>Ondřej Profant</employee:username>
+  <employee:id>000002</employee:id>
+  <employee:addr version="2.0.0">
+    <addr:name>Ondřej Profant</addr:name>
+    <addr:addr1>Někde</addr:addr1>
+  </employee:addr>
+  <employee:active>1</employee:active>
+  <employee:workday>0/1</employee:workday>
+  <employee:rate>0/1</employee:rate>
+  <employee:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </employee:currency>
+</gnc:GncEmployee>
+<gnc:GncEntry version="2.0.0">
+  <entry:guid type="guid">3468bbe347ede4971c010c71ef77958a</entry:guid>
+  <entry:date>
+    <ts:date>2015-03-03 12:00:00 +0100</ts:date>
+  </entry:date>
+  <entry:entered>
+    <ts:date>2015-03-03 01:18:46 +0100</ts:date>
+  </entry:entered>
+  <entry:description>práce</entry:description>
+  <entry:action>Hodiny</entry:action>
+  <entry:qty>1000000/1000000</entry:qty>
+  <entry:b-acct type="guid">b291971a2b196c8bbccdb1bb17a8b497</entry:b-acct>
+  <entry:b-price>1000000000/1000000</entry:b-price>
+  <entry:bill type="guid">d53c7c9227c1c71f6403e768649c3034</entry:bill>
+  <entry:billable>0</entry:billable>
+  <entry:b-taxable>1</entry:b-taxable>
+  <entry:b-taxincluded>0</entry:b-taxincluded>
+  <entry:b-pay>CASH</entry:b-pay>
+</gnc:GncEntry>
+<gnc:GncEntry version="2.0.0">
+  <entry:guid type="guid">51abca0b1cb5d0d75c6bcd966816a57c</entry:guid>
+  <entry:date>
+    <ts:date>2015-03-02 12:00:00 +0100</ts:date>
+  </entry:date>
+  <entry:entered>
+    <ts:date>2015-03-02 23:12:26 +0100</ts:date>
+  </entry:entered>
+  <entry:description>variabilní složka (osobní ohodnocení)</entry:description>
+  <entry:action>Hodiny</entry:action>
+  <entry:qty>1000000/1000000</entry:qty>
+  <entry:i-acct type="guid">d77b043900f307449f302357e633b8d1</entry:i-acct>
+  <entry:i-price>2500000000/1000000</entry:i-price>
+  <entry:invoice type="guid">2c95ee6a04a101c5545edfe82971d3be</entry:invoice>
+  <entry:i-disc-type>VALUE</entry:i-disc-type>
+  <entry:i-disc-how>PRETAX</entry:i-disc-how>
+  <entry:i-taxable>0</entry:i-taxable>
+  <entry:i-taxincluded>0</entry:i-taxincluded>
+</gnc:GncEntry>
+<gnc:GncEntry version="2.0.0">
+  <entry:guid type="guid">57cde625a4c28ff34f2bdb46264b97c3</entry:guid>
+  <entry:date>
+    <ts:date>2015-03-02 12:00:00 +0100</ts:date>
+  </entry:date>
+  <entry:entered>
+    <ts:date>2015-03-02 23:11:00 +0100</ts:date>
+  </entry:entered>
+  <entry:description>fixní složka</entry:description>
+  <entry:action>Projekt</entry:action>
+  <entry:qty>1000000/1000000</entry:qty>
+  <entry:i-acct type="guid">d77b043900f307449f302357e633b8d1</entry:i-acct>
+  <entry:i-price>8500000000/1000000</entry:i-price>
+  <entry:invoice type="guid">2c95ee6a04a101c5545edfe82971d3be</entry:invoice>
+  <entry:i-disc-type>VALUE</entry:i-disc-type>
+  <entry:i-disc-how>SAMETIME</entry:i-disc-how>
+  <entry:i-taxable>0</entry:i-taxable>
+  <entry:i-taxincluded>0</entry:i-taxincluded>
+</gnc:GncEntry>
+<gnc:GncEntry version="2.0.0">
+  <entry:guid type="guid">9cc06ad22bbb6859b890c9121548b8ed</entry:guid>
+  <entry:date>
+    <ts:date>2015-03-02 12:00:00 +0100</ts:date>
+  </entry:date>
+  <entry:entered>
+    <ts:date>2015-03-02 23:13:29 +0100</ts:date>
+  </entry:entered>
+  <entry:invoice type="guid">2c95ee6a04a101c5545edfe82971d3be</entry:invoice>
+  <entry:i-disc-type>PERCENT</entry:i-disc-type>
+  <entry:i-disc-how>PRETAX</entry:i-disc-how>
+  <entry:i-taxable>1</entry:i-taxable>
+  <entry:i-taxincluded>0</entry:i-taxincluded>
+</gnc:GncEntry>
+<gnc:GncInvoice version="2.0.0">
+  <invoice:guid type="guid">2c95ee6a04a101c5545edfe82971d3be</invoice:guid>
+  <invoice:id>000001</invoice:id>
+  <invoice:owner version="2.0.0">
+    <owner:type>gncJob</owner:type>
+    <owner:id type="guid">3e1a5d4fea24d14e0e297bc6267e5eb4</owner:id>
+  </invoice:owner>
+  <invoice:opened>
+    <ts:date>2015-03-02 00:00:00 +0100</ts:date>
+  </invoice:opened>
+  <invoice:posted>
+    <ts:date>2015-03-03 00:00:00 +0100</ts:date>
+  </invoice:posted>
+  <invoice:active>1</invoice:active>
+  <invoice:posttxn type="guid">de90b2890a70aa4c0f88c0d7ae3b0f96</invoice:posttxn>
+  <invoice:postlot type="guid">0b8ba00b3ff53576a2f472bc52fdd01d</invoice:postlot>
+  <invoice:postacc type="guid">f513a1333dae5d6cf4d569120e1dfe33</invoice:postacc>
+  <invoice:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </invoice:currency>
+  <invoice:slots>
+    <slot>
+      <slot:key>credit-note</slot:key>
+      <slot:value type="integer">0</slot:value>
+    </slot>
+  </invoice:slots>
+</gnc:GncInvoice>
+<gnc:GncInvoice version="2.0.0">
+  <invoice:guid type="guid">d53c7c9227c1c71f6403e768649c3034</invoice:guid>
+  <invoice:id>000001</invoice:id>
+  <invoice:owner version="2.0.0">
+    <owner:type>gncEmployee</owner:type>
+    <owner:id type="guid">21e649a9804990bf4dbc76e98ceedd9d</owner:id>
+  </invoice:owner>
+  <invoice:opened>
+    <ts:date>2015-03-03 00:00:00 +0100</ts:date>
+  </invoice:opened>
+  <invoice:posted>
+    <ts:date>2015-03-03 00:00:00 +0100</ts:date>
+  </invoice:posted>
+  <invoice:active>1</invoice:active>
+  <invoice:posttxn type="guid">f50a242d2fbfae6f20d14bd3bae58809</invoice:posttxn>
+  <invoice:postlot type="guid">f4b4fb316a81e9724da0d536db8100e9</invoice:postlot>
+  <invoice:postacc type="guid">7f85c9c75a22dbf73dfd07f32bb8f0a9</invoice:postacc>
+  <invoice:currency>
+    <cmdty:space>ISO4217</cmdty:space>
+    <cmdty:id>CZK</cmdty:id>
+  </invoice:currency>
+  <invoice:billto version="2.0.0">
+    <owner:type>gncCustomer</owner:type>
+    <owner:id type="guid">d0b2b3593e419eb00d355d1fb65110f8</owner:id>
+  </invoice:billto>
+  <invoice:slots>
+    <slot>
+      <slot:key>credit-note</slot:key>
+      <slot:value type="integer">0</slot:value>
+    </slot>
+  </invoice:slots>
+</gnc:GncInvoice>
+<gnc:GncJob version="2.0.0">
+  <job:guid type="guid">3e1a5d4fea24d14e0e297bc6267e5eb4</job:guid>
+  <job:id>000001</job:id>
+  <job:name>Odměny za leden 2015</job:name>
+  <job:owner version="2.0.0">
+    <owner:type>gncCustomer</owner:type>
+    <owner:id type="guid">1573c091f12423cd37eedafe4cb1b41a</owner:id>
+  </job:owner>
+  <job:active>1</job:active>
+</gnc:GncJob>
+</gnc:book>
+</gnc-v2>
+
+<!-- Local variables: -->
+<!-- mode: xml        -->
+<!-- End:             -->
