@@ -42,5 +42,6 @@ Prosím o poskytnutí informací prostřednictvím datové schránky uvedené v 
 podpis: 
   - Mgr. Bc. Jakub Michálek
   - předseda klubu Pirátů
+  - bytem Zenklova 841/193, Praha 8
   - zastupitelstvo hl. m. Prahy
 ...
