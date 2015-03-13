@@ -1,11 +1,11 @@
 ---
 prijemce: 
   role:     Povinný subjekt
-  nazev:    Magistrát hlavního města Prahy
-  ulice:    Mariánské náměstí 2/2
-  PSC:      110 01
+  nazev:    Ministerstvo školství, mládeže a tělovýchovy
+  ulice:    Karmelitská 7
+  PSC:      118 12 Praha 1
   mesto:    Praha 1
-  DS:       48ia97h
+  DS:       vidaawt
 styl:       pirati-klub
 vase:
   znacka:  
