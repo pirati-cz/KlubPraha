@@ -1,7 +1,7 @@
 ---
 prijemce: 
-  role:     Povinný subjekt
-  nazev:    k rukám: Ministr školství
+  role:     Ministerstvo školství
+  nazev:    k rukám mininistra školství
   ulice:    Karmelitská 7
   PSC:      118 12 Praha 1
   mesto:    Praha 1
@@ -11,10 +11,10 @@ vase:
   znacka:  
   den:      
 nase:
-  znacka:   ZK Pha 25/2014
+  znacka:   ZK Pha 23/2014
   misto:    Praha
 
-vec:        Žádost o ochranu zastupitele hl. m. Prahy před nečinností
+vec:        Žádost o ochranu proti nečinnosti
 vyrizuje:   
   jmeno:    Adam Zábranský
   telefon:  +420 721 006 868
@@ -22,21 +22,21 @@ vyrizuje:
   mail:     adam.zabransky@praha.eu
 ---
 
-Vážení,
+Vážený pane ministře,
 
-Dne 3. 12. 2014 jsem podal Žádost o inoformace podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“). Má žádost byla dne 20. 12. 2014 odmítnuta. 
+dne 3. 12. 2014 jsem podal žádost o informace Západočeské univerzitě v Plzni podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“). Má žádost byla dne 20. 12. 2014 odmítnuta rozhodnutím č.j. ZCU 037113/2014. 
 
-v souladu s § 16 odst. 1 zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), jsem proto dne 23. 12. 2014 podal odvolání proti výše zmíněnému rozhodnutí o odmítnutí žádosti. Povinný subjekt mně vyzval k doplnění informací dne 26. 1. 2015 a tak jsem učinil dne 27. 1. 2015. 
+V souladu s § 16 odst. 1 zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), jsem proto dne 23. 12. 2014 podal odvolání proti výše zmíněnému rozhodnutí o odmítnutí žádosti. Povinný subjekt mě dne 26. 1. 2015 vyzval k odstranění vad odvolání (doplnění dopisu) a já jsem tak dne 27. 1. 2015 učinil. 
 
-Západočeská univerzita předala sice spis až dne 11. 2. 2015 nadřazenému subjektu (Ministerstvu školství), nicméně ani Ministerstvo školství nereagovalo v uplynuté lhůtě. 
+Západočeská univerzita předala spis nadřízenému orgánu (Ministerstvu školství) dle jejich sdělení dne 11. 2. 2015 a Ministerstvo školství dodnes odvolání nevyřídilo, ačkoliv to mělo učinit do 15 dnů ode dne předání spisu, tedy do 26. 2. 2015.
+                                                                                           
+Proto vás žádám, abyste v souladu s § 80 bodu 4 písm. a) přikázal nečinnému správnímu orgánu, aby ve lhůtě 5 dnů ve věci vydal rozhodnutí.
 
-V souvislosti s tím podávám podle § 80 bodu 4. písm. a. Žádost o ochranu před nečinností. Žádám tímto nadřízený subjekt, aby přikázal nečinnému správnímu orgánu, aby ve stanovené lhůtě učinil potřebná opatření ke zjednání nápravy nebo vydal rozhodnutí.
-
-Předem děkuji za Vaši vstřícnost. S úctou
+Předem děkuji za Vaši vstřícnost.
 
 ---
 podpis: 
   - Adam Zábranský
+  - narozen 28. 12. 1993
   - bytem Zbynická 6, Praha 16
-  - zastupitelstvo hl. m. Prahy
 ...
