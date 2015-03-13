@@ -1,7 +1,7 @@
 ---
 prijemce: 
   role:     Povinný subjekt
-  nazev:    Ministerstvo školství, mládeže a tělovýchovy
+  nazev:    k rukám: Ministr školství
   ulice:    Karmelitská 7
   PSC:      118 12 Praha 1
   mesto:    Praha 1
@@ -16,32 +16,27 @@ nase:
 
 vec:        Žádost o ochranu zastupitele hl. m. Prahy před nečinností
 vyrizuje:   
-  jmeno:    Jakub Michálek
-  telefon:  +420 775 978 550
-  ds:       4memzkm
-  mail:     jakub.michalek@praha.eu
+  jmeno:    Adam Zábranský
+  telefon:  +420 721 006 868
+  ds:       xwfwgha
+  mail:     adam.zabransky@praha.eu
 ---
 
-Vážení, 
+Vážení,
 
-dne 3. prosince 2014 jsem na Magistrát hlavního města Prahy (dále jen MHMP) zaslal žádost o informace, ve které jsem žádal o následující informace:
+Dne 3. 12. 2014 jsem podal Žádost o inoformace podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“). Má žádost byla dne 20. 12. 2014 odmítnuta. 
 
-* Doklad o vzdělání pana Františka Kotalíka, magistra práva, který je pověřen řízením odboru legislativního a právního.
-* Kvalifikační předpoklady pro pracovní pozici ředitele odboru legislativního a právního odboru, zástupce ředitele odboru legislativního, právního, nebo osoby pověřené řízením odboru legislativního a právního, vedoucího oddělení veřejných zakázek.
-* Podklady a důvody pro pověření Františka Kotalíka řízením odboru legislativního a právního.
+v souladu s § 16 odst. 1 zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), jsem proto dne 23. 12. 2014 podal odvolání proti výše zmíněnému rozhodnutí o odmítnutí žádosti. Povinný subjekt mně vyzval k doplnění informací dne 26. 1. 2015 a tak jsem učinil dne 27. 1. 2015. 
 
-Dne 17. prosince 2014 Povinný subjekt tuto žádost částečně zamítl. Nadřízený správní orgán (Ministerstvo vnitra České republiky) v odvolacím řízení dne 6. února 2015 rozhodnutí Povinného subjektu zrušil a vrátil k novému projednání. 
+Západočeská univerzita předala sice spis až dne 11. 2. 2015 nadřazenému subjektu (Ministerstvu školství), nicméně ani Ministerstvo školství nereagovalo v uplynuté lhůtě. 
 
-Od MHMP jsem nicméně nedostal žádnou odpověď a to přesto, že už uplynula 15denní lhůta daná zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen InfZ). Proto jsem dne 24. února 2015 podal dle § 16a odst. 1 písm. b) na tento postup stížnost. Nicméně, ani poté jsem nedostal rozhodnutí.
+V souvislosti s tím podávám podle § 80 bodu 4. písm. a. Žádost o ochranu před nečinností. Žádám tímto nadřízený subjekt, aby přikázal nečinnému správnímu orgánu, aby ve stanovené lhůtě učinil potřebná opatření ke zjednání nápravy nebo vydal rozhodnutí.
 
-Navrhuji, aby nadřízený správní orgán postupem podle §80, bodu 4. písm. a). Správního řádu povinnému subjektu přikázal nečinnému správnímu orgánu, aby ve stanovené lhůtě učinil potřebná opatření ke zjednání nápravy nebo vydal rozhodnutí.
-
-Prosím o poskytnutí informací prostřednictvím datové schránky uvedené v patičce tohoto dopisu, případně prostřednictvím e-mailu. Předem děkuji za Vaši vstřícnost.
+Předem děkuji za Vaši vstřícnost. S úctou
 
 ---
 podpis: 
-  - Mgr. Bc. Jakub Michálek
-  - předseda klubu Pirátů
-  - bytem Zenklova 841/193, Praha 8
+  - Adam Zábranský
+  - bytem Zbynická 6, Praha 16
   - zastupitelstvo hl. m. Prahy
 ...
