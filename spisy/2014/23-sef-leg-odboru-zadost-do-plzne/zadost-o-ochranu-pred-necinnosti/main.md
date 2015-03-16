@@ -1,4 +1,4 @@
----
+﻿---
 prijemce: 
   role:     Ministerstvo školství
   nazev:    k rukám mininistra školství
@@ -29,7 +29,7 @@ dne 3. 12. 2014 jsem podal žádost o informace Západočeské univerzitě v Plz
 V souladu s § 16 odst. 1 zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), jsem proto dne 23. 12. 2014 podal odvolání proti výše zmíněnému rozhodnutí o odmítnutí žádosti. Povinný subjekt mě dne 26. 1. 2015 vyzval k odstranění vad odvolání (doplnění dopisu) a já jsem tak dne 27. 1. 2015 učinil. 
 
 Západočeská univerzita předala spis nadřízenému orgánu (Ministerstvu školství) dle jejich sdělení dne 11. 2. 2015 a Ministerstvo školství dodnes odvolání nevyřídilo, ačkoliv to mělo učinit do 15 dnů ode dne předání spisu, tedy do 26. 2. 2015.
-                                                                                           
+
 Proto vás žádám, abyste v souladu s § 80 bodu 4 písm. a) přikázal nečinnému správnímu orgánu, aby ve lhůtě 5 dnů ve věci vydal rozhodnutí.
 
 Předem děkuji za Vaši vstřícnost.
