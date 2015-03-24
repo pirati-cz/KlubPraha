@@ -22,10 +22,12 @@ Aktuální informace o stavu jmění
 | Popis věci            | Odhad hodnoty |  Převažující zdroj                  |
 | --------------------- | ------------: |  ---------------------- |
 | Nemovitost s pozemkem s celkovou rozlohou 400 metrů čtverečních v Čerčanech | odhadem 800 000 Kč (kupovali jsme za 250 000 Kč ve špatném stavu) | úspory prarodičů a rodičů | 
-| Bankovní účet u Air Bank a.s. | 450 000 Kč | úspory rodičů, úspory z měsíčních příjmů |
-| Stavební spoření u ČMSS | 110 000 Kč | od rodičů | 
-| Notebook | 14 500 Kč | dar od matky (již nefunkční) |
-| Bankovní účet u FIO banky a.s. | 2 000 Kč | mzda MEDIARESEARCH, a.s., příjmy z Magistrátu hl. m. Prahy a České pirátské strany |
+| Bankovní účet u Air Bank a.s. | 340 000 Kč | úspory rodičů, úspory z měsíčních příjmů (viz níže) |
+| Stavební spoření u ČMSS | 110 000 Kč | úspory rodičů | 
+| Dluhopis společnosti DRFG, a.s. | 50 000 Kč | měsíční příjmy |
+| Notebook | 12 000 Kč | měsíční příjmy (viz níže) |
+| Investiční fond Pioneer Investments | 6 000 Kč | měsíční příjmy (viz níže) |
+| Bankovní účet u FIO banky a.s. | 6 000 Kč | měsíční příjmy (viz níže) |
 
 
 ### Dluhy
