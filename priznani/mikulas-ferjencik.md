@@ -22,7 +22,7 @@ Následující seznam obsahuje přehled o veškerém majetku výše uvedeného f
 | Popis věci            | Odhad hodnoty |  Převažující zdroj                  |
 | --------------------- | ------------: |  ---------------------- |
 | Byt v Pardubicích, náměstí dukelských hrdinů 2233 |  1 000 000 Kč | dar od rodičů|
-| Bankovní účet u ČSOB |  60 000 Kč | Příjmy z překladatelské činnosti |
+| Bankovní účet u ČSOB |  4 000 Kč | příjmy z činnosti zastupitele a vedení kroužků zábavné logiky |
 | Notebook | 12 000 Kč | Dar od rodičů |
 | 2 akordeony | celkem 30 000 Kč | dar od rodiny |
 
@@ -34,7 +34,7 @@ V následujícím seznamu jsou uvedeny všechny nesplacené dluhy (půjčky, úv
 | Popis dluhu           | Odhad hodnoty |
 | --------------------- | ------------: |
 | půjčka od Jakuba Michálka | 6000 Kč |
-| sociální pojištění | 10000 Kč |
+
 
 ### Způsob obživy
 
@@ -42,6 +42,7 @@ Následující text vysvětluje, jakým způsobem výše uvedený funkcionář a
 
 Podnikám jako OSVČ, vedu kroužky zábavné logiky pro žáky prvního stupně ZŠ, překládám z AJ a do AJ, vedu [projekt Pirátské listy](https://www.pirati.cz/fo/rozpocty/participativni/prihlasky/plisty) a příležitostně doučuji středoškolskou matematiku. Navíc mám příjem z pronájmu bytu, který vlastnim v Pardubicích. Můj úhrnný měsíční příjem se pohybuje od 10 000 Kč (když kvůli politice nemám čas vydělávat peníze) do 50 000 Kč (v případě velké překladatelské zakázky). 
 
+Mé příjmy ze zastupitelské činnosti naleznete [zde](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny), z části mne platí město a z části Pirátská strana. 
 
 ### Neziskové aktivity
 Jsem členem [Akademického senátu Univerzity Karlovy](http://www.cuni.cz/UK-5760.html). Působil jsem jako koordinátor dobrovolníků [Rekonstrukce státu](http://www.rekonstrukcestatu.cz/cs) a s cíli této aliance neziskovek se ztotožňuji. 
@@ -59,10 +60,7 @@ Následuje seznam darovaných plnění, výhod a jiných bezplatných požitků 
 ### Seznam příjmů od veřejných institucí
 Následuje seznam příjmů poskytnutých od veřejných institucí. Veřejnou institucí je stát, územní samosprávné celky, veřejné vysoké školy, veřejné výzkumné instituce, školy, prosefní komory, jakož i akciové společnosti nebo jiné veřejné instituce jimi ovládané.
 
-| Datum plnění | Popis plnění | Odhad hodnoty | 
-| ----------   | ----------   | ------------: |
-| Příjem zastupitele říjen | 1 853 Kč | Magistrát hlavního města Prahy |
-| Příjem zastupitele listopad | 2 974 Kč | Magistrát hlavního města Prahy |
+Mé odměny za činnost zastupitele naleznete [zde](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny)
 
 Prohlašuji, že jsem výše uvedené údaje uvedl úplně a pravdivě. 
 
