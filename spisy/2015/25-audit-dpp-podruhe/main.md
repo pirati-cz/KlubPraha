@@ -1,9 +1,9 @@
 ---
 prijemce: 
   role:     Povinný subjekt
-  nazev:    Vláda České republiky
-  ulice:    nábřeží Edvarda Beneše 4
-  PSC:      11801
+  nazev:    Hlavní město Praha
+  ulice:    Mariánské náměstí 2/2
+  PSC:      11001
   mesto:    Praha 1
   DS:       48ia97h
 styl:       pirati-klub
@@ -11,9 +11,9 @@ vase:
   znacka:   
   den:
 nase:
-  znacka:   ZK Pha 28/2015
+  znacka:   ZK Pha 25/2015
   misto:    Praha
-vec:        Žádost o poskytnutí Důvodové zprávy
+vec:        Žádost o poskytnutí auditu Dopravního podniku
 vyrizuje:   
   jmeno:    Mgr. Bc. Jakub Michálek
   telefon:  +420 775 978 550
@@ -23,9 +23,9 @@ vyrizuje:
 
 Vážení,
 
-V současné době se věnuji jako zastupitel analýze problematiky nájemních smluv na Škodův palác. Podle tehdy platného zákona o veřejných zakázkách zřídila Vláda České republiky na podzim 2005 hodnotící komisi pro posouzení a hodnocení nabídek uchazečů v otevřeném řízení na veřejnou zakázku „Alokace pracovišť Magistrátu hlavního města Prahy“. Proto Vás podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů, žádám Vás jako fyzická osoba o následující informace:
+v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o poskytnutí auditu hospodaření Dopravního podniku hl. m. Prahy, a. s., který vyhotovil na objednávku tehdejšího primátora Bohuslava Svobody advokát Mgr. Václav Láska.
 
-Dokument důvodové zprávy k usnesení Vlády České republiky ze dne: 9. listopadu 2005 č. 1444 o ustavení hodnotící komise pro posouzení a hodnocení  nabídek uchazečů v otevřeném řízení na veřejnou zakázku „Alokace pracovišť Magistrátu hlavního města Prahy“.
+Má dřívější žádost č. Zk Pha 3/2014 byla ze strany Magistrátu hlavního města Prahy zamítnuta s odůvodněním, že Praha tento dokument nemá. Nicméně, po telefonickém hovoru s panem senátorem Láskou jsem byl informován, že tento dokument má Praha k dispozici, resp. může být Praze poskytnut tehdy, pokud si o něj pana senátora Lásku zažádá.
 
 Prosím o poskytnutí informace do datové schránky uvedené v patičce této zprávy. Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více datových zprávách, nebo se dostavím s paměťovým médiem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. V této věci zmocňuji k jednání rovněž svého asistenta, pana Jana Loužka. Předem děkuji za Vaši vstřícnost.
 
