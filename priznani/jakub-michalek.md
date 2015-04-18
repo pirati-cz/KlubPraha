@@ -66,8 +66,8 @@ Viz [oznámení podle etického kodexu](https://github.com/pirati-cz/KlubPraha/r
 ### Seznam příjmů od veřejných institucí
 *Následuje seznam příjmů poskytnutých od veřejných institucí. Veřejnou institucí je stát, územní samosprávné celky, veřejné vysoké školy, veřejné výzkumné instituce, školy, prosefní komory, jakož i akciové společnosti nebo jiné veřejné instituce jimi ovládané.*
 
-[rozpis odměn za rok 2014](https://github.com/pirati-cz/KlubPraha/raw/master/odmeny/2014/2014.ods)
-[rozpis odměn za rok 2015](https://github.com/pirati-cz/KlubPraha/raw/master/odmeny/2015/2015.ods)
+- [rozpis odměn za rok 2014](https://github.com/pirati-cz/KlubPraha/raw/master/odmeny/2014/2014.ods)
+- [rozpis odměn za rok 2015](https://github.com/pirati-cz/KlubPraha/raw/master/odmeny/2015/2015.ods)
 
 Prohlašuji, že jsem výše uvedené údaje uvedl úplně a pravdivě. 
 
