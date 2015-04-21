@@ -29,6 +29,9 @@ Aktuální informace o stavu jmění
 | Notebook | 12 000 Kč | vlastní úspory |
 | Monitor, reproduktory | 10 000 Kč | vlastní úspory |
 | Mobilní telefon | 10 000 Kč | dar od matky |
+| Futón | 15 000 Kč | bankovní účet |
+| Pračka | 5 000 Kč | bankovní účet |
+
 
 ### Dluhy
 
@@ -43,11 +46,11 @@ Aktuální informace o stavu jmění
 
 *Následující text vysvětluje, jakým způsobem výše uvedený funkcionář aktuálně financuje svou obživu, bydlení a další základní životní potřeby, zejména u koho je zaměstnán, ve službě, nebo kde vykonává funkci člena orgánu právnické osoby či kde podniká, jakou pobírá odměnu a jiné příjmy z veřejných zdrojů, případně kdo je jeho podpůrcem.*
 
-Byl jsem zaměstnán v pracovním poměru na dobu neurčitou na pozici advokátního koncipienta v advokátní kanceláři Řehák & partneři, k. s., IČ 27215822 (včetně práce pro advokátku JUDr. Hanu Marvanovou). V předvolební době jsem byl z větší části uvolněn na základě své žádosti, dostávám příspěvek od otce doc. MUDr. Pavla Michálka, Ph.D., DESA, MSc., ve výši 5000 Kč měsíčně. Žil jsem střídavě u matky Kamily Murphy a jejího manžela Davida Murphy a své přítelkyně Michaely Krausové. Příležitostně mám drobný přivýdělek z přednáškové činnosti v oboru autorského práva. Pracovní poměr jsem ukončil dohodou k 31. 10. 2014, abych se mohl plně věnovat funkci zastupitele (nebylo možné výkonávat povolání advokátního koncipienta na částečný úvazek kvůli předpisům advokátní komory).
+Byl jsem zaměstnán v pracovním poměru na dobu neurčitou na pozici advokátního koncipienta v advokátní kanceláři Řehák & partneři, k. s., IČ 27215822 (včetně práce pro advokátku JUDr. Hanu Marvanovou). V předvolební době jsem byl z větší části uvolněn na základě své žádosti, dostávám příspěvek od otce doc. MUDr. Pavla Michálka, Ph.D., DESA, MSc., ve výši 5000 Kč měsíčně. Žil jsem střídavě u matky Kamily Murphy a jejího manžela Davida Murphy a své přítelkyně Michaely Krausové. Příležitostně jsem měl drobný přivýdělek z přednáškové činnosti v oboru autorského práva. Pracovní poměr jsem ukončil dohodou k 31. 10. 2014, abych se mohl plně věnovat funkci zastupitele (nebylo možné výkonávat povolání advokátního koncipienta na částečný úvazek kvůli předpisům advokátní komory).
 
-Od listopadu 2014 se věnuji na plný úvazek funkci zastupitele. Od 1. 1. 2015 jsem zapsán jako živnotník. Mé finanční příjmy tvoří příjem z [mandátní smlouvy uzavřené s Českou pirátskou stranou](http://smlouvy.pirati.cz/smlouvy/2014/11/13/jakub-michalek/index.html), dále příjmy od města v podobě odměny zastupitele a náhrady ušlého výdělku (viz [rozpis odměn za rok 2014]). Rekonstruuji nájemní byt na Žižkově o výměře cca 20 metrů čtverečních s nájemným 5000 Kč měsíčně, kde hodlám bydlet.
+Od listopadu 2014 se věnuji na plný úvazek funkci zastupitele. Mé finanční příjmy tvoří příjem z [mandátní smlouvy uzavřené s Českou pirátskou stranou](http://smlouvy.pirati.cz/smlouvy/2014/11/13/jakub-michalek/index.html), příjmy z podnikání a dále příjmy od města v podobě odměny zastupitele a náhrady ušlého výdělku (viz [rozpis odměn za rok 2014]). Od 1. 1. 2015 mám zapsanou živnost. Zpracovávám podklady pro advokátní kancelář, abych zůstal v kontaktu s normálním životem. Žiju v nájemním bytě na Žižkově o výměře cca 20 metrů čtverečních s nájemným 5000 Kč měsíčně.
 
-[rozpis odměn za rok 2014]: https://github.com/pirati-cz/KlubPraha/raw/master/odmeny/2014/2014.ods
+Úplný rozpis příjmů viz níže.
 
 ### Neziskové aktivity
 Jsem členem Ediční komise Akademického senátu Univerzity Karlovy. Jsem dále zapsán v přípravném výboru spolku Černá perla, který ovšem nikdy nebyl uveden v život.
@@ -63,7 +66,8 @@ Viz [oznámení podle etického kodexu](https://github.com/pirati-cz/KlubPraha/r
 ### Seznam příjmů od veřejných institucí
 *Následuje seznam příjmů poskytnutých od veřejných institucí. Veřejnou institucí je stát, územní samosprávné celky, veřejné vysoké školy, veřejné výzkumné instituce, školy, prosefní komory, jakož i akciové společnosti nebo jiné veřejné instituce jimi ovládané.*
 
-Viz [rozpis odměn za rok 2014](https://github.com/pirati-cz/KlubPraha/raw/master/odmeny/2014/2014.ods).
+- [rozpis odměn za rok 2014](https://github.com/pirati-cz/KlubPraha/raw/master/odmeny/2014/2014.ods)
+- [rozpis odměn za rok 2015](https://github.com/pirati-cz/KlubPraha/raw/master/odmeny/2015/2015.ods)
 
 Prohlašuji, že jsem výše uvedené údaje uvedl úplně a pravdivě. 
 
