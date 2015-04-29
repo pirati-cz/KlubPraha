@@ -1,4 +1,4 @@
----
+﻿---
 "Funkcionář":        Adam Zábranský
 "Datum narození":    28. 12. 1993
 "E-mail":            adam.zabransky@pirati.cz
@@ -22,12 +22,13 @@ Aktuální informace o stavu jmění
 | Popis věci            | Odhad hodnoty |  Převažující zdroj                  |
 | --------------------- | ------------: |  ---------------------- |
 | Nemovitost s pozemkem s celkovou rozlohou 400 metrů čtverečních v Čerčanech | odhadem 800 000 Kč (kupovali jsme za 250 000 Kč ve špatném stavu) | úspory prarodičů a rodičů | 
-| Bankovní účet u Air Bank a.s. | 340 000 Kč | úspory rodičů, úspory z měsíčních příjmů (viz níže) |
-| Stavební spoření u ČMSS | 110 000 Kč | úspory rodičů | 
+| Bankovní účet u Air Bank a.s. | 300 000 Kč | úspory rodičů, úspory z měsíčních příjmů (viz níže) |
+| Stavební spoření u ČMSS | 130 000 Kč | úspory rodičů | 
 | Dluhopis společnosti DRFG, a.s. | 50 000 Kč | měsíční příjmy |
 | Notebook | 12 000 Kč | měsíční příjmy (viz níže) |
-| Investiční fond Pioneer Investments | 6 000 Kč | měsíční příjmy (viz níže) |
+| Investiční fond Pioneer Investments | 37 000 Kč | měsíční příjmy (viz níže) |
 | Bankovní účet u FIO banky a.s. | 6 000 Kč | měsíční příjmy (viz níže) |
+| Tablet Dell Venue 11 Pro | 30 000 Kč | Výpůjčka od Magistrátu hl. m. Prahy |
 
 
 ### Dluhy
@@ -48,7 +49,7 @@ Z rozpočtu Magistrátu hl. m. Prahy dostávám odměny za výkon funkce člena 
 [rozpis odměn za rok 2014]: https://github.com/pirati-cz/KlubPraha/raw/master/odmeny/2014/2014.ods
 
 ### Neziskové aktivity
-Jsem členem Mladých pirátů a České vegetariánské společnosti. Měsíčně přispívám po 150 Kč následujícím neziskovým organizacím: KohoVolit.eu, Auto*Mat.cz, Centrum aplikované ekonomie, Otevři oči, Česká pirátská strana.
+Jsem členem Mladých pirátů a České vegetariánské společnosti. Měsíčně přispívám po 150 Kč následujícím neziskovým organizacím: KohoVolit.eu, Auto*Mat.cz, Centrum aplikované ekonomie, Otevři oči, Česká pirátská strana, Oživení, Kverulant.org, Farma Naděje.
 
 
 Informace o významných změnách
