@@ -11,10 +11,10 @@ vase:
   znacka:   30/2015/2958/2279
   den:      4.5.2015
 nase:
-  znacka:   ZK Pha 17/2015
+  znacka:   ZK Pha 17-4/2015
   misto:    Praha
 
-vec:        Odvolání zastupitele hl. m. Prahy proti odepření informací
+vec:        Odvolání proti odepření informací
 vyrizuje:   
   jmeno:    Jakub Michálek
   telefon:  +420 775 978 550
