@@ -26,8 +26,8 @@ Vážení,
 
 Dne 18. 3. 2015 jsem na e-mailovou adresu Zákaznického centra (info@dpmcb.cz) Dopravního podniku města České Budějovice a.s. zaslal Žádost o informace, ve které jsem podle zákona č. 106/1999 Sb. o svobodném přístupu k informacím, ve znění pozdějších předpisů (dále jen InfZ), žádal o následující informace:
 
-1. veškeré smlouvy na předmětné služby, a to včetně všech uzavřených dodatků a (pokud máte k dispozici) nejnovějšího konsolidovaného znění textu smlouvy,
-2. informace o celkovém vybraném jízdném prostřednictvím předmětných služeb a o výši celkové provize (jakékoliv platby) jednotlivým dodavatelům (a to v obou případech za rok 2014 a v členění na SMS jízdenky a aplikace do mobilního telefonu, pokud jsou ve Vašem městě používány oba tyto platební kanály).
+1. veškeré smlouvy týkající se prodeje jízdenek prostřednictívm SMS, nebo aplikace do mobilního telefonu, a to včetně všech uzavřených dodatků a (pokud máte k dispozici) nejnovějšího konsolidovaného znění textu smlouvy,
+2. informace o celkovém vybraném jízdném prostřednictvím takovýchto služeb a o výši celkové provize (jakékoliv platby) jednotlivým dodavatelům (a to v obou případech za rok 2014 a v členění na SMS jízdenky a aplikace do mobilního telefonu, pokud jsou ve Vašem městě používány oba tyto platební kanály).
 
 Povinný subjekt mě vyzval k doplnění žádosti dne 24. 3., neboť si nebyl jist, kdo žádost podává. Toto doplnění jsem učinil. Povinný subjekt následně odpověděl dne 6. 5. 2015, a to poté, co došlo k úhradě za poskytnutí informace v dané věci ve výši 240,-Kč. 
 
