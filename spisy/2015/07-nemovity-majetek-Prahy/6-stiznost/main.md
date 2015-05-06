@@ -44,7 +44,7 @@ tuto nemovitost, popř. jednotku,
 * u jednotek, které jsou pronajímány, výši nájmu za metr čtvereční, jméno (popř. název)
 nájemce, dobu nájmu.
 
-Povinný subjekt v této žádosti nečinný, proto jsem dne 24. 2. 2015 podal stížnost proti nečinnosti. Následně byla má žádost dne 9. 3. 2015 odmítnuta, a to s odůvodněním, že se jedná o informace, obsahující osobní údaje. Proti tomuto rozhodnutí povinného subjektu jsem podal dne 17. 3. 2015 odvolání. Nadřízený orgán, v tomto případě Ministerstvo vnitra České republiky, dne 17. 4. 2015 zrušilo rozhodnutí povinného subjektu a vrátilo mu celou věc k novému projednání. 
+Povinný subjekt v této žádosti nečinný, proto jsem dne 24. 2. 2015 podal stížnost proti nečinnosti. Následně byla má žádost dne 9. 3. 2015 odmítnuta. Proti tomuto rozhodnutí povinného subjektu jsem podal dne 17. 3. 2015 odvolání. Nadřízený orgán, v tomto případě Ministerstvo vnitra České republiky, dne 17. 4. 2015 zrušilo rozhodnutí povinného subjektu a vrátilo mu celou věc k novému projednání. 
 
 Od povinného subjektu jsem nicméně opět nedostal žádnou odpověď a to přesto, že už uplynula 15denní lhůta daná zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen InfZ). Proto dle § 16a odst. 1 písm. b) na tento postup podávám stížnost.
 
