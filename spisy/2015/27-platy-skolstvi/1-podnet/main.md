@@ -12,10 +12,10 @@ vase:
   znacka:   
   den:      
 nase:
-  znacka:   ZK Pha 31/2015
+  znacka:   ZK Pha 27/2015
   misto:    Praha
 
-vec:        Průměrná výše nájmů v okolí Škodova paláce 
+vec:        Opakované vydávání nezákonných rozhodnutí o odepření informace o příjmech ředitelů mateřských škol
 vyrizuje:   
   jmeno:    Jakub Michálek
   telefon:  +420 775 978 550
@@ -23,10 +23,7 @@ vyrizuje:
   mail:     jakub.michalek@praha.eu
 ---
 
-Vážený pane řediteli,
-
-podle organizačního řádu Magistrátu hl. m. Prahy patří do působnosti Vašeho odboru mj. –„soustřeďuje aktuální informace o cenových relacích pronájmů v zájmových lokalitách hlavního
-města Prahy,“
+Vážená paní ředitelko,
 
 obracím se na Vás ve věci opakovaného vydávání rozhodnutí o odepření informace o platech ředitelů mateřských škol v hlavním městě Praze. Vydáváná rozhodnutí jsou opakovaně rušena Ministerstvem vnitra pro **nezákonnost**. Ministerstvo vnitra je nadřízeným správním orgánem a jeho právní názor je pro Váš úřad závazný ve smyslu § 90 odst. 1 písm. b) zákona č. 500/2004 Sb., správního řádu. 
 
