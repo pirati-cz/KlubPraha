@@ -1,0 +1,128 @@
+{\rtf1\ansi\ansicpg1250\uc1 \deff0\deflang1029\deflangfe1029{\fonttbl{\f0\froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset238\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f30\froman\fcharset0\fprq2 Times New Roman;}{\f29\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f31\froman\fcharset161\fprq2 Times New Roman Greek;}{\f32\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f33\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f34\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f35\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f38\fswiss\fcharset0\fprq2 Arial;}{\f37\fswiss\fcharset204\fprq2 Arial Cyr;}
+{\f39\fswiss\fcharset161\fprq2 Arial Greek;}{\f40\fswiss\fcharset162\fprq2 Arial Tur;}{\f41\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f42\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f43\fswiss\fcharset186\fprq2 Arial Baltic;}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;
+\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 
+\snext0 Normal;}{\s1\ql \li0\ri0\sa60\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \b\f1\fs22\ul\lang1029\langfe1029\kerning28\cgrid\langnp1029\langfenp1029 \sbasedon0 \snext0 heading 1;}{
+\s2\ql \li0\ri0\sb240\sa60\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \b\i\f1\fs24\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon0 \snext0 heading 2;}{\s3\ql \li0\ri0\sb240\sa60\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 
+\b\f1\fs24\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon0 \snext0 heading 3;}{\s5\ql \li0\ri0\sb240\sa60\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon0 \snext0 heading 5;}
+{\*\cs10 \additive Default Paragraph Font;}{\s15\ql \li0\ri0\widctlpar\tqc\tx4536\tqr\tx9072\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon0 \snext15 footer;}{\s16\ql \li0\ri0\widctlpar
+\tqc\tx4536\tqr\tx9072\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon0 \snext16 header;}{\s17\qc \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 
+\b\f1\fs28\expnd8\expndtw40\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon0 \snext17 DruhTisku;}{\s18\qc \li0\ri0\sb120\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \i\f1\fs22\ul\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 
+\sbasedon0 \snext18 Subjekt;}{\s19\qc \li0\ri0\widctlpar\brdrt\brdrs\brdrw30\brsp20 \brdrl\brdrs\brdrw30\brsp20 \brdrb\brdrs\brdrw30\brsp20 \brdrr\brdrs\brdrw30\brsp20 
+\pvpara\phpg\posx4139\posy223\absh1051\absw3945\dxfrtext142\dfrmtxtx142\dfrmtxty0\nooverflow\faroman\rin0\lin0\itap0 \b\f1\fs56\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon0 \snext19 Tisk;}{
+\s20\ql \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \b\f1\fs16\ul\lang1029\langfe1029\kerning28\cgrid\langnp1029\langfenp1029 \sbasedon1 \snext20 Meziradek;}{\s21\ql \li0\ri0\widctlpar
+\tqc\tx4536\tqr\tx9072\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon16 \snext21 Usnesen\'ed;}{\s22\ql \li0\ri0\widctlpar\tx1418\tx2835\tqc\tx4536\tqr\tx9072\nooverflow\faroman\rin0\lin0\itap0 
+\f1\fs10\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon15 \snext22 Minim\'e1ln\'ed;}{\s23\qc \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \b\f1\fs28\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon0 \snext23 Velk\'e91;}{
+\s24\ql \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \i\f1\fs22\ul\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon0 \snext24 TiskKon;}{\s25\ql \li0\ri0\sa60\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 
+\b\f1\fs22\ul\lang1029\langfe1029\kerning28\cgrid\langnp1029\langfenp1029 \sbasedon1 \snext25 NadpisT1;}{\s26\qc \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon0 \snext26 UsnKoho;}
+{\s27\ql \li0\ri0\sb60\sa60\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \b\f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon0 \snext27 Usntu\'e8n\'e9;}{\s28\qj \fi-709\li709\ri0\sa60\widctlpar\nooverflow\faroman\rin0\lin709\itap0 
+\f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon0 \snext28 Podod1;}{\s29\qj \fi-709\li709\ri0\sa60\widctlpar\nooverflow\faroman\rin0\lin709\itap0 \f1\fs22\ul\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon28 \snext29 
+Nositel;}{\s30\qj \li1418\ri0\sa60\widctlpar\nooverflow\faroman\rin0\lin1418\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon28 \snext30 Podod2;}{\s31\ql \fi-283\li283\ri0\widctlpar{\*\pn \pnlvlbody\ilvl11\ls2047\pnrnot0
+\pndec\pnstart1\pnindent283\pnhang{\pntxta .}}\nooverflow\faroman\ls2047\ilvl11\rin0\lin283\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon0 \snext31 Odra\'9een\'fd;}{
+\s32\qj \fi-709\li709\ri0\sa60\widctlpar\nooverflow\faroman\rin0\lin709\itap0 \f1\fs22\ulw\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon28 \snext32 Podod1P;}{\s33\ql \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 
+\b\f1\fs22\expnd11\expndtw56\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon0 \snext33 ProlTuc;}{\s34\qj \fi-709\li709\ri0\sb60\sa60\widctlpar\nooverflow\faroman\rin0\lin709\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 
+\sbasedon28 \snext34 Termin;}{\s35\ql \li0\ri0\sa120\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon0 \snext35 Body Text;}{
+\s36\ql \fi-1418\li1418\ri0\widctlpar\nooverflow\faroman\rin0\lin1418\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 \sbasedon0 \snext36 Paticka1;}}{\info{\title Hlavn\'ed m\'ecsto Praha}{\author INF}
+{\doccomm V\'9aechna pr\'e1va k tomuto d\'edlu jsou vyhrazena firmou OBIS Praha s.r.o.\'0d\'0aZ\'e1kaz \'9a\'ed\'f8en\'ed bez souhlasu autora.}{\operator INF}{\creatim\yr2006\mo1\dy11\hr15\min35}{\revtim\yr2006\mo1\dy11\hr15\min35}{\version1}{\edmins0}
+{\nofpages2}{\nofwords319}{\nofchars1819}{\*\company OBIS Praha s.r.o.}{\nofcharsws2233}{\vern8229}}\paperw11907\paperh16840\margl1417\margr1134\margt993\margb1134 \deftab709\widowctrl\ftnbj\aenddoc\hyphhotz425\formshade\horzdoc\dghspace120\dgvspace120
+\dghorigin1701\dgvorigin1984\dghshow1\dgvshow0\jexpand\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\bdrrlswsix\nolnhtadjtbl\oldas \fet0{\*\template C:\\DOCUME~1\\okz7926\\LOCALS~1\\Temp\\~OB137F.tmp}{\*\docvar {FileName}{T0838.DOC}}\sectd 
+\linex0\headery708\footery708\colsx708\endnhere\sectdefaultcl {\header \pard\plain \s16\ql \li0\ri0\widctlpar\tqc\tx4536\tqr\tx9072\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {
+\par }}{\*\pnseclvl1\pndec\pnprev1\pnstart1 {\pntxta .}}{\*\pnseclvl2\pndec\pnprev1\pnstart1 {\pntxta .}}{\*\pnseclvl3\pndec\pnprev1\pnstart1 {\pntxta .}}{\*\pnseclvl4\pndec\pnprev1\pnstart1 {\pntxta .}}{\*\pnseclvl5\pndec\pnprev1\pnstart1 {\pntxta .}}
+{\*\pnseclvl6\pndec\pnprev1\pnstart1 {\pntxta .}}{\*\pnseclvl7\pndec\pnprev1\pnstart1 {\pntxta .}}{\*\pnseclvl8\pndec\pnprev1\pnstart1 {\pntxta .}}{\*\pnseclvl9\pndec\pnprev1\pnstart1 {\pntxta .}}\pard\plain 
+\s20\qc \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \b\f1\fs16\ul\lang1029\langfe1029\kerning28\cgrid\langnp1029\langfenp1029 {\fs28\ulnone Hlavn\'ed m\'ecsto Praha}{
+\par }\pard \s20\ql \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {
+\par }\pard\plain \s23\qc \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \b\f1\fs28\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart U_kdo}RADA HLAVN\'cdHO M\'ccSTA PRAHY{\*\bkmkend U_kdo}
+\par }\pard\plain \ql \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {
+\par }\pard\plain \s21\qc \li0\ri0\sa120\widctlpar\tqc\tx4536\tqr\tx9072\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {\fs32\expnd28\expndtw140 USNESEN\'cd
+\par }\pard\plain \s26\qc \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart U_koho}Rady hlavn\'edho m\'ecsta Prahy{\*\bkmkend U_koho}
+\par }\pard\plain \s15\qc \li0\ri0\widctlpar\tqc\tx4536\tqr\tx9072\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {
+\par }\pard\plain \s26\qc \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {\'e8\'edslo {\*\bkmkstart U_cisloU}0039{\*\bkmkend U_cisloU}
+\par ze dne  {\*\bkmkstart U_datum}10.1.2006{\*\bkmkend U_datum}
+\par }\pard\plain \s18\qc \li0\ri0\sb120\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \i\f1\fs22\ul\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart U_kcemu}k n\'e1vrhu na rozhodnut\'ed Rady hlavn\'edho m\'ecsta Prahy o p\'f8id\'eclen\'ed ve
+\'f8ejn\'e9 zak\'e1zky na slu\'9eby "Alokace pracovi\'9a\'9d Magistr\'e1tu hlavn\'edho m\'ecsta Prahy" zah\'e1jen\'e9 dne 22.srpna 2005 ozn\'e1men\'edm na centr\'e1ln\'ed adrese pod eviden\'e8n\'edm \'e8\'edslem 50012165 podle z\'e1kona \'e8. 40/2004 Sb.,
+ o ve\'f8ejn\'fdch zak\'e1zk\'e1ch, ve zn\'ecn\'ed pozd\'ecj\'9a\'edch p\'f8edpis\'f9{\*\bkmkend U_kcemu}
+\par }\pard\plain \s15\qc \li0\ri0\widctlpar\tqc\tx4536\tqr\tx9072\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {
+\par }\pard \s15\qc \li0\ri0\widctlpar\tqc\tx4536\tqr\tx9072\nooverflow\faroman\rin0\lin0\itap0 {
+\par }\pard\plain \s27\ql \li0\ri0\sb60\sa60\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \b\f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart U_kdo2}Rada hlavn\'edho m\'ecsta Prahy{\*\bkmkend U_kdo2}
+\par }\pard\plain \ql \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {
+\par }\pard\plain \s33\ql \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \b\f1\fs22\expnd11\expndtw56\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart ODS1}I.{\*\bkmkend ODS1}\tab bere na v\'ecdom\'ed
+\par }\pard\plain \s28\qj \li709\ri0\sa60\widctlpar\nooverflow\faroman\rin0\lin709\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart OPO10}{\*\bkmkend OPO10}informaci o pr\'f9b\'echu otev\'f8en\'e9ho zad\'e1vac\'edho \'f8\'edzen
+\'ed vyhl\'e1\'9aen\'e9ho na ve\'f8ejnou zak\'e1zku na slu\'9eby "Alokace pracovi\'9a\'9d Magistr\'e1tu hlavn\'edho m\'ecsta Prahy" uve\'f8ejn\'ecn\'e9 na centr\'e1ln\'ed adrese dne 22. srpna 2005 pod ev. \'e8. 50012165 podle z\'e1kona \'e8
+. 40/2004 Sb., o ve\'f8ejn\'fdch zak\'e1zk\'e1ch, ve zn\'ecn\'ed pozd\'ecj\'9a\'edch p\'f8edpis\'f9 (d\'e1le jen "z\'e1kon") uvedenou v d\'f9vodov\'e9 zpr\'e1v\'ec a jej\'edch p\'f8\'edloh\'e1ch
+\par 
+\par }\pard\plain \s33\ql \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \b\f1\fs22\expnd11\expndtw56\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart ODS2}II.{\*\bkmkend ODS2}\tab rozhoduje
+\par }\pard\plain \s28\qj \li709\ri0\sa60\widctlpar\nooverflow\faroman\rin0\lin709\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart OPO20}{\*\bkmkend OPO20}o p\'f8id\'eclen\'ed ve\'f8ejn\'e9 zak\'e1zky "Alokace pracovi\'9a\'9d
+ Magistr\'e1tu hlavn\'edho m\'ecsta Prahy" uchaze\'e8i COPA Retail, s.r.o., Na P\'f8\'edkop\'ec 22/859, Praha 1, I\'c8 26211700, kter\'fd se \'fa\'e8astnil zad\'e1vac\'edho \'f8\'edzen\'ed jako jedin\'fd uchaze\'e8 a jeho\'9e nab\'ed
+dka byla vyhodnocena jako ekonomicky v\'fdhodn\'e1 na z\'e1klad\'ec d\'edl\'e8\'edch krit\'e9ri\'ed uveden\'fdch v p\'f8\'edloze \'e8. 1 k tomuto usnesen\'ed
+\par 
+\par }\pard\plain \s33\ql \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \b\f1\fs22\expnd11\expndtw56\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart ODS3}III.{\*\bkmkend ODS3}\tab ukl\'e1d\'e1
+\par }\pard\plain \s28\qj \fi-284\li992\ri0\sa60\keepn\widctlpar\nooverflow\faroman\rin0\lin992\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart OPO31}1.{\*\bkmkend OPO31}\tab }{\ul \'f8editeli MHMP}{
+\par }\pard\plain \s30\qj \fi-284\li1276\ri0\sb60\keepn\widctlpar\nooverflow\faroman\rin0\lin1276\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart OPU311}1.{\*\bkmkend OPU311}\tab ozn\'e1mit rozhodnut\'ed o p\'f8id\'eclen\'ed ve
+\'f8ejn\'e9 zak\'e1zky s uveden\'edm n\'e1le\'9eitost\'ed dle ustanoven\'ed \'a7 65 odst. 2 z\'e1kona
+\par }\pard\plain \s34\qj \fi-709\li709\ri0\sb60\sa60\widctlpar\tx6521\tx7371\nooverflow\faroman\rin0\lin709\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {\tab \tab Term\'edn:\tab 31.  1.2006
+\par }\pard\plain \s30\qj \fi-284\li1276\ri0\sb60\keepn\widctlpar\nooverflow\faroman\rin0\lin1276\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart OPX311}{\*\bkmkstart OPU312}{\*\bkmkend OPX311}2.{\*\bkmkend OPU312}\tab u\'e8
+init pr\'e1vn\'ed kroky souvisej\'edc\'ed s p\'f8id\'eclen\'edm ve\'f8ejn\'e9 zak\'e1zky "Alokace pracovi\'9a\'9d Magistr\'e1tu hlavn\'edho m\'ecsta Prahy"
+\par }\pard\plain \s34\qj \fi-709\li709\ri0\sb60\sa60\widctlpar\tx6521\tx7371\nooverflow\faroman\rin0\lin709\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {\tab \tab Term\'edn:\tab 31.  1.2006
+\par }\pard\plain \s30\qj \fi-284\li1276\ri0\sb60\keepn\widctlpar\nooverflow\faroman\rin0\lin1276\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart OPX312}{\*\bkmkstart OPU313}{\*\bkmkend OPX312}3.{\*\bkmkend OPU313}\tab uzav\'f8
+\'edt smlouvu o n\'e1jmu objektu a o poskytov\'e1n\'ed facility managementu s uchaze\'e8em, kter\'e9mu byla p\'f8id\'eclena ve\'f8ejn\'e1 zak\'e1zka dle bodu II. tohoto usnesen\'ed
+\par }\pard\plain \s34\qj \fi-709\li709\ri0\sb60\sa60\widctlpar\tx6521\tx7371\nooverflow\faroman\rin0\lin709\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {\tab \tab Term\'edn:\tab 31.  1.2006
+\par }\pard\plain \s30\qj \fi-284\li1276\ri0\sb60\keepn\widctlpar\nooverflow\faroman\rin0\lin1276\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart OPX313}{\*\bkmkstart OPU314}{\*\bkmkend OPX313}4.{\*\bkmkend OPU314}\tab 
+zajistit vlastn\'ed pr\'f9b\'ech realizace alokace pracovi\'9a\'9d Magistr\'e1tu hlavn\'edho m\'ecsta Prahy
+\par }\pard\plain \s34\qj \fi-709\li709\ri0\sb60\sa60\widctlpar\tx5670\tx7371\nooverflow\faroman\rin0\lin709\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {\tab \tab Kontroln\'ed term\'edn:\tab 30.  9.2006
+\par }\pard\plain \s30\qj \fi-284\li1276\ri0\sb60\keepn\widctlpar\nooverflow\faroman\rin0\lin1276\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart OPX314}{\*\bkmkstart OPU315}{\*\bkmkend OPX314}5.{\*\bkmkend OPU315}\tab zajistit 
+\'f8\'e1dn\'e9 pln\'ecn\'ed v\'9aech podm\'ednek smlouvy dle bodu III.3. tohoto usnesen\'ed a jednat s vybran\'fdm uchaze\'e8em o p\'f8\'edpadn\'e9 \'faprav\'ec smluvn\'edch podm\'ednek ve prosp\'ecch zadavatele a to v souladu se z\'e1konem
+\par }\pard\plain \s34\qj \fi-709\li709\ri0\sb60\sa60\keepn\widctlpar\tx6521\tx7371\nooverflow\faroman\rin0\lin709\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {\tab \tab Term\'edn:\tab 31.  1.2006
+\par }\pard\plain \s28\qj \fi-709\li709\ri0\sa60\keepn\widctlpar\nooverflow\faroman\rin0\lin709\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart OPX315}{\*\bkmkend OPX315}
+\par }\pard\plain \ql \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {
+\par }\pard \ql \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {
+\par }\pard \ql \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\pard \ql \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {
+\par }\pard\plain \s26\qc \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart U_Pod11}MUDr. Pavel B\'e9m{\*\bkmkend U_Pod11}
+\par }\pard \s26\qc \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {{\*\bkmkstart U_Pod12}prim\'e1tor hl.m. Prahy {\*\bkmkend U_Pod12}
+\par }\pard\plain \qc \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {
+\par }\pard \qc \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {
+\par 
+\par }\pard\plain \s26\qc \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {{\*\bkmkstart U_Pod21}Ing. Jan B\'fcrgermeister{\*\bkmkend U_Pod21}
+\par }\pard \s26\qc \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {{\*\bkmkstart U_Pod22}n\'e1m\'ecstek prim\'e1tora hl.m. Prahy {\*\bkmkend U_Pod22}
+\par }\pard\plain \ql \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {
+\par }\pard \ql \li0\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {
+\par 
+\par }\pard\plain \s36\ql \fi-1418\li1418\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin1418\itap0 \f1\fs22\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {\ul P\'f8edkladatel:}{ \tab {\*\bkmkstart U_Predkl1}\'f8editel MHMP{\*\bkmkend U_Predkl1}
+\par }{\ul Tisk:}{\tab {\*\bkmkstart U_TiskC}0838{\*\bkmkend U_TiskC}
+\par }\pard \s36\ql \fi-1418\li1418\ri0\keepn\widctlpar\nooverflow\faroman\rin0\lin1418\itap0 {\ul Provede:}{\tab \'f8editel MHMP\tab 
+\par }\pard \s36\ql \fi-1418\li1418\ri0\widctlpar\nooverflow\faroman\rin0\lin1418\itap0 {\ul Na v\'ecdom\'ed:}{\tab {\*\bkmkstart U_Naved}odbory MHMP}{\fs28 {\*\bkmkend U_Naved}
+\par }\pard\plain \s22\ql \li0\ri0\keepn\widctlpar\tx1418\tx2835\tqc\tx4536\tqr\tx9072\nooverflow\faroman\rin0\lin0\itap0 \f1\fs10\lang1029\langfe1029\cgrid\langnp1029\langfenp1029 {
+\par }}
