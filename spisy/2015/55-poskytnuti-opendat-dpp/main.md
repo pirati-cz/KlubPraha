@@ -22,7 +22,8 @@ vyrizuje:
 
 Vážený pane předsedo představenstva,
 
-na základě našeho setkání 15. 5. Vám piši ohledně Otevřených dat (opendat).
+na základě našeho setkání 15. 5., následném projednání s radním pro dopravu Petrem Dolínkem, Vám piši ohledně Otevřených dat (opendat).
+Komise ICT RHMP též schválila projektový záměr v rozsahu celoměstského projektu.
 
 Rád bych vás požádal o následující data:
 
@@ -33,15 +34,18 @@ Rád bych vás požádal o následující data:
 
 Všechna data je potřeba dodat ve strojově čitelných formátech a bez licenčních omezení. U jízdních řádů a zpoždění samozřejmě musí jít o data aktuální a aktualizovaná.
 
-Přesné formáty a formu bych rád projednal přímo s příslušným správcem dat (IT, analytický útvar, ...). Abychom dojednali nejlepší formát a formu předání pro obě strany. Předpokládám formát GTFS pro jízdní řády, csv pro tabulky.
+Přesné formáty a formu bych rád projednal přímo s příslušným správcem dat (IT, analytický útvar, ...), abychom dojednali nejlepší formát a formu předání pro obě strany. Předpokládám formát GTFS pro jízdní řády, csv pro tabulky.
 
 Pro pilotní projekt je pro nás klíčové datum 10. 6. a byl bych velmi rád, kdybychom se do tohoto termínu dopracovali výsledků.
 
-S vědomím radního pro dopravu Petra Dolínka: ...........
-
-\bigskip
+\medskip
 
 s pozdravem
 
 Ondřej Profant  
-zastupitel HMP
+zastupitel HMP  
+člen komise ICT RHMP
+
+\medskip
+
+Souhlasím radní Petr Dolínek ..................

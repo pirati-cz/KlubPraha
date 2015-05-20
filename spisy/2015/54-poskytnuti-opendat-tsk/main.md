@@ -6,7 +6,7 @@ prijemce:
   PSC:      110 15
   mesto:    Praha 1
   DS:       
-styl:       plainletter
+styl:       pirati-klub
 vase:
   znacka:   
   den:
@@ -20,7 +20,7 @@ vyrizuje:
   mail:     ondrej.profant@praha.eu
 ---
 
-Navazuji na naše setkání ohledně Otevřených dat (opendat).
+Navazuji na naše setkání ohledně Otevřených dat (opendat). Celoměstský projekt byl schválen komisí ICT RHMP a projednán s radním Petrem Dolínkem.
 
 Rád bych Vás požádal o následující datové sady:
 
@@ -37,13 +37,15 @@ Přesné formáty a formu bych rád projednal přímo s příslušným správcem
 
 Pro pilotní projekt je pro nás klíčové datum 10. 6. a byl bych velmi rád, kdybychom se do tohoto termínu dopracovali výsledků.
 
-S vědomím radního pro dopravu Petra Dolínka: ..............
-
-\bigskip
+\medskip
 
 s pozdravem
 
 Ondřej Profant  
-zastupitel HMP
+zastupitel HMP  
+člen komise ICT RHMP
 
+\medskip
+
+Souhlasím radní Petr Dolínek ..................
 
