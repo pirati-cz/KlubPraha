@@ -1,0 +1,99 @@
+; journal created 2015-05-18 by hledger
+
+; Nastavení české koruny jako základního údaje
+D 1000 Kč
+
+; PŘÍKLAD ZAÚČTOVÁNÍ PAUŠÁLNÍ ODMĚNY
+
+2014-02-01 výplata paušální odměny za leden
+    ; osoba:Jakub Michálek
+    náklady:vyplacená odměna                2000
+    náklady:zdravotní pojištění              400
+    náklady:záloha na daň                    300
+    výnosy:paušální odměna     
+
+
+
+; PŘÍKLAD ZAÚČTOVÁNÍ NÁHRAD ZASTUPITELŮ
+
+  ; uplatnění nároku
+  
+2014-02-01 odevzdání výčetky za leden
+    ; osoba:Jakub Michálek
+    aktiva:pohledávka                     12000
+    výnosy:hodinová náhrada
+
+  ; uplatnění nároku
+  
+2014-02-01 výplata výčetky za leden
+    ; osoba:Jakub Michálek
+    aktiva:pohledávka                    -12000
+    náklady:vyplacená odměna              12000
+    
+
+
+
+; PŘÍKLAD ZAÚČTOVÁNÍ ODMĚNY Z MANDÁTNÍ SMLOUVY
+
+  ; uplatnění nároku
+  
+2014-02-01 schválení odměny z mandátní smlouvy
+    ; osoba:Jakub Michálek
+    aktiva:pohledávka                     12000
+    výnosy:smluvní odměna:pevná část       -8500
+    výnosy:smluvní odměna:proměnlivá část  -3500
+
+  ; uplatnění nároku
+  
+2014-02-01 výplata odměny podle mandátní smlouvy
+    ; osoba:Jakub Michálek
+    aktiva:pohledávka                    -12000
+    náklady:vyplacená odměna              12000
+    
+    
+; PŘÍKLAD ZAÚČTOVÁNÍ PAUŠÁLNÍ ODMĚNY
+
+2014-02-01 výplata paušální odměny za leden
+    ; osoba:Adam Zábranský
+    náklady:vyplacená odměna                2200
+    náklady:zdravotní pojištění              400
+    náklady:záloha na daň                    300
+    výnosy:paušální odměna     
+
+
+
+; PŘÍKLAD ZAÚČTOVÁNÍ NÁHRAD ZASTUPITELŮ
+
+  ; uplatnění nároku
+  
+2014-02-01 odevzdání výčetky za leden
+    ; osoba:Adam Zábranský
+    aktiva:pohledávka                     8000
+    výnosy:hodinová náhrada
+
+  ; uplatnění nároku
+  
+2014-02-01 výplata výčetky za leden
+    ; osoba:Adam Zábranský
+    aktiva:pohledávka                    -8000
+    náklady:vyplacená odměna              8000
+    
+
+
+
+; PŘÍKLAD ZAÚČTOVÁNÍ ODMĚNY Z MANDÁTNÍ SMLOUVY
+
+  ; uplatnění nároku
+  
+2014-02-01 schválení odměny z mandátní smlouvy
+    ; osoba:Adam Zábranský
+    aktiva:pohledávka                     11000
+    výnosy:smluvní odměna:pevná část       -8500
+    výnosy:smluvní odměna:proměnlivá část  -2500
+
+  ; uplatnění nároku
+  
+2014-02-01 výplata odměny podle mandátní smlouvy
+    ; osoba:Adam Zábranský
+    aktiva:pohledávka                    -11000
+    náklady:vyplacená odměna              11000
