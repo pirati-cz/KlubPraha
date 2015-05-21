@@ -1,7 +1,7 @@
 ﻿---
 prijemce: 
   role:     Povinný subjekt
-  nazev:    Úpravna vody Želivka, a.s.
+  nazev:    Vodárna Káraný, a.s.
   ulice:    Žatecká 110/2
   PSC:      110 00
   mesto:    Praha 1
