@@ -13,7 +13,7 @@ vase:
 nase:
   znacka:   ZK Pha 38/2015
   misto:    Praha
-vec:        Žádost zastupitele hl. m. Prahy o informace
+vec:        Odvolání zastupitele hl. m. Prahy proti odepření informací
 vyrizuje:   
   jmeno:    Adam Zábranský
   telefon:  +420 721 006 868
@@ -23,11 +23,13 @@ vyrizuje:
 
 Vážení,
 
-v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o následující informace:
+dne 29. dubna 205 jsem vás v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, žádal o následující informace:
   - aktuální seznam členů dozorčí rady a přestavenstva společnosti
   - výši jejich měsíčních odměn, popř. pravidla pro udělování speciálních odměn.
 
-Žádám o poskytnutí informací na elektronickou adresu uvedenou v patičce této zprávy. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
+http://www.nssoud.cz/files/SOUDNI_VYKON/2012/0005_8Aps_120_20130306103239_prevedeno.pdf
+
+Prosím o doručování prostřednictvím e-mailové adresy nebo datové schránky uvedené v patičce tohoto dopisu. Předem děkuji za Vaši vstřícnost.
 
 ---
 podpis: 
