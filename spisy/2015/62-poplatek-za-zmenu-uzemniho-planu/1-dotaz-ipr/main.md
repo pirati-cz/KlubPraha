@@ -2,7 +2,7 @@
 prijemce:
   role:
   nazev:    Institut plánování a rozvoje
-  dovetek:  příspěvková organizace hl. m. Prahy
+  dovetek:  Ing. arch. Petr Hlaváček 
   ulice:    Vyšehradská 2077/57
   PSC:      12800
   mesto:    Praha 2 – Nové Město
@@ -22,9 +22,10 @@ vyrizuje:
   mail:     jakub.michalek@praha.eu
 ---
 
-Vážení,
+Vážený pane řediteli,
 
-v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vám zasílám následující:
+v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vám zasílám následující
+připomínku, dotaz a podnět:
 
 **Připomínka k problému zhodnocení pozemku**
 
@@ -61,7 +62,13 @@ Předpokládám, že Institut plánování a rozvoje (jako odborný garant pří
 územního plánu a územního plánování v Praze obecně) má dobré povědomí
 o této odborné otázce, na kterou jako zastupitel neznám odpověď.
 
-Pokud je mi známo, česká legislativa v současné době přiznává obci právo pouze zavést poplatek za zhodnocení pozemku jeho připojením na stavbu vodovodu nebo kanalizace (§ 10c zákona č. 565/1990 Sb.).
+Pokud je mi známo, česká legislativa v současné době přiznává obci pouze 
+
+* právo zavést poplatek za zhodnocení pozemku jeho připojením na stavbu vodovodu 
+nebo kanalizace (§ 10c zákona č. 565/1990 Sb.) a 
+* právo na částečnou nebo úplnou úhradu nákladů na zpracování změny územního 
+plánu, vyhodnocení vlivů na udržitelný rozvoj území a na mapové podklady
+(§ 45 odst. 4 zákona č. 183/2006 Sb.).
 
 
 **Podnět k legislativnímu řešení problému**
@@ -83,7 +90,14 @@ provést navazující legislativní změny):
 
 Změnu je třeba navrhnout takovým způsobem, aby řešila výše
 nastíněný problém. Zejména je třeba mluvit obecně o nemovitosti, neboť
-jinak by bylo možné předpis obcházet zavedením práva stavby. Podstatná není konkrétní formulace ustanovení, ale jistota, že ustanovení pokrývá všechny možné případy majetkového prospěchu.
+jinak by bylo možné předpis obcházet zavedením práva stavby. Podstatná není konkrétní formulace ustanovení, ale jistota, že ustanovení pokrývá všechny možné případy majetkového prospěchu. 
+
+Pokud jde o změny územního
+plánu pro veřejně prospěšné účely anebo např. pro nepodstatné změny územního plánu,
+které prokazatelně nepovedou ke zvýšení provozu, potřebě navýšení občanského
+vybavení či jiným nákladům pro obec, může obec stanovit v obecně závazné vyhlášce 
+případy osvobození od místního poplatku dle § 14 odst. 2 zákona č. 565/1990 Sb., 
+o místních poplatcích, ve znění pozdějších předpisů.
 
 [^ocenovani]: Vyhláška č. 441/2013 Sb., k provedení zákona o oceňování majetku (oceňovací vyhláška)
 
@@ -91,7 +105,7 @@ jinak by bylo možné předpis obcházet zavedením práva stavby. Podstatná ne
 
 ----
 
-Prosím o poskytnutí informace do datové schránky uvedené v patičce této zprávy, případně v elektronické podobě na mou e-mailovou adresu. Prosím nezasílejte mi již písemnosti na adresu trvalého bydliště nebo adresu sídla strany.
+Prosím o doručení Vašeho vyjádření do datové schránky uvedené v patičce této zprávy, případně v elektronické podobě na mou e-mailovou adresu. Prosím nezasílejte mi již písemnosti na adresu trvalého bydliště nebo adresu sídla strany.
 
 Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více
 datových zprávách, nebo se dostavím s paměťovým médiem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte
