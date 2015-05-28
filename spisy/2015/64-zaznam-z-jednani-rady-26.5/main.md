@@ -23,7 +23,7 @@ vyrizuje:
 
 Vážení,
 
-v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o poskytnutí zvukového záznamu z jednání Rady, které se konalo tento týden, tedy 19. května 2015.
+v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o poskytnutí zvukového záznamu z jednání Rady, které se konalo tento týden, tedy 26. května 2015.
 
 Prosím o poskytnutí informace do datové schránky uvedené v patičce této zprávy či na e-mailovou adresu. Vyžaduje-li to velikost poskytovaných informací, dostavím se s paměťovým médiem. Předem děkuji za Vaši vstřícnost.
 
