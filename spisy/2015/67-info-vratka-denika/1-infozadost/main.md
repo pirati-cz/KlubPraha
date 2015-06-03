@@ -27,10 +27,11 @@ v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve
 
 1. kopie dokladu o všech platbách hl. m. Prahy společnosti DENIKA REAL a.s. za poslední 1 rok,
 2. právní stanoviska a jiné podklady, které má magistrát k dispozici ohledně 
-   právních vztahů hl. m. Prahy a městské části Praha 5 ke společnosti DENIKA REAL a.s.,
+   dvoustranných a třístranných právních vztahů mezi hl. m. Prahou, městskou částí Praha 5 a společností DENIKA REAL a.s.,
 3. veškeré informace obsažené v informačním systému TED o tiscích Rady hl. m. 
-   Prahy a Zastupitelstva hl. m. Prahy (poskytnutím neomezeného 
-   přístupu v systému TED, zejména k přílohám a zaneseným připomínkám).
+   Prahy a Zastupitelstva hl. m. Prahy, které byly uzavřeny v minulých volebních obdobích (poskytnutím 
+   výstupu z databáze programu TED anebo zrušením existujících přístupových omezení
+   v systému TED, zejména pokud jde o přílohy, důvodové zprávy a zanesené připomínky).
 
 Prosím o poskytnutí informace do datové schránky uvedené v patičce této zprávy
 anebo e-mailem, není-li uvedeno jinak. Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více datových zprávách, nebo se dostavím s paměťovým médiem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
