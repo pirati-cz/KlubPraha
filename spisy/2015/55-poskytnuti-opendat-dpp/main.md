@@ -32,7 +32,7 @@ Rád bych vás požádal o následující data:
 * data ze sčítání (metra, autobusy i tramvaje), nejen poslední, ale ideálně i historické
 * některá data z výročních zpráv (jako samostatné tabulky pro strojové zpracování), např. vozový park, délka tratí etc.
 
-Všechna data je potřeba dodat ve strojově čitelných formátech a bez licenčních omezení. U jízdních řádů a zpoždění samozřejmě musí jít o data aktuální a aktualizovaná.
+Všechna data je potřeba dodat ve strojově čitelných formátech a bez licenčních omezení. U\ jízdních řádů a zpoždění samozřejmě musí jít o data aktuální a aktualizovaná.
 
 Přesné formáty a formu bych rád projednal přímo s příslušným správcem dat (IT, analytický útvar, ...), abychom dojednali nejlepší formát a formu předání pro obě strany. Předpokládám formát GTFS pro jízdní řády, csv pro tabulky.
 
