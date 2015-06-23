@@ -1,4 +1,4 @@
-﻿---
+---
 prijemce: 
   role:     Povinný subjekt
   nazev:    Hlavní město Praha
@@ -8,10 +8,10 @@ prijemce:
   DS:       48ia97h
 styl:       pirati-klub
 vase:
-  znacka:   
+  znacka:
   den:
 nase:
-  znacka:   ZK Pha 75/2015
+  znacka:   ZK Pha 83/2015
   misto:    Praha
 vec:        Žádost zastupitele hl. m. Prahy o informace
 vyrizuje:   
@@ -23,7 +23,7 @@ vyrizuje:
 
 Vážení,
 
-v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o poskytnutí zvukového záznamu z jednání Rady, které se konalo tento týden, tedy 2. června 2015.
+v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o poskytnutí zvukového záznamu z jednání Rady, které se konalo tento týden, tedy 23. června 2015.
 
 Prosím o poskytnutí informace do datové schránky uvedené v patičce této zprávy či na e-mailovou adresu. Vyžaduje-li to velikost poskytovaných informací, dostavím se s paměťovým médiem. Předem děkuji za Vaši vstřícnost.
 
