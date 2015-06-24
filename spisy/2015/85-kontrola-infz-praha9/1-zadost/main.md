@@ -2,7 +2,7 @@
 prijemce: 
   role:     Kontrolní orgán
   nazev:    Hlavní město Praha
-  dovetek:  Ředitelka odboru legislativního a právního
+  dovetek:  JUDr. Martina Děvěrová
   ulice:    Mariánské náměstí 2/2
   PSC:      11001
   mesto:    Praha 1
@@ -31,9 +31,9 @@ tajemníkem Úřadu Městské části Praha 9, kterou se upravuje postup při ž
 
 Instrukce je nezákonná v následujících aspektech:
 
-1. Instrukce vyžaduje, aby byla žádost o informace podána písemně. Žádný takový požadavek ze zákona č. 131/2000 Sb. nevyplývá. Písemná forma je naopak stanovena pouze pro odpověď úřadu.
-2. Instrukce u písemné žádosti požaduje doručení na konkrétní adresu několika zaměstnanců, dokonce v povinné kopii. Takový požadavek zákonem zastupiteli uložen není. Tento požadavek je v případě e-mailu navíc v rozporu s § 14 odst. 3 zákona č. 106/1999 Sb., který stanoví, že je-li žádost učiněna elektronicky, musí být podána prostřednictvím elektronické adresy podatelny povinného subjektu.
-3. Instrukce vyžaduje, aby byla žádost o poskytnutí informace předána tajemníkovi. § 51 odst.3 písm. c) ve spojení s § 87 odst. 2 zákona o hlavním městě Praze stanoví jednoznačně, že zastupitel je oprávněn při výkonu své funkce požadovat od zaměstnanců úřadu i jím řízených právnických osob, informace ve věcech, které souvisejí s výkonem jeho funkce, nestanoví-li zákon jinak. Instrukce je tedy výjimkou, neboť zastupitel podle ní může podat žádost jen tajemníkovi. Výjimku ze zákona musí podle citovaného ustanovení stanovit zákon a nelze ji přijmout instrukcí. Legální způsob by byl, pokud by bylo instrukcí uloženo zaměstnancům předložit žádost o informaci od zastupitele tajemníkovi. 
+1. Instrukce vyžaduje, aby byla žádost o poskytnutí informace předána zastupitelem jen tajemníkovi. § 51 odst. 3 písm. c) ve spojení s § 87 odst. 2 zákona č. 131/2000 Sb., o hlavním městě Praze stanoví jednoznačně, že zastupitel je oprávněn při výkonu své funkce požadovat od zaměstnanců úřadu i jím řízených právnických osob, informace ve věcech, které souvisejí s výkonem jeho funkce, nestanoví-li zákon jinak. Instrukce je tedy výjimkou, neboť zastupitel podle ní může podat žádost jen tajemníkovi. Výjimku ze zákona musí podle citovaného ustanovení stanovit zákon a nelze ji přijmout instrukcí. Legální způsob by byl, pokud by bylo instrukcí uloženo zaměstnancům předložit žádost o informaci od zastupitele tajemníkovi. 
+2. Instrukce vyžaduje, aby byla žádost o informace podána písemně. Žádný takový požadavek ze zákona č. 131/2000 Sb. nevyplývá. Písemná forma je naopak stanovena pouze pro odpověď úřadu. Ze zákona č. 106/1999 Sb. vyplývá povinnost předložit žádost písemně až v případě, není-li žadatel spokojen s odpovědí na ústní žádost, což ovšem nelze považovat za zproštění úřadu povinnosti poskytovat informace na ústní žádosti. 
+3. Instrukce u písemné žádosti požaduje doručení na konkrétní adresu několika zaměstnanců, dokonce v povinné kopii. Takový požadavek zákonem zastupiteli uložen není, a je tedy nezákonný. Tento požadavek je v případě e-mailu navíc v rozporu s § 14 odst. 3 zákona č. 106/1999 Sb., který stanoví, že je-li žádost učiněna elektronicky, musí být podána prostřednictvím elektronické adresy podatelny povinného subjektu.
 4. Podle instrukce musí být informace vyhotovena do 30 dnů. Vzhledem k tomu, že zákon vyžaduje 15 dní, resp. v případě prodloužení až 25 dnů, je lhůta v instrukci dlouhá a překračuje zákonnou 15denní lhůtu uvedenou v § 14 odst. 5 písm. d) InfZ, o nejméně 5 dní. 
 
 Uvedená instrukce je v rozporu se zákonem, neboť zkracuje zákonná práva zastupitele městské části. Instrukcí lze ukládat povinnosti jen zaměstnanců, nikoliv zastupitelům, neboť ti nejsou vůči tajemníkovi podřízeni. Instrukcí ovšem nelze ukládat povinnosti za podmínek, které jsou v rozporu se zákonem.
