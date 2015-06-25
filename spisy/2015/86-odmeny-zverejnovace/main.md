@@ -12,7 +12,7 @@ vase:
   znacka:   
   den:
 nase:
-  znacka:   ZK Pha 85/2015
+  znacka:   ZK Pha 86/2015
   misto:    Praha
 vec:        Podnět k ohodnocení pracovníka zastupitelského klubu
 vyrizuje:   
@@ -24,7 +24,7 @@ vyrizuje:
 
 Vážený pane řediteli,
 
-jako předseda klubu Pirátů dohlížím na každodenní činnost zaměstnance Magistrátu hl. m. Prahy Bc. Jana Loužka (dále jen "zaměstnanec"), zařazeného do odboru volených orgánů. 
+jako předseda klubu Pirátů dohlížím na každodenní činnost zaměstnance Magistrátu hl. m. Prahy Bc. Jana Loužka (dále jen „zaměstnanec“), zařazeného do odboru volených orgánů. 
 
 Pro účely pravidelného hodnocení zaměstnance, které je založeno na objektivních výsledcích konstatuji, že 
 
@@ -38,7 +38,7 @@ Pro účely pravidelného hodnocení zaměstnance, které je založeno na objekt
 8. zaměstnanec velkou měrou napomáhá informování veřejnosti zveřejňováním dokumentů a publikováním pravidelných článků na blogu zastupitelů, viz http://praha.pirati.cz/blog.html,
 9. zaměstnanec se účastní jednání vybraných výborů zastupitelstva hl. m. Prahy a komise Rady pro ICT, kde nezřídka pomáhá zachycovat průběh jednání, který je následně podkladem zápisu z jednání orgánu,
 10. zaměstnanec se aktivně zapojuje do významných aktivit s celospolečenským dopadem jako je projednání reformy copyrightu, která bude mít dopad mj. i na hlavní město Praha,
-11. zaměstnanec konečně pořizuje fotografickou dokumentaci, která má vysokou hodnotu, je volně dostupná na webu https://www.flickr.com/photos/pirati, včetně možnosti jejího použití ze strany Magistrátu,
+11. zaměstnanec konečně pořizuje fotografickou dokumentaci, která má vysokou hodnotu, je volně dostupná na webu <https://www.flickr.com/photos/pirati>, včetně možnosti jejího použití ze strany Magistrátu,
 12. komunikuje i se zahraničními kontakty plynulou angličtinou, včetně stážistky našeho klubu Alexandry Herzog z University of Michigan.
 
 Za zvlášť důležité považuji následující tři výsledky, které náš pracovník shrnul v přiloženém dokumentu.
