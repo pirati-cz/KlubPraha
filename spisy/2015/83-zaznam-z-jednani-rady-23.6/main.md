@@ -1,4 +1,4 @@
----
+﻿---
 prijemce: 
   role:     Povinný subjekt
   nazev:    Hlavní město Praha
