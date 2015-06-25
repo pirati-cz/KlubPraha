@@ -31,7 +31,7 @@ dne 20. května 2015 jsem prostřednictvím portálu infoprovsechny.cz ČEZ a.s.
 2. seznam všech použitých řešení v oblasti informatiky s použitými open source programy s uvedením dodavatele řešení, názvu
 počítačového programu, rozsahu nasazení (počet uživatelů, koncových zařízení atp.)
 
-Od Povinného subjektu jsem nicméně nedostal žádnou odpověď a to přesto, že už uplynula 15denní lhůta daná InfZ. Proto dle § 16a odst. 1 písm. b) na tento postup podávám stížnost.
+Od povinného subjektu jsem nicméně nedostal žádnou odpověď a to přesto, že už uplynula 15denní lhůta daná InfZ. Proto dle § 16a odst. 1 písm. b) na tento postup podávám stížnost.
 
 Navrhuji, aby nadřízený správní orgán postupem podle § 16a odst. 6 písm. b) InfZ povinnému subjektu přikázal, aby žádost vyřídil ve lhůtě 5 dnů ode dne doručení rozhodnutí nadřízeného orgánu.
 
