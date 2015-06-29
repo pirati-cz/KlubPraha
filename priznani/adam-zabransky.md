@@ -1,4 +1,4 @@
-﻿---
+---
 "Funkcionář":        Adam Zábranský
 "Datum narození":    28. 12. 1993
 "E-mail":            adam.zabransky@pirati.cz
@@ -13,7 +13,7 @@ Majetkové přiznání
 Aktuální informace o stavu jmění
 ----------------------------------
 
-*Tyto seznamy funkcionář průběžně, nejpozději vždy k datu pro podání majetkového přiznání úřadu, udržuje aktuální. Pokud žije funkcionář v manželství, uvedou se zvlášť informace o výlučném jmění manžela a o společném jmění manželů.* 
+*Tyto seznamy funkcionář průběžně, nejpozději vždy k datu pro podání majetkového přiznání úřadu, udržuje aktuální. Pokud žije funkcionář v manželství, uvedou se zvlášť informace o výlučném jmění manžela a o společném jmění manželů.*
 
 ### Majetek
 
@@ -21,12 +21,12 @@ Aktuální informace o stavu jmění
 
 | Popis věci            | Odhad hodnoty |  Převažující zdroj                  |
 | --------------------- | ------------: |  ---------------------- |
-| Nemovitost s pozemkem s celkovou rozlohou 400 metrů čtverečních v Čerčanech | odhadem 800 000 Kč (kupovali jsme za 250 000 Kč ve špatném stavu) | úspory prarodičů a rodičů | 
+| Nemovitost s pozemkem s celkovou rozlohou 400 metrů čtverečních v Čerčanech | odhadem 800 000 Kč (kupovali jsme za 250 000 Kč ve špatném stavu) | úspory prarodičů a rodičů |
 | Bankovní účet u Air Bank a.s. | 300 000 Kč | úspory rodičů, úspory z měsíčních příjmů (viz níže) |
 | Stavební spoření u ČMSS | 130 000 Kč | úspory rodičů | 
 | Dluhopis společnosti DRFG, a.s. | 50 000 Kč | měsíční příjmy |
 | Notebook | 12 000 Kč | měsíční příjmy (viz níže) |
-| Investiční fond Pioneer Investments | 37 000 Kč | měsíční příjmy (viz níže) |
+| Investiční fond Pioneer Investments | 41 500 Kč | měsíční příjmy (viz níže) |
 | Bankovní účet u FIO banky a.s. | 6 000 Kč | měsíční příjmy (viz níže) |
 | Tablet Dell Venue 11 Pro | 30 000 Kč | Výpůjčka od Magistrátu hl. m. Prahy |
 
@@ -63,13 +63,28 @@ Viz [oznámení podle etického kodexu](https://github.com/pirati-cz/KlubPraha/b
 ### Seznam příjmů od veřejných institucí
 *Následuje seznam příjmů poskytnutých od veřejných institucí. Veřejnou institucí je stát, územní samosprávné celky, veřejné vysoké školy, veřejné výzkumné instituce, školy, prosefní komory, jakož i akciové společnosti nebo jiné veřejné instituce jimi ovládané.*
 
-Viz [rozpis odměn za rok 2014](https://github.com/pirati-cz/KlubPraha/raw/master/odmeny/2014/2014.ods).
-
-| Datum plnění | Odhad hodnoty | Popis plnění | 
+| Datum plnění | Odhad hodnoty | Popis plnění |
 | ----------   | ----------   | ------------: |
+| 10.11.2014 | 1392 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
+| 10.12.2014 | 2335 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
 | 11.12.2014 | 1920 Kč | Příjem za brigádu v tiskařském centru Právnické fakulty UK |
 | 18.12.2014 | 780 Kč | Čtvrtletní ubytovací stipendium od Univerzity Karlovy |
+| 09.01.2015 | 3760 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
+| 12.01.2015 | 13 500 Kč | Odměna za výkon mandátu od České pirátské strany |
+| 10.02.2015 | 3665 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
+| 11.02.2015 | 8498 Kč | Odměna za výkon mandátu od České pirátské strany |
+| 27.02.2015 | 3150 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
+| 27.02.2015 | 4725 Kč | Náhrada ušlých zisků od hl. m. Prahy |
+| 10.03.2015 | 3665 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
+| 20.03.2015 | 8498 Kč | Odměna za výkon mandátu od České pirátské strany |
+| 31.03.2015 | 780 Kč | Čtvrtletní ubytovací stipendium od Univerzity Karlovy |
+| 09.04.2015 | 3665 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
+| 26.04.2015 | 8003 Kč | Odměna za výkon mandátu od České pirátské strany |
+| 11.05.2015 | 3665 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
+| 23.05.2015 | 7810 Kč | Odměna za výkon mandátu od České pirátské strany |
+| 09.06.2015 | 3837 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
+| 26.06.2015 | 8806 Kč | Odměna za výkon mandátu od České pirátské strany |
 
-Prohlašuji, že jsem výše uvedené údaje uvedl úplně a pravdivě. 
+Prohlašuji, že jsem výše uvedené údaje uvedl úplně a pravdivě.
 
 Adam Zábranský
