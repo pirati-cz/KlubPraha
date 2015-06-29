@@ -1,4 +1,4 @@
----
+﻿---
 prijemce: 
   role:     Povinný subjekt
   nazev:    Hlavní město Praha
@@ -8,12 +8,12 @@ prijemce:
   DS:       48ia97h
 styl:       pirati-klub
 vase:
-  znacka:
+  znacka:   
   den:
 nase:
-  znacka:   ZK Pha 83/2015
+  znacka:   ZK Pha 57/2015
   misto:    Praha
-vec:        Žádost zastupitele hl. m. Prahy o informace
+vec:        Stížnost na nečinnost
 vyrizuje:   
   jmeno:    Adam Zábranský
   telefon:  +420 721 006 868
@@ -23,7 +23,9 @@ vyrizuje:
 
 Vážení,
 
-v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o poskytnutí zvukového záznamu z jednání Rady, které se konalo tento týden, tedy 23. června 2015.
+dne 21. května 2015 jsem v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, hl. m. Prahu žádal o poskytnutí zvukového záznamu z jednání Rady, které se konalo 19. května 2015.
+
+Dodnes má žádost nebyla vyřízena, proto v souladu s § 16a odst. 1 písm. b) zákona č. 106/1999 Sb., o svobodném přístupu k informacím, podávám stížnost na nečinnost.
 
 Prosím o poskytnutí informace do datové schránky uvedené v patičce této zprávy či na e-mailovou adresu. Vyžaduje-li to velikost poskytovaných informací, dostavím se s paměťovým médiem. Předem děkuji za Vaši vstřícnost.
 
