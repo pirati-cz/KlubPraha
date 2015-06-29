@@ -1,0 +1,77 @@
+; PAUŠÁLNÍ ODMĚNY ZA DUBEN 2015
+; -----------------------------
+
+2015-04-01 paušální odměna za duben 2015
+    ;osoba:Jakub Michálek
+    ;proces:paušální odměna
+    ;měsíc:2015-04
+    aktiva:bankovní účet                   4192
+    náklady:zdravotní pojištění             239
+    náklady:záloha na daň                   870
+    výnosy:paušální odměna              
+
+2015-04-01 paušální odměna za duben 2015
+    ;osoba:Mikuláš Ferjenčík
+    ;proces:paušální odměna
+    ;měsíc:2015-04
+    aktiva:bankovní účet                   4192
+    náklady:zdravotní pojištění             239
+    náklady:záloha na daň                   870
+    výnosy:paušální odměna              
+
+2015-04-01 paušální odměna za duben 2015
+    ;osoba:Ondřej Profant
+    ;proces:paušální odměna
+    ;měsíc:2015-04
+    aktiva:bankovní účet                   4192
+    náklady:zdravotní pojištění             239
+    náklady:záloha na daň                   870
+    výnosy:paušální odměna              
+
+2015-04-01 paušální odměna za duben 2015
+    ;osoba:Adam Zábranský
+    ;proces:paušální odměna
+    ;měsíc:2015-04
+    aktiva:bankovní účet                   3665
+    náklady:zdravotní pojištění             766
+    náklady:záloha na daň                   870
+    výnosy:paušální odměna              
+
+; PAUŠÁLNÍ ODMĚNY ZA KVĚTEN 2015
+; -----------------------------
+
+2015-05-01 paušální odměna za květen 2015
+    ;osoba:Jakub Michálek
+    ;proces:paušální odměna
+    ;měsíc:2015-05
+    aktiva:bankovní účet                   4339
+    náklady:zdravotní pojištění             247
+    náklady:záloha na daň                   900
+    výnosy:paušální odměna              
+
+2015-05-01 paušální odměna za květen 2015
+    ;osoba:Adam Zábranský
+    ;proces:paušální odměna
+    ;měsíc:2015-05
+    aktiva:bankovní účet                   3837
+    náklady:zdravotní pojištění             749
+    náklady:záloha na daň                   900
+    výnosy:paušální odměna              
+
+2015-05-01 paušální odměna za květen 2015
+    ;osoba:Ondřej Profant
+    ;proces:paušální odměna
+    ;měsíc:2015-05
+    aktiva:bankovní účet                   4339
+    náklady:zdravotní pojištění             247
+    náklady:záloha na daň                   900
+    výnosy:paušální odměna              
+
+2015-05-01 paušální odměna za květen 2015
+    ;osoba:Mikuláš Ferjenčík
+    ;proces:paušální odměna
+    ;měsíc:2015-05
+    aktiva:bankovní účet                   4339
+    náklady:zdravotní pojištění             247
+    náklady:záloha na daň                   900
+    výnosy:paušální odměna              

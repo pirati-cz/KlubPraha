@@ -13,50 +13,44 @@ Postupujte dle [návodu na webu](http://hledger.org/download.html).
 V rámci účetnictví klubu jsou používány následující účty:
 
 - aktiva
-  - pohledávky
+  - pohledávka
+  - bankovní účet
 - výnosy
   - paušální odměna
-  - hodinová náhrada
-    - zasedání zastupitelstva
-    - plnění úkolů
-    - kontrolní výbor
-    - jednání výboru
-    - jednání komise
-    - komise pro ICT
-    - schůze rady
-    - výkon funkce v řízené osobě
-    - pracovní cesta
-    - seminář
-    - uzavírání manželství
-  - odměna z mandátní smlouvy
+  - náhrada výdělku
+  - smluvní odměna
     - pevná část
     - proměnlivá část
 - náklady
-  - vyplacené odměny
   - záloha na daň
   - zdravotní pojištění
 
+Vzorové výkazy
+--------------
+
+Vzorové účetní případy pro hospodaření zastupitelského klubu jsou zpracovány 
+v souboru [template.journal](template.journal).
 
 Obvyklé dotazy
 ---------------
 
-Předpokládejme soubor ve tvaru `test.journal`, který obsahuje vzorové záznamy
+Předpokládejme soubor ve tvaru `book.journal`, který obsahuje vzorové záznamy
 pro obvyklé transakce v rámci klubu.
 
 Výsledek hospodaření filtrovaný podle osoby:
 
-      hledger -f test.journal balance tag:"osoba=Jakub Michálek"
+      hledger -f book.journal balance tag:"osoba=Jakub Michálek"
 
 Přehled všech transakcí:
 
-      hledger -f test.journal register tag:"osoba=Jakub Michálek"
+      hledger -f book.journal register tag:"osoba=Jakub Michálek"
 
 Omezení na určitý měsíc:
 
-      hledger -f test.journal register tag:"osoba=Jakub Michálek"
+      hledger -f book.journal register tag:"osoba=Jakub Michálek"
  
 Kontrola celkových výdajů od strany (kontrola limitu dle smlouvy):
 
-      hledger -f 2014-02.journal balance "proměnlivá část"
+      hledger -f book.journal balance "proměnlivá část"
 
 
