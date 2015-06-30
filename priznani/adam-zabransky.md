@@ -1,4 +1,4 @@
----
+﻿---
 "Funkcionář":        Adam Zábranský
 "Datum narození":    28. 12. 1993
 "E-mail":            adam.zabransky@pirati.cz
@@ -73,8 +73,8 @@ Viz [oznámení podle etického kodexu](https://github.com/pirati-cz/KlubPraha/b
 | 12.01.2015 | 13 500 Kč | Odměna za výkon mandátu od České pirátské strany |
 | 10.02.2015 | 3665 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
 | 11.02.2015 | 8498 Kč | Odměna za výkon mandátu od České pirátské strany |
-| 27.02.2015 | 3150 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
-| 27.02.2015 | 4725 Kč | Náhrada ušlých zisků od hl. m. Prahy |
+| 27.02.2015 | 4725 Kč | Náhrada ušlých zisků od hl. m. Prahy za prosinec |
+| 27.02.2015 | 3150 Kč | Náhrada ušlých zisků od hl. m. Prahy za leden|
 | 10.03.2015 | 3665 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
 | 20.03.2015 | 8498 Kč | Odměna za výkon mandátu od České pirátské strany |
 | 31.03.2015 | 780 Kč | Čtvrtletní ubytovací stipendium od Univerzity Karlovy |
@@ -84,6 +84,8 @@ Viz [oznámení podle etického kodexu](https://github.com/pirati-cz/KlubPraha/b
 | 23.05.2015 | 7810 Kč | Odměna za výkon mandátu od České pirátské strany |
 | 09.06.2015 | 3837 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
 | 26.06.2015 | 8806 Kč | Odměna za výkon mandátu od České pirátské strany |
+| 30.06.2015 | 14 621 Kč | Náhrada ušlých zisků od hl. m. Prahy za únor |
+| 30.06.2015 | 5634 Kč | Náhrada ušlých zisků od hl. m. Prahy za březen |
 
 Prohlašuji, že jsem výše uvedené údaje uvedl úplně a pravdivě.
 
