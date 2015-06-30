@@ -1,4 +1,5 @@
-; PAUŠÁLNÍ ODMĚNY ZA DUBEN 2015
+        
+; 1-PAUŠÁLNÍ ODMĚNY ZA DUBEN 2015
 ; -----------------------------
 
 2015-04-01 paušální odměna za duben 2015
@@ -37,7 +38,66 @@
     náklady:záloha na daň                   870
     výnosy:paušální odměna              
 
-; PAUŠÁLNÍ ODMĚNY ZA KVĚTEN 2015
+; 2-NÁHRADA VÝDĚLKU ZA DUBEN 2015
+; -----------------------------         
+
+2015-04-01 náhrada výdělku za duben 2015
+    ;osoba:Jakub Michálek
+    ;proces:náhrada výdělku
+    ;měsíc:2015-04
+    aktiva:pohledávka                     12060
+    výnosy:náhrada výdělku   
+
+2015-??-?? náhrada výdělku za duben 2015
+    ;osoba:Jakub Michálek
+    ;proces:náhrada výdělku
+    ;měsíc:2015-04
+    aktiva:pohledávka                    -12060
+    aktiva:bankovní účet                  12060
+
+2015-04-01 náhrada výdělku za duben 2015
+    ;osoba:Mikuláš Ferjenčík
+    ;proces:náhrada výdělku
+    ;měsíc:2015-04
+    aktiva:pohledávka                     5400
+    výnosy:náhrada výdělku   
+
+2015-??-?? náhrada výdělku za duben 2015
+    ;osoba:Mikuláš Ferjenčík
+    ;proces:náhrada výdělku
+    ;měsíc:2015-04
+    aktiva:pohledávka                    -5400
+    aktiva:bankovní účet                  5400
+
+2015-04-01 náhrada výdělku za duben 2015
+    ;osoba:Ondřej Profant
+    ;proces:náhrada výdělku
+    ;měsíc:2015-04
+    aktiva:pohledávka                     18000
+    výnosy:náhrada výdělku   
+
+2015-??-?? náhrada výdělku za duben 2015
+    ;osoba:Ondřej Profant
+    ;proces:náhrada výdělku
+    ;měsíc:2015-04
+    aktiva:pohledávka                    -18000
+    aktiva:bankovní účet                  18000
+
+2015-04-01 náhrada výdělku za duben 2015
+    ;osoba:Adam Zábranský
+    ;proces:náhrada výdělku
+    ;měsíc:2015-04
+    aktiva:pohledávka                     5490
+    výnosy:náhrada výdělku   
+
+2015-??-?? náhrada výdělku za duben 2015
+    ;osoba:Adam Zábranský
+    ;proces:náhrada výdělku
+    ;měsíc:2015-04
+    aktiva:pohledávka                    -5490
+    aktiva:bankovní účet                  5490
+
+; 1-PAUŠÁLNÍ ODMĚNY ZA KVĚTEN 2015
 ; -----------------------------
 
 2015-05-01 paušální odměna za květen 2015
@@ -74,4 +134,63 @@
     aktiva:bankovní účet                   4339
     náklady:zdravotní pojištění             247
     náklady:záloha na daň                   900
-    výnosy:paušální odměna              
+    výnosy:paušální odměna     
+
+; 2-NÁHRADA VÝDĚLKU ZA KVĚTEN 2015
+; -----------------------------         
+
+2015-05-01 náhrada výdělku za květen 2015
+    ;osoba:Jakub Michálek
+    ;proces:náhrada výdělku
+    ;měsíc:2015-05
+    aktiva:pohledávka                     12600
+    výnosy:náhrada výdělku   
+
+2015-??-?? náhrada výdělku za květen 2015
+    ;osoba:Jakub Michálek
+    ;proces:náhrada výdělku
+    ;měsíc:2015-05
+    aktiva:pohledávka                    -12600
+    aktiva:bankovní účet                  12600
+
+2015-05-01 náhrada výdělku za květen 2015
+    ;osoba:Mikuláš Ferjenčík
+    ;proces:náhrada výdělku
+    ;měsíc:2015-05
+    aktiva:pohledávka                     6525
+    výnosy:náhrada výdělku   
+
+2015-??-?? náhrada výdělku za květen 2015
+    ;osoba:Mikuláš Ferjenčík
+    ;proces:náhrada výdělku
+    ;měsíc:2015-05
+    aktiva:pohledávka                    -6525
+    aktiva:bankovní účet                  6525
+
+2015-05-01 náhrada výdělku za květen 2015
+    ;osoba:Ondřej Profant
+    ;proces:náhrada výdělku
+    ;měsíc:2015-05
+    aktiva:pohledávka                     18000
+    výnosy:náhrada výdělku   
+
+2015-??-?? náhrada výdělku za květen 2015
+    ;osoba:Ondřej Profant
+    ;proces:náhrada výdělku
+    ;měsíc:2015-05
+    aktiva:pohledávka                    -18000
+    aktiva:bankovní účet                  18000
+
+2015-05-01 náhrada výdělku za květen 2015
+    ;osoba:Adam Zábranský
+    ;proces:náhrada výdělku
+    ;měsíc:2015-05
+    aktiva:pohledávka                     5625
+    výnosy:náhrada výdělku   
+
+2015-??-?? náhrada výdělku za květen 2015
+    ;osoba:Adam Zábranský
+    ;proces:náhrada výdělku
+    ;měsíc:2015-05
+    aktiva:pohledávka                    -5625
+    aktiva:bankovní účet                  5625
