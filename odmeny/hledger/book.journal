@@ -143,8 +143,8 @@
     ;osoba:Jakub Michálek
     ;proces:smluvní odměna
     ;měsíc:2015-11
-    výnosy:smluvní odměna:pevná část      -4816
-    výnosy:smluvní odměna:proměnlivá část -5000
+    výnosy:smluvní odměna:pevná část       -4816
+    výnosy:smluvní odměna:proměnlivá část  -5000
     aktiva:pohledávka  
 
 2014-12-13 výplata odměny podle mandátní smlouvy za listopad 2014
@@ -158,8 +158,8 @@
     ;osoba:Mikuláš Ferjenčík
     ;proces:smluvní odměna
     ;měsíc:2015-11
-    výnosy:smluvní odměna:pevná část      -4618 
-    výnosy:smluvní odměna:proměnlivá část -2500
+    výnosy:smluvní odměna:pevná část       -4618 
+    výnosy:smluvní odměna:proměnlivá část  -2500
     aktiva:pohledávka  
 
 2014-12-09 výplata odměny podle mandátní smlouvy za listopad 2014
@@ -167,14 +167,14 @@
     ;proces:smluvní odměna
     ;měsíc:2015-11
     aktiva:pohledávka                     -7316
-    aktiva:bankovní účet   		   7316
+    aktiva:bankovní účet   		             7316
 
 2014-12-09 schválení odměny z mandátní smlouvy za listopad 2014
     ;osoba:Ondřej Profant
     ;proces:smluvní odměna
     ;měsíc:2015-11
-    výnosy:smluvní odměna:pevná část      -4618
-    výnosy:smluvní odměna:proměnlivá část -5000
+    výnosy:smluvní odměna:pevná část       -4618
+    výnosy:smluvní odměna:proměnlivá část  -5000
     aktiva:pohledávka  
 
 2014-12-09 výplata odměny podle mandátní smlouvy za listopad 2014
@@ -290,8 +290,8 @@
     ;osoba:Jakub Michálek
     ;proces:smluvní odměna
     ;měsíc:2015-12
-    výnosy:smluvní odměna:pevná část      -8500
-    výnosy:smluvní odměna:proměnlivá část -3000
+    výnosy:smluvní odměna:pevná část       -8500
+    výnosy:smluvní odměna:proměnlivá část  -3000
     aktiva:pohledávka  
 
 2014-12-01 výplata odměny podle mandátní smlouvy za prosinec 2014
@@ -305,8 +305,8 @@
     ;osoba:Mikuláš Ferjenčík
     ;proces:smluvní odměna
     ;měsíc:2015-12
-    výnosy:smluvní odměna:pevná část      -7517
-    výnosy:smluvní odměna:proměnlivá část -1500
+    výnosy:smluvní odměna:pevná část       -7517
+    výnosy:smluvní odměna:proměnlivá část  -1500
     aktiva:pohledávka  
 
 2014-12-01 výplata odměny podle mandátní smlouvy za prosinec 2014
@@ -320,8 +320,8 @@
     ;osoba:Ondřej Profant
     ;proces:smluvní odměna
     ;měsíc:2015-12
-    výnosy:smluvní odměna:pevná část      -8500
-    výnosy:smluvní odměna:proměnlivá část -2000
+    výnosy:smluvní odměna:pevná část       -8500
+    výnosy:smluvní odměna:proměnlivá část  -2000
     aktiva:pohledávka  
 
 2014-12-01 výplata odměny podle mandátní smlouvy za prosinec 2014
@@ -335,8 +335,8 @@
     ;osoba:Adam Zábranský
     ;proces:smluvní odměna
     ;měsíc:2015-12
-    výnosy:smluvní odměna:pevná část      -8500 
-    výnosy:smluvní odměna:proměnlivá část -5000
+    výnosy:smluvní odměna:pevná část       -8500 
+    výnosy:smluvní odměna:proměnlivá část  -5000
     aktiva:pohledávka   		 
 
 2014-12-01 výplata odměny podle mandátní smlouvy za prosinec 2014
@@ -344,7 +344,7 @@
     ;proces:smluvní odměna
     ;měsíc:2015-12
     aktiva:pohledávka                     -13500
-    aktiva:bankovní účet   		  -13500
+    aktiva:bankovní účet   		             13500
 
 ; 1-PAUŠÁLNÍ ODMĚNY ZA LEDEN 2015
 ; -----------------------------
@@ -452,8 +452,8 @@
     ;osoba:Jakub Michálek
     ;proces:smluvní odměna
     ;měsíc:2015-01
-    výnosy:smluvní odměna:pevná část      -8500
-    výnosy:smluvní odměna:proměnlivá část -4000
+    výnosy:smluvní odměna:pevná část       -8500
+    výnosy:smluvní odměna:proměnlivá část  -4000
     aktiva:pohledávka  
 
 2015-02-11 výplata odměny podle mandátní smlouvy za leden 2015
@@ -467,8 +467,8 @@
     ;osoba:Mikuláš Ferjenčík
     ;proces:smluvní odměna
     ;měsíc:2015-01
-    výnosy:smluvní odměna:pevná část      -5980
-    výnosy:smluvní odměna:proměnlivá část -2500
+    výnosy:smluvní odměna:pevná část       -5980
+    výnosy:smluvní odměna:proměnlivá část  -2500
     aktiva:pohledávka  
 
 2015-02-11 výplata odměny podle mandátní smlouvy za leden 2015
@@ -482,8 +482,8 @@
     ;osoba:Ondřej Profant
     ;proces:smluvní odměna
     ;měsíc:2015-01
-    výnosy:smluvní odměna:pevná část      -8500
-    výnosy:smluvní odměna:proměnlivá část -3000
+    výnosy:smluvní odměna:pevná část       -8500
+    výnosy:smluvní odměna:proměnlivá část  -3000
     aktiva:pohledávka  
 
 2015-02-11 výplata odměny podle mandátní smlouvy za leden 2015
@@ -497,8 +497,8 @@
     ;osoba:Adam Zábranský
     ;proces:smluvní odměna
     ;měsíc:2015-01
-    výnosy:smluvní odměna:pevná část      -7498
-    výnosy:smluvní odměna:proměnlivá část -1000
+    výnosy:smluvní odměna:pevná část       -7498
+    výnosy:smluvní odměna:proměnlivá část  -1000
     aktiva:pohledávka  
 
 2015-02-11 výplata odměny podle mandátní smlouvy za leden 2015
@@ -615,8 +615,8 @@
     ;osoba:Jakub Michálek
     ;proces:smluvní odměna
     ;měsíc:2015-02
-    výnosy:smluvní odměna:pevná část      -8500
-    výnosy:smluvní odměna:proměnlivá část -4000
+    výnosy:smluvní odměna:pevná část       -8500
+    výnosy:smluvní odměna:proměnlivá část  -4000
     aktiva:pohledávka  
 
 2015-03-20 výplata odměny podle mandátní smlouvy za únor 2015
@@ -630,8 +630,8 @@
     ;osoba:Mikuláš Ferjenčík
     ;proces:smluvní odměna
     ;měsíc:2015-02
-    výnosy:smluvní odměna:pevná část      -4769
-    výnosy:smluvní odměna:proměnlivá část -300
+    výnosy:smluvní odměna:pevná část       -4769
+    výnosy:smluvní odměna:proměnlivá část   -300
     aktiva:pohledávka  
 
 2015-03-20 výplata odměny podle mandátní smlouvy za únor 2015
@@ -645,8 +645,8 @@
     ;osoba:Ondřej Profant
     ;proces:smluvní odměna
     ;měsíc:2015-02
-    výnosy:smluvní odměna:pevná část      -8500
-    výnosy:smluvní odměna:proměnlivá část -1000
+    výnosy:smluvní odměna:pevná část       -8500
+    výnosy:smluvní odměna:proměnlivá část  -1000
     aktiva:pohledávka  
 
 2015-03-20 výplata odměny podle mandátní smlouvy za únor 2015
@@ -654,14 +654,14 @@
     ;proces:smluvní odměna
     ;měsíc:2015-02
     aktiva:pohledávka                     -9500
-    aktiva:bankovní účet   		  -9500
+    aktiva:bankovní účet   		             9500
 
 2015-03-19 schválení odměny z mandátní smlouvy za únor 2015
     ;osoba:Adam Zábranský
     ;proces:smluvní odměna
     ;měsíc:2015-02
-    výnosy:smluvní odměna:pevná část      -8500
-    výnosy:smluvní odměna:proměnlivá část -1500
+    výnosy:smluvní odměna:pevná část       -8500
+    výnosy:smluvní odměna:proměnlivá část  -1500
     aktiva:pohledávka  
 
 2015-03-20 výplata odměny podle mandátní smlouvy za únor 2015
@@ -763,8 +763,8 @@
     ;osoba:Jakub Michálek
     ;proces:smluvní odměna
     ;měsíc:2015-03
-    výnosy:smluvní odměna:pevná část      -8500
-    výnosy:smluvní odměna:proměnlivá část -2000
+    výnosy:smluvní odměna:pevná část       -8500
+    výnosy:smluvní odměna:proměnlivá část  -2000
     aktiva:pohledávka  
 
 2015-04-26 výplata odměny podle mandátní smlouvy za březen 2015
@@ -808,8 +808,8 @@
     ;osoba:Adam Zábranský
     ;proces:smluvní odměna
     ;měsíc:2015-03
-    výnosy:smluvní odměna:pevná část      -6703
-    výnosy:smluvní odměna:proměnlivá část  1300
+    výnosy:smluvní odměna:pevná část       -6703
+    výnosy:smluvní odměna:proměnlivá část  -1300
     aktiva:pohledávka  
 
 2015-04-26 výplata odměny podle mandátní smlouvy za březen 2015
@@ -881,8 +881,8 @@
     ;osoba:Jakub Michálek
     ;proces:smluvní odměna
     ;měsíc:2015-04
-    výnosy:smluvní odměna:pevná část      -8500
-    výnosy:smluvní odměna:proměnlivá část -5000
+    výnosy:smluvní odměna:pevná část       -8500
+    výnosy:smluvní odměna:proměnlivá část  -5000
     aktiva:pohledávka  
 
 2015-05-23 výplata odměny podle mandátní smlouvy za duben 2015
@@ -912,7 +912,7 @@
     ;proces:smluvní odměna
     ;měsíc:2015-04
     výnosy:smluvní odměna:pevná část      -8500
-    výnosy:smluvní odměna:proměnlivá část -300
+    výnosy:smluvní odměna:proměnlivá část  -300
     aktiva:pohledávka  
 
 2015-05-23 výplata odměny podle mandátní smlouvy za duben 2015
@@ -927,7 +927,7 @@
     ;proces:smluvní odměna
     ;měsíc:2015-04
     výnosy:smluvní odměna:pevná část      -7110
-    výnosy:smluvní odměna:proměnlivá část -700
+    výnosy:smluvní odměna:proměnlivá část  -700
     aktiva:pohledávka  
 
 2015-05-23 výplata odměny podle mandátní smlouvy za duben 2015
@@ -995,8 +995,8 @@
     ;osoba:Jakub Michálek
     ;proces:smluvní odměna
     ;měsíc:2015-05
-    výnosy:smluvní odměna:pevná část      -8500
-    výnosy:smluvní odměna:proměnlivá část -4000
+    výnosy:smluvní odměna:pevná část       -8500
+    výnosy:smluvní odměna:proměnlivá část  -4000
     aktiva:pohledávka  
 
 2015-06-26 výplata odměny podle mandátní smlouvy za květen 2015
@@ -1010,8 +1010,8 @@
     ;osoba:Mikuláš Ferjenčík
     ;proces:smluvní odměna
     ;měsíc:2015-05
-    výnosy:smluvní odměna:pevná část      -8500
-    výnosy:smluvní odměna:proměnlivá část -2400
+    výnosy:smluvní odměna:pevná část       -8500
+    výnosy:smluvní odměna:proměnlivá část  -2400
     aktiva:pohledávka  
 
 2015-06-26 výplata odměny podle mandátní smlouvy za květen 2015
@@ -1025,8 +1025,8 @@
     ;osoba:Ondřej Profant
     ;proces:smluvní odměna
     ;měsíc:2015-05
-    výnosy:smluvní odměna:pevná část      -8500
-    výnosy:smluvní odměna:proměnlivá část -1500
+    výnosy:smluvní odměna:pevná část       -8500
+    výnosy:smluvní odměna:proměnlivá část  -1500
     aktiva:pohledávka  
 
 2015-06-26 výplata odměny podle mandátní smlouvy za květen 2015
@@ -1040,8 +1040,8 @@
     ;osoba:Adam Zábranský
     ;proces:smluvní odměna
     ;měsíc:2015-05
-    výnosy:smluvní odměna:pevná část      -7807
-    výnosy:smluvní odměna:proměnlivá část -1000
+    výnosy:smluvní odměna:pevná část       -7807
+    výnosy:smluvní odměna:proměnlivá část  -1000
     aktiva:pohledávka  
 
 2015-06-26 výplata odměny podle mandátní smlouvy za květen 2015
