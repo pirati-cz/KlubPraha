@@ -5,7 +5,7 @@ prijemce:
   ulice:    Mariánské náměstí 2/2
   PSC:      11001
   mesto:    Praha 1
-  DS:       48ia97h
+  DS:       
 styl:       pirati-klub
 vase:
   znacka:   
@@ -13,7 +13,7 @@ vase:
 nase:
   znacka:   ZK Pha 89/2014
   misto:    Praha
-vec:        Žádost zastupitele hl. m. Prahy o informace
+vec:        Žádost o informace
 vyrizuje:   
   jmeno:    Mikuláš Ferjenčík
   telefon:  +420 737 943 770
