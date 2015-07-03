@@ -46,9 +46,13 @@ Aktuální informace o stavu jmění
 
 *Následující text vysvětluje, jakým způsobem výše uvedený funkcionář aktuálně financuje svou obživu, bydlení a další základní životní potřeby, zejména u koho je zaměstnán, ve službě, nebo kde vykonává funkci člena orgánu právnické osoby či kde podniká, jakou pobírá odměnu a jiné příjmy z veřejných zdrojů, případně kdo je jeho podpůrcem.*
 
-Byl jsem zaměstnán v pracovním poměru na dobu neurčitou na pozici advokátního koncipienta v advokátní kanceláři Řehák & partneři, k. s., IČ 27215822 (včetně práce pro advokátku JUDr. Hanu Marvanovou). V předvolební době jsem byl z větší části uvolněn na základě své žádosti, dostávám příspěvek od otce doc. MUDr. Pavla Michálka, Ph.D., DESA, MSc., ve výši 5000 Kč měsíčně. Žil jsem střídavě u matky Kamily Murphy a jejího manžela Davida Murphy a své přítelkyně Michaely Krausové. Příležitostně jsem měl drobný přivýdělek z přednáškové činnosti v oboru autorského práva. Pracovní poměr jsem ukončil dohodou k 31. 10. 2014, abych se mohl plně věnovat funkci zastupitele (nebylo možné výkonávat povolání advokátního koncipienta na částečný úvazek kvůli předpisům advokátní komory).
+#### Doba před zvolením  
 
-Od listopadu 2014 se věnuji na plný úvazek funkci zastupitele. Mé finanční příjmy tvoří příjem z [mandátní smlouvy uzavřené s Českou pirátskou stranou](http://smlouvy.pirati.cz/smlouvy/2014/11/13/jakub-michalek/index.html), příjmy od města v podobě odměny zastupitele a náhrady výdělku (viz [rozpis odměn za rok 2014]) a drobné příjmy z podnikání (zpracovávám podklady, živnost mám zapsanou od 1. 1. 2015). Žiju v nájemním bytě na Žižkově o výměře cca 20 metrů čtverečních s nájemným 5000 Kč měsíčně.
+Byl jsem zaměstnán v pracovním poměru na dobu neurčitou na pozici advokátního koncipienta v advokátní kanceláři Řehák & partneři, k. s., IČ 27215822 (včetně práce pro advokátku JUDr. Hanu Marvanovou). V předvolební době jsem byl z větší části uvolněn na základě své žádosti, do roku 2014 jsem dostával výživné od otce doc. MUDr. Pavla Michálka, Ph.D., DESA, MSc., ve výši 5000 Kč měsíčně. Žil jsem střídavě u matky Kamily Murphy a jejího manžela Davida Murphy a své přítelkyně Michaely Krausové. Příležitostně jsem měl drobný přivýdělek z přednáškové činnosti v oboru autorského práva. Pracovní poměr jsem ukončil dohodou k 31. 10. 2014, abych se mohl plně věnovat funkci zastupitele (nebylo možné výkonávat povolání advokátního koncipienta na částečný úvazek kvůli předpisům advokátní komory).
+
+#### Doba po zvolení
+
+Od listopadu 2014 se věnuji na plný úvazek funkci zastupitele. Mé finanční příjmy tvoří příjem z [mandátní smlouvy uzavřené s Českou pirátskou stranou](http://smlouvy.pirati.cz/smlouvy/2014/11/13/jakub-michalek/index.html), příjmy od města v podobě odměny zastupitele a náhrady ušlého výdělku (viz [rozpis odměn za rok 2014]). Dále v rámci drobné živnosti zpracovávám právní podklady, živnost mám zapsanou od 1. 1. 2015. Žiju v nájemním bytě na Žižkově o výměře cca 20 metrů čtverečních s nájemným 5000 Kč měsíčně.
 
 Úplný rozpis příjmů viz níže.
 
