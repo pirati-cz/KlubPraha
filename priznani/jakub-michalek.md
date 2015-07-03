@@ -48,7 +48,7 @@ Aktuální informace o stavu jmění
 
 #### Doba před zvolením  
 
-Byl jsem zaměstnán v pracovním poměru na dobu neurčitou na pozici advokátního koncipienta v advokátní kanceláři Řehák & partneři, k. s., IČ 27215822 (včetně práce pro advokátku JUDr. Hanu Marvanovou). V předvolební době jsem byl z větší části uvolněn na základě své žádosti, do roku 2014 jsem dostával výživné od otce doc. MUDr. Pavla Michálka, Ph.D., DESA, MSc., ve výši 5000 Kč měsíčně. Žil jsem střídavě u matky Kamily Murphy a jejího manžela Davida Murphy a své přítelkyně Michaely Krausové. Příležitostně jsem měl drobný přivýdělek z přednáškové činnosti v oboru autorského práva. Pracovní poměr jsem ukončil dohodou k 31. 10. 2014, abych se mohl plně věnovat funkci zastupitele (nebylo možné výkonávat povolání advokátního koncipienta na částečný úvazek kvůli předpisům advokátní komory).
+Byl jsem zaměstnán v pracovním poměru na dobu neurčitou na pozici advokátního koncipienta v advokátní kanceláři Řehák & partneři, k. s., IČ 27215822 (včetně práce pro advokátku JUDr. Hanu Marvanovou). Do roku 2014 jsem dostával výživné od otce doc. MUDr. Pavla Michálka, Ph.D., DESA, MSc., ve výši 5000 Kč měsíčně. V předvolební době jsem byl z větší části uvolněn na základě své žádosti. Žil jsem střídavě u matky Kamily Murphy a jejího manžela Davida Murphy a své přítelkyně Michaely Krausové. Příležitostně jsem měl drobný přivýdělek z přednáškové činnosti v oboru autorského práva. Pracovní poměr jsem ukončil dohodou k 31. 10. 2014, abych se mohl plně věnovat funkci zastupitele (nebylo možné výkonávat povolání advokátního koncipienta na částečný úvazek kvůli předpisům advokátní komory).
 
 #### Doba po zvolení
 
