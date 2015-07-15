@@ -36,7 +36,9 @@ Ve vaší gesci mě především zajímají data:
 Přesné formáty a formu bych rád projednal přímo s příslušným správcem dat (IT, analytický útvar, ...). 
 Abychom dojednali nejlepší formát a formu předání pro obě strany. 
 
-\medskip
+V případě jakýhkoliv otázek či nejasností mě neváhejte kontaktovat.
+
+\bigskip
 
 s pozdravem
 
