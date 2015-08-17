@@ -180,6 +180,14 @@ Month,Date,Payer,Payee,Amount,Claim,Source
 2015-06,2015-07-09,Hlavní město Praha,Adam Zábranský,3837,paušální odměna,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/06/2015-06.ods?raw=true
 2015-06,2015-07-09,Hlavní město Praha,Adam Zábranský,749,zdravotní pojištění z paušální odměny,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/06/2015-06.ods?raw=true
 2015-06,2015-07-09,Hlavní město Praha,Adam Zábranský,900,záloha na daň z paušální odměny,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/06/2015-06.ods?raw=true
+2015-06,2015-07-02,Jakub Michálek,8500,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/06/2015-06.ods?raw=true
+2015-06,2015-07-02,Jakub Michálek,2500,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/06/2015-06.ods?raw=true
+2015-06,2015-07-02,Mikuláš Ferjenčík,4665,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/06/2015-06.ods?raw=true
+2015-06,2015-07-02,Mikuláš Ferjenčík,200,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/06/2015-06.ods?raw=true
+2015-06,2015-07-02,Ondřej Profant,8500,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/06/2015-06.ods?raw=true
+2015-06,2015-07-02,Ondřej Profant,2000,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/06/2015-06.ods?raw=true
+2015-06,2015-07-02,Adam Zábranský,6893,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/06/2015-06.ods?raw=true
+2015-06,2015-07-02,Adam Zábranský,1500,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/06/2015-06.ods?raw=true
 2015-07,2015-08-10,Hlavní město Praha,Jakub Michálek,4339,paušální odměna,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/07/2015-07.ods?raw=true
 2015-07,2015-08-10,Hlavní město Praha,Jakub Michálek,247,zdravotní pojištění z paušální odměny,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/07/2015-07.ods?raw=true
 2015-07,2015-08-10,Hlavní město Praha,Jakub Michálek,900,záloha na daň z paušální odměny,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/07/2015-07.ods?raw=true
@@ -192,3 +200,11 @@ Month,Date,Payer,Payee,Amount,Claim,Source
 2015-07,2015-08-10,Hlavní město Praha,Adam Zábranský,3837,paušální odměna,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/07/2015-07.ods?raw=true
 2015-07,2015-08-10,Hlavní město Praha,Adam Zábranský,749,zdravotní pojištění z paušální odměny,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/07/2015-07.ods?raw=true
 2015-07,2015-08-10,Hlavní město Praha,Adam Zábranský,900,záloha na daň z paušální odměny,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/07/2015-07.ods?raw=true
+2015-07,2015-08-03,Česká pirátská strana,Jakub Michálek,8500,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/07/2015-07.ods?raw=true
+2015-07,2015-08-03,Česká pirátská strana,Jakub Michálek,500,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/07/2015-07.ods?raw=true
+2015-07,2015-08-03,Česká pirátská strana,Mikuláš Ferjenčík,4403,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/07/2015-07.ods?raw=true
+2015-07,2015-08-03,Česká pirátská strana,Mikuláš Ferjenčík,0,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/07/2015-07.ods?raw=true
+2015-07,2015-08-03,Česká pirátská strana,Ondřej Profant,6459,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/07/2015-07.ods?raw=true
+2015-07,2015-08-03,Česká pirátská strana,Ondřej Profant,0,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/07/2015-07.ods?raw=true
+2015-07,2015-08-03,Česká pirátská strana,Adam Zábranský,3110,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/07/2015-07.ods?raw=true
+2015-07,2015-08-03,Česká pirátská strana,Adam Zábranský,3110,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/07/2015-07.ods?raw=true
