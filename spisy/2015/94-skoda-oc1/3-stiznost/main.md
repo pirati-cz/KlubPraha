@@ -24,7 +24,7 @@ vyrizuje:
 
 Vážená paní ředitelko,
 
-Dne 17. 7. 2015 jsem ve své žádosti č.j. ZK Pha 94/2015, odkazující na starší žádost ze dne 13. 2. 2015 č.j. ZK Pha 4/2015 žádal o seznam všech pokut a jiných škod, které hl. m. Praha utrpělo v souvislosti s programem Opencard.
+Dne 17. 7. 2015 jsem ve své žádosti č.j. ZK Pha 94/2015, odkazující na starší žádost ze dne 13. 2. 2015 č.j. ZK Pha 4/2015 žádal v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů o seznam všech pokut a jiných škod, které hl. m. Praha utrpělo v souvislosti s programem Opencard.
 
 Od povinného subjektu jsem dostal v souladu s § 14 odst. 7 zákona č. 106/1999 Sb., o svobodném přístupu k inforacím, ve znění pozdějších předpisů (dále jen „InfZ“) dne 3. 8. 2015 sdělení že ze závažných důvodů bude lhůta pro poskytnutí informace prodloužena o 10 dní, tedy do 13. 8. Od té doby jsem nicméně od povinného subjektu žádnou informaci neobdržel. 
 
