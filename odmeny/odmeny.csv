@@ -1,4 +1,4 @@
-Období,Obdrženo,Plátce,Příjemce,Částka (Kč),Právní titul,zdroj
+Month,Date,Payer,Payee,Amount,Claim,Source
 2014-10,2014-11-10,Hlavní město Praha,Jakub Michálek,1392,paušální odměna,N/A
 2014-10,2014-11-10,Hlavní město Praha,Jakub Michálek,390,zdravotní pojištění z paušální odměny,N/A
 2014-10,2014-11-10,Hlavní město Praha,Jakub Michálek,567,záloha na daň z paušální odměny,N/A
