@@ -58,8 +58,7 @@ END {
 }
 
 # Month,Date,Payer,PayerId,Payee,PayeeId,Amount,Claim,Source
-# echo "Období|Zastupitel|Náhrada výdělku" > $output
-# echo "----- | -------- |-------------: " >> $output
+
 awk -F ','  'BEGIN {OFS=","} { if (tolower($8) == "náhrada výdělku")  print $1","$5","$7}' $source > $data
 
 echo 'Období,Zastupitel,Částka (Kč)' | cat - $data > temp && mv temp $data
@@ -69,15 +68,16 @@ echo 'Období,Zastupitel,Částka (Kč)' | cat - $data > temp && mv temp $data
 pivotTable $data > pivot.csv # generate pivot table in csv
 transposeTable pivot.csv > $pivotdata
 rm pivot.csv
+
 table="`csvtomd $pivotdata`" # convert it to markdown
+
+# add currency (Kč) and alignment (---:)
+table="`echo "$table" | sed -re 's/(\s[0-9]+\s)(\s\s)/\1Kč/g' -e 's/(\|\s*\-+)\-/\1:/g'`"
 
 # insert it into template
 <$template awk -v table="$table" '
     {gsub(/^TMPTABLE$/, table); print}
 ' > $output
-
-# export table to gnuplot
-gnuplot settings.gp
 
 
 

@@ -1,3 +1,4 @@
+
 set boxwidth 0.9 relative
 set style data histograms
 set style histogram cluster
@@ -21,6 +22,7 @@ while (good_data){
 set ytics 5000
 set term png
 set output 'graf.png'
+set title "Náhrada výdělku u zastupitelů"
 set key autotitle columnhead
 set key outside bottom center
 set xlabel "Období (měsíc)"
