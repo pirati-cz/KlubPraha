@@ -79,6 +79,7 @@ table="`echo "$table" | sed -re 's/(\s[0-9]+\s)(\s\s)/\1Kč/g' -e 's/(\|\s*\-+)\
     {gsub(/^TMPTABLE$/, table); print}
 ' > $output
 
+gnuplot "settings.gp" &> /dev/null
 
 
 
