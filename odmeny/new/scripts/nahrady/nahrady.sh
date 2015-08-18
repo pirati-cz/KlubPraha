@@ -4,57 +4,82 @@
 # Autoři:
 # - Jakub Michálek
 
-source="../../data/odmeny.csv"
-output="table.md"
-data="data.csv"
+# Prerequisites:
+# Install: sudo pip3 install csvtomd
+# sudo apt-get install gnuplot
 
-findValue () 
-{ 
-  awk -F "," -v rowitem="$row" -v colitem="$col" 'BEGIN { FS = "," } ;{if ($1==rowitem && $2==colitem) {print $3}}' $output
+source="../../data/odmeny.csv"
+output="report.md"
+data="data.csv"
+pivotdata="pivotdata.csv"
+template="template.md"
+
+pivotTable() {
+  awk -F\, '
+NR>1 { 
+    if(!($1 in indicators)) { indicator[++types] = $1 }; indicators[$1]++  
+    if(!($2 in countries)) { country[++num] = $2 }; countries[$2]++
+    map[$1,$2] = $3 
+}
+END {
+    printf "%s," ,"Zastupitel";
+    for(ind=1; ind<=types; ind++) {
+        printf "%s%s", sep, indicator[ind]; 
+        sep = ","
+    }
+    print "";
+    for(coun=1; coun<=num; coun++) {
+        printf "%s", country[coun]
+        for(val=1; val<=types; val++) {
+            printf "%s%s", sep, map[indicator[val], country[coun]];
+        }
+        print ""
+    }
+}' $1
 }
 
+transposeTable() {
+  awk -F\, '
+{ 
+    for (i=1; i<=NF; i++)  {
+        a[NR,i] = $i
+    }
+}
+NF>p { p = NF }
+END {    
+    for(j=1; j<=p; j++) {
+        str=a[1,j]
+        for(i=2; i<=NR; i++){
+            str=str","a[i,j];
+        }
+        print str
+    }
+}' $1
+}
 
 # Month,Date,Payer,PayerId,Payee,PayeeId,Amount,Claim,Source
 # echo "Období|Zastupitel|Náhrada výdělku" > $output
 # echo "----- | -------- |-------------: " >> $output
 awk -F ','  'BEGIN {OFS=","} { if (tolower($8) == "náhrada výdělku")  print $1","$5","$7}' $source > $data
 
-# cat $output
-# Month|Payee|Amount
+echo 'Období,Zastupitel,Částka (Kč)' | cat - $data > temp && mv temp $data
 
-readarray colsep < <( cat $data | cut -f2 -d "," | sort | uniq ) # ze zastupitelů si uděláme sloupce
-readarray rowsep < <( cat $data | cut -f1 -d "," | sort | uniq ) # z období si uděláme řádky
+# export table to markdown
 
-# hlavička tabulky
-prvniradek=""
-for col in "${colsep[@]}"
-do
-prvniradek="$prvniradek|$col"
-done
+pivotTable $data > pivot.csv # generate pivot table in csv
+transposeTable pivot.csv > $pivotdata
+table="`csvtomd $pivotdata`" # convert it to markdown
 
-#echo "$prvniradek" > $filtered
+# insert it into template
+<$template awk -v table="$table" '
+    {gsub(/^TMPTABLE$/, table); print}
+' > $output
 
-# tělo tabulky
-for row in "${rowsep[@]}"
-do
 
-{
-for col in "${colsep[@]}"
-do
 
-{
-findValue "$row" "$col"
-#radek="$radek|$col"
-}
-done
-}
-#echo $radek >> $output
-done
 
-findValue "2015-02" "Adam Zábranský"
 
-#cat $output
-
+# export table to gnuplot
 
 
 
