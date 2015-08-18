@@ -5,7 +5,9 @@ Každý zastupitel má právo, aby mu město nahradilo ušlý výdělek za dobu,
 stráví na jednání zastupitelstva, výborů a komisí. Zastupiteli, který není 
 v pracovním poměru, se ušlý výdělek nahrazuje paušální částkou 450 Kč za hodinu.
 
-$GRAF$
+![Náhrada výdělku od města podle jednotlivých zastupitelů](graf.png)
+
+Přehledová tabulka:
 
 Zastupitel  |  Jakub Michálek  |  Mikuláš Ferjenčík  |  Ondřej Profant  |  Adam Zábranský
 ------------|------------------|---------------------|------------------|----------------

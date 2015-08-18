@@ -68,6 +68,7 @@ echo 'Období,Zastupitel,Částka (Kč)' | cat - $data > temp && mv temp $data
 
 pivotTable $data > pivot.csv # generate pivot table in csv
 transposeTable pivot.csv > $pivotdata
+rm pivot.csv
 table="`csvtomd $pivotdata`" # convert it to markdown
 
 # insert it into template
@@ -75,11 +76,11 @@ table="`csvtomd $pivotdata`" # convert it to markdown
     {gsub(/^TMPTABLE$/, table); print}
 ' > $output
 
-
-
-
-
 # export table to gnuplot
+gnuplot settings.gp
+
+
+
 
 
 
