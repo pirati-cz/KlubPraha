@@ -13,6 +13,7 @@ output="report.md"
 data="data.csv"
 pivotdata="pivotdata.csv"
 template="template.md"
+title="Náhrada výdělku u zastupitelů hl. m. Prahy za Piráty"
 
 pivotTable() {
   awk -F\, '
@@ -22,7 +23,7 @@ NR>1 {
     map[$1,$2] = $3 
 }
 END {
-    printf "%s," ,"Zastupitel";
+    printf "%s," ,"Měsíc";
     for(ind=1; ind<=types; ind++) {
         printf "%s%s", sep, indicator[ind]; 
         sep = ","
@@ -59,9 +60,7 @@ END {
 
 # Month,Date,Payer,PayerId,Payee,PayeeId,Amount,Claim,Source
 
-awk -F ','  'BEGIN {OFS=","} { if (tolower($8) == "náhrada výdělku")  print $1","$5","$7}' $source > $data
-
-echo 'Období,Zastupitel,Částka (Kč)' | cat - $data > temp && mv temp $data
+awk -F ','  'BEGIN {OFS=","} { if (tolower($6) == "náhrada výdělku" || NR == 1)  print $1","$4","$5}' $source > $data
 
 # export table to markdown
 
@@ -79,7 +78,17 @@ table="`echo "$table" | sed -re 's/(\s[0-9]+\s)(\s\s)/\1Kč/g' -e 's/(\|\s*\-+)\
     {gsub(/^TMPTABLE$/, table); print}
 ' > $output
 
-gnuplot "settings.gp" &> /dev/null
+
+#IFS=","
+#header=$(head -n 1 $data)
+#labels=( echo "$header" | cut -d ',' -f1 )
+
+
+
+customxlabel=$( awk -F ','  'BEGIN {OFS=","} { if (NR == 1)  print $1}' $data )
+customylabel=$( awk -F ','  'BEGIN {OFS=","} { if (NR == 1)  print $3}' $data )
+
+gnuplot  -e "filename='pivotdata.csv'" -e "customtitle='$title'" -e "customxlabel='$customxlabel'" -e "customylabel='$customylabel'" "settings.gp"  &> /dev/null
 
 
 
