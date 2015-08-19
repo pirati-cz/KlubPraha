@@ -24,7 +24,7 @@ vyrizuje:
 
 Vážený pane řediteli,
 
-měl jsem konečně čas trochu si projít tabulky s využíváním městských nemovitostí (konkrétně jsem se zaměřil na nebytové prostory), které jste poskytl Jakubu Michálkovi v květnu letošního roku, a mám na vás několik dotazů ohledně různých údajů, které tam jsou uvedeny, ale i obecnějších, a zároveň podnět. Žádám vás, abyste mi na žádost odpověděl v zákonné lhůtě 15 dnů (dle zákona o svobodném přístupu k informacím, protože v § 53 odst. 3 písm. c) zákona o hl. m. Praze není uvedena lhůta).
+měl jsem konečně čas trochu si projít tabulky s využíváním městských nemovitostí (konkrétně jsem se zaměřil na nebytové prostory), které jste poskytl Jakubu Michálkovi v květnu letošního roku, a mám na vás v souladu s § 53 odst. 3 písm. c) zákona o hl. m. Praze několik dotazů ohledně různých údajů, které tam jsou uvedeny, ale i obecnějších, a zároveň podnět. Žádám vás, abyste mi na žádost odpověděl v zákonné lhůtě 15 dnů (dle zákona o svobodném přístupu k informacím, protože v § 53 odst. 3 písm. c) zákona o hl. m. Praze není uvedena lhůta).
 
 1) Jaký důvod je pro takto nízké ceny nájmů (nájemce; adresa; plocha; správce; cena za m2 za rok)?
 	a) Skanska DS, a.s.; Malé náměstí 9; 35 m2; spravuje Liga-servis s.r.o.; 0 Kč
