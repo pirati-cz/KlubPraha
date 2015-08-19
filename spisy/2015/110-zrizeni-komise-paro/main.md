@@ -11,7 +11,7 @@ vase:
   znacka:   
   den:
 nase:
-  znacka:   ZK Pha 109/2015
+  znacka:   ZK Pha 110/2015
   misto:    Praha
 vec:        Podnět zastupitele hl. m. Prahy ke zřízení komise pro participativní rozpočtování
 vyrizuje:   
