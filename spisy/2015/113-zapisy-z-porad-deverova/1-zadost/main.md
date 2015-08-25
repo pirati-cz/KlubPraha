@@ -31,12 +31,9 @@ Prosím o poskytnutí informace do datové schránky uvedené v patičce této z
 S pozdravem
 
 ---
-signature:
+podpis: 
   - Mgr. Bc. Jakub Michálek
   - předseda klubu Pirátů
-  - v Zastupitelstvu hl. m. Prahy
-  - nar. 6. 2. 1989, 
-  - trvale bytem Zenklova 193, Praha 8
-abbr:       jakub
-attachments:
+  - člen kontrolního výboru
+  - zastupitelstvo hl. m. Prahy
 ...
