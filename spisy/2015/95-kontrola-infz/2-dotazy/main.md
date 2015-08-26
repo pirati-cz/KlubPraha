@@ -24,7 +24,7 @@ vyrizuje:
 
 Vážená paní ředitelko,
 
-V souvislosti s kontrolou výkonu samostatné působnosti ve věci vyřizování žádosti o informace žadatele Jana Lukeše, podané v roce 2013 ohledně výše platů a odměn ředitelů mateřských škol zřizovaných hl. m. Prahou bych Vám rád položil několik následujících dotazů: 
+v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, a pro výkon kontroly na základě § 78 odst. 5 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, ke které jsem byl pověřen usnesením kontrolního výboru ZHMP č. 07/08/2015 ze dne 10. 6. 2015, bych Vám rád položil několik následujících dotazů: 
 
 1. Na základě jakých dokumentů a podkladů byla Magistrátem hlavního města Prahy definována linie, že Magistrát neposkytuje informace o platech a odměnách? 
 
