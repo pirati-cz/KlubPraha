@@ -8,7 +8,7 @@ prijemce:
 styl:       pirati-klub
 vase:
   znacka:   59A 56/2015 - 22
-  den:      19. 08. 2015
+  den:      19.08.2015
 nase:
   znacka:   ZK Pha 21/2015
   misto:    Praha
@@ -27,8 +27,6 @@ rád bych tímto zdvořile upřesnil dokument, který jsem odeslal Vašemu soudu
 Žádám proto, aby bylo v záznamu o podání žaloby toto upřesněno.
 
 S pozdravy
-
-Jakub Michálek
 
 
 ---
