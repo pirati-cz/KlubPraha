@@ -24,73 +24,41 @@ Tato žaloba směřuje proti nečinnosti obchodní společnosti Pražská plyná
 
 # Předmět řízení a dosavadní průběh řízení
 
-Žalobce podal dne 29. 4. 2015 žádost o informace podle zákona č. 131/2000 Sb., o hlavním městě Praze (dále jen „ZhmP“), kdy žádal o poskytnutí následujících informací (dále jen „požadované informace“):
+Žalobce podal dne 29. 4. 2015 žádost o informace podle § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze (dále jen „zákon o HMP“), kdy žádal o poskytnutí následujících informací (dále jen „požadované informace“):
 
 1. aktuální seznam členů dozorčí rady a přestavenstva společnosti,
 2. výši jejich měsíčních odměn, popř. pravidla pro udělování speciálních odměn.
 
-V dopise ze dne 21. 5. 2015 žalovaná odmítla žalobci poskytnout informace v bodě 2. Neučinila tak sice formálním rozhodnutím, nicméně materiálně se o dle názoru žalobce o rozhodnutí jednalo. (usnesení ÚS z 28.8.2002, 4 ÚS 233/02) Proto žalobce dne 15. 6. 2015 podal proti rozhodnutí o odmítnutí žádosti odvolání. Protože žalovaná neuvedla ve svém rozhodnutí na možnost odvolání neupozornila, neplatila pro žalobce 15denní lhůta (najít v komentáři).
+V dopise ze dne 21. 5. 2015 žalovaná odmítla žalobci poskytnout informace v bodě 2. Neučinila tak sice formálním rozhodnutím, nicméně materiálně se dle názoru žalobce o rozhodnutí jednalo (a podle usnesení ÚS z 28.8.2002, 4 ÚS 233/02, je třeba k pojmu „rozhodnutí“ přistupovat z hlediska jeho obsahu a nikoliv formy). Žalovaná v rozhodnutí o odmítnutí argumentovala tím, že se na ni § 51 odst. 3 písm. c) zákona o HMP nevztahuje, protože nebyla zřízena ani založena hl. m. Prahou a hl. m. Praha není ani jejím akcionářem.
 
+Žalobce dne 15. 6. 2015 podal proti rozhodnutí o odmítnutí žádosti odvolání. Protože žalovaná ve svém rozhodnutí na možnost odvolání neupozornila, neplatila pro žalobce 15denní odvolací lhůta, nýbrž 90denní podle § 83 odst. 2 správního řádu. Žalobce pak dne 1. 8. 2015 zaslal žalované stížnost na nečinnost. Ačkoliv se dle zákona o svobodném přístupu k informacím nejednalo o správný postup, žalobce stížností upozornil na fakt, že žalovaná nekoná, ačkoliv konat měla.
 
-
-
-
-# Dosavadní průběh řízení
-
-Povinný subjekt odmítl napadeným rozhodnutím poskytnout informaci o výši celkové provize jednotlivým dodavatelům a poskytnout začerněný text smluv na předmětné služby, a to včetně uzavřených dodatků, příp. nejnovějšího konsolidovaného znění textu smlouvy.  
-
-Nadřízeným orgánem byl v tomto případě podle § 20 odst. 5 InfZ ředitel společnosti. Nadřízený orgán převzal vyřízení žádosti a odmítl poskytnout žádanou informaci s odůvodněním, že se jedná o obchodní tajemství. 
-
-Nadřízený orgán dovodil podle ust. § 2 písm a) zákona č. 320/2001 Sb., o finanční kontrole, že povinný subjekt není příjemcem veřejných prostředků a není tedy možné uplatnit § 9 odst. 2 InfZ, kdy by poskytnutí informace nebylo porušením obchodního tajemství.
 
 # Žalobní body
 
-Žalobce má za to, že žalovaný se s jeho námitkami v odůvodnění nevypořádal správně a že tyto námitky jsou stále důvodné. Proto se v plném rozsahu odkazuje na důvody, podané v odvolání. Nad jejich rámec pak žalobce uvádí následující: 
+Žalobce má za to, že postup žalované nebyl v souladu se zákonem. Za prvé je přesvědčen, že § 51 odst. 3 písm. c) zákona o HMP, ačkoliv jeho doslovné znění umožňuje požadovat informace pouze od „zaměstnanců právnických osob, které hlavní město Praha založilo nebo zřídilo“, je třeba aplikovat v souladu s jeho účelem a že se musí vztahovat na všechny společnosti, které hl. m. Praha ovládá (tedy i pokud je nezaložilo ani nezřídilo), jakož i na dceřiné (popř. vnukovské) společnosti takovýchto právnických osob. Tyto dceřiné (vnukovské) společnosti byly totiž také zřízeny hl. m. Prahou, i když nepřímo, skrze ovládané společnosti. Připuštěním pouze strohého jazykového výkladu by totiž toto ustanovení šlo jednoduchým způsobem obejít (např. město by si kupovalo firmy již založené někým jiným nebo by všechnu činnost obchodních společností realizovalo skrze vnukovské společnosti) a znemožnit tak zastupitelům hl. m. Prahy přístup k informacím, což jistě není cílem zákona. Jediným akcionářem žalované je přitom obchodní společností Pražská plynárenská, a.s., jejímž jediným akcionářem je obchodní společnost Pražská plynárenská Holding, a.s., jejímž jediným akcionářem je hl. m. Praha.
 
-Žalovaný předně v napadeném rozhodnutí uvedl, že požadovaná informace (smlouva na SMS jízdenky) obsahuje konkurenčně významné, určitelné ocenitelné a v příslušných obchodních kurzích běžně nedostupné skutečnosti. Rovněž dodal, že poskytnutí, resp. zveřejnění techto informací by umožnilo neoprávněně třetím osobám těžit z duševního vlastnictví subjektu, který uzavřel s povinným subjektem žádanou smlouvu na provoz SMS jídzenek v Liberci. Nelze se však s tímto závěrem ztotožnit, a to z následujících důvodů:
+Za druhé i kdyby se na žalovanou nevztahoval § 51 odst. 3 písm. c) zákona o HMP, pak se na ni vztahuje povinnost poskytovat informace dle InfZ. Z judikatury Nejvyššího správního soudu a Ústavního soudu totiž jednoznačně vyplývá, že Pražská plynárenská Holding, a.s., je veřejnou institucí ve smyslu InfZ. Tuto vlastnost pak přirozeně musí mít všechny obchodní společnosti v holdingu, který veřejná instituce řídí, jinak by pojem veřejná instituce nemusel vůbec existovat. K utajení informací před veřejností by totiž stačilo, aby obchodní společnosti ovládané veřejnoprávními subjekty realizovaly veškerou svou činnost skrze své dceřinné a vnukovské společnosti, které by povinnými subjekty dle InfZ nebyly. 
 
-1. Subjekt, který uzavřel s povinným subjektem smlouvu na SMS jízdenky, tak učinil v roce 2008 (smlouva byla uzavřena dne 9. 12. 2008). Stalo se tak ještě před medializací problematiky vysokých marží na SMS jízdenky v krajských městech; předně proto, že dané smlouvy byly pro jednotlivá města nevýhodné. Po medializaci uzavřel ten stejný subjekt řadu dalších smluv s jinými městy, nicméně všechny tyto smlouvy byly jednak zveřejnitelné, ale hlavně i skutečně zveřejněné. Nelze se tedy domnívat, že by zveřejnění předcházejících k již zveřejňovaným smlouvám mohlo vést k úniku konkurenčně významné, určitelně ocenitelné a v příslušných obchodních kruzích běžně nedostupné skutečnosti. Smlouvy jsou dostupné nejen v příslušných kruzích, ale i veřejně (viz srovnávací studie smluv na SMS jízdenky). Systém výběru jízdného pomocí SMS jízdenek, jeho implementace a parametry včetně výše plateb nejsou jedinečné, ale jsou používány v řadě českých metropolí, jak se podává z připojených důkazů.
+Žalovanou je tedy třeba považovat za veřejnou instituci dle § 2 odst. 1 InfZ a tedy povinný subjekt dle stejného zákona. Dle rozsudku Nejvyššího správního soudu ze dne 19. 2. 2013, čj. 8 Aps 5/2012-47 „Povaha žalované [jakožto obchodní společnosti ovládané obcí] s sebou nese povinnost poskytovat informace v režimu informačního zákona, ať již je žádost o informace podána podle informačního zákona nebo jiného právního předpisu, který proces poskytování informací samostatně neupravuje (srov. však § 2 odst. 3 informačního zákona).“ Žalovaná tedy po té, co usoudila, že se na ni nevztahuje § 51 odst. 3 písm. c) zákona o HMP (byť s tím žalobce nesouhlasí), měla postupovat dle InfZ a žalobci informaci stejně poskytnout.
 
-2. Se stejným subjektem uzavřel Dopravní podnik hlavního města Prahy a.s. smlouvu již v roce 2007. Tuto smlouvu poskytl Dopravní podnik hlavního města Prahy. a.s. podle žádosti podle zákona InfZ a smlouva byla v souladu se zákonem o svobodném přístupu k informacím poskytnuta. Vzhledem k tomu, že jsou smlouvy uzavřené v obdobné době, se stejným subjektem a na stejnou službu, navíc po analýze se ukázalo, že jejich obsah je velmi podobný, nelze se domnívat, že by žádané smlouvy, které uzavřel subjekt s povinným subjektem na službu SMS jízdenek v Liberci, obsahovaly skutečnosti v příslušných obchodních kruzích běžně nedostupné. Fakt, že dopravní podnik nechce nevýhodné parametry smlouvy zveřejnit, není důkazem jejich konkurenční významnosti (protože za relevantním trhu jsou již takové podmínky dávno překonané), ale pouze nevýhodnosti smluv.
-
-3. Povinný subjekt neformálně sdělil, že hodlá do budoucna usilovat o změnu subjektu, který službu SMS jízdenek poskytuje, a to z důvodu, že dané smlouvy jsou pro něj nevýhodné. Vzhledem ke skutečnosti, že obdobná smlouva platí již jen ve vztahu s Dopravním podnikem hl. m. Prahy (kde navíc byla poskytnuta a zveřejněna), a že subjekt, který službu poskytuje i v jiných městech (např. v Pardubicích) podle novějších smluv tyto smlouvy zveřejnil, ba dokonce od procesu medializace problematických marží SMS jízdenek uzavírá smlouvy jiné, není možné se domnívat, že by mohlo dojít k úniku konkurenčně významné skutečnosti.
+Protože žalovaná žalobci informace neposkytla, ačkoliv měla, postupoval žalobce v souladu s InfZ a podal proti rozhodnutí odvolání. Z rozsudku Nejvyššího správního soudu ze dne 19. 2. 2013, čj. 8 Aps 5/2012-47, vyplývá, že procesně je při vyřizování žádosti o informace dle zákona o obcích (v tomto případě dle zákona o HMP) třeba postupovat dle InfZ. Žalovaná tedy dle InfZ měla rozhodnout o odvolání ve lhůtě 15 (případně 22) dnů a neučinila tak. Žalobci tedy nezbývá než podat správní žalobu proti nečinnosti.
 
 K důkazu:
 
-- Srovnávací studie smluv na SMS jízdenky (Naši politici, o. s., klub Pirátů v Zastupitelstvu hl. m. Praze) v příloze
-- Protokol o předaných smlouvách z Dopravního podniku hl. m. Prahy (v příloze)
-- Smlouvy na SMS jízdenky (dostupné online pod hypertextovým odkazem)
-    - Praha <https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/11-sms-jizdenky-praha-smlouvy>
-    - Brno <https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/13-sms-jizdenky-brno>
-    - Ostrava <https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/14-sms-jizdenky-ostrava>
-    - Pardubice <https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/15-sms-jizdenky-pardubice>
-    - České Budějovice <https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/17-sms-jizdenky-ceske-budejovice>
-    - Plzeň <https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/18-sms-jizdenky-plzen>
-    - Olomouc <https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/19-sms-jizdenky-olomouc>
-    - Hradec Králové <https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/20-sms-jizdenky-hradec-kralove>
-    - Zlín a Otrokovice <https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/23-sms-jizdenky-zlin-a-otrokovice>
-    - Ústí nad Labem <https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/24-sms-jizdenky-usti-nad-labem>
-
-Přehled důkazů výpovídá o tom, že celá řada měst poskytuje smlouvy ohledně systému SMS jízdenek. Tvrzení žalovaného o tom, že jde o obchodní tajemství, je rovněž vyvráceno tím, že obecné fungování služby platbou SMS jízdenkami je dobře známé a v komerčním sektoru využívané a za druhé dopravní specifika jsou podstatná pouze při jednání s veřejnou správou, tedy vždy budou pod větším veřejným dohledem. Žalobce zdůrazňuje, že zde nejde o žádné složité technické parametry jedinečného řešení (ostatně žalovaný ani nic takového netvrdí!), ale o základní údaje o tom, kolik peněz žalovaný jako veřejná instituce utrácí a odvádí soukromému dodavateli za objednané služby, tedy naprosto základní údaj podstatný pro transparenci veřejné instituce.
-
-Argumentace žalovaného na straně 3 napadeného rozhodnutí, že nevýhodné nastavení platebních podmínek ze strany dodavatele je jeho know how, a tedy má hodnotu, je v souvislosti s dokazováním, že jde o obchodní tajemství argument kruhem. Pro důkaz toho, že jde o obchodní tajemství se totiž předpokládá, že obsahuje know how, které by ostatní strany nesměly znát, což je přesně obsah pojmu obchodní tajemství. 
-
-Nic na tom nemůže změnit námitka žalovaného, že nenakládá s veřejnými prostředky. Fakt je ten, že žalovaný je akciovou společností spoluvlastněnou městy, které jeho činnost dotují na základě smluv o závazku veřejné služby, přičemž žalovaný zajišťuje na území měst jako dopravní podnik veřejnou dopravu, tj. vykonává nevrchnostenskou veřejnou správu. Žalovaný tedy s veřejnými prostředky nakládá a část z těchto prostředků je používána i na platbu dodavatelům (resp. krytí ztráty, která vznikne po platbě dodavatelům). Výklad, podle něhož akciové společnosti dotované z rozpočtu města nehospodaří s veřejnými prostředky, protože dopravní podniky nejsou uvedeny (dle žalovaného) ve výčtu orgánů veřejné správy v zákoně o finanční kontrole, je formalistický a nijak nebrání tomu, aby i jiná veřejná instituce hospodařila *a simile* s veřejnými prostředky. (Jde tak v podstatě o promítnutí závěrů Ústavního soudu v judikátu *Letiště Praha* o povaze veřejné instituce pro účely svobodného přístupu k informacím do definice veřejných prostředků pro účely svobodného přístupu k informacím, která je širší než definice obsažená v zákoně o státní finančí kontrole. Smyslem citovaných judikátů zajisté nebylo zúžit přístup k informacím, ale neopak poskytnout důvod pro poskytnutí informací s odkazem na požadavky zvláštního zákona, které jsou minimálním standardem, neboť jsou vykládány bez kontextu zákona o svobodném přístupu k informacím.) Žalovaný je tedy podle § 9 odst. 2 InfZ povinen poskytnout požadované informace, neboť se týkají nakládání s veřejnými prostředky. Ostatně smyslem zákona o svobodném přístupu k informacím je právě umožnit veřejnou kontrolu hospodaření veřejných institucí.
-
-Nezákonnost napadeného rozhodnutí se podává i z toho, že povinný subjekt na str. 4 napadeného rozhodnutí podmiňuje poskytnutí informace podpisem slibu odškodnění. Nic takového zákon o svobodném přístup k informacím nezná. Povinný subjekt nemůže zároveň tvrdit, že informace v souladu se zákonem odpírá a zároveň, že je (byť podmíněně) neodpírá, neboť jde o logický rozpor. Tím, že žalovaný nabízí žadateli informace (byť podmíněně) tak mlčky připouští, že nejde o obchodní tajemství dodavatele, neboť jinak by je nemohl poskytnout. 
-
-K tomu je vhodné vzpomenout i recentní judikaturu. Krajský soud v Brně v rozhodnutí ze dne 10. února 2015, sp. zn. 12 - 29 A 52/2012 uvedl, že z hlediska aplikace § 9 zákona o svobodném přístupu k informacím je nutno činit rozdíl mezi výkazem předpokládaných nákladů a výnosů a výkazem nákladů a výnosů z uskutečněné přepravní činnosti. Zatímco o předpokládaných nákladech nebo kalkulacích lze tvrdit, že jde za podmínek zákona o chráněné know how, skutečné faktury o reálných výdajích povinného subjektu nemohou být předmětem obchodního tajemství. 
+- Žádost o informace z 29. 4. 2015 <https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/38-odmeny-ppservisdistribuce/1-zadost/ppservisdistribuce.pdf>
+- Odmítnutí ze dne 21. 5. 2015 <https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/38-odmeny-ppservisdistribuce/2-odmitnuti/odmitnuti.pdf>
+- Odvolání ze dne 15. 6. 2015 <https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/38-odmeny-ppservisdistribuce/3-odvolani/main.pdf>
+- Stížnost proti nečinnosti ze dne 28. 7. 2015 <https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/38-odmeny-ppservisdistribuce/4-stiznost-na-necinnost/main.pdf>
 
 # Návrh rozsudku
 
-Z výše uvedených důvodů mám za to, že by požadovaná informace, tedy slouva na SMS jízdenky měla být poskytnuta. Vzhledem k tomu, že žalovaný neuvedl konkrétní okolnosti svědčící o splnění podmínek obchodního tajemství jednotlivými částmi smlouvy i výší provize, je třeba vycházet z toho, že takové důvody nejsou dány. (Žalovaný je neuvedl, ačkoliv k tomu měl prostor v řízení.) Jsou tedy splněny podmínky pro vydání informačního příkazu dle § 16 odst. 4 InfZ. Navrhuji proto, aby soud vydal následující rozsudek:
+Z výše uvedených důvodů navrhuji, aby soud vydal následující rozsudek:
 
-1. Napadené rozhodnutí se ruší.
-2. Soud nařizuje žalovanému, aby žalobci poskytl požadované informace v elektronické podobě do 15 dnů od právní moci tohoto rozsudku.
-3. Žalovaný je povinen nahradit náklady řízení žalobci do 3 dnů od právní moci tohoto
-rozsudku.
+1. Soud nařizuje žalované, aby rozhodl o odvolání žalobce ze dne 15. 6. 2015 do 15 dnů od právní moci tohoto rozhodnutí
 
 Žalobce souhlasí s tím, aby soud projednal věc bez nařízení jednání. 
+
 
 ---
 podpis: 
