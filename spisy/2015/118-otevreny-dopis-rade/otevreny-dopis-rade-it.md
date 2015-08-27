@@ -14,7 +14,7 @@ header-includes:
 
 
 \begin{flushright}
-V Praze dne 25. 8. 2015
+V Praze dne 27. 8. 2015
 \end{flushright}
 
 
