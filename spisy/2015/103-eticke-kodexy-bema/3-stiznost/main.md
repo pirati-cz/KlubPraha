@@ -14,7 +14,7 @@ vase:
 nase:
   znacka:   ZK Pha 103/2015
   misto:    Praha
-vec:        Žádost zastupitele hl. m. Prahy o informace
+vec:        Stížnost zastupitele hl. m. Prahy na postup při vyřizování žádosti o informace
 vyrizuje:   
   jmeno:    Jakub Michálek
   telefon:  +420 775 978 550
