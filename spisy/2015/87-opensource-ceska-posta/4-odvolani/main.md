@@ -36,7 +36,7 @@ Přestože Česká pošta již nemá monopolní postavení na trhu, není možn�
 
 Rovněž se nelze domnívat, že je Česká pošta s.p. povinným subjektem jen v určité části své působnosti, která je vymezena tzv. základními službami, neboť InfZ stanoví kdo povinným subjektem je a kdo není, nikoliv kdo jím je pouze z části. 
 
-V souvislosti s tím podávám v souladu s § 16 zákona č. 101/1999 Sb., o svobodném přístupu k informacím, odvolání. Navrhuji, aby nadřízený správní orgán postupem podle § 90 odst. 1 písm. b) zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů, ve spojení s § 20 odst. 4 písm. b) InfZ, napadené rozhodnutí zrušil a věc vrátil k novému projednání povinnému subjektu.
+V souvislosti s tím podávám v souladu s § 16 zákona č. 101/1999 Sb., o svobodném přístupu k informacím, odvolání. Navrhuji, aby nadřízený správní orgán postupem podle § 90 odst. 1 písm. c) zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů, ve spojení s § 20 odst. 4 písm. b) InfZ; napadené rozhodnutí změnil. 
 
 Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost. 
 
