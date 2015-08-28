@@ -20,7 +20,7 @@ vyrizuje:
   mail:     adam.zabransky@praha.eu
 ---
 
-Tato žaloba směřuje proti nečinnosti obchodní společnosti Pražská plynárenská Servis distribuce, a.s., se sídlem U Plynárny 1450/2a, Praha 4 (dále jen „žalované“), která ve lhůtě stanovené § 16 odst. 3 zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), nerozhodla o odvolání žalobce proti rozhodnutí o odmítnutí žádosti o informace.
+Tato žaloba směřuje proti nečinnosti obchodní společnosti Pražská plynárenská Servis distribuce, a.s., se sídlem U Plynárny 1450/2a, Praha 4 (dále jen „žalované“), která ve lhůtě stanovené § 16 odst. 3 zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), nerozhodla o odvolání Adama Zábranského, nar. 28. 12. 1993, bytem Zbynická 6, Praha 16 (dále jen „žalobce“) proti rozhodnutí o odmítnutí žádosti o informace.
 
 # Předmět řízení a dosavadní průběh řízení
 
