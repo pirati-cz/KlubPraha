@@ -25,9 +25,9 @@ Vážení,
 
 v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, resp. zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, žádám o následující informace:
 
-1. Pořizovací cenu hlasovacího zařízení, které při svých jednáních využívá Rada hl. m. Prahy
+1. Pořizovací cenu hlasovacího zařízení, které při svých jednáních využívá Rada hl. m. Prahy.
 
-2. Datum, kdy bylo toto zařízení uvedeno do provozu
+2. Datum, kdy bylo toto zařízení uvedeno do provozu.
 
 3. Informaci o tom, zda-li se toto zařízení běžně používá a zda-li existují záznamy z tohoto zařízení o hlasování, především v podobě jmenovitého hlasování jednotlivých členů Rady.
 
