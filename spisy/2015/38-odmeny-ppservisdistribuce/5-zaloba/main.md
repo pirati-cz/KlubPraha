@@ -57,7 +57,7 @@ K důkazu:
 
 Z výše uvedených důvodů navrhuji, aby soud vydal následující rozsudek:
 
-1. Soud nařizuje žalované, aby rozhodl o odvolání žalobce ze dne 15. 6. 2015 do 15 dnů od právní moci tohoto rozhodnutí
+1. Soud nařizuje žalované, aby rozhodla o odvolání žalobce ze dne 15. 6. 2015 do 15 dnů od právní moci tohoto rozhodnutí
 
 Žalobce souhlasí s tím, aby soud projednal věc bez nařízení jednání. 
 
