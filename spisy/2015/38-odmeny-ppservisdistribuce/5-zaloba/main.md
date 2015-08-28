@@ -31,7 +31,7 @@ Tato žaloba směřuje proti nečinnosti obchodní společnosti Pražská plyná
 
 V dopise ze dne 21. 5. 2015 žalovaná odmítla žalobci poskytnout informace v bodě 2. Neučinila tak sice formálním rozhodnutím, nicméně materiálně se dle názoru žalobce o rozhodnutí jednalo (a podle usnesení ÚS z 28.8.2002, 4 ÚS 233/02, je třeba k pojmu „rozhodnutí“ přistupovat z hlediska jeho obsahu a nikoliv formy). Žalovaná v rozhodnutí o odmítnutí argumentovala tím, že se na ni § 51 odst. 3 písm. c) zákona o HMP nevztahuje, protože nebyla zřízena ani založena hl. m. Prahou a hl. m. Praha není ani jejím akcionářem.
 
-Žalobce dne 15. 6. 2015 podal proti rozhodnutí o odmítnutí žádosti odvolání. Protože žalovaná ve svém rozhodnutí na možnost odvolání neupozornila, neplatila pro žalobce 15denní odvolací lhůta, nýbrž 90denní podle § 83 odst. 2 správního řádu. Žalobce pak dne 1. 8. 2015 zaslal žalované stížnost na nečinnost. Ačkoliv se dle zákona o svobodném přístupu k informacím nejednalo o správný postup, žalobce stížností upozornil na fakt, že žalovaná nekoná, ačkoliv konat měla.
+Žalobce dne 15. 6. 2015 podal proti rozhodnutí o odmítnutí žádosti odvolání. Protože žalovaná ve svém rozhodnutí na možnost odvolání neupozornila, neplatila pro žalobce 15denní odvolací lhůta, nýbrž 90denní podle § 83 odst. 2 správního řádu. Žalobce pak dne 3. 8. 2015 zaslal žalované stížnost na nečinnost. Ačkoliv se dle zákona o svobodném přístupu k informacím nejednalo o správný postup, žalobce stížností upozornil na fakt, že žalovaná nekoná, ačkoliv konat měla.
 
 
 # Žalobní body
@@ -49,7 +49,9 @@ K důkazu:
 - Žádost o informace z 29. 4. 2015 <https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/38-odmeny-ppservisdistribuce/1-zadost/ppservisdistribuce.pdf>
 - Odmítnutí ze dne 21. 5. 2015 <https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/38-odmeny-ppservisdistribuce/2-odmitnuti/odmitnuti.pdf>
 - Odvolání ze dne 15. 6. 2015 <https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/38-odmeny-ppservisdistribuce/3-odvolani/main.pdf>
-- Stížnost proti nečinnosti ze dne 28. 7. 2015 <https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/38-odmeny-ppservisdistribuce/4-stiznost-na-necinnost/main.pdf>
+- Podací list k dopisu ze dne 15. 6. 2015 <https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/38-odmeny-ppservisdistribuce/3-odvolani/podaci-list.pdf>
+- Stížnost proti nečinnosti ze dne 3. 8. 2015 <https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/38-odmeny-ppservisdistribuce/4-stiznost-na-necinnost/main.pdf>
+- Podací list k dopisu ze dne 3. 8. 2015 <https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/38-odmeny-ppservisdistribuce/4-stiznost-na-necinnost/podaci-list.pdf>
 
 # Návrh rozsudku
 
