@@ -11,6 +11,8 @@ Přehledová tabulka:
 
 TMPTABLE
 
+Zdrojová data jsou dostupná v [tomto souboru](data.csv).
+
 Podrobné informace
 ------------------
 

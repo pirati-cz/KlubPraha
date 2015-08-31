@@ -29,6 +29,8 @@ set xlabel customxlabel
 set ylabel customylabel
 set yrange [0:20000]
 
+set term png size 1000,400 #800 pixels by 400 pixels
+
 plot for [COL=2:col_count:1] filename using COL: xtic(1) with histogram
 
 maxy = (GPVAL_Y_MAX * 1.5)
