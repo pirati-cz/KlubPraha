@@ -1,6 +1,6 @@
 ---
 prijemce: 
-  role:     Povinný subjekt
+  role:     
   nazev:    Hlavní město Praha
   ulice:    Mariánské náměstí 2/2
   PSC:      11001
