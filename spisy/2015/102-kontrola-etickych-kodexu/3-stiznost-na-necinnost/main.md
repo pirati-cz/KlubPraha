@@ -33,11 +33,19 @@ Ve svém podání jsem
 4. zaslal připomínku k formuláři pro přístup k majetkovým přiznáním, 
 5. učinil podnět k tomu, aby byla řešena neuspokojivá situace se zákazem kopírování majetkových přiznání, i když subjekt údajů souhlasil s jejich zveřejněním. 
 
-Na toto mé podání měla podle § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, zaslat paní předsedkyně písemnou odpověď do 30 dnů. Tato lhůta uplynula dne 2. srpna 2015. V této lhůtě jsem písemnou odpověď neobdržel. Proto jsem podle § 16a písm. b) zákona č. 106/1999 Sb., o svobodném přístupu k informacím, podal dne 10. 8. 2015 stížnost.
+Na toto mé podání měla podle § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, zaslat paní předsedkyně písemnou odpověď do 30 dnů, přičemž bod 1 je svou povahou žádost o informace a má tak být vyřizován podle zákona č. 106/1999 Sb. Tato lhůta uplynula dne 2. srpna 2015. V této lhůtě jsem písemnou odpověď neobdržel. Proto jsem podle § 16a písm. b) zákona č. 106/1999 Sb., o svobodném přístupu k informacím, podal dne 10. 8. 2015 stížnost na postup při vyřizování žádosti o informace.
 
-Od povinného subjektu jsem bohužel po podání stížnosti rozhodnutí neobdržel. Proto podávám podle § 80 odst. 3 zákona č. 500/2004 Sb., správního řádu, ve znění pozdějších předpisů (dálejen „SpŘ“) žádost o uplatnění opatření proti nečinnosti.
+Podle judikatury je na postup žádání informací zastupitelem plně aplikovatelný zákon č.
+106/1999 Sb., o svobodném přístupu k informacím. V souladu s tímto zákonem jsem tedy podal
+v tomto rozsahu stížnost na postup při vyřizování žádosti o informace a žádal jsem o postoupení 
+této stížnosti Ministerstvu vnitra, které je nadřízeným správním orgánem hl. m. Prahy
+na úseku poskytování informací.
 
-Prosím o doručování prostřednictvím e-mailové adresy nebo datové schránky uvedené v patičce tohoto dopisu. Zároveň vás žádám o uvedení e-mailové adresy pro elektronickou komunikaci. Předem děkuji za Vaši vstřícnost.
+V návaznosti na uvedené zasílám obsah korespondence pro případ, že ho povinný subjekt 
+Ministerstvu vnitra nepostoupil a žádám o vyřízení mé stížnosti na postup při vyřizování
+žádosti informace.
+
+Prosím o doručování prostřednictvím datové schránky uvedené v patičce tohoto dopisu. Předem děkuji za Vaši vstřícnost.
 
 ---
 podpis: 
