@@ -49,8 +49,8 @@ Prosím o doručování prostřednictvím datové schránky uvedené v patičce 
 
 ---
 podpis: 
-  - Adam Zábranský
-  - nar. 28. 12. 1993
-  - bytem Zbynická 6, Praha 16
+  - Jakub Michálek
+  - nar. 6. 2. 1989
+  - bytem Zenklova 193, Praha 8
   - zastupitel hl. m. Prahy
 ...
