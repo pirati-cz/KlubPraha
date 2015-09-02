@@ -9,7 +9,7 @@ prijemce:
 styl:       pirati-klub
 vase:
   znacka:   8379/2015
-  den:      28. 8. 2015
+  den:      28.8. 2015
 nase:
   znacka:   ZK Pha 107/2015
   misto:    Praha
