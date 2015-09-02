@@ -13,7 +13,7 @@ vase:
 nase:
   znacka:   ZK Pha 102/2015
   misto:    Praha
-vec:        Žádost o ochranu proti nečinnosti.
+vec:        Postoupení spisu 
 vyrizuje:   
    name:    Jakub Michálek
    phone:   +420 775 978 550
