@@ -17,7 +17,7 @@ vec:        Žádost zastupitele hl. m. Prahy o informace
 vyrizuje:   
    name:    Mikuláš Ferjenčík
    phone:   +420 775 978 550
-   ds:      
+   ds:      i9avjnt
    mail:    mikulas.ferjencik@praha.eu
 ---
 
