@@ -25,7 +25,7 @@ Vážení,
 
 v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, resp. zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, žádám o následující informace:
 
-Seznam všech podnětů k územnímu plánu, které eviduje Magistrát hlavního města Prahy k 4. 9. 2015 a obsah všech podnětů z tohoto seznamu. 
+Seznam všech podnětů k územnímu plánu, které eviduje Magistrát hlavního města Prahy k 8. 9. 2015 a obsah všech podnětů z tohoto seznamu. 
 
 Prosím o poskytnutí informace v elektronické podobě a doručování do datové schránky uvedené v patičce této zprávy. Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více datových zprávách, nebo se dostavím s paměťovým médiem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost. 
 
