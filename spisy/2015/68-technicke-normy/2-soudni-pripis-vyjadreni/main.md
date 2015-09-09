@@ -1,38 +1,46 @@
 ---
-prijemce: 
-  role:     
-  nazev:    Městský soud v Praze
-  ulice:    Spálená 6/2
-  PSC:      12000
-  mesto:    Praha 2
-  DS:       snkabbm
-styl:       pirati-klub
-vase:
-  znacka:   sp. zn. 11A 3/2014-70
-  den:      11.06.2015
-nase:
-  znacka:   ZK Pha 68/2015
-  misto:    Praha
-
-vec:        Vyjádření na výzvu soudu
-vyrizuje:   
-  jmeno:    Jakub Michálek
-  telefon:  +420 775 978 550
-  ds:       4memzkm
-  mail:     jakub.michalek@praha.eu
+title:      Žádost zastupitele hl. m. Prahy
+author:
+   name:    Jakub Michálek
+   phone:   +420 775 978 550
+   ds:      4memzkm
+   mail:    jakub.michalek@praha.eu
+our:
+   name:    Zastupitelský klub Pirátů
+   sign:    ZK Pha 116/2015
+your:
+   name:
+      -     Hlavní město Praha
+   address:
+      -     Mariánské náměstí 2/2
+      -     110 01 Praha 1
+   ds:      48ia97h
+   sign:
+   date:    
+   note:    
+      -     k rukám ředitelky
+sendby:     ds
+style:      letter
 ---
 
-Vážená paní předsedkyně,
+Vážená paní ředitelko,
 
-na výzvy soudu se vyjadřuji tak, že mi nejsou známy žádné důvody odepření 
-informace. Vámi uvedený bod rozhodnutí Nejvyššího správního soudu 
-interpretuji tak, že žalovaný je povinen tvrdit výjimku (jiný důvod odepření) 
-a že žalobce je oprávněn se k těmto důvodům vyjádřit. Jsem připraven se 
-vyjádřit po seznámení se stanoviskem žalovaného.
+v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze,
+resp. zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, Vás žádám 
+o zaslání kopie dopisů, které zaslalo Ministerstvo pro místní rozvoj hl. m. Praze v souvislosti
+s přípravou pražských stavebních předpisů od ledna 2015.
 
-S úctou
+Prosím o poskytnutí informace v elektronické podobě a doručování do datové schránky uvedené v patičce této zprávy. Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více datových zprávách, nebo se dostavím s paměťovým médiem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost. 
+
+S pozdravem
 
 ---
-podpis: 
+signature:
   - Mgr. Bc. Jakub Michálek
+  - předseda klubu Pirátů
+  - v Zastupitelstvu hl. m. Prahy
+  - nar. 6. 2. 1989, 
+  - trvale bytem Zenklova 193, Praha 8
+abbr:       jakub
+attachments:
 ...
