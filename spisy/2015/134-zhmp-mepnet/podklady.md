@@ -1,9 +1,27 @@
 Podklady pro ZHMP Mepnet
 ========================
 
-Tisk: [Z-3634, pořadí 4](http://zastupitelstvo.praha.eu/ina2010/tedusndetail.aspx?id=254471)
+Tisk: [Z-3634][], pořadí 4
 
-Finanční objem: 100 000 000 Kč za 48 měsíců, to jest: 2 083 333 Kč měsíčně.
+Finanční objem: 
+
+- 100 000 000 Kč za 48 měsíců
+- 2 083 333 Kč měsíčně.
+- při 130 lokalitách je to: 16 026 Kč / měsíčně / lokalitu
+
+Odhad řed. INF a příslušného vedoucího je, že ušetříme až 1/4 až 1/3 díky vlastním optikám, které získáme od městských firem. Převážně se jedná o PRE, Kolektory, DPP a TSK.
+
+
+Usnesení
+--------
+
+Zastupitelstvo hlavního města Prahy
+
+I. schvaluje: odůvodnění veřejné zakázky "Zajištění elektronických komunikací v oblasti datových
+služeb na území hl.m. Prahy" zadávané formou otevřeného řízení ve znění, které je uvedeno v příloze č. 1 tohoto usnesení
+
+II. ukládá Radě HMP zajistit realizaci dle bodu I. tohoto usnesení
+
 
 Důvodová zpráva
 ---------------
@@ -139,3 +157,4 @@ Hlasování: 7-0-0 (pro-proti-zdržel se). Schváleno.
 [127/2005]: http://www.zakonyprolidi.cz/cs/2005-127
 [111/2009]: http://www.zakonyprolidi.cz/cs/2009-111
 [181/2014]: http://www.zakonyprolidi.cz/cs/2014-181
+[Z-3634]: http://zastupitelstvo.praha.eu/ina2010/tedusndetail.aspx?id=254471
