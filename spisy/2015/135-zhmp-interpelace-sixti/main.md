@@ -1,3 +1,6 @@
+Interpelace radního Haška dne 10. 9.
+====================================
+
 Vážený pane radní,
 
 jistě jste obeznámen s kauzou domu U Sixtů.
@@ -12,3 +15,8 @@ Chci se zeptat zda jste v této věci učinil nějaké kroky.
 Pokud ano tak jaké. Pokud ne tak proč ne.
 Pokud jste jednal na základě nějakých nových skutečností jako jsou analýzy. 
 Poprosil bych o možnost se s případnými materiály seznámit.
+
+
+\bigskip
+
+Ondřej Profant
