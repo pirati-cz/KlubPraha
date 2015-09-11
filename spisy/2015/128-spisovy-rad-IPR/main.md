@@ -11,7 +11,7 @@ vase:
   znacka:   
   den:
 nase:
-  znacka:   ZK Pha 127/2015
+  znacka:   ZK Pha 128/2015
   misto:    Praha
 vec:        Žádost zastupitele hl. m. Prahy o informace
 vyrizuje:   
