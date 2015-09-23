@@ -23,7 +23,7 @@ vyrizuje:
 
 Vážení
 
-dne 28. 8. jsme požádal Pražskou energetiku Holding, a.s. v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, požádal o následující informace: 1. výše měsíčních odměn členů dozorčí rady a představensta obchodní společnosti Pražská energetika Holding, a.s., 2. výše mimořádných odměn (např. z tantiém) členů dozorčí rady a představenstva obchodní
+dne 28. 8. jsme požádal Pražskou energetiku Holding, a.s. v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, o následující informace: 1. výše měsíčních odměn členů dozorčí rady a představensta obchodní společnosti Pražská energetika Holding, a.s., 2. výše mimořádných odměn (např. z tantiém) členů dozorčí rady a představenstva obchodní
 společnosti Pražská energetika Holding, a.s., za roky 2012-2014, 3. výše měsíčních odměn členů dozorčích rad a představenstev v jednotlivých akciových společnostech, které ovládá obchodní společnost Pražská energetika Holding, a.s., ať už přímo či nepřímo skrze dceřinnou
 obchodní společnost (tedy např. Pražská energetika, a.s., PREdistribuce, a.s. atd.), 4. výše mimořádných odměn členů dozorčích rad a představenstev těchto akciových společností za roky 2012-2014.
 
