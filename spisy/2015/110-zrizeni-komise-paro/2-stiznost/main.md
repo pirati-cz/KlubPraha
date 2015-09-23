@@ -1,4 +1,4 @@
----
+﻿---
 prijemce: 
   role:     Povinný subjekt
   nazev:    Hlavní město Praha
@@ -23,7 +23,7 @@ vyrizuje:
 
 Vážení
 
-dne 19. 8. jsem paní náměstkyni Kislingerové odeslal svůj podnět, vypracovaný podle zákona č. 131/2001 Sb., o hlavním městě Praze, ve znění pozdějších předpisů. Obrátil jsem se s prosbou, aby se v Radě hl. m. Prahy zasadila o zřízení komise pro participativní rozpočtování.
+dne 19. 8. jsem paní náměstkyni Kislingerové odeslal svůj v souladu se zákonem o hlavním městě Praze. Obrátil jsem se s prosbou, aby se v Radě hl. m. Prahy zasadila o zřízení komise pro participativní rozpočtování.
 
 Na svůj podnět jsem od paní náměstkyně nedostal ve lhůtě třiceti dnů, kterou uvádí § 51 odst. 3 písm. b) zákona č. 131/2001 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, odpověď. Pro vyřizování podnětů zastupitele je plně aplikovatelný zákon č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“). Paní náměstkyně, která v tomto směru zastupuje povinný subjekt, totiž na můj podnět neodpověděla. Podávám proto podle §16a odst. 1 písm. b) InfZ stížnost na postup při vyřizování žádosti o informace. Navrhuji, aby nadřízený správní orgán postupem podle § 16a odst. 6 písm. b) InfZ povinnému subjektu přikázal, aby žádost vyřídil ve lhůtě 5 dnů ode dne doručení rozhodnutí nadřízeného orgánu.
 
@@ -35,4 +35,6 @@ S pozdravem
 podpis: 
   - Adam Zábranský
   - zastupitel hl. m. Prahy
+  - nar. 28. 12. 1993
+  - bytem Zbynická 6, Praha 16
 ...
