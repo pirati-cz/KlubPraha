@@ -13,7 +13,7 @@ vase:
 nase:
   znacka:   ZK Pha 111/2015
   misto:    Praha
-vec:        Stížnost zastupitele hl. m. Prahy na vyřizování podnětu
+vec:        Stížnost zastupitele hl. m. Prahy na vyřizování podnětu a žádosti o informace
 vyrizuje:   
   jmeno:    Adam Zábranský
   telefon:  +420 721 006 868
