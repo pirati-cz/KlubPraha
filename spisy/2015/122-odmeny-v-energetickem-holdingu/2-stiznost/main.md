@@ -1,11 +1,11 @@
 ﻿---
 prijemce: 
   role:     Povinný subjekt
-  nazev:    Hlavní město Praha
-  ulice:    Mariánské náměstí 2/2
-  PSC:      11001
-  mesto:    Praha 1
-  DS:       48ia97h
+  nazev:    Pražská energetika Holding, a.s.
+  ulice:    Na Hroudě 1492 
+  PSC:      10005
+  mesto:    Praha 10
+  DS:       
 styl:       pirati-klub
 vase:
   znacka:   
