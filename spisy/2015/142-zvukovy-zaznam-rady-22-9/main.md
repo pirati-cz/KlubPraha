@@ -13,7 +13,7 @@ vase:
 nase:
   znacka:   ZK Pha 142/2015
   misto:    Praha
-vec:        Žádost zastupitele hl. m. Prahy o informace
+vec:        Žádost zastupitele hl. m. Prahy o opakovaně vytvářené informace
 vyrizuje:   
   jmeno:    Adam Zábranský
   telefon:  +420 721 006 868
@@ -23,7 +23,9 @@ vyrizuje:
 
 Vážení,
 
-v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, a v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), Vás žádám o poskytnutí zvukového záznamu z každého jednání Rady hlavního města Prahy od 21. 9. 2015. Žádám o přímé poskytnutí těchto záznamů (nikoliv o zprostředkování vzdáleného přístupu) vždy poté, co jsou vytvořeny, a to v souladu s § 4a odst. 2 písm. f) InfZ, tedy poskytnutí opakovaně vytvářené informace. 
+v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, a v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), Vás žádám o poskytnutí zvukového záznamu z každého jednání Rady hlavního města Prahy od 21. 9. 2015. Žádám o přímé poskytnutí těchto záznamů (nikoliv o zprostředkování vzdáleného přístupu) vždy poté, co jsou vytvořeny, a to v souladu s § 4a odst. 2 písm. f) InfZ, tedy poskytnutí opakovaně vytvářené informace.
+
+Tento postup žádosti je možný díky novelizaci, která vešla v platnost dne 10. 9. 2015. Nebudu tak již muset žádat o každý záznam zvlášť jako dosud, což sníží byrokratické vytížení povinného subjektu.
 
 Prosím o poskytnutí informace do datové schránky uvedené v patičce této zprávy či na e-mailovou adresu. Vyžaduje-li to velikost poskytovaných informací, dostavím se s paměťovým médiem. Předem děkuji za Vaši vstřícnost.
 
