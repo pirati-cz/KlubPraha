@@ -1,7 +1,7 @@
 ---
 prijemce: 
   role:     Povinný subjekt
-  nazev:    bxtaaw4
+  nazev:    Ministerstvo průmyslu a obchodu
   ulice:    Na Františku 1039/32
   PSC:      11015
   mesto:    Praha 1
