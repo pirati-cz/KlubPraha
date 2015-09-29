@@ -32,9 +32,9 @@ dne 20. května 2015 jsem prostřednictvím portálu infoprovsechny.cz Českou p
 2. seznam všech použitých řešení v oblasti informatiky s použitými open source programy s uvedením dodavatele řešení, názvu
 počítačového programu, rozsahu nasazení (počet uživatelů, koncových zařízení atp.)
 
-Povinný subjekt poskytnutí těchto informací dne 11. 8. 2015 částečně zamítl, a proto jsem podal dne 28. 8. 2015 odvolání v této záležitosti. 
+Česká pošta a.s., která je v tomto případě povinným subjektem, poskytnutí těchto informací dne 11. 8. 2015 zamítla, a proto jsem podal dne 28. 8. 2015 podal odvolání v této záležitosti. 
 
-Od vás jako nadřazeného subjektu jsem nicméně nedostal žádnou odpověď a to přesto, že už uplynula lhůta daná zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen InfZ) (lhůta pro předání informace i pro vydání rozhodnutí). Proto dle § 16a odst. 1 písm. b) na tento postup podávám stížnost.
+Od vás jako nadřazeného subjektu jsem nicméně nedostal žádnou odpověď a to přesto, že už uplynula lhůta daná zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen InfZ) (lhůta pro předání informace i pro vydání rozhodnutí). Proto bych Vás rád požádal o rozhodnutí v případě mé žádosti, resp. v případě odvolání. 
 
 Prosím o poskytnutí informací prostřednictvím datové schránky uvedené v patičce tohoto dopisu, případně prostřednictvím e-mailu. Předem děkuji za Vaši vstřícnost.
 
