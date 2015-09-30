@@ -23,7 +23,9 @@ vyrizuje:
 
 Vážená paní tajemnice,
 
-Zastupitelský klub Pirátů obdržel Vaší pozvánku z klubu zastupitelů TOP 09 a nezávislých ke společnému jednání. Za náš klub mohu říci, že máme zájem společně jednat, a to ve formátu 2:2. Za zastupitelský klub Pirátů se budu setkání účastnit já jako předseda klubu a poté Adam Zábranský jako místopředseda. Vhodným termínem z naší strany pro společné jednání je datum 7. 10. 2015 ve 14:00. 
+Zastupitelský klub Pirátů obdržel Vaší pozvánku z klubu zastupitelů TOP 09 a nezávislých ke společnému jednání. Za náš klub mohu říci, že máme zájem společně jednat, a to ve formátu 2:2. Za zastupitelský klub Pirátů se budu setkání účastnit já jako předseda klubu a poté Adam Zábranský jako místopředseda. Vhodným termínem z naší strany pro společné jednání je datum 7. 10. 2015 v 10:00. 
+
+Posílám Vám také jako přílohu naší tiskovou zprávu, ve které je podrobněji popsán mandát k vyjednávání o koalici. 
 
 S pozdravem
 
