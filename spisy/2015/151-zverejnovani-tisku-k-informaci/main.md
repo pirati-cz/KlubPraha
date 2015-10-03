@@ -13,7 +13,7 @@ vase:
 nase:
   znacka:   ZK Pha 151/2015
   misto:    Praha
-vec:        Podnět pro Radu hl. m. Prahy
+vec:        Podnět zastupitele pro Radu hl. m. Prahy
 vyrizuje:   
   jmeno:    Adam Zábranský
   telefon:  +420 721 006 868
