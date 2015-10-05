@@ -44,6 +44,12 @@ Dle § 16 odst. 3 „Hlavní město Praha v samostatné působnosti ve svém úz
 
 > s místními předpoklady a místními zvyklostmi o vytváření podmínek pro rozvoj sociální péče a pro uspokojování potřeb svých občanů. Jde především o uspokojování potřeby bydlení, ochrany a rozvoje zdraví, dopravy a spojů, potřeby informací, výchovy a vzdělávání, celkového kulturního rozvoje a ochrany veřejného pořádku. 
 
+
+Dlouhodobý pronájem
+-------------------
+
+Dlouhodobý pronájem byl zpochybněn rozsudkem [28 Cdo 2258/2010](http://kraken.slv.cz/28Cdo2258/2010) Datum rozhodnutí: 15.09.2010
+
 Odkazy
 ------
 
