@@ -1,4 +1,4 @@
-﻿---
+---
 prijemce: 
   role:     Povinný subjekt
   nazev:    Institut plánování a rozvoje hlavního města Prahy
@@ -23,7 +23,12 @@ vyrizuje:
 
 Vážení,
 
-v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, a v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), Vás žádám o poskytnutí analýzy hospodaření s nebytovým majetkem hl. m. Prahy, kterou dle mých informací IPR vypracoval již před několika měsíci. Předpokládám vyřízení žádosti ve lhůtě 15 dnů dle InfZ.
+dověděl jsem se, že IPR v roce 2015 vypracoval analýzu hospodaření s nebytovým majetkem hl. m. Prahy. Proto v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, a v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), žádám o následující:
+
+ 1. údaj, kdy byla analýza předána Magistrátu hl. m. Prahy či politickým představitelům hl. m. Prahy,
+ 2. poskytnutí analýzy hospodaření s nebytovým majetkem hl. m. Prahy.
+
+Předpokládám vyřízení žádosti ve lhůtě 15 dnů dle InfZ.
 
 Prosím o poskytnutí informace do datové schránky uvedené v patičce této zprávy či na e-mailovou adresu. Předem děkuji za Vaši vstřícnost.
 
