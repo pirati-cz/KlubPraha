@@ -7,14 +7,18 @@ Kauza hotelového komplexu U Sixtů
 
 Zahrnuté domy:
 
-- Celetná 2 – Sixtův dům 
-- Železná 3 – U Kamenného ptáka
-- Železná 3a – U Uherské koruny
-- Kamzíkova 5 – U Jednorožce
-- Celetná 8 – U Černého slunce
-- Staroměstské náměstí 17 – U Kamenného beránka
-- Železná 5 – U Bílého vlka
-- Kamzíkova 1 – U Zlatého hroznu
+| Adresa       | Název              | Na plánku    | Vlastník         | Etapa | Poznámka                         |
+|--------------|--------------------|--------------|------------------|-------|----------------------------------|
+| Celetná 2    | Sixtův dům         | A, B, C, Y   | Bucentaurio      | 1     | Nemovitá kulturní památka rejstříkové číslo 1 – 299, 293, 294. |
+| Železná 3    | U Kamenného ptáka  | E            | Bucentauro Trade | 1     |    |
+| Železná 3a   | U Uherské koruny   | J            | HMP              | 1     |    |
+| Kamzíkova 5  | U Jednorožce       | D            | HMP              | 1     |    |
+| Celetná 8    | U Černého slunce   | I            | HMP              | 2     |    |
+| Staroměstské náměstí 17 | U Kamenného beránka | K| HMP              | 2     |    |
+| Železná 5    | U Bílého vlka      | F            | MČ P1            | 2     | Hlavní vchod Komplexu, MČ Praha 1   |
+| Kamzíkova 1  | U Zlatého hroznu   | G            | ?                | 2     | Sídlo Akroterion a Bucentauro Trade |
+
+Etapa 1: platné stavební povolení vydané stavebním úřadem MČ Praha 1, 84 pokojů. 
 
 Viz [mapy](foto/)
 
@@ -35,6 +39,53 @@ Co to znamená pro Prahu:
 
 
 <iframe src='//cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vxbccTlHDt42mtfN2ti4y7w-g0pNaIbs0IV_k6EuurE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
+
+Osobnosti
+---------
+
+Filip Dvořák:
+    
+Soukromé:
+
+ * CTY GROUP, a. s. - Člen představenstva 1999 - 2001 (typografická společnost)
+ * CASTULLUS - jednatel od 31. 12. 2002 (pronájem nemovitostí)
+ * Vltava 767 s.r.o. - jednatel od roku 2004 (pronájem nemovitostí)
+ * jednatel Dvorak Shoe accessories, od roku 2015 
+    
+Městské a státní:
+
+ * Nadační fond SOFOS (v likvidaci), od roku 2008 je tam místopředseda správní rady.
+ * Pražská plynárenská holding, v letech 2007-2012 předseda představenstva.
+ * Obvodní hospodářská komora na Praze 1, od dubna 2015 je tam místopředseda
+ * TCP - Vinohrady; 1998-2000 předseda představenstva
+ * česká nadace jana a medy mládkových; v letech 2006-2011 člen správní rady
+ * Trade center praha: 2000-2011 všechny vrcholné funkce
+
+Vyjádření
+---------
+
+> z hlediska památkové péče nelze souhlasit s připojováním dalších čtyř objektů, a to ani v případě, že by se závěr jevil jako finančně zajištěný
+
+Národní památkový ústav
+
+
+Smlouvy
+-------
+
+### INO/83/01/006785/2012
+
+Konstatování stavu, výběr:
+
+- Na základě předchozích smluv byl Akroterion ve stanovené lhůře provést rekonstrukci pronajatých budov. Nesplnění je sankcionováno pokutami v souhrné výši 20 000 000 Kč.
+- HMP vznikl nárok na smluvní pokuty
+- Akroterion hodlá realizovat Komplex
+
+Kumulativní podmínky ukončení:
+
+- Akroterion uhradní smluvní pokuty
+- Akroterion uhradní nově vzniklé smluvní pokuty
+- Akroterion dokoční realizaci Komplexu
+
 
 Legislativa
 -----------
@@ -59,6 +110,12 @@ Zjevně se mluví [§ 2201 NOZ][NOZ], resp. obdobném [SOZ][].
 > Nadto je možno říci, že poskytnutí předmětných pozemků dovolatelce na dobu 99 let na základě **bezúplatného** právního úkonu se především svou podstatou a ekonomickým dopadem blíží institutu vzdání se práva, neboť se jím obec vzdává možnosti po značnou dobu tyto pozemky užívat či s nimi jinak nakládat, aniž by za to obdržela adekvátní protiplnění, tedy i analogickým použitím ustanovení § 36a odst. 1 písm. g) zákona č. 367/1990 Sb. zařazujícím mezi úkony, o nichž má rozhodovat zastupitelstvo, i vzdání se práva, lze dospět ke stejnému závěru.
 
 Zdroj: Rozhodnutí o odmítnutí dovolání Nejvyššího soudu [28 Cdo 2258/2010][] ze dne 15. 9. 2010 reagující na rozsudek Obvodního soudu pro Prahu 9 ze dne 19. 8. 2009, č. j. 52 C 268/2008-134.
+
+
+> Podstatným znakem úplatných právních úkonů je stejnost (resp. adekvátnost) hodnoty vzájemných plnění (viz Komentář k československému obecnému zákoníku občanskému, red. F. R., J. S., Díl 4., Praha 1936, s. 321). V daném případě lze však konstatovat zjevný nepoměr mezi hodnotou vzájemných plnění, vyplývající ze zjevného nepoměru ceny ujednané a ceny zjištěné. Posuzovaný právní úkon nutno proto kvalifikovat jako výsledek disimulace, a tudíž za smíšený právní úkon (negotium mixtum cum donatione). Z uvedeného důvodu jej Krajský soud v Českých Budějovicích opodstatněně považoval za právní úkon zčásti bezúplatný a žalobu navrhovatele o zrušení rozhodnutí F.Ř. v B., ze dne 7. 4. 1994, č.j. 3167/93-1, zamítl.
+
+[Zdroj](http://webcache.googleusercontent.com/search?q=cache:AZ5BgXyJg-8J:kraken.slv.cz/III.US135/94+&cd=2&hl=cs&ct=clnk&gl=cz)
+
 
 #### Fakta o kauze
 
