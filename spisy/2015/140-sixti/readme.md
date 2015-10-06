@@ -7,16 +7,16 @@ Kauza hotelového komplexu U Sixtů
 
 Zahrnuté domy:
 
-| Adresa       | Název              | Na plánku    | Vlastník         | Etapa | Poznámka                         |
-|--------------|--------------------|--------------|------------------|-------|----------------------------------|
-| Celetná 2    | Sixtův dům         | A, B, C, Y   | Bucentaurio      | 1     | Nemovitá kulturní památka rejstříkové číslo 1 – 299, 293, 294. |
-| Železná 3    | U Kamenného ptáka  | E            | Bucentauro Trade | 1     |    |
-| Železná 3a   | U Uherské koruny   | J            | HMP              | 1     |    |
-| Kamzíkova 5  | U Jednorožce       | D            | HMP              | 1     |    |
-| Celetná 8    | U Černého slunce   | I            | HMP              | 2     |    |
-| Staroměstské náměstí 17 | U Kamenného beránka | K| HMP              | 2     |    |
-| Železná 5    | U Bílého vlka      | F            | MČ P1            | 2     | Hlavní vchod Komplexu, MČ Praha 1   |
-| Kamzíkova 1  | U Zlatého hroznu   | G            | ?                | 2     | Sídlo Akroterion a Bucentauro Trade |
+| Adresa       | Název              | Na plánku    | Vlastník             | Etapa | Poznámka                         |
+|--------------|--------------------|--------------|----------------------|-------|----------------------------------|
+| Celetná 2    | Sixtův dům         | A, B, C, Y   | [Bucentauro Trade][] | 1     | Nemovitá kulturní památka rejstříkové číslo 1 – 299, 293, 294. |
+| Železná 3    | U Kamenného ptáka  | E            | Bucentauro Trade     | 1     |    |
+| Železná 3a   | U Uherské koruny   | J            | HMP -> [Akroterion][]| 1     |    |
+| Kamzíkova 5  | U Jednorožce       | D            | HMP -> Akroterion    | 1     |    |
+| Celetná 8    | U Černého slunce   | I            | HMP -> Akroterion    | 2     |    |
+| Staroměstské náměstí 17 | U Kamenného beránka | K| HMP -> Akroterion    | 2     |    |
+| Železná 5    | U Bílého vlka      | F            | MČ P1                | 2     | Hlavní vchod Komplexu, MČ Praha 1   |
+| Kamzíkova 1  | U Zlatého hroznu   | G            | ?                    | 2     | Sídlo Akroterion a Bucentauro Trade |
 
 Etapa 1: platné stavební povolení vydané stavebním úřadem MČ Praha 1, 84 pokojů. 
 
@@ -28,6 +28,16 @@ Problémy:
 - Poškození nemovitostí v důsledku začlenění do hotelového komplexu 
 - Ztrátu historické parcelace a struktury zástavby, zastřešování dvorů, bourání historických konstrukcí, stavbu výtahů
 - Jednotlivé domy přestanou existovat jako jednotlivé individuální památky 
+- Akroterion uhradní smluvní pokuty
+- Investor ([Akroterion][] s.r.o.) má plnou moc pro jednání se stávajícími nájemníky
+- Finanční nevýhodnost:
+	- povinnost hradit nájem v plné výši vzniká až 5. měsícem od zkolaudování
+	- RHMP odsouhlasila 90% slevu od roku 2007 (resp. 2012), maximálně do roku 2017
+	- Akroterion 595 012 Kč ročně za 3 nemovitosti
+	- 5 255 109 Kč ročně by bylo nájemné z daných bytů
+	- => MHMP podepsal smlouvy se ztrátou 61 235 015 Kč za 2012-1017 
+	- v připadě krachu Akroterion s.r.o. Praha nic nezíská zpět
+	- Dluh 20 000 000 Kč za nedodržení smlouvy 
 
 Co to znamená pro Prahu:
 
@@ -35,31 +45,33 @@ Co to znamená pro Prahu:
 - Ztráta bytové funkce domů, ztráta bytů pro své vlastní občany
 - Znehodnocení architektonických památek jejich vybouráním
 - Zvýšená zátěž města v případě, že se investici vůbec podaří dokončit a že celý projekt neskončí pouze zničenými, vybydlenými, případně zevnitř vybouranými domy
-
+- Další [asanace][] jako na přelomu 19. a 20. století?
 
 
 <iframe src='//cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vxbccTlHDt42mtfN2ti4y7w-g0pNaIbs0IV_k6EuurE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
 
-Osobnosti
----------
+Zúčastněné osoby
+----------------
 
 Filip Dvořák:
     
 Soukromé:
 
- * CTY GROUP, a. s. - Člen představenstva 1999 - 2001 (typografická společnost)
- * CASTULLUS - jednatel od 31. 12. 2002 (pronájem nemovitostí)
- * Vltava 767 s.r.o. - jednatel od roku 2004 (pronájem nemovitostí)
- * jednatel Dvorak Shoe accessories, od roku 2015 
-    
+- CTY GROUP, a. s. - Člen představenstva 1999 - 2001 (typografická společnost)
+- CASTULLUS - jednatel od 31. 12. 2002 (pronájem nemovitostí)
+- Vltava 767 s.r.o. - jednatel od roku 2004 (pronájem nemovitostí)
+- jednatel Dvorak Shoe accessories, od roku 2015 
+
+
 Městské a státní:
 
- * Nadační fond SOFOS (v likvidaci), od roku 2008 je tam místopředseda správní rady.
- * Pražská plynárenská holding, v letech 2007-2012 předseda představenstva.
- * Obvodní hospodářská komora na Praze 1, od dubna 2015 je tam místopředseda
- * TCP - Vinohrady; 1998-2000 předseda představenstva
- * česká nadace jana a medy mládkových; v letech 2006-2011 člen správní rady
- * Trade center praha: 2000-2011 všechny vrcholné funkce
+- Nadační fond SOFOS (v likvidaci), od roku 2008 je tam místopředseda správní rady.
+- Pražská plynárenská holding, v letech 2007-2012 předseda představenstva.
+- Obvodní hospodářská komora na Praze 1, od dubna 2015 je tam místopředseda
+- TCP - Vinohrady; 1998-2000 předseda představenstva
+- česká nadace jana a medy mládkových; v letech 2006-2011 člen správní rady
+- Trade center praha: 2000-2011 všechny vrcholné funkce
+
 
 Vyjádření
 ---------
@@ -138,6 +150,9 @@ Odkazy
 
 [chronologie]: http://obcanskymonitoring.cz/?p=4036
 [souhrn]: http://obcanskymonitoring.cz/?p=3970
+[Akroterion]: http://rejstrik-firem.kurzy.cz/26726068/akroterion-sro/
+[Bucentauro Trade]: http://rejstrik-firem.kurzy.cz/26729989/bucentauro-trade-sro/
+[asanace]: https://cs.wikipedia.org/wiki/Pra%C5%BEsk%C3%A1_asanace
 [131/2000]: http://www.zakonyprolidi.cz/cs/2000-131
 [idnes]: http://bydleni.idnes.cz/hotel-celetna-u-sixtu-0t4-/stavba.aspx?c=A150610_184612_stavba_web
 [ct]: http://www.ceskatelevize.cz/ct24/regiony/1501840-u-staromestskeho-namesti-vznikne-z-bytu-hotel-najemnici-musi-pryc
