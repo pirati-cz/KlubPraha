@@ -18,13 +18,18 @@ Zahrnuté domy:
 | Železná 5    | U Bílého vlka      | F            | MČ P1                | 2     | Hlavní vchod Komplexu, MČ Praha 1   |
 | Kamzíkova 1  | U Zlatého hroznu   | G            | ?                    | 2     | Sídlo Akroterion a Bucentauro Trade |
 
+
+![mapa](foto/mapy/mapa1-schema.jpg)
+
 Etapa 1: platné stavební povolení vydané stavebním úřadem MČ Praha 1, 84 pokojů. 
 
 Viz [mapy](foto/)
 
 Problémy:
 
-- Ztrátu bytové funkce
+- Ztrátu bytové funkce ve vylidňujícím se centru
+	- Praha 1: 70 000 v roce 1992 => 30 000 
+	- je potřeba [více](foto/mapy/mapa5-hotely.jpg) hotelů?
 - Poškození nemovitostí v důsledku začlenění do hotelového komplexu 
 - Ztrátu historické parcelace a struktury zástavby, zastřešování dvorů, bourání historických konstrukcí, stavbu výtahů
 - Jednotlivé domy přestanou existovat jako jednotlivé individuální památky 
