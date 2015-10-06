@@ -23,6 +23,8 @@ Zahrnuté domy:
 
 Etapa 1: platné stavební povolení vydané stavebním úřadem MČ Praha 1, 84 pokojů. 
 
+Etapa 2: 140 pokojů
+
 Viz [mapy](foto/)
 
 Problémy:
@@ -59,7 +61,14 @@ Zúčastněné osoby
 ----------------
 
 Filip Dvořák:
-    
+
+Politicky:
+
+- ODS (výkonná rada, předseda OS)
+- radní 2006-2010
+- starosta Praha 1 (2009-2010)
+- 8 let radní pro hospodářskou politiku HMP
+ 
 Soukromé:
 
 - CTY GROUP, a. s. - Člen představenstva 1999 - 2001 (typografická společnost)
@@ -76,6 +85,13 @@ Městské a státní:
 - TCP - Vinohrady; 1998-2000 předseda představenstva
 - česká nadace jana a medy mládkových; v letech 2006-2011 člen správní rady
 - Trade center praha: 2000-2011 všechny vrcholné funkce
+- členem dozorčí rady Budějovického Budvaru 2007-2012
+
+Účast:
+
+- Uzavřel smlouvy
+
+Kněžínek:
 
 
 Vyjádření
