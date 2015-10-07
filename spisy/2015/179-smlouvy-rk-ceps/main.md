@@ -1,17 +1,17 @@
 ---
 prijemce: 
   role:     Povinný subjekt
-  nazev:    České dráhy, a.s.
-  ulice:    Nábřeží Ludvíka Svobody 1222
-  PSC:      110 15
-  mesto:    Praha 1
+  nazev:    ČEPS, a.s.
+  ulice:    Elektrárenská 774/2,
+  PSC:      101 52
+  mesto:    Praha 10
   DS:       
 styl:       pirati-klub
 vase:
   znacka:   
   den:
 nase:
-  znacka:   ZK Pha 177/2015
+  znacka:   ZK Pha 179/2015
   misto:    Praha
 vec:        Žádost o informace
 vyrizuje:   

@@ -1,17 +1,17 @@
 ---
 prijemce: 
   role:     Povinný subjekt
-  nazev:    České dráhy, a.s.
-  ulice:    Nábřeží Ludvíka Svobody 1222
-  PSC:      110 15
-  mesto:    Praha 1
+  nazev:    OTE, a.s.
+  ulice:    Sokolovská 192/79
+  PSC:      186 00
+  mesto:    Praha 8
   DS:       
 styl:       pirati-klub
 vase:
   znacka:   
   den:
 nase:
-  znacka:   ZK Pha 177/2015
+  znacka:   ZK Pha 180/2015
   misto:    Praha
 vec:        Žádost o informace
 vyrizuje:   

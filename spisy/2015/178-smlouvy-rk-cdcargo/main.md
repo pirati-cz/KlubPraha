@@ -1,17 +1,17 @@
 ---
 prijemce: 
   role:     Povinný subjekt
-  nazev:    České dráhy, a.s.
-  ulice:    Nábřeží Ludvíka Svobody 1222
-  PSC:      110 15
-  mesto:    Praha 1
+  nazev:    ČD Cargo, a.s.
+  ulice:    Jankovcova 1569/2c
+  PSC:      170 00
+  mesto:    Praha 7
   DS:       
 styl:       pirati-klub
 vase:
   znacka:   
   den:
 nase:
-  znacka:   ZK Pha 177/2015
+  znacka:   ZK Pha 178/2015
   misto:    Praha
 vec:        Žádost o informace
 vyrizuje:   
