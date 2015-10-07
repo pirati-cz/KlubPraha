@@ -1,23 +1,23 @@
 ---
 prijemce: 
   role:     Povinný subjekt
-  nazev:    České dráhy, a.s.
-  ulice:    Nábřeží Ludvíka Svobody 1222
-  PSC:      110 15
+  nazev:    Česká pošta s.p.
+  ulice:    Politických vězňů 909/4
+  PSC:      225 99
   mesto:    Praha 1
   DS:       
 styl:       pirati-klub
 vase:
-  znacka:   
-  den:
+  znacka:  
+  den:      
 nase:
-  znacka:   ZK Pha 177/2015
+  znacka:   ZK Pha 189/2015
   misto:    Praha
 vec:        Žádost o informace
 vyrizuje:   
    name:    Adam Zábranský
    phone:   +420 721 006 868
-   ds:      xwfwgha
+   ds:      
    mail:    adam.zabransky@praha.eu
 ---
 
@@ -25,7 +25,7 @@ Vážení,
 
 v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, žádám o následující:
 
-1. Informace, zda mezi Vámi a JUDr. Radmilou Kleslovou, narozenou dne 25. 8. 1963, bytem Gutova 3317/15, Strašnice, 100 00 Praha 10 je uzavřena nějaká smlouva, popřípadě zda taková smlouva byla uzavřena v časovém období od 1. 1. 2010 až do současnosti.
+1. Informace, zda mezi Vámi a JUDr. Radmilou Kleslovou, narozenou dne 25. 8. 1963, bytem Gutova 3317/15, Strašnice, 100 00 Praha 10, je uzavřena nějaká smlouva, popřípadě zda taková smlouva byla uzavřena v časovém období od 1. 1. 2010 až do současnosti.
 
 2. Informace o tom, jaké plnění z těchto smluv vyplývá.
 
