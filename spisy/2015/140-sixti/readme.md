@@ -7,20 +7,22 @@ Kauza hotelového komplexu U Sixtů
 
 ### Kulturní úvod
 
-Královská cesta...
+Zasazení Královská cesta...
+
+Románské základy, gotické klentby, ...
 
 
 ### Zahrnuté domy
 
 
-| Adresa       | Název              | Na plánku    | Vlastník             | Etapa | Poznámka                         |
-|--------------|--------------------|--------------|----------------------|-------|----------------------------------|
+| Adresa       | Název              | Na plánku    | Vlastník             | Etapa |    Poznámka                                                    |
+|--------------|--------------------|--------------|----------------------|-------|----------------------------------------------------------------|
 | Celetná 2    | Sixtův dům         | A, B, C, Y   | [Bucentauro Trade][] | 1     | Nemovitá kulturní památka rejstříkové číslo 1 – 299, 293, 294. |
-| Železná 3    | U Kamenného ptáka  | E            | Bucentauro Trade     | 1     |    |
-| Železná 3a   | U Uherské koruny   | J            | HMP -> [Akroterion][]| 1     |    |
-| Kamzíkova 5  | U Jednorožce       | D            | HMP -> Akroterion    | 1     |    |
-| Celetná 8    | U Černého slunce   | I            | HMP -> Akroterion    | 2     |    |
-| Staroměstské náměstí 17 | U Kamenného beránka | K| HMP -> Akroterion    | 2     |    |
+| Železná 3    | U Kamenného ptáka  | E            | Bucentauro Trade     | 1     |     |
+| Železná 3a   | U Uherské koruny   | J            | HMP -> [Akroterion][]| 1     |     |
+| Kamzíkova 5  | U Jednorožce       | D            | HMP -> Akroterion    | 1     |     |
+| Celetná 8    | U Černého slunce   | I            | HMP -> Akroterion    | 2     |     |
+| Staroměstské náměstí 17 | U Kamenného beránka | K| HMP -> Akroterion    | 2     |     |
 | Železná 5    | U Bílého vlka      | F            | MČ P1                | 2     | Hlavní vchod Komplexu, MČ Praha 1   |
 | Kamzíkova 1  | U Zlatého hroznu   | G            | ?                    | 2     | Sídlo Akroterion a Bucentauro Trade |
 
@@ -36,7 +38,7 @@ Viz [mapy](foto/)
 ### Problémy
 
 - Ztrátu bytové funkce ve vylidňujícím se centru
-	- Praha 1: 70 000 v roce 1992 => 30 000 
+	- Praha 1: 80 000 v roce 1992 => 30 000 
 	- je potřeba [více](foto/mapy/mapa5-hotely.jpg) hotelů?
 - Poškození nemovitostí v důsledku začlenění do hotelového komplexu 
 - Ztrátu historické parcelace a struktury zástavby, zastřešování dvorů, bourání historických konstrukcí, stavbu výtahů
@@ -67,7 +69,7 @@ Co to znamená pro Prahu:
 Zúčastněné osoby
 ----------------
 
-### Filip Dvořák:
+### Filip Dvořák
 
 |    Politická kariéra                       |      Veřejné podniky                                     | Soukromě                                                   |
 |--------------------------------------------|----------------------------------------------------------|------------------------------------------------------------|
@@ -162,8 +164,8 @@ Zdroj: Rozhodnutí o odmítnutí dovolání Nejvyššího soudu [28 Cdo 2258/201
 
 #### Fakta o kauze
 
-|  Smlouva              | Trvání | Rozloha |    Ze dne                         |
-|-----------------------|--------|---------|-----------------------------------|
+|  Smlouva              | Trvání | Rozloha |    Ze dne                                         |
+|-----------------------|--------|---------|---------------------------------------------------|
 | D/39/4702/06          | 99 let | 22 ha   | 13. 7. 1999, resp dodatek č. 1 ze dne 24. 6. 2003 |
 | VYP/23/01/001032/2003 | 99 let | 2,2 ha  | 25. 6. 2003                                       |
 
@@ -177,7 +179,11 @@ Odkazy
 * media
 	* [ct][]
 	* [idnes][]
-
+* videa z besed:
+	* [Část 1: Richard Bigel](https://www.youtube.com/watch?v=vbu7OlQqgk8)
+	* [Část 2: Filip Dvořák, Jiří Gebert, Pavel Kalina](https://www.youtube.com/watch?v=wrHm1633fkk)
+	* [Část 3: Miloš Solař, Matěj Stropnický, Kateřina Klasnová](https://www.youtube.com/watch?v=WHjkNjnOGCs)
+	* [Část 4: Diskuse](https://www.youtube.com/watch?v=Nhicvj946nI)
 
 [chronologie]: http://obcanskymonitoring.cz/?p=4036
 [souhrn]: http://obcanskymonitoring.cz/?p=3970
