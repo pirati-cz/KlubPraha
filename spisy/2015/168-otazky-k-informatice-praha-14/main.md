@@ -33,7 +33,7 @@ v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě
 
 4.  Pokrývá váš rozpočet v oblasti informatiky i náklady vašeho úřadu na tisk dokumentů a výdaje na další záležitosti s tím spojené (tzn. výdaje na tonery, papíry a další potřeby) pro vnitřní chod úřadu?
 
-Prosím o poskytnutí informace v elektronické podobě a doručování do datové schránky uvedené v patičce této zprávy. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost. 
+Prosím o poskytnutí informace v elektronické podobě e-mailem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost. 
 
 S pozdravem
 
