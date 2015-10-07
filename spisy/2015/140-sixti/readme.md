@@ -5,7 +5,13 @@ Kauza hotelového komplexu U Sixtů
 Úvod
 ----
 
-Zahrnuté domy:
+### Kulturní úvod
+
+Královská cesta...
+
+
+### Zahrnuté domy
+
 
 | Adresa       | Název              | Na plánku    | Vlastník             | Etapa | Poznámka                         |
 |--------------|--------------------|--------------|----------------------|-------|----------------------------------|
@@ -27,7 +33,7 @@ Etapa 2: 140 pokojů
 
 Viz [mapy](foto/)
 
-Problémy:
+### Problémy
 
 - Ztrátu bytové funkce ve vylidňujícím se centru
 	- Praha 1: 70 000 v roce 1992 => 30 000 
@@ -57,41 +63,45 @@ Co to znamená pro Prahu:
 
 <iframe src='//cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vxbccTlHDt42mtfN2ti4y7w-g0pNaIbs0IV_k6EuurE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
 
+
 Zúčastněné osoby
 ----------------
 
-Filip Dvořák:
+### Filip Dvořák:
 
-Politicky:
+|    Politická kariéra                       |      Veřejné podniky                                     | Soukromě                                                   |
+|--------------------------------------------|----------------------------------------------------------|------------------------------------------------------------|
+| ODS (výkonná rada, předseda OS)            |TCP: 2000-2011 všechny vrcholné funkce                    |CASTULLUS - jednatel od 31. 12. 2002, pronájem nemovitostí  |
+| radní MČ P1, 2006-2010                     |TCP - Vinohrady: 1998-2000 předseda představenstva        |Vltava 767 s.r.o. - jednatel od 2004, pronájem nemovitostí  |
+| starosta Praha 1, 2009-2010                |Pražská plynárenská holding: 2007-2012 předseda předst.   |jednatel Dvorak Shoe accessories, od roku 2015              |
+| 8 let radní pro hospodářskou politiku HMP  |Budějovický Budvar: 2007-2012: dozorčí rada               |CTY GROUP, a.s.: člen představenstva 1999-2001, typografie  |
+|                                            |Nadační fond SOFOS (v likvidaci), od 2008 místopředseda správ. rady.|                  |
+|                                            |Nadace Jana a Medy Mládkových: 2006-2011 člen správní rady|                            |
 
-- ODS (výkonná rada, předseda OS)
-- radní 2006-2010
-- starosta Praha 1 (2009-2010)
-- 8 let radní pro hospodářskou politiku HMP
- 
-Soukromé:
+Účast: Uzavřel smlouvy
 
-- CTY GROUP, a. s. - Člen představenstva 1999 - 2001 (typografická společnost)
-- CASTULLUS - jednatel od 31. 12. 2002 (pronájem nemovitostí)
-- Vltava 767 s.r.o. - jednatel od roku 2004 (pronájem nemovitostí)
-- jednatel Dvorak Shoe accessories, od roku 2015 
+### Jan Kněžínek
 
+- funkce
+	- odbor památkové péče MHMP
+		- 2002-31. 7. 2012 (10 let)
+	- vedoucí kanceláře UNESCO
+		- 2012-?
+- rozhodnutí:
+	- rekonstrukce Karlova mostu
+	- výstavba mrakodrapů Pankrác 
+	- demolice domu Revoluční ulice
+	- demolice domu na Václav. náměstí
 
-Městské a státní:
+### Peter Ďurica
 
-- Nadační fond SOFOS (v likvidaci), od roku 2008 je tam místopředseda správní rady.
-- Pražská plynárenská holding, v letech 2007-2012 předseda představenstva.
-- Obvodní hospodářská komora na Praze 1, od dubna 2015 je tam místopředseda
-- TCP - Vinohrady; 1998-2000 předseda představenstva
-- česká nadace jana a medy mládkových; v letech 2006-2011 člen správní rady
-- Trade center praha: 2000-2011 všechny vrcholné funkce
-- členem dozorčí rady Budějovického Budvaru 2007-2012
-
-Účast:
-
-- Uzavřel smlouvy
-
-Kněžínek:
+- odbor Majetku a zástupce ředitele MHMP
+	- plat až 128 000 Kč / měsíčně (MF Dnes, 6. 11. 2013)
+- propojení s Janouškem ([Odposlechy](Pražská plynárenská holding, v letech 2007-2012 předseda představenstva.))
+- [Souhrn](http://domaci.ihned.cz/c1-55152600-vlivny-tichy-arogantni-takovy-byl-urednik-durica-janouskova-loutka)
+- rozhodnutí / kauzy:
+	- [Monstrózní kancelářský komplex (Opatov)](http://www.denik.cz/praha/nad-kancelarskym-molochem-dost-mozna-prazane-zvitezi-20130626-o5jw.html)
+	- Holešovická tržnice
 
 
 Vyjádření
