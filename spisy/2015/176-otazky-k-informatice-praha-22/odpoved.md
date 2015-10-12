@@ -9,6 +9,7 @@ Na základě vaší žádosti (zn. ŽK Pha 176/2015) ze dne 7. 10. 2015 sděluje
 
 *Ad 1.  Finanční náklady v oblasti IT (celkové, 2 zaměstnanci)*
 
+| Období      | Cena            |
 |-------------|-----------------|
 | 1-12/2013   | 1 827 013,26 Kč |
 | 1-12/2014   | 2 001 481,67 Kč |
@@ -16,11 +17,12 @@ Na základě vaší žádosti (zn. ŽK Pha 176/2015) ze dne 7. 10. 2015 sděluje
 
 *Ad 2. Nákupy a služby v IT (rozpočet)*
 
+| Rok  | Cena            |
 |------|-----------------|
 | 2013 | 1 085 000,00 Kč |
 | 2014 | 1 728 700,00 Kč |
 | 2015 | 1 231 600,00 Kč |
- 
+
 
 *Ad 3. Otevřené informační centrum (vč. ověřování, pracoviště Czech POINT, poradna)*
 
@@ -28,10 +30,11 @@ Na základě vaší žádosti (zn. ŽK Pha 176/2015) ze dne 7. 10. 2015 sděluje
 - náklady na provoz 727 437 Kč
 - provozní doba
 
-|-------|--------------|
-| PO–ČT | 7:30 – 19:00 |
-| PÁ    | 7:30 – 14:00 |
-| SO    | 8:30 – 14:00 |
+|       |            |
+|-------|-----------:|
+| PO–ČT | 7:30–19:00 |
+| PÁ    | 7:30–14:00 |
+| SO    | 8:30–14:00 |
 
 
 *Ad 4. Náklady na tisk dokumentů a další záležitosti s tím spojené*
