@@ -1,6 +1,7 @@
 ---
 Zaevidovali: 9. 10. 2015
 Jejich značka: UMČP1 154842/2015
+Výzva k upřesnění doručena: 14. 10. 2015
 ---
 
 Zaevidování
