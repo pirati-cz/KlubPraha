@@ -29,7 +29,7 @@ Dne 7. 10. 2015 jsem podal prostřednictvím e-mailu s zaručeným elektronický
 
 3. Znění výše zmíněných smluv.
 
-Dne 13. 10. jsem od povinného subjektu obdržel sdělení, ve kterém bylo uvedeno, že mi žádané informace nebudou poskytnuty. Ačkoliv přípis, který povinný subjekt zaslal sice není rozhodnutím ve formálním smyslu podle InfZ, z materiálního hlediska nicméně vykazuje znaky tohoto rozhodnutí. Proto podávám podle § 16 InfZ proti tomuto rozhodnutí odvolání.
+Dne 13. 10. jsem od povinného subjektu obdržel sdělení, ve kterém bylo uvedeno, že mi žádané informace nebudou poskytnuty. Ačkoliv přípis, který povinný subjekt zaslal, sice není rozhodnutím ve formálním smyslu podle InfZ, z materiálního hlediska nicméně vykazuje znaky tohoto rozhodnutí. Proto podávám podle § 16 InfZ proti tomuto rozhodnutí odvolání.
 
 Prosím o poskytnutí informace v elektronické podobě e-mailem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost. 
 
