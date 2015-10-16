@@ -1,17 +1,17 @@
 ---
 prijemce: 
   role:     Povinný subjekt
-  nazev:    ČEPRO, a.s.
-  ulice:    Dělnická 213/12
-  PSC:      170 04
-  mesto:    Praha 7
+  nazev:    MERO ČR, a.s.
+  ulice:    Veltruská 748
+  PSC:      278 01
+  mesto:    Kralupy nad Vltavou
   DS:       
 styl:       pirati-klub
 vase:
   znacka:   
   den:
 nase:
-  znacka:   ZK Pha 182/2015
+  znacka:   ZK Pha 183/2015
   misto:    Praha
 vec:        Stížnost na postup při vyřizování žádosti o informace
 vyrizuje:   
@@ -23,7 +23,7 @@ vyrizuje:
 
 Vážení,
 
-Dne 7. 10. 2015 jsem prostřednictvím e-mailu s zaručeným elektronickým podpisem odeslal žádost o informace podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), ve znění pozdějších předpisů. ČEPRO a.s. jsem žádal o následující informace:
+Dne 7. 10. 2015 jsem prostřednictvím e-mailu s zaručeným elektronickým podpisem odeslal žádost o informace podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), ve znění pozdějších předpisů. MERO ČR a.s. jsem žádal o následující informace:
 
 1. Informace, zda mezi Vámi a JUDr. Radmilou Kleslovou, narozenou dne 25. 8. 1963, bytem Gutova 3317/15, Strašnice, 100 00 Praha 10, je uzavřena nějaká smlouva, popřípadě zda taková smlouva byla uzavřena v časovém období od 1. 1. 2010 až do současnosti.
 
@@ -31,7 +31,7 @@ Dne 7. 10. 2015 jsem prostřednictvím e-mailu s zaručeným elektronickým podp
 
 3. Znění výše zmíněných smluv.
 
-Na svoji žádost jsem nicméně v zákonné lhůtě, kterou InfZ stanoví, neobdržel od ČEPRO a.s. jako povinného subjektu odpověď. Podávám proto podle §16a odst. 1 písm. a) InfZ stížnost na postup při vyřizování žádosti o informace. Nesouhlasím se způsobem vyřízením mé žádosti a i nadále trvám na poskytnutí žádané informace povinným subjektem. Navrhuji, aby nadřízený správní orgán postupem podle § 16a odst. 6 písm. b) InfZ povinnému subjektu přikázal, aby žádost vyřídil ve lhůtě 5 dnů ode dne doručení rozhodnutí nadřízeného orgánu.
+Na svoji žádost jsem nicméně v zákonné lhůtě, kterou InfZ stanoví, neobdržel od MERO ČR a.s. jako povinného subjektu odpověď. Podávám proto podle §16a odst. 1 písm. a) InfZ stížnost na postup při vyřizování žádosti o informace. Nesouhlasím se způsobem vyřízením mé žádosti a i nadále trvám na poskytnutí žádané informace povinným subjektem. Navrhuji, aby nadřízený správní orgán postupem podle § 16a odst. 6 písm. b) InfZ povinnému subjektu přikázal, aby žádost vyřídil ve lhůtě 5 dnů ode dne doručení rozhodnutí nadřízeného orgánu.
 
 Prosím o poskytnutí informace do datové schránky uvedené v patičce této zprávy. Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více datových zprávách, nebo se dostavím s paměťovým médiem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
 
