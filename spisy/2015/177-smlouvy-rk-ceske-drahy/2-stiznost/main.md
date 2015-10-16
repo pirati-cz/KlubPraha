@@ -23,12 +23,9 @@ vyrizuje:
 
 Vážení,
 
-Dne 7. 10. 2015 jsem podal podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen InfZ), ve znění
-pozdějších předpisů, žádost o informace společnosti České dráhy a.s. Žádal jsem o následující informace:
+Dne 7. 10. 2015 jsem podal prostřednictvím e-mailu s zaručeným elektronickým podpisem odeslal žádost o informace podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen InfZ), ve znění pozdějších předpisů. České dráhy a.s. jsem žádal o následující informace:
 
-1. Informace, zda mezi Vámi a JUDr. Radmilou Kleslovou, narozenou dne 25. 8. 1963, bytem
-Gutova 3317/15, Strašnice, 100 00 Praha 10 je uzavřena nějaká smlouva, popřípadě zda
-taková smlouva byla uzavřena v časovém období od 1. 1. 2010 až do současnosti.
+1. Informace, zda mezi Vámi a JUDr. Radmilou Kleslovou, narozenou dne 25. 8. 1963, bytem Gutova 3317/15, Strašnice, 100 00 Praha 10 je uzavřena nějaká smlouva, popřípadě zda taková smlouva byla uzavřena v časovém období od 1. 1. 2010 až do současnosti.
 
 2. Informace o tom, jaké plnění z těchto smluv vyplývá.
 
