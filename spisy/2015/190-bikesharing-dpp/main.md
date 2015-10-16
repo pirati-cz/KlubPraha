@@ -23,7 +23,7 @@ vyrizuje:
 
 Vážení,
 
-v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, resp. zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, žádám o následující informace:
+v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, resp. zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, žádám o následující informace:
 
 1. Jméno osoby nebo všech osob, které rozhodly o tom, že bude Dopravní podnik hl. m. Prahy provozovat bikesharing.
 
