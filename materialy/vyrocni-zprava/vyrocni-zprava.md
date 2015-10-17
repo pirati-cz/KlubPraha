@@ -17,8 +17,8 @@ Cílem našeho působení je, aby naše opoziční práce měla pro občany co n
 
 Piráti se drží toho, co na nás voliči oceňují a v čem nám nemohou ostatní strany konkurovat: **Naprostá otevřenost.** Zveřejňujeme naše majetková přiznání, informace o schůzkách s lobbisty, odměny i výkazy práce. Pokud chcete dělat poctivou politiku, budu rád, když se přidáte!
 
-**Mgr. Bc. Jakub Michálek** \
-předseda klubu Pirátů \
+**Mgr. Bc. Jakub Michálek** 
+předseda klubu Pirátů 
 v Zastupitelstvu hl. m. Prahy
 
 ### Politické rozložení sil
@@ -49,7 +49,7 @@ Dělení na opozici a koalici bylo narušeno snad jen několikrát. Zastupitelst
 Tato SWOT analýza se zabývá tím, jaké jsou plusy a minusy aktuální pozice pirátských zastupitelů v Zastupitelstvu hl. m. Prahy, kdy fungují jako konstruktivní opozice, která na konkrétních tématech spolupracuje s Radou hl. m. Prahy.
 
 | Výhody        | Nevýhody           | Příležitosti | Hrozby |
-| ------------- |:-------------:| ------------- |:-------------:| 
+|:-------------:|:-------------:|:-------------:|:-------------:| 
 | Zkušenosti, informace, know how | Piráti nenesou mediální odpovědnost za věci, které neřídí | Šance prosadit Pirátský návrh | Spolupracovníci mohou Piráty diskreditovat |
 | Šance něco konkrétního zrealizovat | Zabírá to čas, nízká efektivita | Pozitivní medializace úspěchů | Mediální odpovědnost za chyby v IT |
 | Mediální pozornost (Opencard) | Nutnost koordinovat komunikaci | Větší šance odhalit průsery | Vcucne je systém |
