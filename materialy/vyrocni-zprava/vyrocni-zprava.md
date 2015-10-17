@@ -17,8 +17,8 @@ Cílem našeho působení je, aby naše opoziční práce měla pro občany co n
 
 Piráti se drží toho, co na nás voliči oceňují a v čem nám nemohou ostatní strany konkurovat: **Naprostá otevřenost.** Zveřejňujeme naše majetková přiznání, informace o schůzkách s lobbisty, odměny i výkazy práce. Pokud chcete dělat poctivou politiku, budu rád, když se přidáte!
 
-**Mgr. Bc. Jakub Michálek** 
-předseda klubu Pirátů 
+**Mgr. Bc. Jakub Michálek**  
+předseda klubu Pirátů  
 v Zastupitelstvu hl. m. Prahy
 
 ### Politické rozložení sil
