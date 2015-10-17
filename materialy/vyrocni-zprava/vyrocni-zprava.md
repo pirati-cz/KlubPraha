@@ -23,7 +23,7 @@ Piráti se drží toho, co na nás voliči oceňují a v čem nám nemohou ostat
 předseda klubu Pirátů  
 v Zastupitelstvu hl. m. Prahy
 
-### Politické rozložení sil
+### Politické rozložení sil v zastupitelstvu
 Současné rozložení hlasů v Zastupitelstvu hl. m. Prahy je na následujícím obrázku:
 ![Obrázek 2](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Rozložení hlasů v zastupitelstvu")
 
@@ -66,6 +66,8 @@ Tato SWOT analýza se zabývá tím, jaké jsou plusy a minusy aktuální pozice
 | Lze zcela promítnout program do hlasování | | |
 | Přístup k vládnoucím představitelům | | |
 
+#### Aktualizace povolební strategie
+
 ### Činnost zastupitelů
 #### Plán prosazování programu
 Zastupitelský klub Pirátů si schválil plán činnosti na první rok fungování, který je dostupný na Redmine. Na webu je také dostupný program, kde si můžete zobrazit aktuální stav plnění programového bodu.
@@ -84,6 +86,8 @@ Nečlen zastupitelstva z řad Pirátů Viktor Mahrik (první nečlen zastupitels
 Zástupci Pirátů, kteří jsou členy výborů, řádně docházejí na jejich jednání (mají 100% účast). Podrobné informace o výborech jsou v samostatné části zprávy.
 
 Piráti chtěli mít členy ve všech výborech, ale tento požadavek nebyl koaličními stranami akceptován a koalice Pirátům vnutila, aby si členství ve výborech rozdělili s KSČM. Piráti si však vyjednali, aby dostávali informace o zasedáních všech výborů a jejich jednání se většinou účastní. Některé výbory trpí špatnou docházkou (pro usnášeníschopnost je potřeba 5 z 9 členů výboru, stejně jako pro přijetí všech usnesení) a Piráti na nich mají vyšší účast než někteří jejich členové.
+
+#### Aktivita na zasedáních zastupitelstva
 
 #### Aktivita ve výborech a komisích
 - **Kontrolní výbor** - Jakub Michálek nebyl přes opakovanou 5násobnou kandidaturu zvolen ani předsedou ani místopředsedou kontrolního výboru, neboť hlasy koalice byli zvoleni Jaroslava Janderová (ODS) a Jiří Hrabák (TOP09). Jakub Michálek je přes to jedním z nejaktivnějších členů kontrolního výboru, prověřuje pochybení v kauze Opencard, kontroluje prodeje pozemků pod stavbami bytových družstev, zveřejnování informací na webových stránkách města, poskytování informací o majetkových přiznání zastupitelů, řeší kauzu Škodova paláce apod.
@@ -138,6 +142,8 @@ Magistrát však zavedl vlastní postup zveřejňování informací, který lze 
 Piráti pravidelně každý týden pořádají zastupitelské úterky v Pirátském centru (Řehořova 19, Praha 3, vždy od 18:00). Jednotliví zastupitelé, kteří se tam každý týden střídají, si vždy vybírají jiné téma, o kterém budou hovořit. V rámci večera je plno prostoru pro zvědavce, kteří zastupitelům mohou klást nejrůznější otázky ohledně jejich činnosti.
 
 V prosinci roku 2014 Piráti v Praze uspořádali Piratecon, celostátní pirátskou konferenci, která byla zaměřená na zastupitele obcí, ale třeba i městských částí. Přijela minimálně stovka účastníků a přednášky stály za to. V lednu pirátští zastupitelé zorganizovali akci s Islandskou poslankyní Pirátů Birgittou Jonsdóttir. Plánují vystoupit na mezinárodním Pirateconu v květnu 2015 v Mariánských lázních a sdílet své zkušenosti s ostatními Piráty.
+
+#### Aktivity celospolečenského významu
 
 ### Mediální výstupy
 Během svého působení vydali pirátští zastupitelé minimálně 20 tiskových zpráv, 46 článků na našem blogu a pravidelně o nás vycházejí novinové články, přinejmenším v Pražském deníku, v deníku Metro a v pražských přílohách celostátních deníků. Odhadem generujeme minimálně polovinu všech novinových článků o Pirátech v republice za poslední půlrok. 
@@ -202,9 +208,13 @@ Všechny příjmy pirátských zastupitelů jsou zveřejněny na příslušném 
 
 TABULKA
 
-#### Stážisté
+#### Stážisté a dobrovolníci
 Aby Piráti posílili svůj tým, vypsali na začátku března poptávku po stážistech. Ze 4 přihlášených prozatím na místa stážistů přijali 3 lidi. 
 - Terezu Hronovou, která zpracovává rešerši projektu Metra D, 
 - Karla Vlasáka, který by měl v budoucnu sledovat výbor pro životní prostředí, a 
 - Dan Řezníček, který pracuje na personální mapě pražského zastupitelstva a magistrátu. 
 Další stážisté jsou vítáni.
+
+#### Zveřejňovač
+
+### Nejlepší a nejhorší za první rok
