@@ -4,3 +4,4 @@
 *.LNK
 *.LCK
 .*
+!.gitattributes
