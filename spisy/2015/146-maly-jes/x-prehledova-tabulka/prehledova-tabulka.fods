@@ -6,7 +6,7 @@
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">42231</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">47868</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">7136</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
@@ -14,13 +14,13 @@
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="List1">
        <config:config-item config:name="CursorPositionX" config:type="int">9</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">10</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">6</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">4</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">5</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
@@ -61,7 +61,7 @@
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">lgH+/0xhc2VySmV0LTQyMDBDTUQtUFMtUENMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpMYXNlckpldC00MjAwQ01ELVBTLVBDTAAAAAAWAAMAvAAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9TGFzZXJKZXQtNDIwMENNRC1QUy1QQ0wKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkE0AAASAENPTVBBVF9EVVBMRVhfTU9ERQoARFVQTEVYX09GRg==</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">sQH+/0xhc2VySmV0LTQyMDBDTUQtUFMtUENMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpMYXNlckpldC00MjAwQ01ELVBTLVBDTAAAAAAWAAMA1wAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9TGFzZXJKZXQtNDIwMENNRC1QUy1QQ0wKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkE0AElucHV0U2xvdDpBdXRvAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQoARFVQTEVYX09GRg==</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">LaserJet-4200CMD-PS-PCL</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
@@ -174,7 +174,7 @@
    <style:table-column-properties fo:break-before="auto" style:column-width="2.722cm"/>
   </style:style>
   <style:style style:name="co10" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="4.657cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="10.294cm"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
    <style:table-row-properties style:row-height="0.815cm" fo:break-before="auto" style:use-optimal-row-height="false"/>
@@ -185,6 +185,13 @@
   <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
+  <number:date-style style:name="N36" number:automatic-order="true">
+   <number:day number:style="long"/>
+   <number:text>.</number:text>
+   <number:month number:style="long"/>
+   <number:text>.</number:text>
+   <number:year number:style="long"/>
+  </number:date-style>
   <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:wrap-option="wrap"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
@@ -202,6 +209,15 @@
    <style:table-cell-properties fo:background-color="#ffff00"/>
   </style:style>
   <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N107"/>
+  <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#00ffff"/>
+  </style:style>
+  <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36">
+   <style:table-cell-properties fo:background-color="#00ff00"/>
+  </style:style>
+  <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36">
+   <style:table-cell-properties fo:background-color="transparent"/>
+  </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties style:writing-mode="lr-tb"/>
    <style:header-style>
@@ -242,7 +258,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2015-10-19">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="11:21:07.954896253">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2015-10-19">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="16:29:49.743820935">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -316,8 +332,8 @@
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
       <text:p>ano</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>je třeba poslat standardní</text:p>
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>19. 10. 2015</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -368,8 +384,8 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ne</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>stížnost na náklady na systém</text:p>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>připravena stížnost, čeká se na schválení</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -419,8 +435,8 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ne</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>je třeba poslat standardní</text:p>
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+      <text:p>19. 10. 2015</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -516,8 +532,8 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ne</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>stížnost na náklady na systém, oni však nejspíše nejsou příslušní</text:p>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Připravena infožádost 197. Čeká se až ji bude možné odeslat</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -577,8 +593,8 @@
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>ne</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
-      <text:p>N/A</text:p>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ne</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="4" office:value-type="string" calcext:value-type="string">
       <text:p>N/A</text:p>
@@ -586,8 +602,8 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ne</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>je třeba poslat standardní</text:p>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>poslána, zrušena. I tak bude třeba poslat další stížnost, neboť nám neuvedli část informace</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro2">
