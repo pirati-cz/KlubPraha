@@ -1,10 +1,10 @@
 ﻿---
 prijemce: 
   role:     Povinný subjekt
-  nazev:    Krajský úřad Libereckého kraje
-  ulice:    U Jezu 642/2A
-  PSC:      46001
-  mesto:    Liberec
+  nazev:    Krajský úřad Ústeckého kraje
+  ulice:    Velká hradební 3118/48
+  PSC:      400 02
+  mesto:    Ústí nad Labem
   DS:       
 styl:       pirati-klub
 vase:
