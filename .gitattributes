@@ -1,3 +1,0 @@
-*.docx diff=word
-*.pdf diff=pdftotext 
-*.png diff=exif
