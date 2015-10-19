@@ -37,7 +37,7 @@ Dne 14. 10. jsem obdržel od povinného subjektu přípis, ve kterém je žádá
 
 Proto uvádím následující upřesňující informace.
 
-K bodu 1) dodávám, že veškeré finanční náklady v letech 2013, 2014 a prvních devíti měsících roku 2015 je nezbytné chápat jako náklady odboru informatiky vašeho úřadu. Žádám tedy uvedení všech výdajů odboru informatiky Prahy 1 v roce 2013, 2014 a v prvních devíti měsících roku 2015. 
+K bodu 1) dodávám, že veškeré finanční náklady v letech 2013, 2014 a prvních devíti měsících roku 2015 je nezbytné chápat jako reálné provozní náklady odboru inoformatiky vašeho úřadu v letech 2013, 2014 a prvních devíti měsících roku 2015. Mezi tyto reálné provozní náklady provozních náklady, které žádám celé, bych například uvedl ještě mzdové náklady; žádám tedy, kolik zaměstnanců má odbor informatiky Městské části Praha 1 a jaké jsou mzdové náklady na tyto zaměstnance v každém jednom uvedeném roce výše. 
 
 K bodu 3) upřesňuji svoji žádost následujícími otázkami: Kolik callcenter provozuje městská část Praha 1? Kolik infocenter provozuje městská část Praha 1? Jaké byly provozní výdaje v letech 2013, 2014 a prvních devíti měsících roku 2015 na callcentra provozovaná městskou částí Praha 1? Jaké byly provozní výdaje v letech 2013, 2014 a prvních devíti měsících roku 2015 na infocentra provozovaná městskou částí praha 1? 
 
