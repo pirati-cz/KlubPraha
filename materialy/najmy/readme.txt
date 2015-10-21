@@ -5,3 +5,4 @@ Vysvětlivka k této složce:
 4) V souboru nebyty.ods jsou data o nájmech nebytových prostor, která IPR získal od Magistrátu někdy v druhé polovině roku 2014.
 5) Název souboru odpoved-na-zadost-111-2015.pdf je všeříkající.
 6) V souboru Souhrn_nebytovych_prostor-k_9-9-2015.xls je hezký přehledný souhr nebytových prostor (i ty, které nejsou spravovány správcovskými společnostmi!), akorát chybí základní údaje - nájemci a výše nájmu.
+7) V souboru odepoved-na-zadost-150-2015.pdf jsou rozepsány pokusy IPRu o kontakt s vedením Prahy, aby něco začali dělat s nájmy. 
