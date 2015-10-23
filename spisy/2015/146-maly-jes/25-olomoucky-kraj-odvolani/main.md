@@ -1,7 +1,7 @@
 ---
 prijemce: 
   role:     Povinný subjekt
-  nazev:    Česká exportní banka, a.s.
+  nazev:    Krajský úřad Olomouckého kraje
   ulice:    Vodičkova 34
   PSC:      111 21
   mesto:    Praha 1
@@ -36,8 +36,10 @@ Prosím o poskytnutí informace v elektronické podobě e-mailem. Žádám o př
 S pozdravem
 
 ---
-podpis: 
-  - Adam Zábranský
-  - nar. 28. 12. 1993
-  - bytem Zbynická 6, Praha 16
+signature:
+  - Mgr. Bc. Jakub Michálek
+  - nar. 6. 2. 1989
+  - bytem Zenklova 193, Praha 8
+  - zastupitel hl. m. Prahy
+abbr:       jakub
 ...
