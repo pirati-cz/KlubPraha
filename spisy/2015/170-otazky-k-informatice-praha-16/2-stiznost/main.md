@@ -12,7 +12,7 @@ your:
    role:    Povinný subjekt
    name:    
       -     Městská část Praha 16
-address:
+   address:
       -     Václava Balého 23/3
       -     153 00 Praha 16
 sendby:     e-mail
