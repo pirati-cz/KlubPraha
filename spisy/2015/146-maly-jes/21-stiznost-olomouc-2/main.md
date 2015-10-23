@@ -1,24 +1,22 @@
-﻿---
-prijemce: 
-  role:     Povinný subjekt
-  nazev:    Krajský úřad Olomouckého kraje
-  ulice:    Jeremenkova 40a
-  PSC:      77911
-  mesto:    Olomouc
-  DS:       
-styl:       pirati-klub
-vase:
-  znacka:   
-  den:
-nase:
-  znacka:   ZK Pha 146/2015
-  misto:    Praha
-vec:        Stížnost na vyřizování žádosti o informace
-vyrizuje:   
-  jmeno:    Jakub Michálek
-  telefon:  +420 775 978 550
-  ds:       4memzkm
-  mail:     jakub.michalek@praha.eu
+---
+title:      Odvolání
+author:
+   name:    Jakub Michálek
+   phone:   +420 775 978 550
+   ds:      4memzkm
+   mail:    jakub.michalek@praha.eu
+our:
+   name:    Zastupitelský klub Pirátů
+   sign:    ZK Pha 198/2015
+your:
+   role:    Povinný subjekt
+   name:    
+      -     Krajský úřad Olomouckého kraje
+   address:
+      -     Jeremenkova 40a
+      -     77911 Olomouc
+sendby:     ds
+style:      letter
 ---
 
 Vážení,
@@ -43,9 +41,11 @@ centrálně pořizeného elektronického informačního systému
   (které uhradil kraj nebo jím ovládané či řízené osoby) v rozdělení na 
   kapitálové a provozní výdaje.
 
-3. Pokud v kraji nebyl centrálně pořízen elektronický informační systém pro ekonomické řízení příspěvkových organizací, zašlete výše uvedené informace o systému pro ekonomické řízení té příspěvkové organizace Vašeho kraje, která má největší příjmy z rozpočtu Vašeho kraje. 
+3. Pokud v kraji nebyl centrálně pořízen elektronický informační systém pro ekonomické řízení příspěvkových organizací, zašlete výše uvedené informace o systému pro ekonomické řízení té příspěvkové organizace Vašeho kraje, která má největší příjmy z rozpočtu Vašeho kraje.
 
-Dne 19. 10. jsem obdržel odpověď od povinného subjektu. Konstatuji však, že ten neposkytl všechny informace, o které jsem žádal. Povinný subjekt při přípravě své odpovědi zcela vynechal třetí část mé žádosti, ve které jsem požadoval informace o systému pro ekonomické řízení té příspěvkové organizace, která má největší příjmy z rozpočtu kraje. Povinný subjekt poskytl informace pouze částečně a nevydal rozhodnutí o odmítnutí části informace tak, jak vyžaduje § 15 odst. 1 InfZ. Proto podávám podle § 16 odst. 1 písm. c) InfZ stížnost na vyřizování žádosti o informace. 
+Vyřízení své žádosti jsem urgoval telefonicky dne 22. 10. prostřednictvím svého asistenta Jana Loužka. Stalo se tak poté, co byla doručena stížnost, neboť povinný subjekt v původní lhůtě nereagoval. Povinný subjekt přislíbil, že informaci poskytne a skutečně poskytl smlouvu, kterou má Správa a údržba silnic Olomouckého kraje uzavřenou na ekonomický software tak, jak jsem žádal. Tím jsem považoval svojí první stížnost za bezpředmětnou a vyřízenou.
+
+Poskytnutá verze smlouvy nicméně neuvádí, kdo je dodavatelem ekonomického software pro Správu a údržbu silnic Olomouckého kraje. Přestože si vážím vstřícného přístupu povinného subjektu v dosavadním vyřizování mé žádosti, trvám na poskytnutí té informace, kdo je dodavatelem software pro Správu a údržbu silnic Olomouckého kraje. Nemohu být spokojen se způsobem vyřízení mé žádosti, a proto podávám podle § 16 odst. 1 odvolání.
 
 Prosím o komunikaci v elektronické podobě a doručování do datové schránky, případně na e-mail uvedené v patičce této zprávy. 
 
