@@ -3,7 +3,7 @@ title:      Stížnost na vyřizování žádosti o informace dle zákona č. 10
 author:
    name:    Ondřej Profant
    phone:   +420 607 580 015
-   ds:      
+   ds:       
    mail:    ondrej.profant@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
@@ -12,7 +12,7 @@ your:
    role:    Povinný subjekt
    name:    
       -     Městská část Praha 4 
-address:
+   address:
       -     A. Staška 2089/80b
       -     140 06 Praha 4
 sendby:     e-mail

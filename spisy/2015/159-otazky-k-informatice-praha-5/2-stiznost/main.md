@@ -12,7 +12,7 @@ your:
    role:    Povinný subjekt
    name:    
       -     Městská část Praha 5 
-address:
+   address:
       -     nám. 14. října 1381/4
       -     150 00 Praha 5
 sendby:     e-mail

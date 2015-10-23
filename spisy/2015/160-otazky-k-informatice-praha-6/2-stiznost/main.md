@@ -12,7 +12,7 @@ your:
    role:    Povinný subjekt
    name:    
       -     Městská část Praha 6
-address:
+   address:
       -     Čs. armády 23
       -     160 52 Praha 6
 sendby:     e-mail

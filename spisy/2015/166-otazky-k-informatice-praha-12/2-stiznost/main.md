@@ -12,7 +12,7 @@ your:
    role:    Povinný subjekt
    name:    
       -     Městská část Praha 12
-address:
+   address:
       -     Písková 830/25
       -     143 00 Praha 12
 sendby:     e-mail
