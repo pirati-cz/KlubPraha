@@ -7,43 +7,22 @@ Výroční zpráva o působení Pirátů v Zastupitelstvu hl. m. Prahy od říjn
 Zastupitelský klub Pirátů ve složení (zleva) Jakub Michálek, Mikuláš Ferjenčík, Adam Zábranský, Ondřej Profant
 
 ----
-<!-- TOC depth:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [První rok Pirátů v pražském zastupitelstvu](#prvn-rok-pirt-v-praskm-zastupitelstvu)
-	- [Úvodní slovo předsedy klubu](#vodn-slovo-pedsedy-klubu)
-	- [Hlavní úspěchy Pirátů v prvním volebním roce](#hlavn-spchy-pirt-v-prvnm-volebnm-roce)
-	- [Politické rozložení sil v zastupitelstvu](#politick-rozloen-sil-v-zastupitelstvu)
-		- [Koalice](#koalice)
-		- [Opozice](#opozice)
-		- [Destruktivní opozice](#destruktivn-opozice)
-		- [Konstruktivní opozice](#konstruktivn-opozice)
-		- [SWOT analýza](#swot-analza)
-	- [Činnost zastupitelů](#innost-zastupitel)
-		- [Aktualizace povolební strategie](#aktualizace-povolebn-strategie)
-		- [Plán prosazování programu](#pln-prosazovn-programu)
-		- [Docházka](#dochzka)
-		- [Aktivita ve výborech a komisích](#aktivita-ve-vborech-a-komisch)
-		- [Žádosti o informace](#dosti-o-informace)
-		- [Boj o informace](#boj-o-informace)
-		- [Akce](#akce)
-		- [Aktivity celospolečenského významu](#aktivity-celospoleenskho-vznamu)
-	- [Mediální výstupy](#mediln-vstupy)
-		- [Významná témata](#vznamn-tmata)
-		- [Pirátské listy](#pirtsk-listy)
-	- [Fungování klubu](#fungovn-klubu)
-		- [Odpracovaný čas](#odpracovan-as)
-		- [Odměňování](#odmovn)
-			- [Paušální částka](#pauln-stka)
-			- [Náhrada výdělku](#nhrada-vdlku)
-			- [Mandátní smlouva](#mandtn-smlouva)
-		- [Stážisté a dobrovolníci](#stist-a-dobrovolnci)
-		- [Zveřejňovač](#zveejova)
-		- [Byro](#byro)
-	- [Nejlepší a nejhorší za první rok](#nejlep-a-nejhor-za-prvn-rok)
+[První rok Pirátů v pražském zastupitelstvu](#prvni-rok)
+	- [Úvodní slovo předsedy klubu](#uvodni-slovo)
+	- [Hlavní úspěchy Pirátů v prvním volebním roce](#hlavni-uspechy)
+	- [Politické rozložení sil v zastupitelstvu](#politicke-rozlozeni-sil)
+	- [Činnost zastupitelů](#cinnost-zastupitelu)
+	- [Mediální výstupy](#medialni-vystupy)
+	- [Fungování klubu a odměňování](#fungovani-klubu)
+	- [Nejlepší a nejhorší za první rok](#nejlepsi-a-nejhorsi)
 	- [Odkazy](#odkazy)
-<!-- /TOC -->
+
+----
 
 ## Úvodní slovo předsedy klubu
+
+<a name="uvodni-slovo"/>
 
 Milí Pražané!
 
@@ -70,6 +49,9 @@ v Zastupitelstvu hl. m. Prahy
 
 ## Hlavní úspěchy Pirátů v prvním volebním roce
 
+<a name="hlavni-uspechy"/>
+
+
 * Donutili jsme šedou eminenci Radmilu Kleslovou, která brala statisíce z městských firem měsíčně, k rezignaci, a odvolali její spojence z Rady
 * Prosadili jsme Teze digitální strategie včetně podpory open source a otevřených dat; spustili jsme pražská otevřená data
 * Donutili jsme Magistrát poskytovat občanům informace o výši mimořádných odměn úředníků
@@ -79,6 +61,9 @@ v Zastupitelstvu hl. m. Prahy
 
 
 ## Politické rozložení sil v zastupitelstvu
+
+<a name="politicke-rozlozeni-sil"/>
+
 
 Současné rozložení hlasů v Zastupitelstvu hl. m. Prahy je na následujícím obrázku:
 
@@ -126,6 +111,9 @@ Tato SWOT analýza se zabývá tím, jaké jsou plusy a minusy aktuální pozice
 | Přístup k vládnoucím představitelům | | |
 
 ## Činnost zastupitelů
+
+<a name="cinnost-zastupitelu"/>
+
 
 ### Aktualizace povolební strategie
 
@@ -222,6 +210,9 @@ Pirátští zastupitelé nežijí jen komunální politikou. Pomohli například
 
 ## Mediální výstupy
 
+<a name="medialni-vystupy"/>
+
+
 Během svého ročního působení vydali pirátští zastupitelé minimálně 50 tiskových zpráv a 106 článků na webu praha.pirati.cz/blog.  Pravidelně o nás vycházejí novinové články, a to nejen v pražských, ale i v celostátních médiích. Například v sobotu 24. října byla Pirátská strana zmíněna na titulní straně Mladé fronty dnes v souvislosti s koncem Radmily Kleslové. Odhadem generujeme minimálně polovinu všech novinových článků o Pirátech v republice za poslední rok.
 
 Při příležitosti sto dní rady Piráti uspořádali tiskovou konferenci, na které byl zhodnocen přístup Rady k některým ožehavým problémům města. Dále Jakub Michálek vystoupil na tiskové konferenci k Opencard, kde prezentoval v přímém přenosu na České televizi seznam pochybení předchozích politických reprezentací v kauze Opencard. V červnu 2015 jsme upozornili na kauzu tzv. eurozákazu fotografování ₋ kde hrozilo značným způsobem omezení práv Pražanů svobodně šířit své fotografie. Rovněž jsme také odkryli netransparentní zákulisí rozhodování pražské Rady (tzv. aféra kuchyňka), vyzvali Karla Březinu, aby odešel jako odsouzený podvodník do politického důchodu a v neposlední řadě odsoudili trafiky pražských politiků. Právě poslední uvedený výstup vedl ke kvalitativní změně a rezignaci Radmily Kleslové, bývalé agentky komunistické vojenské kontrarozvědky, z řady funkcí. Značnou mediální pozornost si získalo i rozhodnutí krajského sdružení Pirátů umožnit nám jako zastupitelům jednat o případné koalici. Tuto pozornost jsme využili k prezentaci vnitrostranické demokracie a našich programových požadavků.
@@ -255,6 +246,9 @@ Prostor pro zlepšení je zejména u prezentace témat v oblasti ICT, naposledy 
 Vydali jsme tištěné [Pirátské listy](https://praha.pirati.cz/piratske-listy-2015.html) v nákladu 80 000 ks. Dosud se nám z nich podařilo rozdistrubovat tři čtvrtiny. Pirátské listy tentokrát nebyly volební, informovaly však o naší činnosti v zastupitelstvu za uplynulý rok. Příprava pirátských listů byla náročná, nicméně jejich distribuce, která byla zcela dobrovolnická, se dařila velice dobře. Zapojili jsme do rozdávání novin dobrovolníky jak z řad Pirátské strany, tak i odjinud. Do rozdávání listů se zapojilo přinejmenším 31 členů Pirátské stany, 15 příznivců, a čtyři pražští zastupitelé. S roznosem nám pomáhají dokonce i příznivci TOP 09 nebo KSČM.
 
 ## Fungování klubu
+
+<a name="fungovani-klubu"/>
+
 
 ### Odpracovaný čas
 
@@ -315,6 +309,9 @@ Zveřejňovač je jediný pracovník, kterého mají od hlavního města pirát�
 Připravili jsme open source software [Byro](https://github.com/pirati-cz/byro/). Jedná se o nástroj pro automatizaci kancelářských prací (převody, OCR, spisová služba, el. podpis, generování výčetek, ...). Našemu zastupitelskému klubu již šetří množství práce a pomáhá nám udržet vysokou úroveň transparence (dokumenty v markdownu se dobře šíří, indexují etc.).
 
 ## Nejlepší a nejhorší za první rok
+
+<a name="nejlepsi-a-nejhorsi"/>
+
 
 - **Adam Zábranský**: Mám radost z toho, že jsme přesvědčili Radu hl. m. Prahy, aby schválila dobrá východiska pro zveřejňování smluv, a že jsme významně ovlivnili přípravu protikorupční strategie Prahy, která se tak ubírá správným směrem. Bohužel kvůli různým zdržovacím akcím bude ještě nějakou dobu trvat, než se tato práce projeví (a není vyloučeno, že se neprojeví vůbec). Jsem také moc rád, že jsme sehráli klíčovou roli v odstupu Radmily Kleslové z městských firem, když jsem zveřejnil, že si v nich přijde dohromady na 360 tisíc korun měsíčně. Naopak mě štve, že v oblasti transparence se Praha za rok nikam neposunula, a přitom je tolik možností co dělat, například v oblasti majetku či městských firem.
 
