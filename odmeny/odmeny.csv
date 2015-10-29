@@ -46,7 +46,7 @@ Měsíc,Platba,Plátce,Příjemce,Částka (Kč),Důvod platby,Zdroj
 2014-12,2015-01-09,Praha,Adam Zábranský,671,zdravotní pojištění z paušální odměny,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2014/12/2014-12.pdf
 2014-12,2015-01-09,Praha,Adam Zábranský,870,záloha na daň z paušální odměny,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2014/12/2014-12.pdf
 2014-12,2015-02-27,Praha,Jakub Michálek,18000,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2014/12/jakub/vycetka.doc?raw=true        
-2014-12,2015-02-27,Praha,Mikuláš Ferjenčík,4050,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2014/12/miki/vycetka.docx?raw=true
+2014-12,2015-02-27,Praha,Mikuláš Ferjenčík,4275,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2014/12/miki/vycetka.docx?raw=true
 2014-12,2015-02-27,Praha,Ondřej Profant,18000,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2014/12/ondra/vycetka.docx?raw=true
 2014-12,2015-02-27,Praha,Adam Zábranský,4500,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2014/12/adam/vycetka.docx?raw=true
 2014-12,2014-12-01,Pirati,Jakub Michálek,8500,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2014/12/2014-12.pdf
@@ -70,7 +70,7 @@ Měsíc,Platba,Plátce,Příjemce,Částka (Kč),Důvod platby,Zdroj
 2015-01,2015-02-10,Praha,Adam Zábranský,766,zdravotní pojištění z paušální odměny,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/01/2015-01.ods?raw=true
 2015-01,2015-02-10,Praha,Adam Zábranský,870,záloha na daň z paušální odměny,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/01/2015-01.ods?raw=true
 2015-01,2015-03-02,Praha,Jakub Michálek,18000,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/01/jakub/vycetka.doc?raw=true
-2015-01,2015-02-27,Praha,Mikuláš Ferjenčík,5099,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/01/miki/vycetka.docx?raw=true
+2015-01,2015-02-27,Praha,Mikuláš Ferjenčík,5211,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/01/miki/vycetka.docx?raw=true
 2015-01,2015-05-14,Praha,Ondřej Profant,18000,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/01/ondra/vycetka.docx?raw=true
 2015-01,2015-02-27,Praha,Adam Zábranský,8270,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/01/adam/vycetka.docx?raw=true
 2015-01,2015-02-11,Pirati,Jakub Michálek,8500,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/01/2015-01.ods?raw=true
@@ -94,7 +94,7 @@ Měsíc,Platba,Plátce,Příjemce,Částka (Kč),Důvod platby,Zdroj
 2015-02,2015-03-09,Praha,Adam Zábranský,766,zdravotní pojištění z paušální odměny,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/02/2015-02.ods?raw=true
 2015-02,2015-03-09,Praha,Adam Zábranský,870,záloha na daň z paušální odměny,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/02/2015-02.ods?raw=true
 2015-02,2015-05-14,Praha,Jakub Michálek,15300,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/02/jakub/vycetka_signed.pdf?raw=true
-2015-02,2015-05-14,Praha,Mikuláš Ferjenčík,10238,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/02/miki/vycetka-unor.docx?raw=true
+2015-02,2015-05-14,Praha,Mikuláš Ferjenčík,10035,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/02/miki/vycetka-unor.docx?raw=true
 2015-02,2015-05-14,Praha,Ondřej Profant,18000,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/02/ondra/vycetka.docx?raw=true
 2015-02,2015-05-14,Praha,Adam Zábranský,14648,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/02/adam/vycetka.odt?raw=true
 2015-02,2015-03-20,Pirati,Jakub Michálek,8500,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/02/2015-02.ods?raw=true
@@ -117,7 +117,7 @@ Měsíc,Platba,Plátce,Příjemce,Částka (Kč),Důvod platby,Zdroj
 2015-03,2015-04-09,Praha,Adam Zábranský,3665,paušální odměna,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/03/2015-03.ods?raw=true
 2015-03,2015-04-09,Praha,Adam Zábranský,766,zdravotní pojištění z paušální odměny,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/03/2015-03.ods?raw=true
 2015-03,2015-04-09,Praha,Adam Zábranský,870,záloha na daň z paušální odměny,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/03/2015-03.ods?raw=true
-2015-03,2015-05-14,Praha,Mikuláš Ferjenčík,6525,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/03/Miki/vycetka-brezen.docx?raw=true
+2015-03,2015-05-14,Praha,Mikuláš Ferjenčík,6980,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/03/Miki/vycetka-brezen.docx?raw=true
 2015-03,2015-05-14,Praha,Ondřej Profant,18000,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/03/Ondra/vycetka.docx?raw=true
 2015-03,2015-05-14,Praha,Adam Zábranský,5625,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/03/Adam/vycetka.docx?raw=true
 2015-03,2015-04-26,Pirati,Jakub Michálek,8500,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/03/2015-03.ods?raw=true
@@ -265,8 +265,8 @@ Měsíc,Platba,Plátce,Příjemce,Částka (Kč),Důvod platby,Zdroj
 2015-05,2015-10-29,Praha,Ondřej Profant,13010,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/05/ondrej-profant/README.md
 2015-06,2015-10-29,Praha,Ondřej Profant,18338,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/06/ondrej-profant/README.md
 2015-07,2015-10-29,Praha,Ondřej Profant,4320,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/07/ondrej-profant/README.md
-2015-04,2015-10-29,Praha,Mikuláš Ferjenčík,5400,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/04/mikulas-ferjencik/README.md
-2015-05,2015-10-29,Praha,Mikuláš Ferjenčík,7830,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/05/mikulas-ferjencik/README.md
+2015-04,2015-10-29,Praha,Mikuláš Ferjenčík,5639,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/04/mikulas-ferjencik/README.md
+2015-05,2015-10-29,Praha,Mikuláš Ferjenčík,7839,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/05/mikulas-ferjencik/README.md
 2015-06,2015-10-29,Praha,Mikuláš Ferjenčík,8055,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/06/mikulas-ferjencik/README.md
 2015-07,2015-10-29,Praha,Mikuláš Ferjenčík,0,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/07/mikulas-ferjencik/README.md
 2015-04,2015-10-29,Praha,Adam Zábranský,5490,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/04/adam-zabransky/README.md
