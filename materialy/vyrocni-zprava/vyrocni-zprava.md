@@ -1,7 +1,11 @@
-# Půl roku v konstruktivní opozici
-##### Zpráva o působení Pirátů v Zastupitelstvu hl. m. Prahy od října 2014 do září 2015
+První rok Pirátů v pražském zastupitelstvu
+==========================================
 
-![Obrázek 1](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Pirátští zastupitelé")
+Výroční zpráva o působení Pirátů v Zastupitelstvu hl. m. Prahy od října 2014 do září 2015
+
+Zastupitelský klub Pirátů
+
+![Pirátští zastupitelé](uvodni.jpg)
 
 Milí Pražané!
 
@@ -13,42 +17,61 @@ Po volbách v říjnu 2014 nám ANO i TOP09 nabídly funkce radních v nové pra
 
 Cílem našeho působení je, aby naše opoziční práce měla pro občany co největší přínos. Proto jsme **konstruktivní opozicí**. Práci na magistrátu se věnujeme (na rozdíl od zbytku opozice) na plný úvazek, a to díky zákonné odměně zastupitele a příspěvku od Pirátské strany na naši činnost. Děláme přitom přesně to, co od nás čekají občané a naši voliči:
 
- - Ptáme se na informace, které dosud nebyly veřejně dostupné, a tyto informace zveřejňujeme, získáváme podklady a hloubkově analyzujeme významné kauzy (např. odpovědnost za Opencard, smlouvy na SMS jízdenky, pronájem Škodova paláce za 4 mld. korun). Odmítáme se smířit s tím, že koalice jmenovala do čela kontrolního výboru ODS a že tak fakticky zablokovala prošetření těchto kauz.
+ - Ptáme se na informace, které dosud nebyly veřejně dostupné, a tyto informace zveřejňujeme, získáváme podklady a hloubkově analyzujeme významné kauzy (např. odpovědnost za Opencard, smlouvy na SMS jízdenky, pronájem Škodova paláce za 4 mld. korun, projednání stavebních předpisů, příjmy Radmily Kleslové z městských firem). 
 
  - Bombardujeme koalici našimi připomínkami k tomu, co by měla dělat (např. v oblasti informatiky, protikorupční strategii, k řízení městských společností, ke kontrolám apod.) Koalice některé naše návrhy přijímá za vlastní (např. open source je poprvé v programovém prohlášení!), některé odkládá (lepší zveřejňování smluv, povinné předkládání velkých zakázek do zastupitelstva) a některé ignoruje (požadavek zveřejňování majetkových přiznání, živý přenos schůzí Rady).
 
 Piráti se drží toho, co na nás voliči oceňují a v čem nám nemohou ostatní strany konkurovat: **Naprostá otevřenost.** Zveřejňujeme naše majetková přiznání, informace o schůzkách s lobbisty, odměny i výkazy práce. Pokud chcete dělat poctivou politiku, budu rád, když se přidáte!
 
-**Mgr. Bc. Jakub Michálek**  
+Mgr. Bc. Jakub Michálek  
 předseda klubu Pirátů  
 v Zastupitelstvu hl. m. Prahy
 
-### Politické rozložení sil v zastupitelstvu
+
+Hlavní úspěchy Pirátů v prvním volebním roce
+-------------------------------------------------
+
+* Donutili jsme šedou eminenci Radmilu Kleslovou, která brala statisíce z městských firem měsíčně, k rezignaci
+* Prosadili jsme Teze digitální strategie včetně podpory open source a otevřených dat
+* Napsali a vydali jsme Pirátské listy
+* Donutili jsme Magistrát poskytovat občanům informace o výši mimořádných odměn úředníků
+* Přesvědčili jsme Radu, aby schválila náš návrh usnesení k lepšímu zveřejňování smluv
+* Spustili jsme pražská Open data (otevřená data)
+* Zdokumentovali jsme několik machinací s územním plánem, kde šlo o stovky milionů, a podali jsme trestní oznámení
+* Odvolali jsme neschopnou radní Novákovou a radního Haška, spojence Radmily Kleslové
+
+Politické rozložení sil v zastupitelstvu
+---------------------------------------
+
 Současné rozložení hlasů v Zastupitelstvu hl. m. Prahy je na následujícím obrázku:
-![Obrázek 2](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Rozložení hlasů v zastupitelstvu")
 
-Od voleb konaných v říjnu 2014 se odlišuje tím, že zastupitelka Monika Krobová Hášová nedlouho po volbách vystoupila z klubu TOP09 a je nezařazenou zastupitelkou, která hlasuje s koalicí (je také mj. členkou dozorčí rady městské společnosti Pražská energetika, a.s.). Vedle toho se od klubu TOP09 v dubnu 2014 vyčlenili zastupitelé Tomáš Hudeček (bývalý primátor), Eva Vorlíčková a Milan Růžička, kteří utvořili klub nezávislých. 
+![Rozložení hlasů v zastupitelstvu](rozlozeni.jpg)
 
-#### Koalice
-Z výše uvedeného je patrné, že koalice ANO + ČSSD + Trojkoalice (SZ + Stan + KDU-ČSL) hlasuje o všech svých návrzích zcela jednotně. Koalice nepřipouští zásadně jakékoliv rozumné návrhy opozice, ani návrhy na doplnění dalších bodů na program zasedání. Podle představitelů koalice musí být nejprve návrh Pirátů zamítnut a pak ho koalice musí předložit jakoby sama jako vlastní návrh.
+Od voleb konaných v říjnu 2014 se odlišuje tím, že zastupitelka Monika Krobová Hášová nedlouho po volbách vystoupila z klubu TOP09 a je nezařazenou zastupitelkou, která hlasuje s ČSSD (je také mj. členkou dozorčí rady městské společnosti Pražská energetika, a.s.). Vedle toho se od klubu TOP09 v dubnu 2014 vyčlenili zastupitelé Tomáš Hudeček (bývalý primátor), Eva Vorlíčková a Milan Růžička, kteří utvořili klub nezávislých. 
 
-#### Opozice
+### Koalice
+Z výše uvedeného je patrné, že po většinu prvního roku koalice ANO + ČSSD + Trojkoalice (SZ + Stan + KDU-ČSL) hlasovala o všech svých návrzích zcela jednotně. Koalice nepřipouští zásadně jakékoliv rozumné návrhy opozice, ani návrhy na doplnění dalších bodů na program zasedání. Podle představitelů koalice musí být nejprve návrh Pirátů zamítnut a pak ho koalice musí předložit jakoby sama jako vlastní návrh.
+
+### Opozice
 Opozice hlasuje prakticky jednotně v klíčových tématech, jako je například návrh Pirátů na zveřejňování smluv, návrhy na zařazení dalších bodů na program jednání, zřízení funkce radního pro IT, projednání personálních změn (zda vůbec bude zařazeno odvolání primátorky na program zasedání), proti megazakázce na svoz odpadu za 13 mld. korun. Všechny koaliční a opoziční strany s výjimkou Pirátů mají své zástupce v dozorčích radách městských podniků.
-##### Destruktivní opozice
-Druhým početným celkem jsou intenzivně spolupracující TOP 09 a ODS, které spolu například podaly žádost o svolání mimořádného zastupitelstva k projednání návrhu na odvolání primátorky Adriany Krnáčové. ODS podle vyjádření Alexandry Udženija nepodpoří žádný návrh Pirátů, zřejmě kvůli tomu, jak Piráti kritizují předchozí působení ODS na magistrátu. 
+
+#### Destruktivní opozice
+Druhým početným celkem jsou intenzivně spolupracující TOP 09 a ODS, které spolu například podaly žádost o svolání mimořádného zastupitelstva k projednání návrhu na odvolání primátorky Adriany Krnáčové. ODS podle vyjádření Alexandry Udženije nepodpoří žádný návrh Pirátů, zřejmě kvůli tomu, jak Piráti kritizují předchozí působení ODS na magistrátu. 
 
 ODS a TOP09 často vystupují proti koalici i ve věcech, které podle nás dělá dobře. Piráti také např. principiálně odmítli, aby byly příjmy z privatizace bytů rozpuštěny v rozpočtu, jak požadovala ODS. Zatímco ODS v minulosti nedělalo problém schválit dotace soukromé firmě na tyčinky, vadilo jí dotování knihovny na Praze 2. To je důvod, proč Piráti nemohou být ve stejném hlasovacím bloku jako ODS.
 
-##### Konstruktivní opozice
-Zbývá tedy poslední blok, který tvoří politické strany, které podporují vybrané kroky koalice a jiné její návrhy věcně kritizují. Okruh podporovaných návrhů se však u nich různí. Např. KSČM na rozdíl od Pirátů loajálně podpořila koalici v hlasování o přerušení prvního zasedání, proti projednání odvolání primátorky a proti návrhu Pirátů na zveřejňování majetkových přiznání.
+Cílem TOP09 bylo odvolat radní a rozštěpit Radu, což se jí na zasedání zastupitelstva v říjnu 2015 skutečně podařilo. Piráti podpořili návrh na odvolání neschopné radní Novákové (ČSSD), radního Haška (ANO) a radní Ropkové (ČSSD). Piráti nesouhlasili s odvoláním náměstka Stropnického (Zelení), kterým rozpad koalice započal. Po prvním roce vládnutí máme tedy jako výsledek polorozpadlou koalici s Radu, která má 7 členů z 11.
+
+#### Konstruktivní opozice
+Zbývá tedy poslední blok, který tvoří politické strany, které podporují vybrané kroky koalice a jiné její návrhy věcně kritizují. Okruh podporovaných návrhů se však u nich různí. Např. KSČM na rozdíl od Pirátů loajálně podpořila koalici v hlasování o přerušení prvního zasedání, proti projednání odvolání primátorky a proti návrhu Pirátů na zveřejňování majetkových přiznání. KSČM rovněž nepodpořila odvolání radních za ČSSD s výjimkou radní Novákové.
 
 Blízkost na grafu vyplývá z toho, že KSČM systematicky podporuje v hlasování, aby Piráti vedli kontrolní výbor (jako jediná další strana v zastupitelstvu) a dalších drobnějších hlasováních. Na rozdíl od TOP 09 a ODS podporují Piráti a KSČM i některé rozumné návrhy koalice, např. návrh náměstka Stropnického, aby výnos z privatizace bytů nebyl příjmem rozpočtu, ale byl vyčleněn do zvláštního fondu. 
 
 Byť zastupitelé KSČM často hlasují jako Piráti, není to kvůli ideové blízkosti, ale podle konkrétních témat projednávaných zastupitelstvem. Pirátům tato konstelace vyhovuje, protože návrhy, které považují za dobré, tak mají dvojnásobnou podporu.
 
-Dělení na opozici a koalici bylo narušeno snad jen několikrát. Zastupitelstvo hlasovalo o tom, zda ukončit rozpravu o petici občanů za MHD zdarma. Tehdy proti ukončení hlasoval náměstek Matěj Stropnický, klub Pirátů a KSČM, nicméně hlasy zbytku nestačily k ukončení rozpravy. Matěj Stropnický také nehlasoval pro megazakázku na svoz odpadu. Skupina zastupitelů včetně primátorky Adriany Krnáčové také podpořila návrh Pirátů zveřejňovat majetková přiznání, ačkoliv strany ANO, ČSSD a Trojkoalice návrh nepodpořily.
+SWOT analýza
+------------------
 
-#### SWOT analýza
 Tato SWOT analýza se zabývá tím, jaké jsou plusy a minusy aktuální pozice pirátských zastupitelů v Zastupitelstvu hl. m. Prahy, kdy fungují jako konstruktivní opozice, která na konkrétních tématech spolupracuje s Radou hl. m. Prahy.
 
 | Výhody        | Nevýhody           | Příležitosti | Hrozby |
@@ -66,155 +89,216 @@ Tato SWOT analýza se zabývá tím, jaké jsou plusy a minusy aktuální pozice
 | Lze zcela promítnout program do hlasování | | |
 | Přístup k vládnoucím představitelům | | |
 
-#### Aktualizace povolební strategie
+Aktualizace povolební strategie
+---------------------------
 
-### Činnost zastupitelů
-#### Plán prosazování programu
+Dne 21. srpna jsme požádali v souvislosti s tehdejším vývojem v pražské politice o aktualizaci povolební strategie. Obsahem této aktualizace byla především žádost pirátských zastupitelů o mandát k případnému vyjednávání o možné koalici. Smyslem tohoto postupu bylo oslabit vliv Karla Březiny a Radmily Kleslové. Když Piráti účast v koalici odmítali, značně tím rozšiřovali prostor pro tyto šedé struktury. 
+
+Nezbytné podmínky pro jakoukoliv podporu Rady či účast na Radě byly dány požadavky z [dokumentu 10 bodů](http://praha.pirati.cz/10-klicovych-bodu.html) s přihlédnutím k [Roadmapě](https://redmine.pirati.cz/projects/praha/roadmap) a [Magistrátu bez megaztrát](https://praha.pirati.cz/jak-na-magistrat-bez-megastrat.html) 
+Krajské fórum tuto aktualizaci schválilo. 
+
+Činnost zastupitelů
+------------------
+
+### Plán prosazování programu
+
 Zastupitelský klub Pirátů si schválil plán činnosti na první rok fungování, který je dostupný na Redmine. Na webu je také dostupný program, kde si můžete zobrazit aktuální stav plnění programového bodu.
-![Obrázek 3](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Plán na první rok v zastupitelstvu")
 
-#### Docházka
+![Plán na první rok v zastupitelstvu](plan.jpg)
+
+### Docházka
+
 Piráti měli za první rok stoprocentní účast na zasedáních Zastupitelstva hl. m. Prahy (které se koná jednou měsíčně kromě letních prázdnin, kdy se nekoná vůbec). Z koalice musejí mít stoprocentní účast všichni, protože tam záleží na každém hlasu. Z ostatních opozičních klubů se ale téměř vždy někteří zastupitelé zasedání nezúčastní.
 
 Každý pirátský zastupitel je členem alespoň jednoho výboru: 
-Jakub Michálek je členem výboru kontrolního, 
-Mikuláš Ferjenčík výboru pro územní plánování, 
-Ondřej Profant výboru pro správu majetku,
-Adam Zábranský je členem výboru pro sport a volný čas, a dále také výboru legislativního. 
-Nečlen zastupitelstva z řad Pirátů Viktor Mahrik (první nečlen zastupitelstva ve výboru po 22 letech) je řádným členem finančního výboru a účastní se jeho schůzí. 
+    
+* Jakub Michálek je členem výboru kontrolního, 
+* Mikuláš Ferjenčík výboru pro územní plánování, 
+* Ondřej Profant výboru pro správu majetku,
+* Adam Zábranský je členem výboru pro sport a volný čas, a dále také výboru legislativního. 
+* nečlen zastupitelstva z řad Pirátů Viktor Mahrik (první nečlen zastupitelstva ve výboru po 22 letech) je řádným členem finančního výboru a účastní se jeho schůzí. 
 
-Zástupci Pirátů, kteří jsou členy výborů, řádně docházejí na jejich jednání (mají 100% účast). Podrobné informace o výborech jsou v samostatné části zprávy.
+Zastupitelé Pirátů mají na jednáních výborů 100% účast a mají také velmi dobrou účast na výborech, kde nejsou členy. Viktor Mahrik má také dobrou účast na finančním výboru (2 omluvené absence). Piráti mají jednoznačně nejlepší účast na jednání výborů Zastupitelstva ze všech klubu v Zastupitelstvu. Podrobné informace o výborech jsou v samostatné části zprávy.
 
-Piráti chtěli mít členy ve všech výborech, ale tento požadavek nebyl koaličními stranami akceptován a koalice Pirátům vnutila, aby si členství ve výborech rozdělili s KSČM. Piráti si však vyjednali, aby dostávali informace o zasedáních všech výborů a jejich jednání se většinou účastní. Některé výbory trpí špatnou docházkou (pro usnášeníschopnost je potřeba 5 z 9 členů výboru, stejně jako pro přijetí všech usnesení) a Piráti na nich mají vyšší účast než někteří jejich členové.
+### Aktivita ve výborech a komisích
 
-#### Aktivita na zasedáních zastupitelstva
+- **Kontrolní výbor** - Jakub Michálek nebyl přes opakovanou pětinásobnou kandidaturu zvolen ani předsedou ani místopředsedou kontrolního výboru, neboť hlasy koalice byli zvoleni Jaroslava Janderová (ODS) a Jiří Hrabák (TOP09). Jakub Michálek je přes to jedním z nejaktivnějších členů kontrolního výboru, prověřuje pochybení v kauze Opencard, provedl historicky první kontrolu Magistrátu (poskytování informací o odměnách),  poskytování informací o majetkových přiznání zastupitelů, řeší kauzu Škodova paláce apod.
+- **Finanční výbor** - Pirátský člen finančního výboru (Viktor Mahrik) se podílel na analýze rozpočtu hlavního města a Piráti k němu předložili konkrétní pozměňovací návrhy. Koaliční hlasovací mašina však nejen že usilovně odmítala jeden pirátský návrh za druhým, neumožnila dokonce ani diskuzi k rozpočtu jako takovému. Členové finančního výboru byly v této situaci v podstatě postaveni před hotovou věc.
+- **Výbor pro sport** - Adam Zábranský bojoval proti složení grantové komise pro sport a volný čas, které navrhovala (od 22. října 2015 již bývalá) radní Nováková (ČSSD). Nic se mu ale změnit nepodařilo. Předsedou komise se stal Karel Březina, který byl před několika měsíci pravomocně odsouzen za trestný čin podvodu kvůli místu v dozorčí radě Dopravního podniku. Zbytek komise je obsazen čistě politicky, mezi členy je např. i nejvýznamnější zákulisní hráčka ANO (dříve ČSSD) Radmila Kleslová. Adamovi proto přijde problémové hlasovat pro jakékoliv granty, které z této komise vzejdou. Dále z pozice člena výboru sleduje přípravu akce Praha - Evropské hlavní město sportu 2016, kdy chce, aby to byla spíše nízkonákladová, nikoliv megalomanská akce. Rozpočet na sport se ale bohužel má v roce 2016 o několik desítek milionů navýšit.
+- **Výbor pro legislativu a protikorupční opatření** - Adam Zábranský na prvním jednání výboru představil pirátský návrh na zveřejňování smluv. Výbor nakonec doporučil Radě, aby zlepšila stav zveřejňování smluv v souladu s tímto návrhem. Rada tak nakonec po půl roce udělala a schválila východiska zveřejňování smluv, která v současnosti rozpracovává Magistrát. Legislativní výbor se také podílí na tvorbě protikorupční strategie, kterou Piráti významně ovlivnili. Na konečný návrh ale budeme muset ještě počkat. Výbor toho jinak moc neřeší, protože primátorka Krnáčová také ne.
+- **Výbor pro majetek** - Na výbor jsou předkládány velmi provozní tisky (např. prodej / nákup pár metrů čtverečních). Významnější tisky jsou předkládány bez širšího kontextu (prodej rozvojových parcel v Karlíně, velká výměna pozemků s ČSOB). To vše je důsledkem absence koncepce. Ondřej Profant opakovaně žádal předsedu výboru i radního pro majetek o více koncepčních jednání, popř. o projednávání tisků v kontextu. Koncepční jednání byly přislíbeny, avšak zatím se žádné neodehrálo. Jedinou světlou výjimkou je *Návrh pravidel pro rozhodování o prodejích a pronájmech veřejných prostranství sídlišť* (6. jednání, bod 5.1), kterou si z iniciativy nám. primátora Matěje Stropnického výbor vyžádal. Majetkové podíly se doposud neřešily vůbec. 
+  Náš zástupce ve výboru otevřel témata pronájmu "Maršmeloun" a "[Sixti](https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/140-sixti)". Maršmeloun má nyní pozastavené stavební povolení. U druhé kauzy byla představena petice a Ondřej Profant přednesl úvodní slovo. Zbytek výboru však nechtěl téma projednat bez podkladů od odboru. Téma bylo zařazeno na další jednání, avšak to neproběhlo z důvodů nízké účastí - to je obecně dlouhodobý problém tohoto výboru. Ondřej Profant též pravidelně a zodpovědně připomínkuje zápisy výboru.
+- **Výbor pro územní rozvoj a uzemní plán** - Mikuláš Ferjenčík už pro druhé zasedání výboru připravil shrnutí největších problémů územního plánování v Praze, následně ho prodiskutoval s předsedou výboru Slezákem, který k němu poslal připomínky. Před výborem potom prochází všechny jednotlivé změny územního plánu a zaujímá k nim stanovisko. Pokud chcete pomáhat, obraťte se na něj. Proběhl i seminář o změnách územního plánu od neziskové organizace Arnika, v neposlední řadě Mikuláš pravidelně konzultoval s kanceláří Matěje Stropnického, náměstka primátorky s gescí uzemní plánování. Aktuálně Mikuláš vede zásadní spor o seznam podnětů na změnu územního plánu, kde dosáhl (se značnou pomocí Adama Zábranského) [úspěchu u ministerstva vnitra](https://praha.pirati.cz/tabulka-podnetu.html). Pro organizaci Arnika připomínkoval příručku Územní plán pro občany, která je [ke stažení na webu](http://arnika.org/uzemni-plan-prirucka-pro-obcany). 
+- **Komise ICT** - Ondřej Profant a Jakub Michálek jsou členy komise Rady hl. m. Prahy pro ICT. Tato komise schválila důležité projektové záměry na OpenData a Mepnet a Teze digitální strategie. Tyto dokumenty jsou zodpovědně prodiskutováy a kvalitně připraveny. Mepnet je nově pojmut jako rámcová smlouva s minitendry a tím se stává mnohem více tržně otevřeným. Zastupitelstvo tento návrh (po opravě od O. Profanta) schválilo na zářijovém jednání. Po připomínkách Pirátů nebyla schválena velkorysá integrace Marbesu na další městské části. Opendata byla úspěšně spuštěna a rozrůstají se. Naši zástupci navrhli, aby se podklady (s výjimkou odůvodněných případů) zveřejňovaly, avšak to neprošlo přes zbytek komise.
+  [Teze digitální strategie](https://praha.pirati.cz/rada-digitalni-strategie.html) jsou velmi pokrokový dokument zohledňující moderní trendy a především opensource. Inspiruje se takovými dokumenty jako [Government Digital Service](https://www.gov.uk/design-principles). Dokument schválila 15. 9. Rada HMP.
+  [Opendata](http://opendata.praha.eu/) byla schválena v květnu. Ondřej Profant připravil projektový záměr pro komisi a stal se koordinátorem projektu. V říjnu 2015 je projekt úspěšně spuštěn, přibývají nové datové sady. Řešení je celé opensource (včetně implementace). Projekt je velmi ambiciozně koncipován jako celoměstský - jsou zapojeny městské části, příspěvkové organizace i akciovky. Tím má potenciál napomoci transparenci nejen na magistrátu, ale i v celé Praze. 
+  Ondřej Profant se též intenzivně věnuje běžnému provozu odboru informatiky, kde se podílí na množství dílčích diskusí nad problémy, aby se věci řešily rovnou správně (a ne až po neschválením komisí apod.) 
+  Krom magistrátu se věnoval i městským částem. Spolupodílel se na obnově IT na Praze 7 a především se věnoval Praze 10. Tam koalice Vlasta (jejiž součástí jsou Piráti) zpochynila [superzakázku na outsourcing IT](http://www.zaostrenona10.cz/mimoradne-zastupitelstvo-bylo-vskutku-mimoradne/). Zastupitelstvo Prahy 10 následně tuto zakázku odmítlo. Od dubna se pak vedla intenzivní jednání, vybrala se konzultanská firma a skupina expertů se shodla na dalším postupu. Bohužel konzultantská firma podstřelila cenu (i když VŘ byla 60:40) a viditelně pracovala ve prospěch původní zakázku. To se projevilo ve středu 21. 10., kdy zastupitelstvo Prahy 10 opět odmítlo připravený tisk (nedoporučený našimi experty).
 
-#### Aktivita ve výborech a komisích
-- **Kontrolní výbor** - Jakub Michálek nebyl přes opakovanou 5násobnou kandidaturu zvolen ani předsedou ani místopředsedou kontrolního výboru, neboť hlasy koalice byli zvoleni Jaroslava Janderová (ODS) a Jiří Hrabák (TOP09). Jakub Michálek je přes to jedním z nejaktivnějších členů kontrolního výboru, prověřuje pochybení v kauze Opencard, kontroluje prodeje pozemků pod stavbami bytových družstev, zveřejnování informací na webových stránkách města, poskytování informací o majetkových přiznání zastupitelů, řeší kauzu Škodova paláce apod.
-- **Finanční výbor** - Pirátský člen finančního výboru (Viktor Mahrik) pravidelně navštěvuje veškerá jednání výboru. Piráti analyzovali rozpočet hlavního města a předložili k němu konkrétní pozměňovací. Koaliční hlasovací mašina však nejen že usilovně odmítala jeden pirátský návrh za druhým, neumožnila dokonce ani diskuzi k rozpočtu jako takovému. Členové finančního výboru byly v této situaci v podstatě postaveni před hotovou věc.
-- **Výbor pro sport** - Adam Zábranský bojoval proti složení grantové komise pro sport a volný čas, které navrhovala radní Nováková (ČSSD). Nic se mu ale změnit nepodařilo. Předsedou komise se stal Karel Březina, který byl před několika měsíci pravomocně odsouzen za trestný čin podvodu kvůli místu v dozorčí radě Dopravního podniku. Zbytek komise je obsazen čistě politicky, mezi členy je např. i nejvýznamnější zákulisní hráčka ANO (dříve ČSSD) Radmila Kleslová. Adamovi proto přijde problémové hlasovat pro jakékoliv granty, které z této komise vzejdou. Dále z pozice člena výboru sleduje přípravu akce Praha - Evropské hlavní město sportu 2016, kdy chce, aby to byla spíše nízkonákladová, nikoliv megalomanská akce.
-- **Výbor pro legislativu** - Adam Zábranský na prvním jednání výboru představil pirátský návrh na zveřejňování smluv. Výbor nakonec doporučil Radě, aby zlepšila stav zveřejňování smluv v souladu s tímto návrhem. Piráti nyní bedlivě sledují, jestli tak Rada učiní. Dále Adam navrhl, aby se úplně přepracovala připravovaná Protikorupční strategie na roky 2015-2018, resp. aby se zredukovala na pár stránek (z cca 30-40). Také navrhl, aby byl ustaven užší tým ze zastupitelů a zástupců úřadu a neziskových organizací, který se tomu bude věnovat. Nejspíše se tak nakonec stane.
-- **Výbor pro majetek** - Většina jednání výboru je velmi provozní, proto Ondra Profant prosadil jednání o koncepci. Dále upozornil na nejasnosti u pronájmu pozemků v kauze “Maršmeloun”. Pravidelně připomínkuje zápisy. Výbor jako celek zamítl relativně hodně předložených materiálů, které se jevili jako nevýhodné či nekoncepční.
-- **Výbor pro územní rozvoj a uzemní plán** - Mikuláš Ferjenčík už pro druhé zasedání výboru připravil shrnutí největších problémů územního plánování v Praze, následně ho prodiskutoval s předsedou výboru Slezákem, který k němu poslal připomínky. Před výborem potom prochází všechny jednotlivé změny územního plánu a zaujímá k nim stanovisko. Pokud chcete pomáhat, obraťte se na něj. Proběhl i seminář o změnách územního plánu od neziskové organizace Arnika, v neposlední řadě Mikuláš pravidelně konzultuje s kanceláří Matěje Stropnického, náměstka primátorky s gescí uzemní plánování. 
-- **Komise ICT** - Ondřej Profant a Jakub Michálek jsou členy komise Rady hl. m. Prahy pro ICT. Rada vyšla programu Pirátů poměrně vstříc, takže Praha má první programové prohlášení, které se hlásí k open source. V rámci této komise chtějí připravit strategii pro IT, schválit záměr Open Data, zapojit se do přípravy nástupce Opencard a podílet se na řešení aktuálních problémových tisků na Radu.
+### Žádosti o informace
 
-Zastupitelé Pirátů se v rámci své specializace seznamují s chodem úřadu. Např. Jakub Michálek navštívil odbor kontrolních činností (kontroluje příspěvkové organizace), oddělení interního auditu (mělo by provádět audit uvnitř úřadu), manažerku kvality. Jakub Michálek a Ondřej Profant jsou jako členové komise pro informatiku často v kontaktu s odborem informatiky.
+Piráti velmi často žádají o informace podle zákona o svobodném přístupu k informacím a zákona o hl. m. Praze. Bez informací totiž zastupitelé nemohou kvalifikovaně rozhodovat. Jen v roce 2014 podal zastupitelský klub Pirátů 24 žádostí o informace. Od ledna do konce října 2015 podali pirátští zastupitelé dalších více než 200 žádostí o informace. Žádosti jsou evidovány ve spisové službě na Githubu, aktuální stavy jednotlivých žádostí pak v Redmine.
 
-#### Žádosti o informace
-Piráti velmi často žádají o informace podle zákona o svobodném přístupu k informacím. Bez informací totiž zastupitelé nemohou kvalifikovaně rozhodovat. Jen v roce 2014 podal zastupitelský klub Pirátů 24 žádostí o informace. Od ledna do začátku května 2015 podali pirátští zastupitelé dalších 49 žádostí o informace. 
-
-Prostřednictvím těchto žádostí se Pirátští zastupitelé dověděli například: 
+Prostřednictvím těchto žádostí se Pirátští zastupitelé dověděli například:
 
 - aktuální výše marží na SMS jízdenky v krajských městech ČR, z nichž Praha má v současné době suverénně nejvyšší (24,11 %), 
 - že řada zastupitelů v minulém volebním období čekala třeba 3 roky a nechávala si vyplácet náhradu výdělku za 3 roky zpětně,
 - že Praha by měla podle fiskální analýzy usilovat o zvýšení daně z nemovitosti a zvýšení investičních výdajů (rezervy v porovnání s ostatními evropskými metropolemi), 
 - o pokutě uložené Úřadem pro ochranu hospodářské soutěže ve výši 500 000 Kč, kterou Praha zaplatila v souvislosti s kauzami ohledně smlouvy Opencard, za kterou nikdo nenese odpovědnost,
 - výši úroku (pohybující se okolo 0,5 %), za který má Praha uložené své peníze na účtech u PPF, která neodpovídá rizikovosti vkladu, přičemž Praha má s PPF velice úzké vazby (drží v ní 10% podíl),
+- jak vypadá audit Dopravního podniku Prahy, který vyhotovil Václav Láska.
+- za jaké ceny a komu Praha pronajímá nemovitosti,
+- že podle analýzy Institutu plánování a rozvoje Praha pronajímá nebytové prostory nehospodárně,
+- jak probíhají jednání Rady hl. m. Prahy; díky těmto záznamům jsme odhalili zákulisní jednání v kuchyňce,
+- jaké městské firmy pro Prahu spravují nemovitý majetek v hodnotě vyšší než 100 miliard korun.
+- jaké mají výdaje městské části v oblasti informatiky.
+- jaké účetní systémy používají jednotlivé kraje a jejich příspěvkové organizace; kolik je měsíčně stojí.
+- majetková přiznání některých zastupitelů
 
-Žádání o informace však ne vždy vede k úspěchu. Povinné subjekty (tj. instituce, kterým jsou žádosti adresovány) často hledají různé možnost, jak informace Pirátům odepřít. Proto i přes častá odvolání a stížnosti neuspěli Piráti v získání následujících informací:
+Podle § 5 odst. 3 zákona o svobodném přístupu k informacím musí všechny veřejné instituce, přesněji povinné subjekty, poskytnuté informace zveřejňovat. Poskytnutí informace na žádost tak získává vlastně i podobu zveřejnění dané informace. Piráti bojují usilovně o to, aby byl tento paragraf důsledně dodržován, a aby tedy veřejné instituce všechny informace zveřejňovaly tímto způsobem. Sami Piráti doplňují tento cíl sami prostřednictvím vlastního githubového repozitáře, kde jsou veřejně k dispozici všechny materiály týkající se žádostí o informace, odpovědí, odvolání a stížností, které pirátští zastupitelé posílali.
+
+### Boj o informace
+
+Magistrát (nejčastější příjemce pirátských žádostí o informace) by teoreticky měl informace poskytovat ve lhůtě 15 dnů. Zatímco přednášející na školeních úřadu tvrdí, že "nedodržení lhůty je možné ze strany úřadu jen v případě živelné pohromy", skutečnost je ale mnohdy jiná. V některých odstrašujících případech dochází k tomu, že není žádost o informace vyřízená z důvodu jejího zapomenutí, ztracení, dovolené či propuštění magistrátního pracovníka, nekomunikace mezi jednotlivými odbory Magistrátu apod.
+
+Žádání o informace ne vždy vede k úspěchu. Povinné subjekty (tj. instituce, kterým jsou žádosti adresovány) často hledají různé možnosti, jak informace Pirátům odepřít. Například Magistrát pirátským zastupitelům opakovaně nechtěl poskytnout informace, na které mají nárok (audit Dopravního podniku, nájmy městských nemovitostí, seznam podnětů na změnu územního plánu atd.). Piráti se ale pravidelně odvolávají k Ministerstvu vnitra, které rozhodnutí Magistrátu o odepření informací většinou zruší pro nezákonnost. Problém je ale i s městskými částmi (Adam Zábranský již přes půl roku vede boj s Prahou 1 o poskytnutí informací o nájmech svěřených nemovitostí) a městskými či státními firmami (většina z nich tvrdí, že nejsou povinnými subjekty a informace tak poskytovat nemusí).
+
+Piráti neuspěli v získání například následujících informací:
 
 - doklad o vzdělání bývalého ředitele legislativního odboru, magistra práva Františka Kotalíka, který patrně vystudoval na Zakarpatské univerzitě v Užhorodu, diplom měl nostrifikovaný na Plzeňských právech a sám vydával ve vlastní věci rozhodnutí o odepření informace s tím, že jeho vzdělání se netýká výkonu jeho funkce,
-- audit Dopravního podniku Prahy, který vyhotovil Václav Láska, který není údajně možné poskytnout kvůli tomu, že za jeho vypracování byl trestně stíhán Bohuslav Svoboda,
-- zvukový záznam z jednání Rady, který úřad nechal po žádosti Pirátů zničit.
+- zvukový záznam z jednání Rady, který úřad nechal po žádosti Pirátů zničit,
+- odměny členů představenstva a dozorčí rady několika městských firem,
+- smlouvy státních firem s Radmilou Kleslovou.
+- způsoby užívání open source v České poště
+- dokumentace k vzniku Pražských stavebních předpisů, kterou nemá ani hlavní město Praha, ani Institut plánování a rozvoje
+- účetní dokumentace z interního systému magistrátu, který je užíván pro evidenci majetku
 
-V odvolacích řízeních jsou Piráti často velmi úspěšní, vzhledem k tomu, že hlavní město Praha činí velmi často nezákonná rozhodnutí, která nadřízený subjekt (ve většině případů Ministerstvo vnitra) ruší a vrací k novému projednání.
+Adam Zábranský již kvůli neposkytnutí informací zažaloval 4 společnosti s majetkovou účastí hl. m. Prahy. Vzhledem k tomu, že státní firmy rovněž neposkytují informace, bude se tento seznam nejspíše rozšiřovat.
 
-Všechny žádosti o informace, které podali členové zastupitelského klubu Pirátů, jsou veřejně k dispozici prostřednictvím GitHubu klubu.
+### Akce
 
-#### Úřední peripetie
-##### Žádosti o informace
-Piráti kontaktují celou řadu tzv. povinných subjektů (tedy veřejných subjektů, které jsou ze povinny poskytovat informace podle zákona č. 106/1999 Sb.) a žádají je o poskytnutí různých informací. Kontaktované subjekty jsou různé; mohou to být města, městské společnosti, nebo státní instituce.
+Piráti pravidelně každý týden pořádají zastupitelské úterky v Pirátském centru (Řehořova 19, Praha 3, vždy od 18:00). Jednotliví zastupitelé, kteří se tam každý týden střídají, si vždy vybírají jiné téma, o kterém hovoří. Daná témata se vždy dotýkají aktuální politické situace na pražském magistrátu. V rámci večera je plno prostoru pro zvědavce, kteří zastupitelům mohou klást nejrůznější otázky ohledně jejich činnosti.
 
-Uvedené subjekty mají ale k poskytování informací rozdílný přístup; zatímco s některými z nich je spolupráce víceméně bezchybná a informace poskytují bez prodlení, jiné otálejí a snaží se na základě všelijakých možných záminek informace neposkytovat. Jak si v tomto směru stojí naše hlavní město?
+V prosinci roku 2014 Piráti v Praze uspořádali Piratecon, celostátní pirátskou konferenci, která byla zaměřená na zastupitele obcí, ale třeba i městských částí. Přijela minimálně stovka účastníků a přednášky stály za to. V lednu pirátští zastupitelé zorganizovali akci s Islandskou poslankyní Pirátů Birgittou Jonsdóttir. Vystoupili rovněž na mezinárodním Pirateconu v květnu 2015 v Mariánských lázních, kde sdíleli své zkušenosti i s mezinárodními Piráty. Od podzimu 2015 pořádají i turné po městských částech, kde se scházejí s občany jednotlivých částí Prahy v přátelské neformální atmosféře.
 
-Právě Praha je povinným subjektem, od kterého pirátští zastupitelé žádají právě nejvíce údajů. Pro práci zastupitele je totiž řada informací nezbytná. Zastupitelé mají oproti běžným žadatelům dle zákona o svobodném přístupu k informacím posílenou pozici, a to zákonem o hlavním městě Praze. Měli by se dostat víceméně ke všem informacím a to ještě k tomu bezplatně.
+### Aktivity celospolečenského významu
 
-Jenže Magistrát má často jiný názor. Žádosti Pirátům odmítá s podivnými vysvětleními, např. že informace neexistuje (když její existence není sporná), že musí chránit osobní údaje (když se jedná o potvrzení/vyvrácení informace, zda ředitel legislativního odboru vystudoval práva v Užhorodu) nebo že se Piráty požadované informace nevztahují k jejich působnosti (když je zcela jasné, že to není pravda). V takových případech se Piráti musí odvolat k Ministerstvu vnitra, které naštěstí většinou rozhodnutí Magistrátu zruší. Pak se čeká, než Magistrát rozhodne znovu. Úřad často volí taktiku „ticho po pěšině“ a když dané informace nechce vydat, prostě znovu nerozhodne. Poté je nezbytné se znovu obrátit na Ministerstvo vnitra, ať s jeho nečinností něco udělá. Některé žádosti o informace se tak protahují na velmi dlouhou dobu.
+Pirátští zastupitelé nežijí jen komunální politikou. Pomohli například zabránit zrušení svobody panoramatu na celoevropské úrovni, významně se podíleli na zformulování [stanoviska Pirátů](https://www.pirati.cz/stanoviska/piratske_stanovisko_k_vlne_uprchliku_-_jednotne_azylove_rizeni_v_evrope_plan_na_integraci_uprchliku_v_cesku) k uprchlické krizi. V rámci expertního týmu MPO lobbují za zachování digitálních práv v rámci připravované dohody [TTIP](https://praha.pirati.cz/ttip.html). Angažují se ve snaze zastavit cenzuru Internetu z dílny Andreje Babiše a obecně se snaží podporovat činnost Pirátské strany i v oblastech přesahujících pražské zastupitelstvo. 
 
-##### Zveřejňování poskytnutých informací 
-Podle § 5 odst. 3 zákona o svobodném přístupu k informacím (106/1999 Sb.) musí všechny veřejné instituce, přesněji povinné subjekty, poskytnuté informace zveřejňovat. Poskytnutí informace na žádost tak získává vlastně i podobu zveřejnění dané informace. Piráti bojují usilovně o to, aby byl tento paragraf důsledně dodržován, a aby tedy veřejné instituce všechny informace zveřejňovaly tímto způsobem.
+Mediální výstupy
+------------------
 
-Sami Piráti doplňují tento cíl sami prostřednictvím vlastního githubového repozitáře, kde jsou veřejně k dispozici všechny materiály týkající se žádostí o informace, odpovědí, odvolání a stížností, které pirátští zastupitelé posílali.
+Během svého ročního působení vydali pirátští zastupitelé minimálně 50 tiskových zpráv a 106 článků na webu praha.pirati.cz/blog.  Pravidelně o nás vycházejí novinové články, a to nejen v pražských, ale i v celostátních médiích. Například v sobotu 24. října byla Pirátská strana zmíněna na titulní straně Mladé fronty dnes v souvislosti s koncem Radmily Kleslové. Odhadem generujeme minimálně polovinu všech novinových článků o Pirátech v republice za poslední rok. 
 
-Magistrát však zavedl vlastní postup zveřejňování informací, který lze zjednodušeně popsat takto: Úředník z odboru pošle referentce dokument ke zveřejnění jako naskenovaný obrázek, ta si ho vytiskne a začmárá v něm údaje, které by neměly být zveřejněny, výsledek naskenuje a pošle ho dalšímu úředníkovi, který v grafickém editoru začerní začmárané části, dokument převede do PDF a odboru komunikace, který ho dá externí firmě k umístění na web. Piráti navrhli nahradit tento systém elektronickým oběhem dokumentů, na který už má Praha open source software i s podporou nasmlouvaný z minulé Rady Tomáše Hudečka.
+Při příležitosti sto dní rady Piráti uspořádali tiskovou konferenci, na které byl zhodnocen přístup Rady k některým ožehavým problémům města. Dále Jakub Michálek vystoupil na tiskové konferenci k Opencard, kde prezentoval v přímém přenosu na České televizi seznam pochybení předchozích politických reprezentací v kauze Opencard. V červnu 2015 jsme upozornili na kauzu tzv. eurozákazu fotografování ₋ kde hrozilo značným způsobem omezení práv Pražanů svobodně šířit své fotografie. Rovněž jsme také odkryli netransparentní zákulisí rozhodování pražské Rady (tzv. aféra kuchyňka), vyzvali Karla Březinu, aby odešel jako odsouzený podvodník do politického důchodu a v neposlední řadě odsoudili trafiky pražských politiků. Právě poslední uvedený výstup vedl ke kvalitativní změně a rezignaci Radmily Kleslové, bývalé agentky komunistické vojenské kontrarozvědky, z řady funkcí. Značnou mediální pozornost si získalo i rozhodnutí krajského sdružení Pirátů umožnit nám jako zastupitelům jednat o případné koalici. Tuto pozornost jsme využili k prezentaci vnitrostranické demokracie a našich programových požadavků. 
 
-#### Akce
-Piráti pravidelně každý týden pořádají zastupitelské úterky v Pirátském centru (Řehořova 19, Praha 3, vždy od 18:00). Jednotliví zastupitelé, kteří se tam každý týden střídají, si vždy vybírají jiné téma, o kterém budou hovořit. V rámci večera je plno prostoru pro zvědavce, kteří zastupitelům mohou klást nejrůznější otázky ohledně jejich činnosti.
+Prostor pro zlepšení je zejména u prezentace témat v oblasti ICT, naposledy se nám nepodařilo úspěšně prezentovat projekt spuštění portálu pro opendata. 
 
-V prosinci roku 2014 Piráti v Praze uspořádali Piratecon, celostátní pirátskou konferenci, která byla zaměřená na zastupitele obcí, ale třeba i městských částí. Přijela minimálně stovka účastníků a přednášky stály za to. V lednu pirátští zastupitelé zorganizovali akci s Islandskou poslankyní Pirátů Birgittou Jonsdóttir. Plánují vystoupit na mezinárodním Pirateconu v květnu 2015 v Mariánských lázních a sdílet své zkušenosti s ostatními Piráty.
+### Významná témata
 
-#### Aktivity celospolečenského významu
-
-### Mediální výstupy
-Během svého působení vydali pirátští zastupitelé minimálně 20 tiskových zpráv, 46 článků na našem blogu a pravidelně o nás vycházejí novinové články, přinejmenším v Pražském deníku, v deníku Metro a v pražských přílohách celostátních deníků. Odhadem generujeme minimálně polovinu všech novinových článků o Pirátech v republice za poslední půlrok. 
-
-Při příležitosti sto dní rady Piráti uspořádali tiskovou konferenci. Dále Jakub Michálek vystoupil na tiskové konferenci k Opencard, kde prezentoval v přímém přenosu na ČT seznam pochybení předchozích politických reprezentací v kauze Opencard.
-
-Piráti aktuálně připravují mediální strategii zastupitelského klubu, průběžně vyhodnocují, jestli jsou jejich výsledky dostatečně vidět v médiích a jestli jim někdo nenasazuje psí hlavu. 
-
-#### Významná témata
-- **Opencard** - Jakub Michálek a Ondřej Profant jsou primátorkou pověřeni k jednání ve věci Opencard. V současném volebním období je to poprvé, kdy se s kauzou podařilo pohnout. Praha už není v kleštích jednoho dodavatele EMS, na kterém byla závislá. Možnost používat vedle Opencard i papírové průkazky byla přijata, aby Praha nepřesáhla počet zakoupených licencí a měla alternativu při jednání s EMS. Piráti tak výrazně snížili riziko dalších žalob, neboť nedochází k překračování počtu licencí. Zdokumentovali kroky a odpovědnost za kroky v kauze Opencard, kdy se jí údajně předchozí politická reprezentace snažila hasit, ale ve skutečnosti situaci spíše zhoršovala. Nyní jsou dokončeny znalecké posudky, takže může pokračovat jednání o servisu systémů, které je vhodné, aby Opencard mohla pokračovat po přechodné období 3 až 4 let. Podařilo se jim prosadit, aby nové řešení bylo postaveno jako multikanálové, skutečně otevřené. Je třeba se přizpůsobit poptávce, která je segmentovaná. Každá skupina tak bude mít takový nosič jízdenky, který jí vyhovuje. Podle našeho názoru nemá smysl zavádět novou čipovou kartu s elektronickou peněženkou, ale kdo bude chtít, bude moci používat bankovní kartu nebo mobil. Cestující s bezpatným jízdným nebo studenti cestující na ISIC mohou mít nadále papírové kupóny. Multikanálový systém (market) by měl být zaveden do roku 2018.
+- **Opencard** - Jakub Michálek a Ondřej Profant jsou primátorkou pověřeni k jednání ve věci Opencard. V současném volebním období je to poprvé, kdy se s kauzou podařilo pohnout. Praha už není v kleštích jednoho dodavatele EMS, na kterém byla závislá. Možnost používat vedle Opencard i papírové průkazky byla přijata, aby Praha nepřesáhla počet zakoupených licencí a měla alternativu při jednání s EMS. Piráti tak výrazně snížili riziko dalších žalob, neboť nedochází k překračování počtu licencí. Zdokumentovali kroky a odpovědnost za kroky v kauze Opencard, kdy se jí údajně předchozí politická reprezentace snažila hasit, ale ve skutečnosti situaci spíše zhoršovala. Nyní jsou dokončeny znalecké posudky, takže může pokračovat jednání o servisu systémů, které je vhodné, aby Opencard mohla pokračovat po přechodné období 3 až 4 let. Podařilo se jim prosadit, aby nové řešení bylo postaveno jako multikanálové, skutečně otevřené. Je třeba se přizpůsobit poptávce, která je segmentovaná. Každá skupina tak bude mít takový nosič jízdenky, který jí vyhovuje. Podle našeho názoru nemá smysl zavádět novou čipovou kartu s elektronickou peněženkou, ale kdo bude chtít, bude moci používat bankovní kartu nebo mobil. Cestující s bezplatným jízdným nebo studenti cestující na ISIC mohou mít nadále papírové kupóny. Multikanálový systém (market) by měl být zaveden do roku 2018. Jakub Michálek dále zpracoval čtyřicetistránkovou analýzu vzniku projektu Opencard a klub Pirátů poté vyzval Radu Prahy, aby Pavla Béma a další zodpovědné osoby zažalovala o náhradu škody. Prozíravost znovuzavedení papírových kuponů se znovu ukázala v říjnu, kdy EMS začala blokovat vydávání nových karet.
 - **SMS jízdenky** - V průběhu roku 2012 médii prošla kauza okolo vysokých marží soukromých společností, které poskytují SMS jízdenky v krajských městech. Ukázalo se, že společnosti jsou vzájemně propojené a v podstatě neexistuje konkurenční prostředí. Piráti se rozhodli prostřednictvím žádostí o informace zjistit, jaká je v současné době situace na trhu SMS jízdenek. Závěry byly sepsány do komplexního textu. Ukázalo se, že s výjimkou Prahy, kde společnost Erika a.s. získává marži 24 %, jsou ve všech krajských městech marže nižší - zhruba v rozmezí 10-20 %. Je tomu hlavně díky vstupu nových subjektů na trh (Airtoy, Materna Communications), které donutily i původní společnost Erika a.s. snížit ceny (marže klesly z průměrných 25-30 % na pro město příznivých 10-20 %)  a jednak zavést férovější podmínky (žádná exkluzivita, nelegální ustanovení, pokuty v případě zveřejnění smlouvy aj). Díky ustanovení § 5 odst. 3. Zákona č. 106/1999 Sb. Piráti zveřejnili na svém githubovém profilu (téměř) všechny aktuálně platné smlouvy na službu SMS jízdenek v krajských městech v České republice.
-- **Škodův palác** - Škodův palác je sídlem více než 1000 úředníků magistrátu. Budova je obrovská a splňuje řada specifických kritérií pro soustředění úředníků v jednom místě. Praha si ho v roce 2006 pronajala za částku přes 4 mld. korun na 20 let. Firma, od které si ho pronajala, ho o pár let před tím koupila za cca 800 mil. korun a opravila za 500 mil. korun. Celkem tedy pronajímatel pan Pawlowski (vlastník obchodního domu Quadrio) na pronájmu Škodova paláce vydělal značnou sumu. Pavel Bém v roce 2006 sliboval, že se přesunem úředníků město ušetří peníze, protože nebude muset pronajímat jiné prostory. Ve skutečnosti však každý měsíc rok prodělává desítky milionů. Nájemné ve Škodově paláci je cca 2krát vyšší než tržní nájemné. Praha má podle smlouvy za 5 let právo dům koupit za tržní cenu, ale není jisté, zda bude pronajímatel schopen ho Praze prodat, protože palác je zastaven u banky a není jisté, že pronajímatel své dluhy splatí (firmu vlastnící palác prodal miliardář Pawlowski lucemburskému holdingu). Spis Piráti podrobně prostudovali. Zástupkyně nového pronajímatele paní Schaeffer se na výzvu člena kontrolního výboru Jakuba Michálka zaručila, že palác budou schopni za 5 let prodat, aniž by byl zatížen zástavním právem. Jakub Michálek se dále domáhal nahlédnutí do účetnictví pronajímatele, aby zjistil, zda byly z firmy vyváděny prostředky, ale předsedkyně kontrolního výboru ho v diskusi přerušila.
-- **Zveřejňování smluv** - Adam Zábranský a Jakub Michálek už před prosincovým zasedáním zastupitelstva připravili návrh na zlepšení stavu zveřejňování smluv v hl. m. Praze. V současnosti jsou totiž smlouvy zveřejňovány tím způsobem, že v systému je téměř nemožné se orientovat, a smlouvy navíc nezveřejňují příspěvkové organizace ani firmy ovládané městem. Zastupitelstvo se návrhem ovšem odmítlo zabývat. Piráti proto své štěstí zkusili na výboru pro protikorupční opatření, který nakonec návrh odkázal Radě. Adam s Jakubem od té doby usilují o to, aby Rada schválila rozumné změny, které by vedly k co možná nejširšímu zveřejňování smluv a údajů o plnění smluv (např. faktur). Jestli tak nakonec učiní, uvidíme nejspíše v horizontu týdnů.
-- **Schvalování závazků nad 50 mil. Kč** - Jakub Michálek připravil návrh na to, aby si rozhodnutí o závazcích nad 50 milionů korun vyhradilo zastupitelstvo. Nemohl by se tak opakovat pronájem Škodova paláce za 4,5 miliardy, o kterém rozhodla v samostatné působnosti Rada. Mikuláš návrh předjednal s koalicí a medializoval. Koalice přislíbila předběžnou podporu, o návrhu by mělo hlasovat příští zastupitelstvo. více: http://praha.pirati.cz/zastupitelstvo-skoduv-palac.html
-- **Open Data** - Ondřej Profant sestavil metodiku zavádění otevřených dat. V návaznosti na to odbor informatiky vypracoval projekt pro zavedení otevřených dat. Městské části by se mohly do projektu dobrovolně zapojit a vybrat si data, která budou zveřejňovat. Ondřej Profant prezentoval otevřená data na poradě tajemníků městských částí dne 30. 4. 2015.
-- **Otevřená města** - Jakub Michálek spolupracoval se spolkem Oživení, které koordinuje projekt otevřeného registru smluv pro města a obce. Na spolupráci se má účastnit několik měst a obcí (Brno, Praha 6, Ústí nad Labem apod.). Společně by mohly utvořit organizaci Otevřená města, která by pomáhala otevřenému fungování radnic. Byla by platformou pro společný vývoj open source software pro města a obce, sbírání příkladů dobré praxe, přístup k informacím a vše co se týká otevřeného fungování. Další informace naleznete na webu zakládané organizace, na kterém se podíleli Václav Klecanda a Jakub Michálek.
-- **Megazakázka na odpad** - Zastupitelstvo v lednu 2015 schválilo odůvodnění zakázky na komplexní nakládání s komunálním odpadem v hl. m. Praze (Piráti hlasovali proti). Zakázka má být na deset let a její odhadovaná hodnota je 13 miliard korun. Adam Zábranský a Ondřej Profant se už před jejím schválením snažili přesvědčit gesční radní Plamínkovou (Trojkoalice), aby dobu trvání zkrátila a zakázku „rozdělila“ na části (ovšem ne v běžně používaném smyslu tohoto slova, kdy se zakázka rozdělí na několik menších, aby se vešla pod limit na vypsání otevřenějšího řízení!) a umožnila tak uchazečům podávat nabídky pouze např. na svoz určité oblasti, na svoz tříděného odpadu či na následné nakládání s odpadem. Umožnila by se tím větší hospodářská soutěž a nižší výsledné ceny, navíc by se nezakonzervovalo monopolní prostředí na tak dlouhou dobu. Nyní se Adam a Ondřej účastní pravidelných schůzek k zakázce, které radní Plamínková pořádá. Zakázka totiž ještě není vypsaná a vypadá to, že pirátské návrhy by alespoň z části mohly být vyslyšeny.
-- **Mapování městských firem a obsazení dozorčích rad** - Adam Zábranský se vrhnul do shromažďování informací o obchodních společnostech, ve kterých má Praha majetkovou účast. Zatím zmapoval, kdo sedí v dozorčích radách a představenstvech těchto firem a jejich dceřinných, popř. vnukovských firem, jaké mají obraty a jak velký mají majetek (přes 130 miliard korun). Nyní se bude snažit zjistit, kolik peněz berou členové dozorčích rad a představenstev (u některých je to známo, u mnoha z nich však ne), jak velký majetek jim do správy svěřuje hl. m. Praha či komu dávají peníze na sponzoring. Chystá se doporučit Radě opatření pro větší transparentnost a lepší správu městských firem a vytvořit web, kde budou informace o pražských firmách pohromadě.
-- **Nájmy v lukrativních pražských nemovitostech** - Adam Zábranský se snaží z městských částí a z Magistrátu získat informace o tom, jaké všechny nemovitosti spravují a jestli jsou pronajímány, popřípadě za kolik peněz. Některé městské části o tom očividně vůbec nevedou žádnou evidenci a Magistrát informace odmítl vydat. Proti rozhodnutí Magistrátu se Adam odvolal a Ministerstvo vnitra ho zrušilo. Zjišťování těchto základních informací tedy není úplně jednoduché, ale snad se to nakonec povede. 
+- **Škodův palác** - Škodův palác je sídlem více než 1000 úředníků magistrátu. Budova je obrovská a splňuje řada specifických kritérií pro soustředění úředníků v jednom místě. Praha si ho v roce 2006 pronajala za částku přes 4 mld. korun na 20 let. Firma, od které si ho pronajala, ho o pár let před tím koupila za cca 800 mil. korun a opravila za 500 mil. korun. Celkem tedy pronajímatel pan Pawlowski (vlastník obchodního domu Quadrio) na pronájmu Škodova paláce vydělal značnou sumu. Pavel Bém v roce 2006 sliboval, že se přesunem úředníků město ušetří peníze, protože nebude muset pronajímat jiné prostory. Ve skutečnosti však každý měsíc rok prodělává desítky milionů. Nájemné ve Škodově paláci je cca 2krát vyšší než tržní nájemné. Praha má podle smlouvy za 5 let právo dům koupit za tržní cenu, ale není jisté, zda bude pronajímatel schopen ho Praze prodat, protože palác je zastaven u banky a není jisté, že pronajímatel své dluhy splatí (firmu vlastnící palác prodal miliardář Pawlowski lucemburskému holdingu). Spis Piráti podrobně prostudovali. Zástupkyně nového pronajímatele paní Schaeffer se na výzvu člena kontrolního výboru Jakuba Michálka zaručila, že palác budou schopni za 5 let prodat, aniž by byl zatížen zástavním právem. Jakub Michálek se dále domáhal nahlédnutí do účetnictví pronajímatele, aby zjistil, zda byly z firmy vyváděny prostředky, ale předsedkyně kontrolního výboru ho v diskusi přerušila. Piráti usilují o to, aby se Praha rozhodla, zda chce palác pronajímat i nadále anebo aby si město postavilo novou budovu.
+- **Zveřejňování smluv** - Adam Zábranský a Jakub Michálek už před prosincovým zasedáním zastupitelstva připravili návrh na zlepšení stavu zveřejňování smluv v hl. m. Praze. V současnosti jsou totiž smlouvy zveřejňovány tím způsobem, že v systému je téměř nemožné se orientovat, a smlouvy navíc nezveřejňují příspěvkové organizace ani firmy ovládané městem. Zastupitelstvo se návrhem ovšem odmítlo zabývat. Piráti proto své štěstí zkusili na výboru pro protikorupční opatření, který nakonec návrh odkázal Radě. Rada nakonec po půl roce schválila relativně dobrá [východiska zveřejňování smluv](https://praha.pirati.cz/zverejnovani-smluv-rada.html). Magistrát by na jejich základě měl připravit konkrétní pravidla, zatím tak ale přes uplynutí lhůty neučinil. Budoucnost zveřejňování smluv v Praze je proto stále ve hvězdách.
+- **Schvalování závazků nad 50 mil. Kč** - Jakub Michálek připravil návrh na to, aby si rozhodnutí o závazcích nad 50 milionů korun vyhradilo zastupitelstvo. Nemohl by se tak opakovat pronájem Škodova paláce za 4,5 miliardy, o kterém rozhodla v samostatné působnosti Rada. Mikuláš návrh předjednal s koalicí a medializoval. Koalice předběžně slíbila podporu návrhu Pirátů, ten pak ale prošel úřednickým kolečkem a koalice nakonec přišla s návrhem trochu jiným, pro který jsme ale stejně hlasovali jako pro krok správným směrem. Zastupitelstvo si vyhradilo rozhodnutí o nájmech s plněním vyšším než 10 milionů za první rok.
+- **Open Data** - Ondřej Profant sestavil metodiku zavádění otevřených dat. V návaznosti na to odbor informatiky vypracoval projekt pro jejich zavedení na celopražské úrovni. Městské části by se mohly do projektu dobrovolně zapojit a vybrat si ta data, která budou zveřejňovat. Ondřej Profant prezentoval otevřená data na poradě tajemníků městských částí dne 30. 4. 2015. Během léta byl zřízen [portál otevřených dat Prahy](http://opendata.praha.eu/) kam byly na začátku podzimu 2015 umístěny první datové sety. V současnosti jich tento portál nabízí celkem 95 pod svobodnou licencí. 
+- **Otevřená města** - Jakub Michálek ve spolupráci se spolkem Oživení koordinuje projekt otevřeného registru smluv pro města a obce. Na spolupráci se účastní několik měst a obcí (Brno, Praha 6 apod.). Společně v říjnu 2015 založily organizaci Otevřená města, která si klade za cíl pomáhat otevřenému fungování radnic. Rovněž má sloužit jako platforma pro společný vývoj open source softwaru pro města a obce, sbírání příkladů dobré praxe, přístup k informacím a všeho co se týká otevřeného fungování. Další informace byly zveřejněny na [webu nově založené organizace](http://www.otevrenamesta.cz/), na kterém se podíleli Václav Klecanda a Jakub Michálek.
+- **Megazakázka na odpad** - Zastupitelstvo v lednu 2015 schválilo odůvodnění zakázky na komplexní nakládání s komunálním odpadem v hl. m. Praze (Piráti hlasovali proti). Zakázka má být na deset let a její odhadovaná hodnota je 13 miliard korun. Adam Zábranský a Ondřej Profant se už před jejím schválením snažili přesvědčit gesční radní Plamínkovou (Trojkoalice), aby zvážila dobu trvání zkrátit a zakázku „rozdělit“ na části (ovšem ne v běžně používaném smyslu tohoto slova, kdy se zakázka rozdělí na několik menších, aby se vešla pod limit na vypsání otevřenějšího řízení!) a umožnila tak uchazečům podávat nabídky pouze např. na svoz určité oblasti, na svoz tříděného odpadu či na následné nakládání s odpadem. Umožnila by se tím větší hospodářská soutěž a nižší výsledné ceny, navíc by se nezakonzervovalo monopolní prostředí na tak dlouhou dobu. Zakázka zatím nebyla vypsána. Přes opakované požadavky Pirátů radní Plamínková nepředložila analýzu zvažující jiné možnosti než jednu velkou zakázku. Je to mimo jiné jeden z důvodů rozkolu v koalici, protože ANO chce zakázku rozdělit.
+- **Fungování městských firem a trafiky v dozorčích radách** - Adam Zábranský shromažďuje informace o obchodních společnostech, ve kterých má Praha majetkovou účast. Zmapoval, kdo sedí v dozorčích radách a představenstvech těchto firem a jejich dceřiných, popř. vnukovských firem, a kolik za to tito lidé berou. V několika případech identifikoval podezřelé trafiky (např. dosazení syna tehdejší radní Novákové z ČSSD do dozorčí rady Pražské teplárenské Holding) Analýza je dodnes hojně citovaná v tisku, poté co Adam šťoural dále, objevil i odměny Radmily Kleslové, prominentky ANO v městských firmách. Zveřejnění těchto dat a naše další kroky v této věci výrazně přispěly k zásadnímu oslabení pozice Radmily Kleslové v pražské politice. Adam také doporučil Radě opatření pro větší transparentnost a lepší správu městských firem, nicméně příslušný radní Hašek (ANO) je nijak nerealizoval.
+- **Nájmy v lukrativních pražských nemovitostech** - Adam Zábranský po vyhraném sporu o informace s Magistrátem získal seznam nájmů městských nemovitostí. Zároveň získal od Institutu plánování a rozvoje analýzu hospodaření Prahy s nebytovým majetkem, která poukazuje na nehospodárné nájmy. Magistrát přitom dosud analýzu nezveřejnil. V současnosti Adam toto velké množství informací zpracovává. Zároveň už půl roku vede boj o podobné informace s Prahou 1.
 - **Turnikety pro vstup do magistrátu** - Jakub Michálek sepsal pirátské výhrady proti projektu opevnění magistrátu turnikety, které mají stát 20 milionů korun. Piráti požadovali, aby v případě zavedení bezpečnostních rámů a turniketů pro kontakt se zastupiteli byl jejich zastupitelský klub vyčleněn. Mikuláš téma medializoval. Projekt se podařilo v tuto chvíli pozastavit.. 
-- **Informace o platech úředníků** - Jakub Michálek si posvítil na utajování informací o platech úředníků, které probíhá v rozporu s judikaturou Nejvyššího správního soudu. Magistrát původně trval na tom, že informace poskytovat nebude a teprve velice pozvolna začíná akceptovat povinnost tyto informace žadatelům poskytovat. Jakub Michálek se v tomto ohledu obrátil na Magistrát se stížností na to, že některým žadatelům byly informace odepřeny třeba již patnáckrát. Praha pak v budoucnu přijde o desetitisíce za neúspěšné soudní spory. Magistrát předložil Radě velice restriktivní a nekvalitně zpracovaná pravidla poskytování informací, nicméně díky odporu Pirátů byla tato pravidla vrácena k přepracování.
-- **Majetková přiznání politiků** - Podle platného a závazného etického kodexu mají zastupitelé hlavního města Prahy povinnost přiznat svůj movitý i nemovitý majetek a uvést jej v tzv. majetkovém přiznání. Ta jsou veřejně k dispozici uložena u kontrolního výboru. Jak je tomu ale v případě přiznání zastupitelů z předchozích volebních období? Piráti poukázali na špatnou praxi: Majetková přiznání byla uložena v Archivu hlavního města Prahy, kam je veřejnosti přístup omezen. Na základě podnětu Pirátů byla majetková přiznání z volebního období 2010-2014 přesunuta do trezoru předsedkyně Kontrolního výboru. Majetková přiznání z dalších minulých volebních období (především let 2002-2006 a 2006-2010) však k dispozici nejsou, neboť nebyla v odpovídající době po skončení mandátu zastupitelů archivována vůbec.
-- **Zákaz buskingu** - Mikuláš se intenzivně věnoval novele vyhlášky o buskingu. Podle všeho se Pirátům podařilo zabránit plošnému zákazu zesilovačů a hlasitých nástrojů. Busking se zřejmě omezí na liché hodiny na jednom břehu řeky a sudé na břehu druhém. Toto Piráti považují za relativně snesitelný kompromis (preferovali by omezení pouze v centru a toto navrhnou jako pozměňovací návrh). 
+- **Informace o platech úředníků** - Jakub Michálek si posvítil na utajování informací o platech úředníků, které probíhalo v rozporu s judikaturou Nejvyššího správního soudu. Magistrát původně trval na tom, že informace poskytovat nebude a teprve velice pozvolna začíná akceptovat povinnost tyto informace žadatelům poskytovat. Jakub Michálek se v tomto ohledu obrátil na kontrolní výbor, protože některým žadatelům byly informace odepřeny třeba již patnáckrát. Od října 2014 již Praha přišla v soudních sporech kvůli neposkytování informací zatím o 70 000 Kč, a toto není ani zdaleka konečná suma. Magistrát předložil Radě velice restriktivní a nekvalitně zpracovaná pravidla poskytování informací, nicméně díky odporu Pirátů byla tato pravidla vrácena k přepracování. Jakub Michálek navíc uskutečnil v rámci kontrolního výboru zastupitelstva kontrolu ohledně poskytování a utajování informací a interpeloval primátorku. Nakonec Rada schválila usnesení, že se Magistrát musí řídit stanoviskem Ministerstva vnitra a informace o odměnách úředníků poskytovat. 
+- **Majetková přiznání politiků** - Podle platného a závazného etického kodexu mají zastupitelé hlavního města Prahy povinnost přiznat svůj movitý i nemovitý majetek a uvést jej v tzv. majetkovém přiznání. Ta jsou veřejně k dispozici uložena u kontrolního výboru. Jak je tomu ale v případě přiznání zastupitelů z předchozích volebních období? Piráti poukázali na špatnou praxi: Majetková přiznání byla uložena v Archivu hlavního města Prahy, kam je veřejnosti přístup omezen. Na základě podnětu Pirátů byla majetková přiznání z volebního období 2010-2014 přesunuta do trezoru předsedkyně Kontrolního výboru. Majetková přiznání z dalších minulých volebních období (především let 2002-2006 a 2006-2010) však k dispozici nejsou, neboť nebyla v odpovídající době po skončení mandátu zastupitelů archivována vůbec. Ministerstvo vnitra ve svém rozhodnutí z 26. října přikázalo hlavnímu městu Praze, aby Pirátům poskytla alespoň majetková přiznání Pavla Béma a Petra Hulinského. Je však otázkou, jestli vůbec nějaká dostaneme, neboť je hlavní město velmi pravděpodobně ztratilo.
+- **Zákaz buskingu** - Mikuláš se intenzivně věnoval novele vyhlášky o buskingu. Podle všeho se Pirátům nakonec nepodaří zabránit plošnému zákazu zesilovačů a hlasitých nástrojů, omezení se ale budou týkat pouze centra města. Busking se zřejmě omezí na liché hodiny na jednom břehu řeky a sudé na břehu druhém. Toto považujeme za přijatelný kompromis v centru Prahy, ale na celém území města nám návrh příjde příliš přísný. 
+- **Mariánský sloup** ₋ Pirátští zastupitelé zaujali stanovisko, ve kterém odmítli znovuvztyčení mariánského sloupu na Staroměstském náměstí tak, jak jej prosazovala KDU-ČSL, a především radní za kulturu Wolf. Projekt nyní není financován z městských peněz, ale i nadále postupuje vpřed. 
+- **Milionová louka** ₋ Mikuláš Ferjenčík na konkrétním případě ukázal, jak fungují změny územního plánu, které hrají do karet spekulantům s pozemky a v řadě případů poškozují Pražany. 
+- **Eurozákaz fotografování** ₋ Adam Zábranský a Jakub Michálek poukázali na chystané riziko zákazu šíření fotografií architektury, které projednával Evropský parlament.
+- **Březina musí skončit**  ₋ Jakub Michálek a Mikuláš Ferjenčík podali trestní oznámení na Karla Březinu pro podezření z machinací se změnami územního plánu, to jsme zveřejnili na tiskové konferenci, která doplnila řadu našich mediálních výstupů ke kauzám Karla Březiny. 
+-**Stavební předpisy projednané v kuchyňce** ₋ Zveřejnili jsme zvukový záznam Rady z projednání pražských stavebních předpisů. Ten byl natolik skandální, že se kvůli němu otřásla pozice primátorky Krnáčové. Náš krok měl širokou mediální publicitu. Kromě primátorky, které vadil, ale už ho nyní bere, si na nás stěžoval jeden občan kontrolnímu výboru Zastupitelstva, že ohrožujeme společensko-politické zřízení.
 
-#### Dementi
-##### Piráti jsou součást koalice
-Piráti jsou opoziční strana, neboť nejsou v koalici (nemají žádné radní a nejsou vázáni koaliční smlouvou). Pro dosavadní politickou reprezentaci je těžké pochopit, že postupujeme konstruktivně, tj. dáváme vlastní návrhy a snažíme se ovlivňovat chod města tak, aby to bylo nejlepší pro občany a prosadili nejvíce z vlastního programu. Díky tomu, že jsou Piráti opoziční stranou, můžeme koalici otevřeně kritizovat za špatná rozhodnutí (zakázka na odpad, bezpečnostní turnikety, odkládání zveřejňování smluv, obsazení výborů apod.) Protože nemáme na rozdíl od ostatních opozičních stran TOP09 a ODS máslo na hlavě, naše kritika má o to větší váhu.
-##### Piráti jako opoziční strana zasahují do řízení IT, ale nenesou odpovědnost
-Piráti jednají jako konstruktivní opozice, kritizují nikoliv všechny, ale problematické kroky koalice. Někdy to má efekt, někdy méně. Vedle toho se konstruktivně podílí na chodu IT tím, že jako členové komise pro IT připomínkují návrhy, jednají s dalšími subjekty apod. Orgány města se našimi doporučeními nemusí řídit, ani se jimi někdy neřídí, ale vesměs jsou za ně rádi. Odpovědnost za učiněná rozhodnutí leží na Radě hl. m. Prahy a řediteli odboru informatiky.
-##### Jediné, co Piráti dokázali v kauze Opencard, je zavést papírové kupóny
-Papírové průkazky jsou záložní řešení, aby nebyl překročen počet licencí a nehrozily Praze nové soudní spory. Piráti jako součást týmu Opencard dosáhli toho, že systém kartiček stále funguje a je dostatečný prostor pro přípravu nového otevřeného řešení (viz výše o tématu Opencard).
-##### Piráti si vyplácejí nadstandardní odměny z rozpočtu města
-Piráti mají stejně jako ostatní neuvolnění zastupitelé nárok na odměnu zastupitele ve výši 5301 Kč měsíčně a protože nejsou v pracovním poměru k zaměstnavateli, také na náhradu výdělku ve výši stanovené paušálem 450 Kč za hodinu jednání výborů, komisí zastupitelstva a jiný výkon funkce. Vzhledem k tomu, že Piráti jako jediní neuvolnění zastupitelé tráví na magistrátu v podstatě celý pracovní úvazek, vykazují také největší počet hodin a mají největší náhrady ušlého výdělku. Průměrně činí náhrady cca 11 tis. Kč měsíčně. Piráti jako jediná politická strana zveřejňují přesné údaje o příjmech na internetu.
-##### Firma Ondřeje Profanta vytvořila špatný projekt webtolerance za 12 mil. Kč
-Jde o kauzu, která se vytahuje na Ondřeje už od roku 2009. Nyní si ji vygooglovala i ODS. Ondřej Profant se skutečně kdysi podílel na designu několika webů financovaných z grantů, nicméně nešlo o žádnou jeho firmu, ale pracoval na dohodu a dostal v součtu cca 5 tis. Kč. V dané době mu nebylo ani osmnáct let a v projektu měl zcela vedlejší úlohu, je tak naprosto nesmyslné mu přičítat úspěch či neúspěch projektu.
-##### Chodíme na magistrát přespat opilí 
-ODS Piráty obviňuje, že na magistrátu pořádají párty a chodí tam přespat. Vyjádření Mikuláše Ferjenčíka: „Bohužel je pravda, že jsem se jednou v noci pokoušel dostat do naší kanceláře na magistrátu. Dostali jsme nepřesnou informaci od Odboru podpory volených orgánů, že do kanceláře můžeme nonstop, kvůli čemuž jsem se dostal do sporu s vrátným, který v 10 hodin zakódovává budovu. Je pravda, že jsem byl opilý (šel jsem ze srazu spolužáků z gymplu). Důvod, proč jsem šel přespat na magistrát byl ten, že jsem nechtěl budit manželku, která špatně usíná, když ji v noci vzbudím. Na druhou stranu není pravda, že bychom na magistrátu kalili, nebo tam dělali párty (ale možná by bylo fajn ji uspořádat). Na zasedání zastupitelstva jsou Piráti na rozdíl od některých kolegů střízliví. Mrzí mě, že se do nás kvůli tomu ODSka může snadno strefovat, na druhou stranu pokud je tohle to nejhorší, co mi můžou vytknout, tak to asi nebude tak zlý.“ Ostatní zastupitelé Pirátů na magistrátu žádný podobný incident neměli a na magistrátu nepřespávají.
+### Pirátské listy
 
-### Vnitřní fungování klubu
-#### Odpracovaný čas
-Podle příkazní smlouvy uzavřené se stranou by každý zastupitel měl činnostmi spojenými s výkonem mandátu trávit 30 hodin týdně (resp. 6 hodin na pracovní den). Ondřej Profant a Jakub Michálek tuto časovou dotaci obvykle přesahují, Adam Zábranský a Mikuláš Ferjenčík jsou většinou pod limitem. To se pak promítá do výše odměn, které dostávají od strany.
+Vydali jsme tištěné [Pirátské listy](https://praha.pirati.cz/piratske-listy-2015.html) v nákladu 80 000 ks. Dosud se nám z nich podařilo rozdistrubovat tři čtvrtiny. Pirátské listy tentokrát nebyly volební, informovaly však o naší činnosti v zastupitelstvu za uplynulý rok. Příprava pirátských listů byla náročná, nicméně jejich distribuce, která byla zcela dobrovolnická, se dařila velice dobře. Zapojili jsme do rozdávání novin dobrovolníky jak z řad Pirátské strany, tak i odjinud. Do rozdávání listů se zapojilo přinejmenším 31 členů Pirátské stany, 15 příznivců, a čtyři pražští zastupitelé. S roznosem nám pomáhají dokonce i příznivci TOP 09 nebo KSČM. 
 
-TABULKA
+Fungování klubu
+----------------
 
-#### Odměňování
-Zastupitelé za Piráty jsou odměňováni celkem ze tří zdrojů: 
+### Odpracovaný čas
 
-1. Paušálem, který platí město (ve výši 5301 Kč na měsíc hrubého)
-2. Příkazními smlouvami, které mají zastupitelé uzavřeny s Pirátskou stranou
-3. Náhradami, které hlavní město Praha platí za čas vykázaný prostřednictvím tzv. výčetek, kterými pirátští zastupitelé dokládají svojí aktivitu. 
+![Odpracovaný čas od října 2014 do září 2015](prehled.png)
 
-##### Paušální úhrady
-Zastupitelé hlavního města Prahy se dělí na tzv. uvolněné a neuvolněné zastupitele. Zatímco uvolnění (koaliční zastupitelé) pobírají normální plat jako jiní politici (například v poslanecké sněmovně), neuvolnění zastupitelé dostávají pouze paušální náhradu ve výši 5301 Kč hrubého. 
+V říjnu 2014 uzavřeli pirátští zastupitelé příkazní smlouvy s Pirátskou stranou. Jedna z podmínek této smlouvy stanoví, že se zastupitelé mají věnovat činnosti pro zastupitelský klub v době 30 hodin týdně, tedy v přepočtu 6 hodin denně. Průměrně za měsíc odpracují zastupitelé 100-150 hodin měsíčně, maximální množství odpracovaného času u jednoho zastupitele je 200 hodin za měsíc. 
 
-##### Příkazní smlouvy
-Aby se mohli zastupitelé Pirátů věnovat své práci naplno, rozhodla se Pirátská strana své čtyři zastupitele “uvolnit”, tedy s nimi uzavřít tzv. příkazní smlouvy. V rámci nich získávají pirátští zastupitele měsíčně 8500 až hrubého z pevné a až 4000 hrubého z variabilní složky. Pomocí systému Redmine, kde jednotliví zastupitelé vykazují svojí aktivitu, pak dochází k úpravám měsíčních výplat. Zastupitelé, kteří odvedou méně práce než 30 hodin týdně, nesplní svojí normu a úměrně jim je snížena výplata podle jejich výkazu v systému Redmine.
+Za rok své činnosti odvedli zastupitelé celkem okolo 5700 hodin. K říjnu 2015 je to 1500 hodin u Ondřeje Profanta, 1900 hodin u Jakuba Michálka, 1200 u Adama Zábranského a 1100 u Mikuláše Ferjenčíka. 
 
-##### Zastupitelské náhrady
-Za účast na jednání zastupitelstva, výboru, komise, školení, přednášky a jiné aktivity dostávají zastupitelé náhrady ušlé mzdy ve výši 450 Kč hrubého na hodinu. Nárokovat si mohou až 60 hodin měsíčně; Piráti se rozhodli pro uplatnění interního limitu ve výši 40 hodin. Stejně tak Piráti navrhli snížení náhrad na 280 Kč na hodinu, ale zastupitelstvo tento návrh nepřijalo. 
+#### Zpráva o odměňování
 
-Všechny příjmy pirátských zastupitelů jsou zveřejněny na příslušném githubovém repozitáři. Podrobněji tam naleznete data, která shrnují tabulky níže (údaje jsou v korunách): 
+Zastupitelé za Piráty v Zastupitelstvu hl. m. Prahy jsou odměňováni celkem ze tří zdrojů: 
 
-TABULKA
+1. Paušální částkou, kterou platí město (její výše činí 5486 Kč)
+2. Náhradou výdělku, kterou město platí za čas strávený na výborech anebo plněním úkolů z pověření orgánů Zastupitelstva či Rady. 
+3. Odměnou podle mandátní smlouvy, kterou Česká pirátská strana odměňuje své zastupitele, aby se činnosti mohli věnovat prakticky na plný úvazek.
 
-#### Stážisté a dobrovolníci
+Celkový průměrný příjem jednoho zastupitele Pirátů z těchto zdrojů činil **19875 Kč měsíčně hrubého**.
+
+#### Paušální částka
+
+Zastupitelé hlavního města Prahy se dělí na tzv. uvolněné a neuvolněné zastupitele. Uvolnění (koaliční) zastupitelé pobírají normální plat jako jiní politici (například v poslanecké sněmovně, ve výši 80 až 100 tisíc Kč měsíčně) anebo mají příjmy z dozorčích rad. Neuvolnění zastupitelé jako Piráti dostávají pouze paušální odměnu ve výši 5486 Kč hrubého (stanoveno nařízením vlády a usnesením Zastupitelstva). Paušální částku daní hl. m. Praha jako příjem ze závislé činnosti.
+
+![Paušální částka](pausal.png)
+
+#### Náhrada výdělku
+
+Za účast na jednání zastupitelstva, výboru, komise, semináře, plnění úkolu uloženého Radou, výborem Zastupitelstva anebo uvolněným členem zastupitelstva a za jiné aktivity mají zastupitelé podle zákona nárok na náhradu ušlé mzdy ve výši 450 Kč hrubého na hodinu (výše je stanovená usnesením Zastupitelstva). Takto mohou uplatnit až 60 hodin měsíčně. Piráti se dobrovolně rozhodli, že budou uplatňovat náhrady maximálně ve výši 40 hodin měsíčně. Piráti také navrhli snížení náhrady výdělku na částku 280 Kč na hodinu, ale Zastupitelstvo tento návrh nepřijalo. V případě Pirátů největší část náhrad pochází z účasti na jednání Zastupitelstva a jeho výborů, menší část pak odborné semináře a plnění úkolů (výkon kontroly z pověření kontrolního výboru, řešení Opencard a informatiky z pověření primátorky, účast na jednání školské rady apod.).
+
+![Náhrada výdělku](nahrada.png)
+
+#### Mandátní smlouva
+
+Aby se mohli zastupitelé Pirátů věnovat své práci naplno, rozhodla se Pirátská strana své čtyři zastupitele „uvolnit“, tedy s nimi uzavřít tzv. mandátní smlouvy. V rámci nich získávají pirátští zastupitelé odměnu až 8500 Kč z pevné složky a až 5000 Kč z proměnlivé složky. Pomocí systému Redmine, kde jednotliví zastupitelé vykazují svojí aktivitu, je pak měřena výkonnost a kontrolováno plnění úkolů, podle nichž je určena výše odměny. Výši odměny schvaluje krajské předsednictvo pražského sdružení Pirátů. 
+
+Každý měsíc vyhotovujeme výkaz odměňování, který obsahuje souhrnné informace, předkládá se na vědomí krajskému fóru a předsednictvu a zveřejňujeme ho na webu.
+
+![Pevná složka odměny dle mandátní smlouvy](pevna.png)
+
+![Proměnlivá složka odměny dle mandátní smlouvy](promenliva.png)
+
+### Stážisté a dobrovolníci
+
 Aby Piráti posílili svůj tým, vypsali na začátku března poptávku po stážistech. Ze 4 přihlášených prozatím na místa stážistů přijali 3 lidi. 
 - Terezu Hronovou, která zpracovává rešerši projektu Metra D, 
 - Karla Vlasáka, který by měl v budoucnu sledovat výbor pro životní prostředí, a 
-- Dan Řezníček, který pracuje na personální mapě pražského zastupitelstva a magistrátu. 
+- Dana Řezníčka, který pracuje na [personální mapě](https://github.com/pirati-cz/goverMap) pražského zastupitelstva a magistrátu. 
 Další stážisté jsou vítáni.
 
-#### Zveřejňovač
+### Zveřejňovač
 
-### Nejlepší a nejhorší za první rok
+Zveřejňovač je jediný pracovník, kterého mají od hlavního města pirátští zastupitelé k dispozici. Od listopadu 2014 je zveřejňovačem pro zastupitelský klub Jan Loužek.
+
+Úkoly zveřejňovače jsou evidovány, stejně jako jeho činnost, v interním systému [Redmine](https://redmine.pirati.cz/projects/praha/issues?query_id=14) Zveřejňovač zajišťuje veškerou administrativní i jinou podporu pro zastupitelský klub; připravuje rozpis tisků k jednání zastupitelstva a zajišťuje vedení spisové služby. Mimo jiné připravuje fotodokumentaci z jednání zastupitelstva i jiných aktivit.
+
+### Byro
+
+Připravili jsme open source software [Byro](https://github.com/pirati-cz/byro/). Jedná se o nástroj pro automatizaci kancelářských prací (převody, OCR, spisová služba, el. podpis, generování výčetek, ...). Našemu zastupitelskému klubu již šetří množství práce a pomáhá nám udržet vysokou úroveň transparence (dokumenty v markdownu se dobře šíří, indexují etc.).
+
+Nejlepší a nejhorší za první rok
+-----------------------------
+
+- **Adam Zábranský**: Mám radost z toho, že jsme přesvědčili Radu hl. m. Prahy, aby schválila dobrá východiska pro zveřejňování smluv, a že jsme významně ovlivnili přípravu protikorupční strategie Prahy, která se tak ubírá správným směrem. Bohužel kvůli různým zdržovacím akcím bude ještě nějakou dobu trvat, než se tato práce projeví (a není vyloučeno, že se neprojeví vůbec). Jsem také moc rád, že jsme sehráli klíčovou roli v odstupu Radmily Kleslové z městských firem, když jsem zveřejnil, že si v nich přijde dohromady na 360 tisíc korun měsíčně. Naopak mě štve, že v oblasti transparence se Praha za rok nikam neposunula, a přitom je tolik možností co dělat, například v oblasti majetku či městských firem.
+
+- **Mikuláš Ferjenčík**: Jsem rád, že se mi podařilo přispět k tomu, abychom byli mediálně i reálně viditelná politická strana v Praze. Ve všech významných pražských médiích jsou lidé, na které se můžeme telefonicky obrátit, když máme nějaké téma, které stojí za publikaci a podařilo se nám vydat vlastní tištěné Pirátské listy. Nejhorší pro mě je atmosféra v zastupitelstvu, kdy jen velkou menšinu konkurenčních zastupitelů zajímá, jak se věci skutečně vyřeší. 
+
+- **Ondřej Profant**: Velice mě potěšily úspěchy OpenDat a schvílení Tezí digitální strategie. Naopak mě mrzí, že odbor informatiky je v tak špatném stavu, že projekty nejde prosazovat rychleji a že nám není schopný poskytnout odborné zázemí pro nové projekty. Zároveň považuji za tragickou situaci v oblasti majetku.
+
+- **Jakub Michálek**: Jsem rád, že klub funguje tak jak má, že je inspirací pro ostatní Piráty po celé republice a pro ostatní politické strany (z neuvolněných zastupitelů máme patrně největší aktivitu i účast na zasedáních a jednáních, z opozice jako jediní předkládáme konstruktivní a někdy i úspěšné návrhy). Jsme fajn parta, která dostala od voličů a strany možnost realizovat své ideály. Vadí mi způsob myšlení magistrátních úředníků a pokrytectví a morální úpadek některých politiků. 
+
+Odkazy
+--------
+
+- web: http://praha.pirati.cz
+- blog: http://praha.pirati.cz/blog.html
+- redmine: http://redmine.pirati.cz/projects/praha/issues
+- github: http://github.com/pirati-cz/KlubPraha
+- facebook: http://facebook.com/CeskaPiratskaStranaPraha
+
+
