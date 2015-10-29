@@ -45,7 +45,7 @@ Politické rozložení sil v zastupitelstvu
 
 Současné rozložení hlasů v Zastupitelstvu hl. m. Prahy je na následujícím obrázku:
 
-![Rozložení hlasů v zastupitelstvu](rozlozeni.jpg)
+![Rozložení hlasů v zastupitelstvu](rozlozeni.png)
 
 Od voleb konaných v říjnu 2014 se odlišuje tím, že zastupitelka Monika Krobová Hášová nedlouho po volbách vystoupila z klubu TOP09 a je nezařazenou zastupitelkou, která hlasuje s ČSSD (je také mj. členkou dozorčí rady městské společnosti Pražská energetika, a.s.). Vedle toho se od klubu TOP09 v dubnu 2014 vyčlenili zastupitelé Tomáš Hudeček (bývalý primátor), Eva Vorlíčková a Milan Růžička, kteří utvořili klub nezávislých. 
 
