@@ -12,7 +12,7 @@ your:
    role:    Povinný subjekt
    name:    
       -     Správa a údržba silnic Plzeňského kraje
-address:
+   address:
       -     Škroupova 18
       -     306 13 Plzeň
 sendby:     ds
