@@ -14,7 +14,7 @@ your:
       -     Rada hlavního města Prahy
    address:
       -     Mariánské náměstí 2
-      -     110 00
+      -     Praha 1, 110 00
 sendby:     ds
 style:      letter
 ---
