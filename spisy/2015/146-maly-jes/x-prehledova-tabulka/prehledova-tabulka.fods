@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:initial-creator>Aktron </meta:initial-creator><meta:creation-date>2015-10-19T10:38:18.981362053</meta:creation-date><dc:date>2015-10-23T17:41:05.646306387</dc:date><meta:editing-duration>PT21M40S</meta:editing-duration><meta:editing-cycles>11</meta:editing-cycles><meta:generator>LibreOffice/4.4.2.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="131" meta:object-count="0"/></office:meta>
+ <office:meta><meta:initial-creator>Aktron </meta:initial-creator><meta:creation-date>2015-10-19T10:38:18.981362053</meta:creation-date><dc:date>2015-10-29T10:22:53.193267517</dc:date><meta:editing-duration>PT26M55S</meta:editing-duration><meta:editing-cycles>13</meta:editing-cycles><meta:generator>LibreOffice/4.4.2.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="131" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -13,14 +13,14 @@
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="List1">
-       <config:config-item config:name="CursorPositionX" config:type="int">11</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
        <config:config-item config:name="CursorPositionY" config:type="int">5</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">5</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
@@ -61,7 +61,7 @@
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">gAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMApgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">jAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
@@ -192,6 +192,19 @@
    <number:text>.</number:text>
    <number:year number:style="long"/>
   </number:date-style>
+  <number:currency-style style:name="N104P0" style:volatile="true">
+   <number:number number:decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text> </number:text>
+   <number:currency-symbol number:language="cs" number:country="CZ">Kč</number:currency-symbol>
+  </number:currency-style>
+  <number:currency-style style:name="N104">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>-</number:text>
+   <number:number number:decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text> </number:text>
+   <number:currency-symbol number:language="cs" number:country="CZ">Kč</number:currency-symbol>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N104P0"/>
+  </number:currency-style>
   <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:wrap-option="wrap"/>
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
@@ -209,13 +222,14 @@
    <style:table-cell-properties fo:background-color="#ffff00"/>
   </style:style>
   <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N107"/>
-  <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N104"/>
+  <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:background-color="#00ffff"/>
   </style:style>
-  <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36">
+  <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36">
    <style:table-cell-properties fo:background-color="#00ff00"/>
   </style:style>
-  <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36">
+  <style:style style:name="ce10" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36">
    <style:table-cell-properties fo:background-color="transparent"/>
   </style:style>
   <style:page-layout style:name="pm1">
@@ -254,7 +268,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2015-10-23">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="17:40:05.153920857">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2015-10-29">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="10:17:38.912700890">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -273,7 +287,7 @@
     <table:table-column table:style-name="co4" table:default-cell-style-name="ce4"/>
     <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="ce6"/>
     <table:table-column table:style-name="co8" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co9" table:default-cell-style-name="ce4"/>
     <table:table-column table:style-name="co10" table:default-cell-style-name="Default"/>
@@ -324,7 +338,13 @@
      <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
       <text:p>N/A</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="4" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
+      <text:p>N/A</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
+      <text:p>N/A</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>N/A</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -351,7 +371,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>SOFT-PC</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" office:value-type="currency" office:currency="CZK" office:value="42350" calcext:value-type="currency">
+     <table:table-cell office:value-type="currency" office:currency="CZK" office:value="42350" calcext:value-type="currency">
       <text:p>42 350,00 Kč</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -383,7 +403,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ne</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
       <text:p>připravena stížnost, čeká se na schválení</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -404,7 +424,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gordic GINIS</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" office:value-type="currency" office:currency="CZK" office:value="79050" calcext:value-type="currency">
+     <table:table-cell office:value-type="currency" office:currency="CZK" office:value="79050" calcext:value-type="currency">
       <text:p>79 050,00 Kč</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -431,14 +451,14 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>SOFT-PC</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
       <text:p>N/A</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ne</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>19. 10. 2015</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -461,7 +481,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>SOFT-PC</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" office:value-type="currency" office:currency="CZK" office:value="11243" calcext:value-type="currency">
+     <table:table-cell office:value-type="currency" office:currency="CZK" office:value="11243" calcext:value-type="currency">
       <text:p>11 243,00 Kč</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -483,7 +503,7 @@
      <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>neuvedli</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:style-name="Default"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>většina příspěvkovek pužívá MÚZO</text:p>
      </table:table-cell>
@@ -508,7 +528,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>FEIS</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
       <text:p>informaci nemají</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -538,8 +558,8 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ne</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
-      <text:p>Připravena infožádost 197. Čeká se až ji bude možné odeslat</text:p>
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+      <text:p>infožádost č. 197 úspěšně odeslána.</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -559,7 +579,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>od OR-CZ spol. s.r.o.</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:style-name="Default"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ve výběrovém řízení porazili GINIS</text:p>
      </table:table-cell>
@@ -581,7 +601,7 @@
      <table:table-cell table:number-columns-repeated="2" office:value-type="string" calcext:value-type="string">
       <text:p>N/A</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" office:value-type="currency" office:currency="CZK" office:value="41875" calcext:value-type="currency">
+     <table:table-cell office:value-type="currency" office:currency="CZK" office:value="41875" calcext:value-type="currency">
       <text:p>41 875,00 Kč</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -600,14 +620,23 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ne</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="4" office:value-type="string" calcext:value-type="string">
-      <text:p>N/A</text:p>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Správa silnic Olomouckého kraje</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>SOFT-PC</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="currency" office:currency="CZK" office:value="29040" calcext:value-type="currency">
+      <text:p>29 040,00 Kč</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>do roku 2008 26400 Kč</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ne</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
-      <text:p>poslána, zrušena. I tak bude třeba poslat další stížnost, neboť nám neuvedli část informace</text:p>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>není potřeba, poskytli veškeré informace</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -627,7 +656,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>SOFT-PC</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" office:value-type="currency" office:currency="CZK" office:value="31846" calcext:value-type="currency">
+     <table:table-cell office:value-type="currency" office:currency="CZK" office:value="31846" calcext:value-type="currency">
       <text:p>31 846,00 Kč</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -652,7 +681,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>defaultní z MVČR</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" office:value-type="currency" office:currency="CZK" office:value="49912" calcext:value-type="currency">
+     <table:table-cell office:value-type="currency" office:currency="CZK" office:value="49912" calcext:value-type="currency">
       <text:p>49 912,00 Kč</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">

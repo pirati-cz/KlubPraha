@@ -12,7 +12,7 @@ your:
    role:    Povinný subjekt
    name:    
       -     Správa a údržba silnic Ústeckého kraje
-address:
+   address:
       -     Ruská 260
       -     417 03 Dubí
 sendby:     ds
@@ -39,12 +39,13 @@ Dále k výše uvedenému žádám následující informace, týkající se zmí
   (které uhradila Správa a údržba silnic Ústeckého kraje, sám Ústecký kraj nebo jím ovládané či řízené osoby) v rozdělení na 
   kapitálové a provozní výdaje.
 
-Prosím o poskytnutí informace do datové schránky uvedené v patičce této zprávy. Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více datových zprávách anebo na paměťovém médiu. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Tuto žádost podávám jako fyzická osoba. Předem děkuji za Vaši vstřícnost.
+Prosím o poskytnutí informace do datové schránky uvedené v patičce této zprávy. Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více datových zprávách anebo na paměťovém médiu. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Tuto žádost podávám jako fyzická osoba. Ke komunikaci s povinným subjektem zmocňuji svého asistenta Jana Loužka (nar. 9. července 1986 v Písku, bydlištěm Vondroušova 1198, Praha 17). Předem děkuji za Vaši vstřícnost.
 
 ---
-podpis: 
+signature:
   - Mgr. Bc. Jakub Michálek
   - nar. 6. 2. 1989
   - bytem Zenklova 193, Praha 8
   - zastupitel hl. m. Prahy
+abbr:       jakub
 ...
