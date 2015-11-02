@@ -15,7 +15,7 @@ your:
    address:
       -     Mariánské náměstí 2/2
       -     110 01 Praha 1
-      -     K rukám: Ing. Pavel Mánek
+      -     K rukám - Ing. Pavel Mánek
 sendby:     ds
 style:      letter
 ---
