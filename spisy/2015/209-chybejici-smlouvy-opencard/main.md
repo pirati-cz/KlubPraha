@@ -23,7 +23,7 @@ style:      letter
 
 Vážený pane řediteli,
 
-Zpracovávám pro potřeby Prahy repozitář strojově čitelných smluv, které hlavní město uzavřelo pro potřeby fungování Opencard. Tento repozitář je téměř hotový, k jeho dokončení však chybí přístup k několika smlouvám, resp. dodatkům smluv, které nejsou dostupné. Bez těchto dodatků nebude možné připravit úplná znění smluv, která jsou naprosto klíčová. Proto podávám žádost o informace v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a v souladu s odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze. Žádám o poskytnutí oněch chybějících dokumentů, tedy přesněji následujících dodatků smluv:
+zpracovávám pro potřeby Prahy repozitář strojově čitelných smluv, které hlavní město uzavřelo pro potřeby fungování Opencard. Tento repozitář je téměř hotový, k jeho dokončení však chybí přístup k několika smlouvám, resp. dodatkům smluv, které nejsou dostupné. Bez těchto dodatků nebude možné připravit úplná znění smluv, která jsou naprosto klíčová. Proto podávám žádost o informace v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a v souladu s odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze. Žádám o poskytnutí oněch chybějících dokumentů, tedy přesněji následujících dodatků smluv:
 
 * Dodatek smlouvy č. LIC/40/01/001650/2008, který není i k dispozici prostřednictvím webu praha.eu
 * Dodatek smlouvy č. LIC/40/01/001653/2008, který není i k dispozici prostřednictvím webu praha.eu
