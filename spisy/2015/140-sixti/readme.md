@@ -7,17 +7,15 @@ Kauza hotelového komplexu U Sixtů
 
 ### Kulturní úvod
 
-Zasazení Královská cesta...
-
-Románské základy, gotické klentby, ...
+Domy jsou zasazeny do Královské cesty. Románské základy, gotické stavy, renesanční rekonstrukce. Součást pražské památkové rezervace s ochranou UNESCO.
 
 
 ### Zahrnuté domy
 
 
-| Adresa       | Název              | Na plánku    | Vlastník             | Etapa |    Poznámka                                                    |
-|--------------|--------------------|--------------|----------------------|-------|----------------------------------------------------------------|
-| Celetná 2    | Sixtův dům         | A, B, C, Y   | [Bucentauro Trade][] | 1     | Nemovitá kulturní památka rejstříkové číslo 1 – 299, 293, 294. |
+| Adresa       | Název              | Na plánku    | Vlastník             | Etapa |    Poznámka                                                  |
+|--------------|--------------------|--------------|----------------------|-------|--------------------------------------------------------------|
+| Celetná 2    | Sixtův dům         | A, B, C, Y   | [Bucentauro Trade][] | 1     | Nemovitá kulturní památka rejstříkové číslo 1–299, 293, 294. |
 | Železná 3    | U Kamenného ptáka  | E            | Bucentauro Trade     | 1     |     |
 | Železná 3a   | U Uherské koruny   | J            | HMP -> [Akroterion][]| 1     |     |
 | Kamzíkova 5  | U Jednorožce       | D            | HMP -> Akroterion    | 1     |     |
@@ -29,7 +27,7 @@ Románské základy, gotické klentby, ...
 
 ![mapa](foto/mapy/mapa1-schema.jpg)
 
-Etapa 1: platné stavební povolení vydané stavebním úřadem MČ Praha 1, 84 pokojů. 
+Etapa 1: Platné stavební povolení vydané stavebním úřadem MČ Praha 1, 84 pokojů. Projekt z roku 1996. Nájemce (provozovatel) měl být Ritz-Carlton.
 
 Etapa 2: 140 pokojů
 
@@ -43,7 +41,8 @@ Viz [mapy](foto/)
 - Poškození nemovitostí v důsledku začlenění do hotelového komplexu 
 - Ztrátu historické parcelace a struktury zástavby, zastřešování dvorů, bourání historických konstrukcí, stavbu výtahů
 - Jednotlivé domy přestanou existovat jako jednotlivé individuální památky 
-- Akroterion uhradní smluvní pokuty
+- Velmi problematická dopravní obslužnost
+- Akroterion neuhradní smluvní pokuty
 - Investor ([Akroterion][] s.r.o.) má plnou moc pro jednání se stávajícími nájemníky
 - Finanční nevýhodnost:
 	- povinnost hradit nájem v plné výši vzniká až 5. měsícem od zkolaudování
@@ -66,6 +65,17 @@ Co to znamená pro Prahu:
 <iframe src='//cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vxbccTlHDt42mtfN2ti4y7w-g0pNaIbs0IV_k6EuurE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
 
 
+Investor
+--------
+
+> Společníky ve firmě Akroterion, s. r. o., se základním kapitálem 200 tisíc korun jsou nizozemská firma Golden Star Real Estate B.V. a Saville Assets Limited se sídlem na Panenských ostrovech. Třemi jednateli pak Izraelec David Halfi a Ivan Emilianov Ivanov a Marek Kazimierz Antończyk, oba s bydlištěm v Polsku.
+>
+> Bucentauro Trade, se základním kapitálem 200 tisíc korun a stejnými společníky jako Akroterion. 
+>
+> Jméno jednatele Akroterionu Davida Halfiho je v České republice poměrně známé, najdeme ho v souvislosti s řadou developerských projektů: do roku 2009 působil jako jednatel české pobočky velké izraelské developerské společnosti AFI Europe, která stavěla Palác Flóra nebo Palác Pardubice, Karlin Business Center nebo rezidenční bytové projekty Tulipa Rokytka či Tulipa Modřanská rokle.
+
+(Česká pozice)
+
 Zúčastněné osoby
 ----------------
 
@@ -84,16 +94,13 @@ Zúčastněné osoby
 
 ### Jan Kněžínek
 
-- funkce
-	- odbor památkové péče MHMP
-		- 2002-31. 7. 2012 (10 let)
-	- vedoucí kanceláře UNESCO
-		- 2012-?
-- rozhodnutí:
-	- rekonstrukce Karlova mostu
-	- výstavba mrakodrapů Pankrác 
-	- demolice domu Revoluční ulice
-	- demolice domu na Václav. náměstí
+| Funkce                              | Rozhodnutí                       |
+|-------------------------------------|----------------------------------|
+| - odbor památkové péče MHMP         | rekonstrukce Karlova mostu       |
+| 	(2002-31. 7. 2012 (10 let))   | výstavba mrakodrapů Pankrác      |
+| - vedoucí kanceláře UNESCO          | demolice domu Revoluční ulice    |
+|	2012-?			      | demolice domu na Václav. náměstí |
+
 
 ### Peter Ďurica
 
@@ -102,16 +109,26 @@ Zúčastněné osoby
 - propojení s Janouškem ([Odposlechy](Pražská plynárenská holding, v letech 2007-2012 předseda představenstva.))
 - [Souhrn](http://domaci.ihned.cz/c1-55152600-vlivny-tichy-arogantni-takovy-byl-urednik-durica-janouskova-loutka)
 - rozhodnutí / kauzy:
-	- [Monstrózní kancelářský komplex (Opatov)](http://www.denik.cz/praha/nad-kancelarskym-molochem-dost-mozna-prazane-zvitezi-20130626-o5jw.html)
+	- [Monstrózní kancelářský komplex (Opatov)][opatov]
 	- Holešovická tržnice
 
+### Další
+
+Smlouva potvrzující stav a zřizující zástavu je dílem Radka Svobody, Aleksandra Udženija (ODS) a Lukáše Manharta (TOP09).
+
+> Stavební povolení k rekonstrukci a novému využití nyní musí projít všemi stupni posuzování památkové péče i schválením odboru dopravy či územního rozvoje, proto se radní Udženija neobává, že by **památky nebo zájmy města mohly být ohroženy.** (A. Udženija)
+
+Na radě září 2012
 
 Vyjádření
 ---------
 
 > z hlediska památkové péče nelze souhlasit s připojováním dalších čtyř objektů, a to ani v případě, že by se závěr jevil jako finančně zajištěný
 
-Národní památkový ústav
+Národní památkový ústav (2003)
+
+[Sbor expertů](dokuemnty/sbor.expertu-zapis.pdf) se vyjádřil spíš pozitivně.
+
 
 
 Smlouvy
@@ -193,6 +210,8 @@ Odkazy
 [131/2000]: http://www.zakonyprolidi.cz/cs/2000-131
 [idnes]: http://bydleni.idnes.cz/hotel-celetna-u-sixtu-0t4-/stavba.aspx?c=A150610_184612_stavba_web
 [ct]: http://www.ceskatelevize.cz/ct24/regiony/1501840-u-staromestskeho-namesti-vznikne-z-bytu-hotel-najemnici-musi-pryc
+[ceskapozice]: http://ceskapozice.lidovky.cz/hned-vedle-staromestskeho-namesti-se-rozjizdi-stavebni-byznys-psj-/tema.aspx?c=A130227_054418_pozice_98436
 [noz]: http://www.zakonyprolidi.cz/cs/2012-89#p2201
 [soz]: http://www.zakonyprolidi.cz/cs/1964-40
 [28 Cdo 2258/2010]: http://kraken.slv.cz/28Cdo2258/2010
+[opatov]: http://www.denik.cz/praha/nad-kancelarskym-molochem-dost-mozna-prazane-zvitezi-20130626-o5jw.html
