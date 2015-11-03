@@ -127,6 +127,7 @@ Vyjádření
 
 Národní památkový ústav (2003)
 
+[Sbor expertů](dokuemnty/sbor.expertu-zapis.pdf) se vyjádřil spíš pozitivně.
 
 
 
