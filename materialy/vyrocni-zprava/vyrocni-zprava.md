@@ -7,16 +7,16 @@ Výroční zpráva o působení Pirátů v Zastupitelstvu hl. m. Prahy za obdob�
 Zastupitelský klub Pirátů ve složení (zleva) Jakub Michálek, Mikuláš Ferjenčík, Adam Zábranský, Ondřej Profant
 
 ----
+## Obsah
 
-[První rok Pirátů v pražském zastupitelstvu](#prvni-rok)
-        - [Úvodní slovo předsedy klubu](#uvodni-slovo)
-        - [Hlavní úspěchy Pirátů v prvním volebním roce](#hlavni-uspechy)
-        - [Politické rozložení sil v zastupitelstvu](#politicke-rozlozeni-sil)
-        - [Činnost zastupitelů](#cinnost-zastupitelu)
-        - [Mediální výstupy](#medialni-vystupy)
-        - [Fungování klubu a odměňování](#fungovani-klubu)
-        - [Nejlepší a nejhorší za první rok](#nejlepsi-a-nejhorsi)
-        - [Odkazy](#odkazy)
+  - [Úvodní slovo předsedy klubu](#uvodni-slovo)
+  - [Hlavní úspěchy v prvním roce](#hlavni-uspechy)
+  - [Politické rozložení sil v zastupitelstvu](#politicke-rozlozeni-sil)
+  - [Činnost zastupitelů](#cinnost-zastupitelu)
+  - [Mediální výstupy](#medialni-vystupy)
+  - [Fungování klubu a odměňování](#fungovani-klubu)
+  - [Nejlepší a nejhorší za první rok](#nejlepsi-a-nejhorsi)
+  - [Odkazy](#odkazy)
 
 ----
 
@@ -38,7 +38,7 @@ Cílem našeho působení je, aby naše opoziční práce měla pro občany co n
 
  - Bombardujeme koalici našimi připomínkami k tomu, co by měla dělat (např. v oblasti informatiky, protikorupční strategii, k řízení městských společností, ke kontrolám apod.) Koalice některé naše návrhy přijímá za vlastní (např. open source [je poprvé v programovém prohlášení!](http://www.praha.eu/public/9f/ba/8e/2011700_570389_Programove_prohlaseni__RADA.pdf) ), některé odkládá (lepší zveřejňování smluv, povinné předkládání velkých zakázek do zastupitelstva) a některé ignoruje (požadavek zveřejňování majetkových přiznání, živý přenos schůzí Rady).
 
-Piráti se drží toho, co na nás voliči oceňují a v čem nám nemohou ostatní strany konkurovat: **Naprostá otevřenost.** Zveřejňujeme [naše majetková přiznání](https://github.com/pirati-cz/KlubPraha/tree/master/priznani), informace o schůzkách s lobbisty, odměny i výkazy práce.
+Piráti se drží toho, co na nás voliči oceňují a v čem nám nemohou ostatní strany konkurovat: **Naprostá otevřenost.** Zveřejňujeme [naše majetková přiznání](https://github.com/pirati-cz/KlubPraha/tree/master/priznani), informace [o schůzkách](https://redmine.pirati.cz/projects/praha/issues?query_id=13), odměny i výkazy práce.
 
 Pokud chcete dělat poctivou politiku, budu rád, když se k nám přidáte!
 
@@ -157,9 +157,9 @@ Zastupitelé Pirátů mají na jednáních výborů 100% účast a mají také v
 - **Komise ICT** - Ondřej Profant a Jakub Michálek jsou členy komise Rady hl. m. Prahy pro ICT. Tato komise schválila důležité projektové záměry na OpenData a Mepnet a Teze digitální strategie. Tyto dokumenty jsou zodpovědně prodiskutováy a kvalitně připraveny. Mepnet je nově pojmut jako rámcová smlouva s minitendry a tím se stává mnohem více tržně otevřeným. Zastupitelstvo tento návrh (po opravě od O. Profanta) schválilo na zářijovém jednání. Po připomínkách Pirátů nebyla schválena velkorysá integrace Marbesu na další městské části. Opendata byla úspěšně spuštěna a rozrůstají se. Naši zástupci navrhli, aby se podklady (s výjimkou odůvodněných případů) zveřejňovaly, avšak to neprošlo přes zbytek komise.
 
 - [Teze digitální strategie](https://praha.pirati.cz/rada-digitalni-strategie.html) jsou velmi pokrokový dokument zohledňující moderní trendy a především opensource. Inspiruje se takovými dokumenty jako [Government Digital Service](https://www.gov.uk/design-principles). Dokument schválila 15. 9. Rada HMP.k
-        
+
 - Ondřej Profant se též intenzivně věnuje běžnému provozu odboru informatiky, kde se podílí na množství dílčích diskusí nad problémy, aby se věci řešily rovnou správně (a ne až po neschválením komisí apod.)
-        
+
 - Krom magistrátu se věnoval i městským částem. Spolupodílel se na obnově IT na Praze 7 a především se věnoval Praze 10. Tam koalice Vlasta (jejíž součástí jsou Piráti) zpochynila [superzakázku na outsourcing IT](http://www.zaostrenona10.cz/mimoradne-zastupitelstvo-bylo-vskutku-mimoradne/). Zastupitelstvo Prahy 10 následně tuto zakázku odmítlo. Od dubna se pak vedla intenzivní jednání, vybrala se konzultanská firma a skupina expertů se shodla na dalším postupu. Bohužel konzultantská firma podstřelila cenu (i když ve výběrovém řízení byla váha ceny stanovena 60:40) a viditelně pracovala ve prospěch původní zakázky. To se projevilo na zasedání zastupitelstva Prahy 10 ve středu 21. 10., kdy zastupitelstvo opět odmítlo připravený tisk (nedoporučený našimi experty).
 
 ### Žádosti o informace
@@ -344,4 +344,3 @@ Připravili jsme open source software [Byro](https://github.com/pirati-cz/byro/)
 - redmine: <http://redmine.pirati.cz/projects/praha/issues>
 - github: <http://github.com/pirati-cz/KlubPraha>
 - facebook: <http://facebook.com/CeskaPiratskaStranaPraha>
-
