@@ -1,3 +1,6 @@
+Zastupitelstvo hl. m. Prahy  
+Klub České pirátské strany
+
 # První rok Pirátů v pražském zastupitelstvu
 
 Výroční zpráva o působení Pirátů v Zastupitelstvu hl. m. Prahy za období od října 2014 do září 2015
@@ -264,47 +267,6 @@ Vydali jsme tištěné [Pirátské listy](https://praha.pirati.cz/piratske-listy
 
 <a name="fungovani-klubu"/>
 
-
-### Odpracovaný čas
-
-![Odpracovaný čas od října 2014 do září 2015](prehled.png)
-
-V říjnu 2014 uzavřeli pirátští zastupitelé příkazní smlouvy s Pirátskou stranou. Jedna z podmínek této smlouvy stanoví, že se zastupitelé mají věnovat činnosti pro zastupitelský klub v době 30 hodin týdně, tedy v přepočtu 6 hodin denně. Průměrně za měsíc odpracují zastupitelé 100-150 hodin měsíčně, maximální množství odpracovaného času u jednoho zastupitele je 200 hodin za měsíc.
-
-Za rok své činnosti odvedli zastupitelé celkem okolo 5700 hodin. K říjnu 2015 je to 1500 hodin u Ondřeje Profanta, 1900 hodin u Jakuba Michálka, 1200 u Adama Zábranského a 1100 u Mikuláše Ferjenčíka.
-
-### Odměňování
-
-Zastupitelé za Piráty v Zastupitelstvu hl. m. Prahy jsou odměňováni celkem ze tří zdrojů:
-
-1. Paušální částkou, kterou platí město (její výše činí 5486 Kč)
-2. Náhradou výdělku, kterou město platí za čas strávený na výborech anebo plněním úkolů z pověření orgánů Zastupitelstva či Rady.
-3. Odměnou podle mandátní smlouvy, kterou Česká pirátská strana odměňuje své zastupitele, aby se činnosti mohli věnovat prakticky na plný úvazek.
-
-Celkový průměrný příjem jednoho zastupitele Pirátů z těchto zdrojů činil **19875 Kč měsíčně hrubého**.
-
-#### Paušální částka
-
-Zastupitelé hlavního města Prahy se dělí na tzv. uvolněné a neuvolněné zastupitele. Uvolnění (koaliční) zastupitelé pobírají normální plat jako jiní politici (například v poslanecké sněmovně, ve výši 80 až 100 tisíc Kč měsíčně) anebo mají příjmy z dozorčích rad. Neuvolnění zastupitelé jako Piráti dostávají pouze paušální odměnu ve výši 5486 Kč hrubého (stanoveno nařízením vlády a usnesením Zastupitelstva). Paušální částku daní hl. m. Praha jako příjem ze závislé činnosti.
-
-![Paušální částka](pausal.png)
-
-#### Náhrada výdělku
-
-Za účast na jednání zastupitelstva, výboru, komise, semináře, plnění úkolu uloženého Radou, výborem Zastupitelstva anebo uvolněným členem zastupitelstva a za jiné aktivity mají zastupitelé podle zákona nárok na náhradu ušlé mzdy ve výši 450 Kč hrubého na hodinu (výše je stanovená usnesením Zastupitelstva). Takto mohou uplatnit až 60 hodin měsíčně. Piráti se dobrovolně rozhodli, že budou uplatňovat náhrady maximálně ve výši 40 hodin měsíčně. Piráti také navrhli snížení náhrady výdělku na částku 280 Kč na hodinu, ale Zastupitelstvo tento návrh nepřijalo. V případě Pirátů největší část náhrad pochází z účasti na jednání Zastupitelstva a jeho výborů, menší část pak odborné semináře a plnění úkolů (výkon kontroly z pověření kontrolního výboru, řešení Opencard a informatiky z pověření primátorky, účast na jednání školské rady apod.).
-
-![Náhrada výdělku](nahrada.png)
-
-#### Mandátní smlouva
-
-Aby se mohli zastupitelé Pirátů věnovat své práci naplno, rozhodla se Pirátská strana své čtyři zastupitele „uvolnit“, tedy s nimi uzavřít tzv. mandátní smlouvy. V rámci nich získávají pirátští zastupitelé odměnu až 8500 Kč z pevné složky a až 5000 Kč z proměnlivé složky. Pomocí systému Redmine, kde jednotliví zastupitelé vykazují svojí aktivitu, je pak měřena výkonnost a kontrolováno plnění úkolů, podle nichž je určena výše odměny. Výši odměny schvaluje krajské předsednictvo pražského sdružení Pirátů.
-
-Každý měsíc vyhotovujeme výkaz odměňování, který obsahuje souhrnné informace, předkládá se na vědomí krajskému fóru a předsednictvu a zveřejňujeme ho na webu.
-
-![Pevná složka odměny dle mandátní smlouvy](pevna.png)
-
-![Proměnlivá složka odměny dle mandátní smlouvy](promenliva.png)
-
 ### Stážisté a dobrovolníci
 
 Aby Piráti posílili svůj tým, vypsali na začátku března poptávku po stážistech. Ze 4 přihlášených prozatím na místa stážistů přijali 3 lidi.
@@ -323,6 +285,131 @@ Zveřejňovač je jediný pracovník, kterého mají od hlavního města pirát�
 ### Byro
 
 Připravili jsme open source software [Byro](https://github.com/pirati-cz/byro/). Jedná se o nástroj pro automatizaci kancelářských prací (převody, OCR, spisová služba, el. podpis, generování výčetek, ...). Našemu zastupitelskému klubu již šetří množství práce a pomáhá nám udržet vysokou úroveň transparence (dokumenty ve formátu markdown se dobře šíří, indexují etc.).
+
+### Odpracovaný čas zastupitelů
+
+![Odpracovaný čas od října 2014 do září 2015](prehled.png)
+
+V říjnu 2014 uzavřeli pirátští zastupitelé příkazní smlouvy s Pirátskou stranou. Jedna z podmínek této smlouvy stanoví, že se zastupitelé mají věnovat činnosti pro zastupitelský klub v době 30 hodin týdně, tedy v přepočtu 6 hodin denně. Průměrně za měsíc odpracují zastupitelé 100-150 hodin měsíčně, maximální množství odpracovaného času u jednoho zastupitele je 200 hodin za měsíc.
+
+Za rok své činnosti odvedli zastupitelé celkem okolo 5700 hodin. K říjnu 2015 je to 1500 hodin u Ondřeje Profanta, 1900 hodin u Jakuba Michálka, 1200 u Adama Zábranského a 1100 u Mikuláše Ferjenčíka.
+
+## Zpráva o odměňování
+
+V této zprávě zveřejňujeme přehled o příjmech zastupitelů a zaměstnanců.
+
+![Nejlepší dezinfekce je sluneční svit!](sunshine.jpg)
+
+> Naší ambicí je vnést **sluneční svit** do odměňování ve veřejné správě a dosáhnout spravedlivého odměňování lidí – podle jejich nasazení a prokazatelně odvedené práce.
+>
+>  — [Jakub Michálek](https://praha.pirati.cz/jakub-michalek.html), předseda klubu
+
+Zdrojová data, podle nichž se vytváří tato zpráva, data byla automaticky získána z [autoritativní tabulky příjmů](http://raw.githubusercontent.com/pirati-cz/KlubPraha/master/odmeny/new/data/odmeny.csv).
+
+### Obsah zprávy
+
+* [Příjmy zastupitelů](#prijmy-zastupitelu)
+* [Příjmy zaměstnanců](#prijmy-zamestnancu)
+
+## Příjmy zastupitelů
+
+<a name="prijmy-zastupitelu"/>
+
+Příjem zastupitele za Piráty v Zastupitelstvu hl. m. Prahy je tvořen z následujících zdrojů:
+
+* [A. Peníze od města](#penize-od-mesta)
+  * [A.1 Paušální odměna](#pausalni-odmena)
+  * [A.2 Náhrada výdělku](#nahrada-vydelku)
+* [B. Peníze od strany](#penize-od-strany)
+  * [B.1 Pevná složka smluvní odměny](#pevna-slozka)
+  * [B.2 Proměnlivá složka smluvní odměny](#promenliva-slozka)
+
+Jednotliví zastupitelé vykazují svojí aktivitu v systému [redmine][redmine]. V tomto systému měříme výkonnost a kontrolujeme plnění úkolů. Podle nich je každý měsíc určena výše odměny. Všechny tyto údaje jsou shrnuty v měsíčních výkazech odměňování. Výkazy odměňování zveřejňujeme v [repozitáři odměn][repo-odmen].
+
+[redmine]: https://redmine.pirati.cz/projects/praha
+[repo-odmen]: https://github.com/pirati-cz/KlubPraha/tree/master/odmeny/2015/
+
+
+
+### A. Peníze od města
+
+<a name="penize-od-mesta"/>
+
+#### A.1 Paušální odměna
+
+<a name="pausalni-odmena"/>
+
+**Paušální odměna** je pravidelná měsíční částka, kterou hlavní město Praha vyplácí každému neuvolněnému zastupiteli. Její výše činí přibližně 5000 Kč hrubého měsíčně.
+
+Následující graf ukazuje výši příjmů jednotlivých zastupitelů v jednotlivých měsících:
+
+![Paušální odměna podle jednotlivých zastupitelů](pausalni-odmena/graf.png)
+
+[Paušální odměna v tabulce](pausalni-odmena/data.csv)
+
+#### A.2 Náhrada výdělku
+
+<a name="nahrada-vydelku"/>
+
+**Náhrada výdělku** je částka, kterou zastupiteli hlavní město Praha nahrazuje ušlý výdělek za dobu jednání zastupitelstva, výborů a komisí, účast na seminářích, pracovní cesty a plnění oficiálních úkolů pro město. Její výše činí u zastupitelů, kteří nejsou v pracovním poměru, 450 Kč hrubého za hodinu, nejvýše však 60 hodin měsíčně.
+
+Následující graf ukazuje výši příjmů jednotlivých zastupitelů v jednotlivých měsících:
+
+![Náhrada výdělku od města podle jednotlivých zastupitelů](nahrada-vydelku/graf.png)
+
+[Náhrada výdělku v tabulce](nahrada-vydelku/data.csv)
+
+V [repozitáři odměn][repo-odmen] si lze prohlédnout výčetky zastupitelů za každý měsíc. V nich je vždy rozpis konkrétní činnosti zastupitele, za který odměna náleží.
+
+### B. Peníze od strany
+
+<a name="penize-od-strany"/>
+
+**Smluvní odměna** podle mandátní smlouvy je částka, kterou Česká pirátská strana odměňuje své zastupitele, aby se volené funkci mohli věnovat více času, ideálně 35 hodin týdně. Částka se skládá z pevné a proměnlivé složky. Výši odměny schvaluje každý měsíc krajské předsednictvo pražského sdružení Pirátů ([podrobnosti][mandatni-smlouvy]).
+
+[mandatni-smlouvy]: https://praha.pirati.cz/zastupitele-piratu-pracuji-naplno.html
+
+Následující grafy ukazují výši příjmů jednotlivých zastupitelů v jednotlivých měsících po složkách smluvní odměny:
+
+
+#### B.1 Pevná složka smluvní odměny
+
+<a name="pevna-slozka"/>
+
+
+**Pevná složka** náleží zastupiteli podle rozsahu odvedené práce pro stranu. Za dohodnutý rozsah práce náleží zastupiteli částka 8500 Kč hrubého měsíčně. Odměna však zastupiteli nenáleží za oficiální jednání, za které má nárok na náhradu výdělku.
+
+![Pevná složka smluvní odměny od strany podle jednotlivých zastupitelů](pevna-cast-odmeny-z-mandatni-smlouvy/graf.png)
+
+[Pevná složka smluvní odměny v tabulce](pevna-cast-odmeny-z-mandatni-smlouvy/data.csv)
+
+#### B.2 Proměnlivá složka smluvní odměny
+
+<a name="promenliva-slozka"/>
+
+**Proměnlivá složka** náleží zastupiteli za splnění významných úkolů, za práci přes čas a za jiné výkony hodné zvláštní odměny. Proměnlivá složka může dosáhnout až částky 5000 Kč hrubého měsíčně.
+
+![Proměnlivá složka smluvní odměny od strany podle jednotlivých zastupitelů](promenliva-cast-odmeny-z-mandatni-smlouvy/graf.png)
+
+[Proměnlivá složka smluvní odměny v tabulce](promenliva-cast-odmeny-z-mandatni-smlouvy/data.csv)
+
+V [repozitáři odměn][repo-odmen] si lze prohlédnout výkaz odměňování za každý měsíc. V něm je odkaz na výkaz odpracovaného času a jsou v něm uvedeny významné úkoly.
+
+## Příjmy zaměstnanců
+
+<a name="prijmy-zamestnancu"/>
+
+**Příjem zaměstnance** je měsíční plat, který zaměstnanci vyplácí Magistrát hl. m. Prahy. Tento plat může být zvýšen o odměny, jejichž výši určuje Magistrát hl. m. Prahy. Klub Pirátů má jednoho zaměstnance.
+
+Následující graf ukazuje výši příjmů zaměstnanců v jednotlivých měsících:
+
+![Platy zaměstnanců](plat-zamestnance/graf.png)
+
+[Platy zaměstnanců v tabulce](plat-zamestnance/data.csv)
+
+Zaměstnanec vykazuje odpracovaný čas v systému [redmine][redmine].
+
+
 
 ## Nejlepší a nejhorší za první rok
 
