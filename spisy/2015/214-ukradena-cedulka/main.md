@@ -23,7 +23,7 @@ style:      letter
 
 Vážená paní ředitelko,
 
-zastupitelský klub Pirátů využívá kancelář č. 40 v budově Nové radnice Magistrátu hlavního města Prahy. V měsíci červenci byla tato kancelář rekonstruována (spolu s dalšími kancelářemi klubů, které pracují v přízemí Nové radnice). Ještě před rekonstrukcí nám byla věnována kovová cedulka s textem „Pavel Bém se zasouložil o hlavní město Prahu“ a umístěna v kanceláři. Několikrát jsem prostřednictvím svého asistenta Jana Loužka pokoušel zjistit, co se s ní během rekonstrukce stalo, nicméně odbor služeb nebyl v tomto směru příliš nápomocný; resp. pouze vágně informoval, že byla při rekonstrukci budovy ztracena.
+zastupitelský klub Pirátů využívá kancelář č. 40 v budově Nové radnice Magistrátu hlavního města Prahy. V měsíci červenci byla tato kancelář rekonstruována (spolu s dalšími kancelářemi klubů, které pracují v přízemí Nové radnice). Ještě před rekonstrukcí nám byla věnována kovová cedulka (vyobrazena v příloze č. 1) umístěna v kanceláři. Několikrát jsem prostřednictvím svého asistenta Jana Loužka pokoušel zjistit, co se s ní během rekonstrukce stalo, nicméně odbor služeb nebyl v tomto směru příliš nápomocný; resp. pouze vágně informoval, že byla při rekonstrukci budovy ztracena.
 
 Vzhledem k tomu, že ona cedulka nám byla darována, Odbor služeb Magistrátu hlavního města Prahy zajistil rekonstrukci prostor a umožnil tak její ztrátu, žádám právě od Odboru služeb zajištění nápravy a dohledání oné cedulky.
 
