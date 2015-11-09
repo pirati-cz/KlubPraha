@@ -1,5 +1,5 @@
 ---
-title:      Žádost Odboru Služeb Magistrátu hlavního města Prahy
+title:      Žádost Odboru služeb Magistrátu hlavního města Prahy
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
