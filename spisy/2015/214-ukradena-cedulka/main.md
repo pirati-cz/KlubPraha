@@ -7,7 +7,7 @@ author:
    mail:    jakub.michalek@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    ZK Pha 211/2015
+   sign:    ZK Pha 214/2015
 your:
    role:    
    name:    
