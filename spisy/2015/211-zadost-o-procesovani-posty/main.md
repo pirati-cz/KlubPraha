@@ -15,7 +15,7 @@ your:
    address:
       -     Mariánské náměstí 2/2
       -     110 01 Praha 1
-      -     Do rukou Ing. Richard Mařík
+      -     k rukám JUDr. Richarda Maříka
 sendby:     ds
 style:      letter
 ---
@@ -32,8 +32,6 @@ Zdvořile Vás proto jako předseda zastupitelského klubu žádám, aby Magistr
 ---
 signature:
   - Mgr. Bc. Jakub Michálek
-  - nar. 6. 2. 1989
-  - bytem Zenklova 193, Praha 8
   - zastupitel hl. m. Prahy
 abbr:       jakub
 ...

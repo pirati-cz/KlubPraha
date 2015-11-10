@@ -1,43 +1,38 @@
 ---
-prijemce: 
-  role:     Povinný subjekt
-  nazev:    Hlavní město Praha
-  ulice:    Mariánské náměstí 2/2
-  PSC:      11001
-  mesto:    Praha 1
-  DS:       48ia97h
-styl:       pirati-klub
-vase:
-  znacka:   
-  den:
-nase:
-  znacka:   ZK Pha 15/2014
-  misto:    Praha
-vec:        Žádost zastupitele hl. m. Prahy o informace
-vyrizuje:   
-  jmeno:    Jakub Michálek
-  telefon:  +420 775 978 550
-  ds:       4memzkm
-  mail:     jakub.michalek@praha.eu
+title:      Žádost o informace
+author:
+   name:    Adam Zábranský
+   phone:   +420 721 006 868
+   ds:      xwfwgha
+   mail:    adam.zabransky@praha.eu
+our:
+   name:    Zastupitelský klub Pirátů
+   sign:    ZK Pha 208/2015
+your:
+   role:    povinný subjekt
+   name:
+      -     Magistrát hlavního města Prahy
+      -     k rukám ředitele odboru majetku Ing. Radka Svobody
+   address:
+      -     Mariánské náměstí 2
+      -     Praha 1, 110 00
+sendby:     ds
+style:      letter
 ---
 
-Vážení,
+Vážený pane řediteli, 
 
-v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, Vás žádám o následující informace:
+v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, a v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), vás žádám o poskytnutí nájemní smlouvy s KSČM na nebytový prostor v objektu Jungmannova 18, jehož správcem je TRADE CENTRE PRAHA a.s. Existence tohoto nájemního vztahu vyplývá z vámi poskytnutých informací z května 2015 (mělo by se jednat o prostor s rozlohou 75 metrů čtverečních, smlouva byla uzavřena 29.08.1990).
 
-přehled všech probíhajících a skončených soudních sporů, kde je hl. m. Praha žalovanou, které se týkaly poskytnutí informací o příjemcích veřejných prostředků ve smyslu § 8b zákona č. 106/1999 Sb., o svobodném přístupu k informacím, a to v tabulce v následujícím rozsahu: 
+Odpověď očekávám v zákonné lhůtě 15 dnů (viz InfZ).
 
-- jméno žadatele o informace (žalobce), 
-- datum vydání a spisovou značku všechn rozhodnutí a sdělení správních orgánů a správních soudů v dané věci, úplné znění těchto dokumentů prosím přiložte k tabulce, 
-- označení osoby, která ponese odpovědnost za rozhodnutí (např. podle zákona č. 82/1998 Sb., o odpovědnosti státu za škodu, ve znění pozdějších předpisů), pokud soud zruší rozhodnutí pro nezákonnost a v důsledku toho hlavnímu městu Praze vznikne škoda.
-
-Prosím o poskytnutí informace do datové schránky uvedené v patičce této zprávy. Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více datových zprávách, nebo se dostavím s paměťovým médiem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
+Prosím o poskytnutí informace do mé datové schránky či na e-mailovou adresu. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
 
 ---
-podpis: 
-  - Mgr. Bc. Jakub Michálek
-  - nar. 6. 2. 1989
-  - bytem Zenklova 841/193, Praha 8
-  - předseda klubu Pirátů
-  - zastupitelstvo hl. m. Prahy
+signature:
+  - Adam Zábranský
+  - nar. 28. 12. 1993
+  - bytem Zbynická 6, 153 00 Praha 16
+  - zastupitel hl. m. Prahy
+abbr:       adam
 ...
