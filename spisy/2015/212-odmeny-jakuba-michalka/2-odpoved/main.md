@@ -1,5 +1,5 @@
 ---
-title:      Žádost o informace dle zákona č. 106/1999 Sb.
+title:      Sdělení Magistrátu hl. m Prahy
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
@@ -7,26 +7,33 @@ author:
    mail:    jakub.michalek@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    ZK Pha 210/2015
+   sign:    ZK Pha 212/2015
 your:
-   role:    Povinný subjekt
+   role:    
    name:    
       -     Hlavní město Praha
    address:
       -     Mariánské náměstí 2/2
       -     110 01 Praha 1
+      -     Do rukou Ing. Richard Mařík
 sendby:     ds
 style:      letter
 ---
 
 
-Vážení
+Vážený pane řediteli,
 
-Žádám v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a v souladu s odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze o následující informace:
+Obdržel jsem dnes přípis Magistrátu hlavního města Prahy, který obsahuje žadatelky Dany Musilové podanou následujícího obsahu:
 
-* Jednací řád Zastupitelského klubu ANO 2011.
+„Ve smyslu zákona č. 106/1999 Sb., o svobodném přístupu k informacím Vás žádám o
+zpřístupnění následujících informací:
 
-Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Ke komunikaci zmocňuji dále svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17). Předem děkuji za Vaši vstřícnost. 
+1. Výše měsíčního platu zastupitele Mgr. Bc. Jakuba Michálka.
+2. Výše případných vyplacených odměn nad rámec měsíčního platu zastupitele Mgr. Bc. Jakuba Michálka.
+3. Účast zastupitele Mgr. Bc. Jakuba Michálka na zasedání výborů a komisí, jejichž je
+členem“
+
+
 
 ---
 signature:
