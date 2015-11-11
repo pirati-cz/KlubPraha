@@ -1,5 +1,10 @@
-Zastupitelstvo hl. m. Prahy  
-Klub České pirátské strany
+---
+title:      První rok Pirátů v Zastupitelstvu hl. m. Prahy
+subtitle:   Výroční zpráva o působení Pirátů v Zastupitelstvu hl. m. Prahy za říjen 2014 až září 2015
+our:
+   name:    Klub Pirátů v Zastupitelstvu hl. m. Prahy
+style:      letter
+---
 
 # První rok Pirátů v Zastupitelstvu hl. m. Prahy
 
