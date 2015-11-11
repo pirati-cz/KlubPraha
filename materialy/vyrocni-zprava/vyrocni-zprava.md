@@ -412,7 +412,7 @@ Jednotliví zastupitelé vykazují svojí aktivitu v systému [redmine][redmine]
 Celková výše **hrubých** příjmů (před zaplacením daní a pojistného) včetně průměru za období říjen 2014 až září 2015 je uvedena v následující tabulce.
 
 Příjemce	            | Příjmy od města	              | Příjmy od strany            |	Celkem
-------                | -------                       | ---                         |
+------                | -------                       | ---                         | ----
 Adam Zábranský	      | 130968 Kč (10914 Kč měsíčně)  |  88844 Kč (7404 Kč měsíčně) |	219812 Kč (18318 Kč měsíčně)
 Jakub Michálek	      | 171626 Kč (14302 Kč měsíčně)  | 129732 Kč (10811 Kč měsíčně)|	301358 Kč (25113 Kč měsíčně)
 Mikuláš Ferjenčík	    | 122762 Kč (10230 Kč měsíčně)  |  90811 Kč (7568	Kč měsíčně) | 213573 Kč	(17798 Kč měsíčně)
