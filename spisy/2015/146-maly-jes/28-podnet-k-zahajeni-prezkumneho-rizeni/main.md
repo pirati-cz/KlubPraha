@@ -36,7 +36,7 @@ dne 26. 9. jsem podal žádost podle zákona č. 106/1999 Sb., o svobodném př�
 
 Povinný subjekt měl do 12. října 2015 vydat rozhodnutí v této žádosti. To uskutečnil způsobem, který odporuje žadatelem preferovanému způsobu komunikace (žadatel žádal zaslání odpovědi datovou schránkou). Povinný subjekt si vyložil dodatečnou podmínku, že by si žadatel vyzvedl tu případnou část odpovědi, kdy to bude vyžadovat velikost poskytovaných informací, osobním převzetím tak, že odeslal informace na disku CD prostřednictvím České pošty na adresu Zenklova 193, 180 00 Praha 8. Vzhledem k tomu, že adresou, kterou mám uvedenu jako doručovací pro komunikaci s orgány státní správy, je Bořivojova 108, 130 00 Praha 3, nemohl jsem si danou odpověď převzít. Povinný subjekt jednak neměl odpověď doručit prostřednictvím poštovní zásilky a jednak ji neměl odeslat na adresu, která není mojí doručovací adresou. 
 
-Vzhledem k těmto pochybením proto podávám podnět k přezkumnému řízení podle § 94 zákona č. 500/2004 Sb., správního řádu. 
+Povinný subjekt nepostupoval v souladu s § 4a odst. 2 a 3 zákona č. 106/1999 Sb., o svobodném přístupu k informacím. Povinný subjekt nevyřídil žádost způsobem obsahu žádosti (a tedy v rozporu s § 4a odst. 2) a poskytnul danou informaci způsobem, který mi neumožnil její účinné využití (tedy v rozporu s §4a odst. 3). Vzhledem k těmto pochybením proto podávám podnět k přezkumnému řízení podle § 94 zákona č. 500/2004 Sb., správního řádu. 
 
 ---
 signature:
