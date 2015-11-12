@@ -118,7 +118,9 @@ Smlouva potvrzující stav a zřizující zástavu je dílem Radka Svobody, Alek
 
 > Stavební povolení k rekonstrukci a novému využití nyní musí projít všemi stupni posuzování památkové péče i schválením odboru dopravy či územního rozvoje, proto se radní Udženija neobává, že by **památky nebo zájmy města mohly být ohroženy.** (A. Udženija)
 
-Na radě září 2012
+Na radě září 2012.
+
+V roce 2014 [R-15403](http://zastupitelstvo.praha.eu/ina2010/tedusndetail.aspx?id=220179) radní Eva Vorlíčková.
 
 Vyjádření
 ---------
@@ -210,6 +212,7 @@ Odkazy
 [131/2000]: http://www.zakonyprolidi.cz/cs/2000-131
 [idnes]: http://bydleni.idnes.cz/hotel-celetna-u-sixtu-0t4-/stavba.aspx?c=A150610_184612_stavba_web
 [ct]: http://www.ceskatelevize.cz/ct24/regiony/1501840-u-staromestskeho-namesti-vznikne-z-bytu-hotel-najemnici-musi-pryc
+[ct2]: http://www.ceskatelevize.cz/ct24/domaci/1612251-tajemnym-investorem-kontroverzniho-hotelu-u-sixtu-muze-byt-vlivny-zbrojar
 [ceskapozice]: http://ceskapozice.lidovky.cz/hned-vedle-staromestskeho-namesti-se-rozjizdi-stavebni-byznys-psj-/tema.aspx?c=A130227_054418_pozice_98436
 [noz]: http://www.zakonyprolidi.cz/cs/2012-89#p2201
 [soz]: http://www.zakonyprolidi.cz/cs/1964-40
