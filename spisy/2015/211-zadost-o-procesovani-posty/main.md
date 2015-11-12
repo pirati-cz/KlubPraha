@@ -25,9 +25,9 @@ Vážený pane řediteli,
 
 zastupitelský klub Pirátů pracuje v Nové radnici již více než rok. Po tuto dobu využíváme zcela bez problémů služby, které nám Odbor volených orgánů poskytuje jako zastupitelům hlavního města Prahy. Proto pro mne bylo v posledních dnech překvapením, že Magistrát hl. m. Prahy již nemá nadále zájem prostřednictvím podatelny vypravovat poštu týkající se činností zastupitelského klubu Pirátů.
 
-Dle pracovníků Magistrátu hl. m. Prahy, z odboru Archiv hlavního města Prahy, kteří se zabývají problematikou spisové služby, nemají zastupitelské kluby na službu odesílání pošty prostřednictvím poštovní podatelny Magistrátu nárok. Organizační řád Magistrátu hlavního města Prahy rovněž žádným způsobem nestanovuje, jakým způsobem má být vyřizována pošta zastupitelských klubů. Příjde mi znepokojující, že se tuto situaci dozvídáme jako zastupitelský klub Pirátů až rok po našem působení v pražském zastupitelstvu a vlastně náhodou poté, co se můj asistent Jan Loužek dotázal na způsoby fungování podatelny magistrátu.
+Dle pracovníků Magistrátu hl. m. Prahy, z odboru Archiv hlavního města Prahy, kteří se zabývají problematikou spisové služby, nemají zastupitelské kluby na službu odesílání pošty prostřednictvím poštovní podatelny Magistrátu nárok. Organizační řád Magistrátu hlavního města Prahy rovněž žádným způsobem nestanovuje, jakým způsobem má být vyřizována pošta zastupitelských klubů. Příjde mi znepokojující, že se tuto situaci dozvídáme jako zastupitelský klub Pirátů až rok po našem působení v pražském zastupitelstvu a vlastně náhodou poté, co se můj asistent Jan Loužek dotázal na způsoby fungování podatelny Magistrátu.
 
-Zdvořile Vás proto jako předseda zastupitelského klubu žádám, aby Magistrát hl. m. Prahy (resp. Odbor volených orgánů) zajišťoval i nadále tak, jako dosud, vypravování pošty Zastupitelského klubu Pirátů prostřednictvím podatelny Magistrátu.
+Zdvořile Vás proto jako předseda zastupitelského klubu žádám, aby Magistrát hl. m. Prahy (resp. Odbor volených orgánů) zajišťoval i nadále tak, jako dosud, vypravování odchozí pošty Zastupitelského klubu Pirátů prostřednictvím podatelny Magistrátu.
 
 ---
 signature:
