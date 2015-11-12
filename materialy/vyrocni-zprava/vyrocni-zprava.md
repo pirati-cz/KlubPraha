@@ -1,26 +1,21 @@
 ---
-title:      První rok Pirátů v Zastupitelstvu hl. m. Prahy
-subtitle:   Výroční zpráva o působení Pirátů v Zastupitelstvu hl. m. Prahy za říjen 2014 až září 2015
-our:
-   name:    Klub Pirátů v Zastupitelstvu hl. m. Prahy
-style:      letter
+style:      brochure
+tables:     true
 ---
 
-# První rok Pirátů v Zastupitelstvu hl. m. Prahy
+# Výroční zpráva
 
-Výroční zpráva o působení Pirátů v Zastupitelstvu hl. m. Prahy za říjen 2014 až září 2015
+o činnosti Pirátů v Zastupitelstvu hl. m. Prahy za říjen 2014 až září 2015
 
-![Pirátští zastupitelé](uvodni.jpg)
+![Zastupitelé Pirátů (zleva): Jakub Michálek, Mikuláš Ferjenčík, Adam Zábranský, Ondřej Profant](uvodni.jpg)
 
-Zastupitelský klub Pirátů ve složení (zleva) Jakub Michálek, Mikuláš Ferjenčík, Adam Zábranský, Ondřej Profant
-
-----
 
 ## Obsah
 
   - [Úvodní slovo předsedy klubu](#uvodni-slovo)
   - [Hlavní úspěchy v prvním roce](#hlavni-uspechy)
   - [Politické rozložení sil v zastupitelstvu](#politicke-rozlozeni-sil)
+  - [SWOT analýza](#swot-analyza)
   - [Činnost zastupitelů](#cinnost-zastupitelu)
   - [Mediální výstupy](#medialni-vystupy)
   - [Vybraná témata](#vybrana-temata)
@@ -29,7 +24,6 @@ Zastupitelský klub Pirátů ve složení (zleva) Jakub Michálek, Mikuláš Fer
   - [Nejlepší a nejhorší za první rok](#nejlepsi-a-nejhorsi)
   - [Odkazy](#odkazy)
 
-----
 
 ## Úvodní slovo předsedy klubu
 
@@ -39,23 +33,18 @@ Zastupitelský klub Pirátů ve složení (zleva) Jakub Michálek, Mikuláš Fer
 
 Milí Pražané!
 
-Po volbách v říjnu 2014 nám ANO i TOP 09 nabídly funkce radních v nové pražské Radě. Nám nešlo o to, abychom získali funkce, ale aby Praha přestala být doupě korupce. Jakoukoliv podporu jsme podmínili seznamem deseti požadavků, zejména aby **Praha hospodařila skutečně transparentně** (např. zprůhlednění městských firem, zveřejňování smluv).
+Po volbách v říjnu 2014 nám ANO i TOP 09 nabídly funkce radních v nové pražské Radě. Nám nešlo o to, abychom získali funkce, ale aby Praha přestala být doupě korupce. Jakoukoliv podporu jsme podmínili seznamem deseti požadavků, zejména aby **Praha hospodařila skutečně transparentně**.
 
-Koalice ANO, ČSSD a Trojkoalice tyto požadavky neskousla. Raději v Zastupitelstvu sestavila křehkou většinu 33 hlasů (většina jednoho hlasu). V koalici udávali tón **zcela nedůvěryhodní politici**, a to pravomocně odsouzený podvodník Karel Březina (ČSSD) a bývalá důstojnice komunistické rozvědky Radmila Kleslová (ANO).
+Koalice ANO, ČSSD a Trojkoalice tyto požadavky neskousla. Raději sestavila křehkou většinu 33 hlasů (většina jednoho hlasu). V koalici udávali tón **zcela nedůvěryhodní politici**, a to pravomocně odsouzený podvodník Karel Březina (ČSSD) a bývalá důstojnice komunistické rozvědky Radmila Kleslová (ANO).
 
-S takovými lidmi jsme nechtěli být v koalici, takže jsme se stali **konstruktivní opozicí**. Úlohou opozice v parlamentní demokracii je kontrolovat vládu a předkládat vlastní návrhy řešení. My Piráti jsme se v prvním roce věnovali oběma úkolům vrchovatě.
+S takovými lidmi jsme nechtěli být v koalici, takže jsme se stali **konstruktivní opozicí**. Úkolem Pirátů jako opoziční strany bylo kontrolovat vládu a předkládat vlastní návrhy řešení. Jak se dále dočtete, posvítili jsme si na řadu kauz a prosadili jsme i vlastní návrhy.
 
-**Posvítili jsme si** na celou řadu kauz jako je Opencard, smlouvy na SMS jízdenky, pronájem Škodova paláce, schválení stavebních předpisů „v kuchyňce“, příjmy Radmily Kleslové z městských firem, zabránili jsme turniketům na radnici, odhalili jsme několik podezřelých změn územního plánu a podali několik trestních oznámení. Pražskou předsedkyni hnutí ANO Radmilu Kleslovou jsme donutili k rezignaci na politické trafiky v městských firmách, kde si zajistila příjem 360 tisíc měsíčně.
+Náš klub se drží **naprosté otevřenosti**, kterou naši voliči oceňují a ostatní strany jsou z ní zděšeny. Zveřejňujeme [naše majetková přiznání](https://github.com/pirati-cz/KlubPraha/tree/master/priznani), informace [o schůzkách](https://redmine.pirati.cz/projects/praha/issues?query_id=13) i odměny.
 
-**Prosadili jsme** i několik vlastních návrhů: Rada schválila usnesení k lepšímu zveřejňování smluv, Rada odsouhlasila novou strategii v informatice včetně použití open source, Magistrát prověřuje nároky na náhradu škody v kauze Opencard proti Pavlu Bémovi, dostali jsme spoustu dobrých nápadů do zadání protikorupční strategie a spustili jsme pražská otevřená data.
-
-Jako předseda klubu se snažím, aby se náš klub držel toho, co na nás voliči oceňují a v čem nám nemohou ostatní strany konkurovat: **Naprostá otevřenost.** Zveřejňujeme [naše majetková přiznání](https://github.com/pirati-cz/KlubPraha/tree/master/priznani), informace [o schůzkách](https://redmine.pirati.cz/projects/praha/issues?query_id=13), odměny i výkazy práce.
-
-**Pražská politika nemusí být jenom svinstvo! Záleží to jen na nás. Chcete se podílet na poctivé správě našeho krásného města? Kontaktujte nás a přispějte svojí troškou do mlýna.**
+**Naše hlavní poselství je, že pražská politika nemusí být svinstvo! Záleží to na nás. Přidejte se k nám a Praha může být nejen krásné město, ale může mít i dobré správce.**
 
 [Mgr. Bc. Jakub Michálek](https://praha.pirati.cz/jakub-michalek.html)  
-předseda klubu Pirátů  
-v Zastupitelstvu hl. m. Prahy
+předseda klubu Pirátů v Zastupitelstvu hl. m. Prahy
 
 ## Hlavní úspěchy Pirátů v prvním roce
 
@@ -88,6 +77,10 @@ Typické rozložení hlasů v Zastupitelstvu hl. m. Prahy v prvním roce je na n
 
 ![Rozložení hlasů v zastupitelstvu](rozlozeni.png)
 
+Data pro rozložení politických sil jsou vytvářena z jednotlivých hlasování 
+Zastupitelstva a jsou převzata z projektu KohoVolit.eu, kterému za to 
+tímto děkujeme <http://kohovolit.eu/wp/kamil/praha_wpca_2015-11/all/index.html>.
+
 Od voleb konaných v říjnu 2014 se současné rozložení sil odlišuje tím, že zastupitelka Monika Krobová Hášová nedlouho po volbách vystoupila z klubu TOP 09 a je zastupitelkou nezařazenou, která hlasuje spolu s ČSSD (je také mj. členkou dozorčí rady městské společnosti Pražská energetika, a.s.) Vedle toho se z klubu TOP 09 v dubnu 2014 vyčlenili zastupitelé Tomáš Hudeček (bývalý primátor), Eva Vorlíčková a Milan Růžička, kteří utvořili klub nezávislých.
 
 ### Koalice
@@ -98,47 +91,46 @@ Z výše uvedeného je patrné, že po většinu prvního roku koalice ANO + ČS
 
 Opozice hlasovala prakticky jednotně v klíčových tématech, jako byl například návrh Pirátů na zveřejňování smluv, návrhy na zařazení dalších bodů na program jednání, zřízení funkce radního pro IT, projednání personálních změn (zda vůbec bude zařazeno odvolání primátorky na program zasedání), nebo proti megazakázce na svoz odpadu za 13 miliard korun. Obecně se však opozice skládala ze značně nesourodých stran, což se projevilo i v jejím rozštěpení na konstruktivní a destruktivní opozici. Všechny koaliční a opoziční strany s výjimkou Pirátů mají své zástupce v dozorčích radách městských podniků.
 
-### Destruktivní opozice
-
-Druhým početným celkem jsou intenzivně spolupracující TOP 09 a ODS, které spolu například podaly žádost o svolání mimořádného zastupitelstva k projednání návrhu na odvolání primátorky Adriany Krnáčové. Cílem bloku TOP 09 a ODS bylo jakýmkoliv možným způsobem rozbít existující koalici, což se jim nakonec podařilo.
-
-ODS a TOP 09 často vystupovaly proti koalici i ve věcech, které podle nás dělá dobře. Piráti principiálně odmítli, aby byly příjmy z privatizace bytů rozpuštěny v rozpočtu, jak požadovala ODS. Zatímco ODS v minulosti nedělalo problém schválit dotace soukromé firmě na tyčinky, vadilo jí dotování knihovny na Praze 2. To jsou otázky, ve kterých se Piráti a ODS rozcházejí, byť v některých tématech se i shodnou (např. peníze pro městské části, představenstva městských firem bez politiků).
-
-Cílem TOP 09 bylo odvolat radní a rozštěpit Radu, což se jí na zasedání Zastupitelstva v říjnu 2015 skutečně podařilo. Piráti podpořili návrh na odvolání neschopné radní Novákové (ČSSD), radního Haška (ANO) a radní Ropkové (ČSSD). Piráti nesouhlasili s odvoláním náměstka Stropnického (Trojkoalice), kterým rozpad koalice započal. Po prvním roce vládnutí máme tedy jako výsledek polorozpadlou koalici s Radou, která má 7 členů z 11.
-
 ### Konstruktivní opozice
 
-Zbývá tedy poslední blok, který tvoří politické strany, které podporují vybrané kroky koalice a jiné její návrhy věcně kritizují. Okruh podporovaných návrhů se však u nich různí. Např. KSČM na rozdíl od Pirátů loajálně podpořila koalici v hlasování o přerušení prvního zasedání. Dále hlasovala proti projednání odvolání primátorky a proti návrhu Pirátů na zveřejňování majetkových přiznání. KSČM rovněž nepodpořila odvolání radních za ČSSD s výjimkou radní Novákové.
+Druhý blok tvoří politické strany, které podporují vybrané kroky koalice a jiné její návrhy věcně kritizují. Okruh podporovaných návrhů se však u nich různí. Např. KSČM na rozdíl od Pirátů loajálně podpořila koalici v hlasování o přerušení prvního zasedání. Dále hlasovala proti projednání odvolání primátorky a proti návrhu Pirátů na zveřejňování majetkových přiznání. KSČM rovněž nepodpořila odvolání radních za ČSSD s výjimkou radní Novákové.
 
 Blízkost na grafu vyplývá i z toho, že KSČM systematicky podporuje v hlasování, aby Piráti vedli kontrolní výbor (jako jediná další strana v Zastupitelstvu) a dalších drobnějších hlasováních. Na rozdíl od TOP 09 a ODS podporují Piráti a KSČM i některé rozumné návrhy koalice, např. návrh, aby výnos z privatizace bytů nebyl příjmem rozpočtu, ale byl vyčleněn do zvláštního fondu sociálního bydlení.
 
-### SWOT analýza
+### Destruktivní opozice
+
+Intenzivně spolupracují TOP 09 a ODS, které spolu například podaly žádost o svolání mimořádného zastupitelstva k projednání návrhu na odvolání primátorky Adriany Krnáčové. Cílem bloku TOP 09 a ODS bylo jakýmkoliv možným způsobem rozbít existující koalici, což se jim nakonec podařilo.
+
+ODS a TOP 09 často vystupovaly proti koalici i ve věcech, které podle nás dělala dobře. Piráti principiálně odmítli, aby byly příjmy z privatizace bytů rozpuštěny v rozpočtu, jak požadovala ODS. Zatímco ODS v minulosti nedělalo problém schválit dotace soukromé firmě na tyčinky, vadilo jí dotování knihovny na Praze 2. To jsou otázky, ve kterých se Piráti a ODS rozcházejí. Naproti tomu v některých tématech se shodnou (např. peníze pro městské části, představenstva městských firem bez politiků).
+
+Cílem TOP 09 bylo odvolat radní a rozštěpit Radu, což se jí na zasedání Zastupitelstva v říjnu 2015 skutečně podařilo. Piráti podpořili návrh na odvolání neschopné radní Novákové (ČSSD), radního Haška (ANO) a radní Ropkové (ČSSD). Piráti nesouhlasili s odvoláním náměstka Stropnického (Trojkoalice), kterým rozpad koalice započal. Po prvním roce vládnutí máme tedy jako výsledek polorozpadlou koalici s Radou, která má 7 členů z 11.
+
+## SWOT analýza
 
 Tato SWOT analýza se zabývá tím, jaké jsou plusy a minusy **konstruktivní opozice**:
 
-#### Silné stránky
+### Silné stránky
 
 * zkušenosti, informace, know how
 * šance něco konkrétního zrealizovat
 * mediální pozornost (Opencard)
-* získávání respektu
-* získávání koaličního potenciálu
+* získávání respektu a koaličního potenciálu
 * vzniká síť lidí, se kterými Piráti na něčem pracovali
 * není potřeba dělat kompromisy
 * Piráti nejsou zavaleni agendou
 * dobrý pocit ze smysluplné činnosti
-* posouvání overton window
+* posouvání Overton window
 * lze zcela promítnout program do hlasování
 * přístup k vládnoucím představitelům
 
-#### Slabé stránky 
+### Slabé stránky 
 
 * Piráti nenesou mediální odpovědnost za věci, které neřídí
 * realizace konkrétních věcí zabírá čas a efektivita je nízká
 * nutnost koordinovat komunikaci
 * nevyjasněná, nečitelná pozice
 
-#### Příležitosti
+### Příležitosti
 
 * šance prosadit Pirátský návrh
 * Pozitivní medializace úspěchů
@@ -147,7 +139,7 @@ Tato SWOT analýza se zabývá tím, jaké jsou plusy a minusy **konstruktivní 
 * možnost vyřešit problémy s Opencard
 * Piráti si nezavírají veře pro budoucí spolupráci
 
-#### Hrozby
+### Hrozby
 
 * spolupracovnici mohou Piráty diskreditovat
 * mediální odpovědnost za chyby v IT
@@ -177,9 +169,17 @@ Zastupitelský klub Pirátů si schválil plán činnosti na první rok fungová
 
 ### Docházka
 
-**Zastupitelé Pirátů mají jednoznačně nejlepší účast na jednání Zastupitelstva a jeho výborů ze všech klubu v Zastupitelstvu.**
+**Zastupitelé Pirátů mají jednoznačně nejlepší účast na jednání Zastupitelstva a jeho výborů ze všech klubu v Zastupitelstvu. Jako jediný zastupitelský klub mají účast zastupitelů 100 %.**
 
-Piráti měli za první rok stoprocentní účast na zasedáních Zastupitelstva hl. m. Prahy (které se koná jednou měsíčně kromě letních prázdnin, kdy nezasedá vůbec). Z koalice musejí mít stoprocentní účast všichni, protože jim záleží na každém hlasu. Z ostatních opozičních klubů se ale téměř vždy někteří zastupitelé zasedání neúčastní.
+Piráti měli za první rok stoprocentní účast na zasedáních Zastupitelstva hl. m. Prahy (které se koná jednou měsíčně kromě letních prázdnin, kdy nezasedá vůbec). Z koalice musejí mít vysokou účast všichni, protože jim záleží na každém hlasu. Z ostatních opozičních klubů se ale téměř vždy někteří zastupitelé zasedání neúčastní.
+
+![Zastupitelé s menší než 100% docházkou na zasedání Zastupitelstva](dochazka1.png)
+
+![Zastupitelé se 100% docházkou na zasedání Zastupitelstva](dochazka2.png)
+
+Data účasti na zasedání jsou převzata z projektu KohoVolit.eu, kterému za to 
+tímto děkujeme <http://kohovolit.eu/wp/kamil/praha_wpca_2015-11/attendance.html>.
+(Za účast je v analýze považováno, i pokud je zastupitel přítomen a rozhodne se nehlasovat.)
 
 Zastupitelé Pirátů mají na jednáních výborů 100% účast a mají také velmi dobrou účast na výborech, kde nejsou členy. Viktor Mahrik má také dobrou účast na finančním výboru (2 omluvené absence).
 
@@ -231,7 +231,7 @@ Zastupitelé Pirátů mají na jednáních výborů 100% účast a mají také v
 
 ### Boj o informace
 
-![Jakub Michálek s rozsudkem, na základě něhož mu mají být poskytnuty dlouho odpírané informacel](jakub-rozsudek.jpg)
+![Jakub Michálek s rozsudkem, na základě něhož mu mají být poskytnuty dlouho odpírané informace](jakub-rozsudek.jpg)
 
 Piráti velmi často žádají o informace podle zákona o svobodném přístupu k informacím (zákon č. 106/1999 Sb.) a zákona o hl. m. Praze (zákon č. 131/2000 Sb.) Bez informací totiž zastupitelé nemohou kvalifikovaně rozhodovat. Jen v roce 2014 podal zastupitelský klub Pirátů [24 žádostí o informace](https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2014). Od ledna do konce října 2015 podali pirátští zastupitelé dalších [více než 200 žádostí o informace](https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015). Žádosti jsou evidovány ve spisové službě na Githubu, aktuální stavy jednotlivých žádostí pak v [redmine](https://redmine.pirati.cz/projects/praha/issues?query_id=17).
 
@@ -440,13 +440,19 @@ Jednotliví zastupitelé vykazují svojí aktivitu v systému [redmine][redmine]
 
 Celková výše **hrubých** příjmů (před zaplacením daní a pojistného) včetně průměru za období říjen 2014 až září 2015 je uvedena v následující tabulce.
 
-Příjemce	            | Příjmy od města	              | Příjmy od strany            |	Celkem
-------                | -------                       | ---                         | ----
-Adam Zábranský	      | 130968 Kč (10914 Kč měsíčně)  |  88844 Kč (7404 Kč měsíčně) |	219812 Kč (18318 Kč měsíčně)
-Jakub Michálek	      | 171626 Kč (14302 Kč měsíčně)  | 129732 Kč (10811 Kč měsíčně)|	301358 Kč (25113 Kč měsíčně)
-Mikuláš Ferjenčík	    | 122762 Kč (10230 Kč měsíčně)  |  90811 Kč (7568	Kč měsíčně) | 213573 Kč	(17798 Kč měsíčně)
-Ondřej Profant	      | 207011 Kč (17251 Kč měsíčně)  | 103384 Kč (8615 Kč měsíčně) | 310395 Kč (25866 Kč měsíčně)
-průměr na zastupitele | 13174 Kč měsíčně	            |   8599 Kč měsíčně           | 21773 Kč měsíčně
+Příjemce	            | Příjmy od města	              | Příjmy od strany            |	Součet příjmů
+------                | -------:                      | ---:                        | ----:
+**Adam Zábranský**    | 130968 Kč                     |  88844 Kč                   |	219812 Kč
+  čili měsíčně        |  10914 Kč                     |   7404 Kč                   |  18318 Kč
+**Jakub Michálek**	  | 171626 Kč                     | 129732 Kč                   |	301358 Kč
+  čili měsíčně        | 14302 Kč                      |  10811 Kč                   |  25113 Kč
+**Mikuláš Ferjenčík** | 122762 Kč                     |  90811 Kč                   | 213573 Kč	
+  čili měsíčně        |  10230 Kč                     |   7568 Kč                   |  17798 Kč
+**Ondřej Profant**    | 207011 Kč                     | 103384 Kč                   | 310395 Kč
+  čili měsíčně        |  17251 Kč                     |   8615 Kč                   |  25866 Kč
+**měsíční průměr**    |  13174 Kč                     |   8599 Kč                   |  21773 Kč 
+
+: Roční a měsíční příjmy zastupitelů v klubu Pirátů
 
 Poznámka: zastupitelé dostávají příjem od strany od listopadu 2014 s výjimkou Adama Zábranského, který ho dostává od prosince 2015 z důvodu pozdějšího nástupu.
 
