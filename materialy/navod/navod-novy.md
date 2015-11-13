@@ -210,7 +210,28 @@ Pokud je k dispozici více formátů jednoho souboru, tak oba dva budou v jednom
 
 Ukázkový dataset může vypadat takto: např. "Výsledky hlasování zastupitelstva za rok 2014", kde jednotlivé zdroje (tedy nahrané soubory) budou zápisy z jednání zastupitelstva v průběhu celého roku 2014. 
 
-# 4. Závěr
+# 4. Licence
+
+Licence nám říká, co všechno můžeme dělat a co dělat nesmíme. Protože toho chceme s otevřenými daty dělat hodně, a nechceme být omezování, používáme tzv. svobodné licence. Otevřená data sice nejsou tzv. *volným dílem* podle autorského zákona, licencovat je můžeme ale jako tzv. Tvůrčí společenství (anglicky Creative Commons). Obdobnou licenci používá například Institut plánování a rozvoje v Praze (IPR). 
+
+Svobodná licence Creative Commons ve verzi 4.0 má několik atributů. Ve svém základním lze obsah licence shrnout se slovy "uveďte autora ₋ zachovejte licenci". Tedy, že každý musí při užití dat kdekoliv na internetu uvést, odkud daná data vzal a dále je šířit pouze pod svobodnou licencí Creative Commons tak, aby data zůstala otevřená. 
+
+## 4.1. Příklady licencování
+
+Institut plánování a rozvoje uvádí licenční podmínky následujícím způsobem:
+
+* Odběratel může dílo kopírovat a dále distribuovat na jakémkoli médiu a v jakémkoli formátu.
+* Odběratel smí dílo upravovat, transformovat či začlenit do vlastního díla pro jakýkoli účel, a to včetně komerčního využití.
+* Povinností odběratele je uvést autorství, poskytnout s dílem odkaz na licenci a vyznačit provedené změny. Toho může odběratel docílit jakýmkoli rozumným způsobem, nicméně nikdy ne způsobem naznačujícím, že by poskytovatel licence schvaloval nebo podporoval odběratele nebo způsob užití díla odběratelem.
+* Pokud dílo či jeho odvozeniny šíří odběratel dále, musí zachovat licenci.
+* Data získává odběratel zdarma, proto je zapovězen jejich přímý přeprodej.
+* Díla vzniklá s využitím dat a výstupů z datového skladu GIS hl. m. Prahy opatří žadatel a odběratel kromě odkazu na licenci **CC BY-SA 4.0** také doložkou: **„datový podklad © IPR Praha“** nebo logem IPR Praha a adresou www.geoportalpraha.cz.
+
+Pokud tedy chcete užívat svobodnou licenci Creative Commons (Tvůrčí společenství) stačí jen, když uvedený dataset opatříte názvem autora (např. **Městský úřad v Benešově** a zkratkou **CC BY-SA 4.0**). Toto však již může být předdefinováno přímo ve vašem rozhraní CKAN, poté samozřejmě opětovně licenci nevyplňujte.
+
+Více informací k těmto licencím je uvedeno [zde](http://www.creativecommons.cz/licence-cc/).
+
+# 5. Závěr
 
 Jistě není zřízení otevřených dat na úřadě problematikou, kterou lze vyřešit za dvě hodiny nad jednou kávou. Pro otevřená data je nezbytné aplikovat nové poznatky a nové zkušenosti; s daty pracovat jiným, než doposud zaběhlým způsobem. Přínosy jsou však mnohé: k datům mají přístup všichni, a tedy nejen zvídavá veřejnost, ale například i pracovníci dalších institucí a úřadů. Vám tak odpadne zdlouhavá práce zasílání souborů žadatelům; ti si je budou moci najít sami jako otevřená data. Úřad bude otevřenější veřejnosti, poskytování jednotlivých informací bude fungovat automatizovaně od chvíle, jakmile budou nahrány. 
 
