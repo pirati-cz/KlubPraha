@@ -1,6 +1,6 @@
 # 1. Úvod
 
-Otevřená data (anglicky open data) jsou data, která jsou ve strojově čitelné podobě[^3] dostupná veřejnosti. V programovém prohlášení Rady hl. m. Prahy[^1] i komise ICT RHMP[^2] jsou OpenData (a dokonce i OpenSource) rozhodným způsobem podpořena. Pojďme se proto nyní podívat, jak lze z obyčejných dat udělat otevřená data, která mohou sloužit nejen úřadu, ale i veřejnosti. 
+Otevřená data (anglicky open data) jsou data, která jsou ve strojově čitelné podobě[^1] dostupná veřejnosti. V programovém prohlášení Rady hl. m. Prahy[^2] i komise ICT RHMP[^3] jsou OpenData (a dokonce i OpenSource) rozhodným způsobem podpořena. Pojďme se proto nyní podívat, jak lze z obyčejných dat udělat otevřená data, která mohou sloužit nejen úřadu, ale i veřejnosti. 
 
 # 2. Jak získat data
 
@@ -216,6 +216,7 @@ Jistě není zřízení otevřených dat na úřadě problematikou, kterou lze v
 
 I proto (a i z dalších důvodů) rozhodně stojí za to se otevřenými daty zabývat a ve vaší instituci je používat. Věříme, že se tomu tak i stane a že tomu dopomůže právě i tento návod. 
 
-[^1]: [Programové prohlášení RHMP](http://www.praha.eu/public/9f/ba/8e/2011700_570389_Programove_prohlaseni__RADA.pdf).
-[^2]: Komise ICT RHMP schválila projektový záměr opendat 16. 5. 2015
-[^3]: Strojově čitelnou podobou dokumentu rozumíme takový dokument, jehož obsahem je text který lze označit a zkopírovat, eventuálně s nim jakýmkoliv dalším způsobem strojově pracovat. Strojově čitelný je proto, že můžeme vytvořit automatizovaný nástroj (stroj), který tento dokument dokáže číst a analyzovat. 
+[^1]: Strojově čitelnou podobou dokumentu rozumíme takový dokument, jehož obsahem je text který lze označit a zkopírovat, eventuálně s nim jakýmkoliv dalším způsobem strojově pracovat. Strojově čitelný je proto, že můžeme vytvořit automatizovaný nástroj (stroj), který tento dokument dokáže číst a analyzovat. 
+[^2]: http://www.praha.eu/public/9f/ba/8e/2011700_570389_Programove_prohlaseni__RADA.pdf
+[^3]: Komise ICT RHMP schválila projektový záměr opendat 16. 5. 2015
+
