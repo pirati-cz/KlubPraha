@@ -39,7 +39,7 @@ předseda klubu Pirátů v Zastupitelstvu hl. m. Prahy
 
 ![Novoroční ohňostroj](ohnostroj.jpg)  
 Ivan Centéš: [Novoroční ohňostroj](https://flic.kr/p/qCDN9J), CC-BY-NC 2.0
-
+a
 * Donutili jsme k **rezignaci šedou eminenci Radmilu Kleslovou**, která brala 360 tisíc měsíčně z městských firem, a odvolali její spojence z Rady.
 * Prosadili jsme *Teze digitální strategie* včetně **podpory open source a otevřených dat**; spustili jsme pražská otevřená data.
 * Donutili jsme Magistrát poskytovat občanům **informace o výši mimořádných odměn úředníků**, které od roku 2013 neoprávněně utajoval.
@@ -100,7 +100,7 @@ Data pro rozložení politických sil jsou vytvářena z jednotlivých hlasován
 Zastupitelstva a jsou převzata z projektu KohoVolit.eu, kterému za to 
 tímto děkujeme <http://kohovolit.eu/wp/kamil/praha_wpca_2015-11/all/index.html>.
 
-Od voleb konaných v říjnu 2014 se současné rozložení sil odlišuje tím, že zastupitelka Monika Krobová Hášová nedlouho po volbách vystoupila z klubu TOP 09 a je zastupitelkou nezařazenou, která hlasuje spolu s ČSSD (je také mj. členkou dozorčí rady městské společnosti Pražská energetika, a.s.) Vedle toho se z klubu TOP 09 v dubnu 2014 vyčlenili zastupitelé Tomáš Hudeček (bývalý primátor), Eva Vorlíčková a Milan Růžička, kteří utvořili klub nezávislých.
+Od voleb konaných v říjnu 2014 se současné rozložení sil odlišuje tím, že zastupitelka Monika Krobová Hášová nedlouho po volbách vystoupila z klubu TOP 09 a stala se zastupitelkou nezařazenou, která hlasuje spolu s ČSSD (je také mj. členkou dozorčí rady městské společnosti Pražská energetika, a.s.) Vedle toho se z klubu TOP 09 v dubnu 2014 vyčlenili zastupitelé Tomáš Hudeček (bývalý primátor), Eva Vorlíčková a Milan Růžička, kteří utvořili klub nezávislých.
 
 ## Koalice
 
@@ -114,7 +114,7 @@ Opozice hlasovala prakticky jednotně v klíčových tématech, jako byl napří
 
 Druhý blok tvoří politické strany, které podporují vybrané kroky koalice a jiné její návrhy věcně kritizují. Okruh podporovaných návrhů se však u nich různí. Např. KSČM na rozdíl od Pirátů loajálně podpořila koalici v hlasování o přerušení prvního zasedání. Dále hlasovala proti projednání odvolání primátorky a proti návrhu Pirátů na zveřejňování majetkových přiznání. KSČM rovněž nepodpořila odvolání radních za ČSSD s výjimkou radní Novákové.
 
-Blízkost na grafu vyplývá i z toho, že KSČM systematicky podporuje v hlasování, aby Piráti vedli kontrolní výbor (jako jediná další strana v Zastupitelstvu) a dalších drobnějších hlasováních. Na rozdíl od TOP 09 a ODS podporují Piráti a KSČM i některé rozumné návrhy koalice, např. návrh, aby výnos z privatizace bytů nebyl příjmem rozpočtu, ale byl vyčleněn do zvláštního fondu sociálního bydlení.
+Blízkost na grafu vyplývá i z toho, že KSČM systematicky podporuje v hlasování, aby Piráti vedli kontrolní výbor (jako jediná další strana v Zastupitelstvu) a v dalších drobnějších hlasováních. Na rozdíl od TOP 09 a ODS podporují Piráti a KSČM i některé rozumné návrhy koalice, např. návrh, aby výnos z privatizace bytů nebyl příjmem rozpočtu, ale byl vyčleněn do zvláštního fondu sociálního bydlení.
 
 ## Destruktivní opozice
 
@@ -122,7 +122,7 @@ Intenzivně spolupracují TOP 09 a ODS, které spolu například podaly žádost
 
 ODS a TOP 09 často vystupovaly proti koalici i ve věcech, které podle nás dělala dobře. Piráti principiálně odmítli, aby byly příjmy z privatizace bytů rozpuštěny v rozpočtu, jak požadovala ODS. Zatímco ODS v minulosti nedělalo problém schválit dotace soukromé firmě na tyčinky, vadilo jí dotování knihovny na Praze 2. To jsou otázky, ve kterých se Piráti a ODS rozcházejí. Naproti tomu v některých tématech se shodnou (např. peníze pro městské části, představenstva městských firem bez politiků).
 
-Cílem TOP 09 bylo odvolat radní a rozštěpit Radu, což se jí na zasedání Zastupitelstva v říjnu 2015 skutečně podařilo. Piráti podpořili návrh na odvolání neschopné radní Novákové (ČSSD), radního Haška (ANO) a radní Ropkové (ČSSD). Piráti nesouhlasili s odvoláním náměstka Stropnického (Trojkoalice), kterým rozpad koalice započal. Po prvním roce vládnutí máme tedy jako výsledek polorozpadlou koalici s Radou, která má 7 členů z 11.
+Cílem TOP 09 bylo odvolat radní a rozštěpit Radu, což se jí na zasedání Zastupitelstva v říjnu 2015 skutečně podařilo. Piráti podpořili návrh na odvolání neschopné radní Novákové (ČSSD), radního Haška (ANO) a radní Ropkové (ČSSD). Piráti nesouhlasili s odvoláním náměstka Stropnického (Trojkoalice), kterým rozpad koalice započal. Po prvním roce vládnutí máme nakonec jako výsledek rozpadlou koalici.
 
 # SWOT analýza
 
@@ -156,7 +156,7 @@ Tato SWOT analýza se zabývá tím, jaké jsou plusy a minusy **konstruktivní 
 * větší šance odhalit průsery
 * prostor vytvořit a propracovat návrhy do budoucna
 * možnost vyřešit problémy s Opencard
-* Piráti si nezavírají veře pro budoucí spolupráci
+* Piráti si nezavírají dveře pro budoucí spolupráci
 
 ## Hrozby
 
@@ -191,13 +191,13 @@ Zastupitelský klub Pirátů si schválil plán činnosti na první rok fungová
 
 Piráti měli za první rok stoprocentní účast na zasedáních Zastupitelstva hl. m. Prahy (které se koná jednou měsíčně kromě letních prázdnin, kdy nezasedá vůbec). Z koalice musejí mít vysokou účast všichni, protože jim záleží na každém hlasu. Z ostatních opozičních klubů se ale téměř vždy někteří zastupitelé zasedání neúčastní.
 
-![Zastupitelé s menší než 100% docházkou na zasedání Zastupitelstva](dochazka1.png)
+![Zastupitelé s menší než 100% účastí na hlasování Zastupitelstva](dochazka1.png)
 
-![Zastupitelé se 100% docházkou na zasedání Zastupitelstva](dochazka2.png)
+![Zastupitelé se 100% účastí na hlasování Zastupitelstva](dochazka2.png)
 
 Data účasti na zasedání jsou převzata z projektu KohoVolit.eu, kterému za to 
 tímto děkujeme <http://kohovolit.eu/wp/kamil/praha_wpca_2015-11/attendance.html>.
-(Za účast je v analýze považováno, i pokud je zastupitel přítomen a rozhodne se nehlasovat.)
+(Za účast je v analýze považováno, i pokud je zastupitel přítomen a rozhodne se nehlasovat).
 
 Zastupitelé Pirátů mají na jednáních výborů 100% účast a mají také velmi dobrou účast na výborech, kde nejsou členy. Viktor Mahrik má také dobrou účast na finančním výboru (2 omluvené absence).
 
@@ -224,14 +224,14 @@ Zastupitelé Pirátů mají na jednáních výborů 100% účast a mají také v
 
 * Na výbor jsou předkládány provozní tisky (např. prodej či nákup pár metrů čtverečních). Významnější tisky jsou předkládány bez širšího kontextu (prodej rozvojových parcel v Karlíně, velká výměna pozemků s ČSOB). To vše je důsledkem absence koncepce.
 * Pirátský člen výboru pro majetek Ondřej Profant opakovaně žádal předsedu výboru i radního pro majetek o jednání o obecné koncepci hospodaření s majetkem. Koncepční jednání bylo přislíbeno, avšak zatím se žádné neodehrálo.
-* Jedinou světlou výjimkou je *Návrh pravidel pro rozhodování o prodejích a pronájmech veřejných prostranství sídlišť* (6. jednání, bod 5.1), který si z iniciativy nám. primátora Matěje Stropnického výbor vyžádal. Majetkové podíly se doposud neřešily vůbec.
+* Jedinou světlou výjimkou je *Návrh pravidel pro rozhodování o prodejích a pronájmech veřejných prostranství sídlišť* (6. jednání, bod 5.1), který si z iniciativy tehdejšího náměstka primátora Matěje Stropnického výbor vyžádal. Majetkové podíly se doposud neřešily vůbec.
 * Ondřej Profant ve výboru otevřel témata pronájmu *Maršmeloun* a [Sixti](https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/140-sixti). Maršmeloun má nyní pozastavené stavební povolení. U druhé kauzy byla představena petice a Ondřej Profant přednesl úvodní slovo. Zbytek výboru však nechtěl téma projednat bez podkladů od odboru. Téma bylo zařazeno na další jednání, avšak to neproběhlo z důvodů nízké účastí – což je obecně dlouhodobý problém tohoto výboru.
 
 ## Výbor pro územní rozvoj a uzemní plán
 
 * Pirátský zástupce ve výboru Mikuláš Ferjenčík už pro druhé zasedání výboru připravil shrnutí největších problémů územního plánování v Praze, následně ho prodiskutoval s předsedou výboru Janem Slezákem, který k němu poslal připomínky.
 * Před výborem potom prochází všechny jednotlivé změny územního plánu a zaujímá k nim stanovisko. Pokud chcete pomáhat, obraťte se na něj.
-* Proběhl i seminář o změnách územního plánu od neziskové organizace Arnika, v neposlední řadě Mikuláš pravidelně konzultoval s kanceláří Matěje Stropnického, který byl do října 2015 náměstka primátorky s gescí uzemní plánování.
+* Proběhl i seminář o změnách územního plánu od neziskové organizace Arnika, v neposlední řadě Mikuláš pravidelně konzultoval tyto změny s kanceláří Matěje Stropnického, který byl do října 2015 náměstka primátorky s gescí uzemní plánování.
 * Aktuálně Mikuláš vede zásadní spor o seznam podnětů na změnu územního plánu, kde dosáhl [úspěchu u ministerstva vnitra](https://praha.pirati.cz/tabulka-podnetu.html). Pro organizaci Arnika připomínkoval příručku Územní plán pro občany, která je [ke stažení na webu](http://arnika.org/uzemni-plan-prirucka-pro-obcany).
 
 ## Komise ICT
@@ -259,7 +259,7 @@ Zastupitelé Pirátů mají na jednáních výborů 100% účast a mají také v
 
 ## Podpora zastupitelů v městských částech
 
-* Zastupitel Ondřej Profant se spolupodílel na obnově IT na Praze 7 a především se věnoval problematiky IT na Praze 10. Tam koalice Vlasta (jejíž součástí jsou Piráti) zpochynila [superzakázku na outsourcing IT](http://www.zaostrenona10.cz/mimoradne-zastupitelstvo-bylo-vskutku-mimoradne/).
+* Zastupitel Ondřej Profant se spolupodílel na obnově IT na Praze 7 a především se věnoval problematice IT na Praze 10. Tam koalice Vlasta (jejíž součástí jsou Piráti) zpochynila [superzakázku na outsourcing IT](http://www.zaostrenona10.cz/mimoradne-zastupitelstvo-bylo-vskutku-mimoradne/).
 * Zastupitel Jakub Michálek pomáhá zastupitelům na městských částech s žádáním o informace.
 * Zastupitel Mikuláš Ferjenčík konzultuje s lidmi v městských částech aktuální změny územního plánu.
 
@@ -378,7 +378,7 @@ Magistrát pirátským zastupitelům opakovaně odmítal poskytovat informace, n
 
 ![Připravené a vytištěné Pirátské listy na podzim 2015](pirlisty.jpg)
 
-* Vydali jsme tištěné [Pirátské listy](https://praha.pirati.cz/piratske-listy-2015.html) v nákladu 80 000 ks. Dosud se nám z nich podařilo rozdistrubovat tři čtvrtiny. Pirátské listy tentokrát nebyly volební, informovaly však o naší činnosti v Zastupitelstvu za uplynulý rok.
+* Vydali jsme tištěné [Pirátské listy](https://praha.pirati.cz/piratske-listy-2015.html) v nákladu 80 000 ks. Dosud se nám z nich podařilo rozdistrubovat více než 70 000. Pirátské listy tentokrát nebyly volební, informovaly však o naší činnosti v Zastupitelstvu za uplynulý rok.
 * Do rozdávání listů se zapojilo přinejmenším 31 členů Pirátské stany, 15 příznivců, a čtyři pražští zastupitelé. S roznosem nám pomáhají dokonce i příznivci TOP 09 nebo KSČM.
 
 # Fungování klubu

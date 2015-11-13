@@ -1,6 +1,6 @@
 # 1. Úvod
 
-Otevřená data (anglicky open data) jsou data, která jsou ve strojově čitelné podobě[^1] dostupná veřejnosti. V programovém prohlášení Rady hl. m. Prahy[^2] i komise ICT RHMP[^3] jsou OpenData (a dokonce i OpenSource) rozhodným způsobem podpořena. Pojďme se proto nyní podívat, jak lze z obyčejných dat udělat otevřená data, která mohou sloužit nejen úřadu, ale i veřejnosti. 
+Otevřená data (anglicky open data) jsou data, která jsou ve strojově čitelné podobě dostupná veřejnosti. V [programovém prohlášení Rady hl. m. Prahy](http://www.praha.eu/public/9f/ba/8e/2011700_570389_Programove_prohlaseni__RADA.pdf) i komise ICT RHMP jsou OpenData (a dokonce i OpenSource) rozhodným způsobem podpořena. Pojďme se proto nyní podívat, jak lze z obyčejných dat udělat otevřená data, která mohou sloužit nejen úřadu, ale i veřejnosti. 
 
 # 2. Jak získat data
 
@@ -28,7 +28,7 @@ Formát .xlsx je formát podobný známému a rozšířenému formátu .xls (kte
 
 **Tento formát používejte pro tabulky, nemůžete li z jistých důvodu užít formátu .csv.**
 
-### 2.1.3. markdown
+### 2.1.3. Markdown
 
 Markdown (formát .md) je jednoduchý textový formát (podobně jako prostý text, formát .txt). Používá se pro textové soubory (zprávy, zápisy, přehledy aj.) Oproti formátu, který používá například Microsoft Word (formát .doc) má sice mnohem méně možností formátování, zato je možné jej zobrazit bez jakýchkoliv problémů jak na běžném počítači (není potřebné instalovat žádný zvláštní software), tak i online. Dokumenty uložené ve formátu markdown ₋ tedy s příponou .md ₋ lze snadno převádět dále automatizovanými nástroji do různých podob, webových stránek, prezentací, PDF souborů apod. 
 
@@ -46,7 +46,7 @@ Na obrázku výše je uvedeno, jak se od sebe liší zdrojový kód (režim edit
 
 **Tento formát používejte pro textové soubory, kdykoliv je to možné.**
 
-## 2.2. Problematika exportování dat. 
+## 2.2. Problematika exportování dat
 
 Kancelářský software (Microsoft Word, Microsoft Excel, Open Office, Libre Office aj.) umožňuje jednotlivé soubory, které mají být zveřejněny jako open data, ukládat ve více formátech (povšimněte si nabídek "Uložit" a "Uložit jako"). V nabídce, která se po vybrání jedné z těchto dvou voleb objeví, poté lze vybrat některý z otevřených formátů. 
 
@@ -147,9 +147,9 @@ Nejjednoduším způsobem, jak připavit dokument ve formátu Markdown je samoz�
 
 Nyní bychom měli dokázat data, se kterými pracujeme, převést do takového formátu, aby je bylo možné poskytnout jako otevřená data. Dále se podíváme na to, jak tato data lze zveřejnit ₋ tedy umístit na internet tak, aby je mohl užívat opravdu každý.
 
-## 3.1 Technologie k uveřejnění dat ₋ CKAN
+## 3.1. Technologie k uveřejnění dat ₋ CKAN
 
-### 3.2 Úvod
+## 3.2. Úvod
 
 Otevřená data jsou k dispozici na internetu. Přesněji jsou zveřejňována na tzv. portálech otevřených dat (jako je například [pražský opendatový portál](http://opendata.praha.eu/)), který hlavní město provozuje. Každý úřad, škola, organizace... si zřídí svůj portál otevřených dat, který bude na internetu k dispozici a poté požádá své pracovníky, aby tam svá data nahráli jako tzv. datové sady. Podívejme se ještě na tyto portály...
 
@@ -159,7 +159,7 @@ Každý takový portál má veřejnou (kde si můžete data prohlížet) a neve�
 
 **Portál otevřených dat nabízí tzv. datasety, tedy sady/složky dat. Tyto sady pak tvoří jednotlivé soubory v různých formátech. Jaké a proč je vysvětleno dále.**
 
-### 3.3 Správa instituce v CKAN
+## 3.3 Správa instituce v CKAN
 
 Každý úřad, nebo část úřadu, je ozančován v technologii CKAN jako separátní *instituce*. V případě hlavního města to mohou být odbory, městské části, příspěvkové organizace a korporace vlastněné hlavním městěm Prahou. Každá instituce má v rámci systému vlastní datasety, spravuje si svoje vlastní uživatele etc. Můžete tedy upravovat jen ta data v rámci portálu otevřených dat, která jsou přidělena vaší instituci (odboru, oddělení, městské části atp). 
 
@@ -172,13 +172,13 @@ Každý úřad, nebo část úřadu, je ozančován v technologii CKAN jako sepa
 
 Instituce vlastní na portálu CKAN datasety, které přidali uživatelé, kteří jsou jejími členy. Ve své podstatě funguje CKAN podobně jako facebooková skupina. Instituce portálu CKAN má svůj název, popisek a logo. Správce instituce (patrně váš vedoucí pracovník) pak má oprávnění zakládat další uživatelské účty v dané instituci tak, aby se do zveřejňování dat mohlo zapojit co nejvíce lidí.
 
-### 3.4. Datasety
+## 3.4. Datasety
 
 Dataset (nebo také datová sada) je jakási složka, nebo ještě lépe archiv (jako je například zazipovaný soubor). Je analogií složky v počítači pro portál otevřených dat. Obsahuje jednotlivé zdroje (tedy soubory, jak bude uvedeno dál) a sám o sobě má vlastní název, popis, metadata (např. licenci) a url. Dataset je základní stavební blok otevřených dat; abychom s daty mohli pracovat a třídit je, tak je uveřejňujeme v datasetech (neboli datových sadách) stejně tak, jako jednotlivé soubory umisťujeme do složek, či případně do různých archivů. Důvod je ten, že data musí být dostupná na internetu tak, aby je mohli jednotliví uživatelé dobře procházet, a toho lze dosáhnout pouze tímto způsobem. 
 
 Každý dataset má určité atributy. Jedním z nich je například i zdroj. Podívejme se nyní, co vše potřebujeme nastavit pro nový dataset, který chceme vytvořit.
 
-### 3.5. Jak vytvořit dataset?
+## 3.5. Jak vytvořit dataset?
 
 1. 	Vpravo nahoře je tlačítko „Přihlásit se“ (v anglické verzi „Login“).
 
@@ -200,7 +200,7 @@ Každý dataset má určité atributy. Jedním z nich je například i zdroj. Po
 
 Dataset je tedy sada/složka, kde se shromažďují dílčí zdroje. Svůj dataset může mít například „Samospráva“, „Školství“, „Majetek“ ₋ ideální je zřídit obdobnou strukturu datasetů jako je tomu v případě vnitřních složek úřadu. Každý odbor, sekce, oddělení... bude tak mít své datasety; všichni, kteří v rámci odboru zveřejňují otevřená data pak budou používat pouze jeden svůj konkrétní. Do datasetu se následně přidávají jednotlivé zdroje (soubory). To může být např. konkrétní tabulka („seznam škol“, „seznam nebytových prostor“).
 
-### 3.6. Zdroj
+## 3.6. Zdroj
 
 Zdroj je již samotný soubor (jeden!) s daty. Např. soubor `navstevnost.csv` představuje tabulku návštěvnosti. Datová sada/dataset má více zdrojů.
 
@@ -210,13 +210,9 @@ Pokud je k dispozici více formátů jednoho souboru, tak oba dva budou v jednom
 
 Ukázkový dataset může vypadat takto: např. "Výsledky hlasování zastupitelstva za rok 2014", kde jednotlivé zdroje (tedy nahrané soubory) budou zápisy z jednání zastupitelstva v průběhu celého roku 2014. 
 
-# 5. Závěr
+# 4. Závěr
 
 Jistě není zřízení otevřených dat na úřadě problematikou, kterou lze vyřešit za dvě hodiny nad jednou kávou. Pro otevřená data je nezbytné aplikovat nové poznatky a nové zkušenosti; s daty pracovat jiným, než doposud zaběhlým způsobem. Přínosy jsou však mnohé: k datům mají přístup všichni, a tedy nejen zvídavá veřejnost, ale například i pracovníci dalších institucí a úřadů. Vám tak odpadne zdlouhavá práce zasílání souborů žadatelům; ti si je budou moci najít sami jako otevřená data. Úřad bude otevřenější veřejnosti, poskytování jednotlivých informací bude fungovat automatizovaně od chvíle, jakmile budou nahrány. 
 
 I proto (a i z dalších důvodů) rozhodně stojí za to se otevřenými daty zabývat a ve vaší instituci je používat. Věříme, že se tomu tak i stane a že tomu dopomůže právě i tento návod. 
-
-[^1]: Strojově čitelnou podobou dokumentu rozumíme takový dokument, jehož obsahem je text který lze označit a zkopírovat, eventuálně s nim jakýmkoliv dalším způsobem strojově pracovat. Strojově čitelný je proto, že můžeme vytvořit automatizovaný nástroj (stroj), který tento dokument dokáže číst a analyzovat. 
-[^2]: http://www.praha.eu/public/9f/ba/8e/2011700_570389_Programove_prohlaseni__RADA.pdf
-[^3]: Komise ICT RHMP schválila projektový záměr opendat 16. 5. 2015
 
