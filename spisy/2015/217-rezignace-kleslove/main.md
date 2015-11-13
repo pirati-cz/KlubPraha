@@ -22,11 +22,11 @@ style:      letter
 
 Vážení
 
-Žádám v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a v souladu s odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze o následující informace:
+Žádám v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a v souladu s odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze o informace týkající se majetkového portfólia hl. m. Prahy:
 
-1. Jméno osoby nebo název subjektu, který spravuje majetková portfolia v Praze.
+Uveďte prosím, kdy byla podána rezignace JUDr. Radmily Kleslové, narozené dne 25. 8. 1963, bytem Gutova 3317/15, Strašnice, 100 00 Praha 10, na její pozice v pražských městských společnostech Pražská teplárenská a.s., Pražská energetika a.s., přiložte kopii rezignačního dopisu a uveďte datum, kdy rezignace nabude účinnosti, tj. kdy zanikne její členství v orgánech těchto společností. 
 
-2. Datum, kdy byla podána rezignace JUDr. Radmily Kleslové, narozené dne 25. 8. 1963, bytem Gutova 3317/15, Strašnice, 100 00 Praha 10 na její pozice v pražských městských společnostech Pražská teplárenská a.s., Pražská energetika a.s. Tedy kdy Radmila Kleslová podala rezignaci na funkci člena představenstva Pražské teplárenské a.s. a člena dozorčí rady Pražské energetiky a.s.
+Pokud touto informací nedisponujete, tak si ji vyžádejte od svých dceřinných společností. Vzhledem k tomu, že tyto dceřinné společnosti (Pražská energitika Holding a.s., Pražská teplárenská Holding, a. s.) jsou povinným subjektem ovládány a sami o sobě jsou povinným subjektem, ale svou povinnost poskytovat informace podle zákona řádně neplní, jsem nucen se obrátit na Vás, abyste požadovanou informaci poskytli jako jejich ovládající právnická osoba. Jsem přesvědčen, že znalost takto zásadní informace o stavu předmětných společností patří k povinnostem hl. m. Prahy jako řádného hospodáře a spráce majetkových portfólií.  
 
 Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Ke komunikaci zmocňuji dále svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17). Předem děkuji za Vaši vstřícnost. 
 
