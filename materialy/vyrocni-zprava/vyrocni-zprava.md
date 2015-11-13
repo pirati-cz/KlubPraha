@@ -253,9 +253,9 @@ Zastupitelé Pirátů mají na jednáních výborů 100% účast a mají také v
 
 * Piráti pravidelně každý týden pořádají **zastupitelské úterky** v Pirátském centru (Řehořova 19, Praha 3, vždy od 18:00). Jednotliví zastupitelé, kteří se tam každý týden střídají, si vždy vybírají jiné téma, o kterém hovoří. Daná témata se vždy dotýkají aktuální politické situace na pražském magistrátu. V rámci večera je plno prostoru pro zvědavce, kteří zastupitelům mohou klást nejrůznější otázky.
 * V prosinci roku 2014 jsme uspořádali **Piratecon**, celostátní pirátskou konferenci, která byla zaměřená na zastupitele obcí, ale třeba i městských částí. Přijela minimálně stovka účastníků a přednášky stály za to.
-* V lednu pirátští zastupitelé zorganizovali akci s Islandskou poslankyní Pirátů **Birgittou Jonsdóttir**.
-* Vystoupili jsme rovněž na **mezinárodním Pirateconu** v květnu 2015 v Mariánských lázních, kde sdíleli své zkušenosti i s mezinárodními Piráty.
-* Od podzimu 2015 pořádají i turné po městských částech, kde se scházejí s občany jednotlivých částí Prahy v přátelské neformální atmosféře.
+* V lednu pirátští zastupitelé zorganizovali akci s islandskou poslankyní Pirátů **Birgittou Jonsdóttir**.
+* Vystoupili jsme rovněž na **mezinárodním Pirateconu** v květnu 2015 v Mariánských lázních, kde jsme své zkušenosti sdíleli i s mezinárodními Piráty.
+* Od podzimu 2015 pořádáme i turné po městských částech, kde se scházíme s občany jednotlivých částí Prahy v přátelské neformální atmosféře.
 
 ## Podpora zastupitelů v městských částech
 
@@ -281,7 +281,7 @@ Pirátští zastupitelé nežijí jen komunální politikou:
 
 Během svého ročního působení vydali pirátští zastupitelé minimálně 50 tiskových zpráv a 106 článků na webu [praha.pirati.cz/blog](praha.pirati.cz/blog). Pravidelně o nás vycházejí novinové články, a to nejen v pražských, ale i v celostátních médiích. Odhadem generujeme minimálně polovinu všech novinových článků o Pirátech v republice za poslední rok.
 
-Při příležitosti sto dní Rady Piráti uspořádali tiskovou konferenci, na které byl zhodnocen přístup Rady k některým ožehavým problémům města. Dále Jakub Michálek vystoupil na tiskové konferenci k Opencard, kde prezentoval v přímém přenosu České televize seznam pochybení předchozích politických reprezentací v kauze Opencard. V červnu 2015 jsme upozornili na kauzu tzv. eurozákazu fotografování – kde hrozilo značným způsobem omezení práv Pražanů svobodně šířit své fotografie. Rovněž jsme také odkryli netransparentní zákulisí rozhodování pražské Rady (tzv. aféra kuchyňka), vyzvali Karla Březinu, aby odešel jako odsouzený podvodník do politického důchodu a v neposlední řadě odsoudili trafiky pražských politiků. Právě poslední uvedený výstup vedl ke kvalitativní změně a rezignaci Radmily Kleslové, bývalé agentky komunistické vojenské kontrarozvědky, z řady funkcí. Značnou mediální pozornost si získalo i rozhodnutí krajského sdružení Pirátů umožnit nám jako zastupitelům jednat o případné koalici. Tuto pozornost jsme využili k prezentaci vnitrostranické demokracie a našich programových požadavků.
+Při příležitosti sto dní Rady Piráti uspořádali tiskovou konferenci, na které byl zhodnocen přístup Rady k některým ožehavým problémům města. Dále Jakub Michálek vystoupil na tiskové konferenci k Opencard, kde prezentoval v přímém přenosu České televize seznam pochybení předchozích politických reprezentací v kauze Opencard. V červnu 2015 jsme upozornili na kauzu tzv. eurozákazu fotografování – kde hrozilo značným způsobem omezení práv Pražanů svobodně šířit své fotografie. Rovněž jsme také odkryli netransparentní zákulisí rozhodování pražské Rady (tzv. aféra kuchyňka), vyzvali Karla Březinu, aby odešel jako odsouzený podvodník do politického důchodu, a v neposlední řadě odsoudili trafiky pražských politiků. Právě poslední uvedený výstup vedl ke kvalitativní změně a rezignaci Radmily Kleslové, bývalé agentky komunistické vojenské kontrarozvědky, z řady funkcí. Značnou mediální pozornost si získalo i rozhodnutí krajského sdružení Pirátů umožnit nám jako zastupitelům jednat o případné koalici. Tuto pozornost jsme využili k prezentaci vnitrostranické demokracie a našich programových požadavků.
 
 Prostor pro zlepšení je zejména u prezentace témat v oblasti ICT, naposledy se nám nepodařilo úspěšně prezentovat projekt spuštění portálu pro otevřená data.
 
@@ -317,7 +317,7 @@ Magistrát pirátským zastupitelům opakovaně odmítal poskytovat informace, n
 ![Opencard](opencard.png)
 
 * Jakub Michálek a Ondřej Profant jsou primátorkou pověřeni k jednání ve věci Opencard. V současném volebním období je to poprvé, kdy se s kauzou podařilo pohnout. Praha už není v kleštích jednoho dodavatele EMS, na kterém byla závislá.
-* Možnost používat vedle Opencard i papírové průkazky byla přijata proto, aby Praha nepřesáhla počet zakoupených licencí a měla alternativu při jednání s EMS. Piráti tak výrazně snížili riziko dalších žalob, neboť nedochází k překračování počtu licencí. Prozíravost znovuzavedení papírových kuponů se znovu ukázala v říjnu, kdy EMS začala blokovat vydávání nových karet.
+* Možnost používat vedle Opencard i papírové průkazky byla přijata proto, aby Praha nepřesáhla počet zakoupených licencí a měla alternativu při jednání s EMS. Piráti tak výrazně snížili riziko dalších žalob, neboť nedochází k překračování počtu licencí. Prozíravost znovuzavedení papírových kuponů se znovu ukázala v říjnu 2015, kdy EMS začala blokovat vydávání nových karet.
 * Zdokumentovali jsme kroky a odpovědnost v kauze Opencard, kdy se jí údajně předchozí politická reprezentace snažila hasit, ale ve skutečnosti situaci spíše zhoršovala. Podařilo se jim prosadit, aby nové řešení bylo postaveno jako multikanálové, skutečně otevřené. Každá skupina tak bude mít takový nosič jízdenky, který jí vyhovuje.
 * Podle našeho názoru nemá smysl zavádět novou čipovou kartu s elektronickou peněženkou, ale kdo bude chtít, bude moci používat bankovní kartu nebo mobil. Cestující s bezplatným jízdným nebo studenti cestující na ISIC mohou mít nadále papírové kupóny. Multikanálový systém (market) by měl být zaveden do roku 2018.
 * Jakub Michálek dále zpracoval čtyřicetistránkovou analýzu vzniku projektu Opencard a klub Pirátů poté vyzval Radu Prahy, aby Pavla Béma a další zodpovědné osoby zažalovala o náhradu škody.
@@ -395,7 +395,7 @@ Aby Piráti posílili svůj tým, vypsali na začátku března poptávku po stá
 - Terezu Hronovou, která zpracovává rešerši projektu Metra D,
 - Karla Vlasáka, který by měl v budoucnu sledovat výbor pro životní prostředí,
 - Dana Řezníčka, který se zastupitelem Ondřejem Profantem pracuje na [personální mapě](https://github.com/pirati-cz/goverMap) pražského zastupitelstva a magistrátu.
-- Alexandru Herzog, která mapovala Prahu z [perspektivy turisty](https://praha.pirati.cz/projekt-turistika-praha.html) a přinesla důležitý pohled z mezinárodní perspektivy.
+- Alexandru Herzog, která mapovala Prahu z [perspektivy turisty](https://praha.pirati.cz/projekt-turistika-praha.html) a přinesla důležitý pohled z mezinárodního pohledu.
 
 **Další stážisté jsou samozřejmě vítáni!**
 
