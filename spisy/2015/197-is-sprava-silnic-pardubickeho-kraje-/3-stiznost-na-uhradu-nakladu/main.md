@@ -49,6 +49,8 @@ Správa a údržba silnic Plzeňského kraje dané informace poskytla, a to bez 
 
 V rozpisu času, podle něhož údajně strávili pracovníci povinného subjektu celkem 20 hodin vyhledáním informace, navíc dále nelze uplatnit bod č. 3) tedy *pořízení kopií, opatření technických nosičů dat a odeslání informací v rozsahu 3 hodin.* Pro tyto činnosti jsou jednak určeny zvláštní sazby, a jednak ony činnosti nemají povahu doby strávané s vyhledáním informace. (Furek, A., Rothanzl, L. Zákon o svobodném přístupu k informacím. Komentář. 2. aktualizované a rozšířené vydání. Praha, 2012, 1032 s). 
 
+Proto podávám podle § 16a odst. 1 písm. d) zákona č. 106/1999 Sb., o svobodném přístupu k informacím, stížnost. 
+
 Prosím o poskytnutí informace do datové schránky uvedené v patičce této zprávy. Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více datových zprávách anebo na paměťovém médiu. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Tuto žádost podávám jako fyzická osoba. Předem děkuji za Vaši vstřícnost.
 
 ---
