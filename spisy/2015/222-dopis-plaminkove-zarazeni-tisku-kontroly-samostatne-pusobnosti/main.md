@@ -11,11 +11,13 @@ our:
 your:
    role:    adresát
    name:    
-      -     Magistrát hlavního města Prahy
+      -     Rada hl. m. Prahy
    address:
       -     Mariánské náměstí 2
       -     Praha 1, 110 00
       -     k rukám RNDr. Jany Plamínkové
+   note:
+      -     na vědomí JUDr. Janderové
 sendby:     ds
 style:      letter
 ---
