@@ -39,7 +39,7 @@ předseda klubu Pirátů v Zastupitelstvu hl. m. Prahy
 
 ![Novoroční ohňostroj](ohnostroj.jpg)  
 Ivan Centéš: [Novoroční ohňostroj](https://flic.kr/p/qCDN9J), CC-BY-NC 2.0
-a
+
 * Donutili jsme k **rezignaci šedou eminenci Radmilu Kleslovou**, která brala 360 tisíc měsíčně z městských firem, a odvolali její spojence z Rady.
 * Prosadili jsme *Teze digitální strategie* včetně **podpory open source a otevřených dat**; spustili jsme pražská otevřená data.
 * Donutili jsme Magistrát poskytovat občanům **informace o výši mimořádných odměn úředníků**, které od roku 2013 neoprávněně utajoval.
