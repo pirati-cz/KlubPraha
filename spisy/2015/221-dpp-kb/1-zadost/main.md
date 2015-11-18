@@ -41,7 +41,7 @@ v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě
 
 Tyto informace souvisejí s výkonem mé funkce, protože Dopravní podnik hospodaří s velkým objemem financí z rozpočtu hl. m. Prahy. Navíc Zastupitelstvo hl. m. Prahy je nejvyšším orgánem hl. m. Prahy, které je zřizovatelem Dopravního podniku. Mezi funkce zastupitelů tak patří i kontrola obchodních společností s účastí hl. m. Prahy. Odpověď očekávám v zákonné lhůtě 15 dnů (viz InfZ).
 
-Prosím o poskytnutí informace do mé datové schránky či na e-mailovou adresu. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Žádám zejména, aby mi nebylo doručováno poštou. Předem děkuji za Vaši vstřícnost.
+Prosím o poskytnutí informace do mé datové schránky či na e-mailovou adresu. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Žádám zejména, aby mi nebylo doručováno poštou. Ke komunikaci a převzetí požadovaných informací v budově Magistrátu hl. m. Prahy zmocňuji svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17). Předem děkuji za Vaši vstřícnost.
 
 ---
 signature:
