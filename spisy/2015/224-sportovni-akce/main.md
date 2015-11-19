@@ -15,22 +15,28 @@ your:
    address:
       -     Mariánské náměstí 2/2
       -     110 01 Praha 1
+   note:
+      -     k rukám JUDr. Martiny Děvěrové, MPA, ředitelky Magistrátu hl. m. Prahy
 sendby:     ds
 style:      letter
 ---
 
 
-Vážení
+Vážená paní ředitelko,
 
-Žádám v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a v souladu s odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze o následující informace:
+žádám v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze o následující informace ohledně sportovních akcí, které se konaly v období od 1. 6. 2013 až do podání této žádosti a které hlavní město Praha spolufinancovalo částkou vyšší než 3 mil. Kč (dále jen „**sportovní akce**“), konkrétně ohledně vstupenek na tyto sportovní akce, které hlavní město Praha obdrželo v souvislosti se sponzorstvím a které rozdělilo zdarma nebo se slevou mezi jiné osoby (dále jen „**vstupenky**“):
 
-1. Seznam osob, které získaly v období od 1. 11. 2012 až do 1. 11. 2015 od hlavního města Prahy zdarma nebo se slevou vstupenky na ty sportovní akce, které spolufinancuje hlavní město Praha.
+U každé sportovní akce uveďte:
 
-2. Rozpis, jaká byla výše slev z cen těchto vstupenek u jednotlivých osob. 
+1. Předávací protokol nebo jiný doklad o předání vstupenek pořadatelem akce (nebo jiným distributorem vstupenek) hl. m. Praze.
 
-3. Jakým způsobem probíhal výběr osob uvedených v bodě č. 1 aby měli nárok na slevu.
+2. Jakým způsobem (podle jakého klíče) probíhalo rozdělení vstupenek a výběr osob, které vstupenku získají.
 
-4. Kdo je zodpovědnou osobou za výběr v bodě č. 3.
+3. Kdo byl zodpovědnou osobou za rozdělení vstupenek a výběr osob, které vstupenku získají.
+
+4. Seznam osob, které získaly vstupenku; u každé osoby uveďte její jméno, příjmení, typ vstupenky (např. podle sektoru a umístění místa), nominální cenu (vytištěnou na vstupence), výši slevy (nejde-li o vstupenku zdarma), a dále také skutečnou cenu vstupenky (ohodnocenou tržní cenou nebo dle smlouvy pořadatele s hl. m. Prahou), pokud ji máte k dispozici.
+
+5. Informace o tom, jakým způsobem bylo předání vstupenek podle bodu 1 a jejich rozdělení podle bodu 2 zaúčtováno v účetnictví hl. m. Prahy. Uveďte příslušné účetní zápisy a účetní doklady operací podle první věty tohoto bodu.
 
 Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Ke komunikaci zmocňuji dále svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17). Předem děkuji za Vaši vstřícnost. 
 
