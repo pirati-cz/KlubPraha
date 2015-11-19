@@ -23,12 +23,13 @@ Vážení,
 
 dne 19. 10. jsem zdvořile požádal Správu a údržbu silnic Pardubického kraje o informace v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím o následující informace:
 
-*Jakým způsobem (zejména prostřednictvím jakých elektronických informačních systémů) zajišťuje vaše organizace vedení účetnictví, plnění rozpočtu, vykazování údajů vůči centrální evidenci účetních informací státu (dále jen „ekonomické řízení příspěvkových organizací“).* 
+> Jakým způsobem (zejména prostřednictvím jakých elektronických informačních systémů) zajišťuje vaše organizace vedení účetnictví, plnění rozpočtu, vykazování údajů vůči centrální evidenci účetních informací státu (dále jen „ekonomické řízení příspěvkových organizací“).
 
-*Dále k výše uvedenému žádám následující informace, týkající se zmíněného softwaru:*
+> Dále k výše uvedenému žádám následující informace, týkající se zmíněného softwaru:
 
-* *kopii dokumentace podle § 155 zákona č. 137/2006 Sb., o veřejných zakázkách, v platném znění, k pořízení elektronického informačního systému v posledním výběrovém řízení, včetně uzavřené smlouvy s vítězných uchazečem; pokud nebylo poslední výběrové řízení otevřené, zašlete prosím rovněž dokumentaci k prvnímu řízení, kde byl tento systém vysoutěžen,*
-* *souhrnnou informaci zahrnující název dodavatele systému, datum nasazení systému vysoutěženého v posledním výběrovém řízení, počet příspěvkových organizací evidovaných v systému anebo jej využívajících, celkové výdaje na systém (které uhradila Správa a údržba silnic Pardubického kraje, sám Pardubický kraj nebo jím ovládané či řízené osoby) v rozdělení na kapitálové a provozní výdaje.*
+> >kopii dokumentace podle § 155 zákona č. 137/2006 Sb., o veřejných zakázkách, v platném znění, k pořízení elektronického informačního systému v posledním výběrovém řízení, včetně uzavřené smlouvy s vítězných uchazečem; pokud nebylo poslední výběrové řízení otevřené, zašlete prosím rovněž dokumentaci k prvnímu řízení, kde byl tento systém vysoutěžen,
+
+> >souhrnnou informaci zahrnující název dodavatele systému, datum nasazení systému vysoutěženého v posledním výběrovém řízení, počet příspěvkových organizací evidovaných v systému anebo jej využívajících, celkové výdaje na systém (které uhradila Správa a údržba silnic Pardubického kraje, sám Pardubický kraj nebo jím ovládané či řízené osoby) v rozdělení na kapitálové a provozní výdaje.
 
 Dne 11. listopadu jsem obdržel rozhodnutí povinného subjektu, ve kterém mi byla část informace poskytnuta. Pro vyhledání zbytku žádané informace musel úřad provést mimořádně rozsáhlé vyhledání informace. V souvislosti s ním žádá úhradu, a to ve výši 220 Kč za 1 hodinu práce. Výši úhrady stanovil podle sazebníku, který je k dispozici na webu povinného subjektu. Úřad tvrdí, že jeho pracovníci zajišťovali informaci celých 20 (dvacet) hodin času.
 
