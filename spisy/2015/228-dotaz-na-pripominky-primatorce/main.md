@@ -15,6 +15,8 @@ your:
    address:
       -     Mariánské náměstí 2/2
       -     110 01 Praha 1
+   note:
+      -     k rukám JUDr. Martiny Děvěrové, MPA, ředitelky Magistrátu hl. m. Prahy
 sendby:     ds
 style:      letter
 ---
@@ -23,7 +25,7 @@ Vážení,
 
 vznáším v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb, o hlavním městě Praze, dotaz následujícího obsahu:
 
-Jakým způsobem byly vyřešeny připomínky auditorů, obsažené v dopise, odeslaném dne 25. 5. 2015 primátorce hlavního města Prahy, Adrianě Krnáčové, ohledně přezkoumání hospodaření hlavního města za rok 2014. 
+Jakým způsobem byly vyřešeny připomínky auditorů, obsažené v dopise, odeslaném společností Nexia AP ze dne 25. 5. 2015, primátorce hlavního města Prahy, Adrianě Krnáčové, ohledně přezkoumání hospodaření hlavního města za rok 2014. 
 
 Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Ke komunikaci zmocňuji dále svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17). Předem děkuji za Vaši vstřícnost. 
 
