@@ -21,9 +21,9 @@ style:      letter
 
 Vážení,
 
-žádám v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím o následující informace:
+žádám v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze, o následující informace: o následující informace:
 
-Každou barterovou smlouvu, kterou v posledních pěti letech uzavřel Dopravní podnik hl. m. Prahy s deníkem Metro, který vydává společnost MAFRA a.s. Žádám o poskytnutí obsahu každé jedné takové smlouvy.
+Smlouvu, která aktuálně upravuje barter na inzerci v deníku Metro, který vydává společnost MAFRA a.s. Žádám o poskytnutí obsahu každé jedné takové smlouvy.
 
 Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Ke komunikaci zmocňuji dále svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17). Předem děkuji za Vaši vstřícnost. 
 
