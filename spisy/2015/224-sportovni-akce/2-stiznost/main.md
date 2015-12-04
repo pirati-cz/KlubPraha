@@ -22,7 +22,7 @@ style:      letter
 
 Vážení,
 
-dne 19. 11. 2015 jsem v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze požádal o informace týkajících se sportovních akcí a předávání vstupenek hlavnímu městu Praze v souvislosti s nimi. 
+dne 19. 11. 2015 jsem v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím (dále jen „InfZ“), a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze požádal o informace týkajících se sportovních akcí a předávání vstupenek hlavnímu městu Praze v souvislosti s nimi. 
 
 Vzhledem k tomu, že jsem odpověď od povinného subjektu neobdržel v patnáctidenní lhůtě, kterou uvádí zákon č. 106/1999 Sb., o svobodném přístupu k informacím, podávám v souladu s § 16a odst. 1 písm. b) InfZ stížnost na postup při vyřizování žádosti o informace. Navrhuji, aby nadřízený správní orgán postupem podle § 16a odst. 6 písm. b) InfZ povinnému subjektu přikázal, aby žádost vyřídil ve lhůtě 5 dnů ode dne doručení rozhodnutí nadřízeného orgánu.
 
