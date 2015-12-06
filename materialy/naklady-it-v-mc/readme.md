@@ -47,3 +47,5 @@ Odpovědi jsou ve spisech:
 - [174-otazky-k-informatice-praha-20](http://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/174-otazky-k-informatice-praha-20)
 - [175-otazky-k-informatice-praha-21](http://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/175-otazky-k-informatice-praha-21)
 - [176-otazky-k-informatice-praha-22](http://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/176-otazky-k-informatice-praha-22)
+
+Úkol v [redmine](http://redmine.pirati.cz/issues/2323)
