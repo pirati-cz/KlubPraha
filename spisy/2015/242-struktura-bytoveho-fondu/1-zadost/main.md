@@ -1,4 +1,4 @@
----
+﻿---
 title:      Žádost o informace
 author:
    name:    Adam Zábranský
@@ -12,7 +12,7 @@ your:
    role:    povinný subjekt
    name:
       -     Magistrát hlavního města Prahy
-      -     k rukám vedoucího bytového oddělení
+      -     k rukám vedoucí bytového oddělení Ing. Heleny Švrčinové
    address:
       -     Mariánské náměstí 2
       -     Praha 1, 110 00
@@ -20,7 +20,7 @@ sendby:     ds
 style:      letter
 ---
 
-Vážený pane vedoucí,
+Vážená paní vedoucí,
 
 přečetl jsem si Pravidla pro pronájem bytů MHMP a v souvislosti s nimi mě napadlo několik otázek. 
 
