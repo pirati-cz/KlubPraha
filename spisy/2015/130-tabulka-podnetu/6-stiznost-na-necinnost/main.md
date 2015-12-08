@@ -2,7 +2,7 @@
 title:      Stížnost na postup vyřizování žádostí o informace.
 author:
    name:    Mikuláš Ferjenčík
-   phone:   +420 775 978 550
+   phone:   +420 737 943 770
    ds:      i9avjnt
    mail:    mikulas.ferjencik@praha.eu
 our:
