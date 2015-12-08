@@ -9,12 +9,12 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha 225/2015
 your:
-   role:    povinný subjekt
-   name:
-      -     Dopravní podnik hl. m. Prahy, a.s.
+   role:    Povinný subjekt
+   name:    
+      -     Hlavní město Praha
    address:
-      -     Sokolovská 217/42
-      -     Praha 9, 190 22
+      -     Mariánské náměstí 2/2
+      -     110 01 Praha 1
 sendby:     ds
 style:      letter
 ---
