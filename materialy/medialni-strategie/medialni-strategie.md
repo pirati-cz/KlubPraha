@@ -14,6 +14,8 @@ Volební výsledky Pirátů podle městských částí: [http://www.pirat.ly/m4q
 
 Výběr z tabulky ukazuje podle hlasů nejlepší a nejhorší výsledky (Hlasy, procenta, MČ)
 
+|hlasů|procent|městská část|
+|-----|-----|-----|
 |106256|5.03 %|Praha 4|
 |99985|5.08 %|Praha 6|	
 |91934|5.59 %|Praha 10|	
