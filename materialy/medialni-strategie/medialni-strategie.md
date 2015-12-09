@@ -1,4 +1,4 @@
-# Famózní ediální strategie
+# Famózní mediální strategie
 
 ## 1. Úvod
 
