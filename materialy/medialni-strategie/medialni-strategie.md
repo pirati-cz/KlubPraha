@@ -127,9 +127,7 @@ Velký potenciál pro získání nových voličů máme především v elektorá
 
 ### e) Prototypoví voliči (persony)
 
-<div style="text-align:right" markdown="1">
 ![Prototypový volič](image1.png)
-</div>
 
 a) Pavla Červenková, 
 
@@ -137,9 +135,7 @@ Studentka 1. ročníku VŠ, věk: 20 let
 
 Konzumentka **konopí**, zajímá se o **liberální** témata. Sleduje filmy, kopíruje počítačové programy a nesouhlasí s **autorským právem**. Většina jiných politických stran jí přijde nesrozumitelná a odtažitá od jeho světa. Neztotožňuje se s pravo-levým viděním světa a **nerozumí** obecně fungování politiky.
 
-<div style="text-align:right" markdown="1">
 ![Prototypový volič](image2.png)
-</div>
 
 b) Jaroslav Šikl
 
@@ -147,9 +143,7 @@ Senior, liberálně zaměřený, věk 64 let
 
 **Nesouhlasí se současnou politickou reprezentací.** Pravici považuje za příliš konzervativní a korupční, levici za příliš byrokratickou a odtaženou od reálného světa. Neorientuje se příliš v IT tématech, nicméně má zájem o prosazení **transparentnosti** a radikální společenskou **změnu**.
 
-<div style="text-align:right" markdown="1">
 ![Prototypový volič](image3.png)
-</div>
 
 c) Vojtěch Tománek
 
@@ -157,9 +151,7 @@ Ajťák, zelený/geek, věk 34 let.
 
 Pracuje v malé firmě jako jediný správce IT, příležitostně učí na střední škole. Občas přichází s originálními nápady. Má **nízké příjmy**, odmítá velké společnosti z principu a zajímá se otevřeně o techniku. Podporuje **open source**. Je zaměřený **altruisticky, liberálně** a politicky mírně levicově. Jiným politickým stranám nevěří, neboť se domnívá, že nemají zájem o obyčejného člověka. 
 
-<div style="text-align:right" markdown="1">
 ![Prototypový volič](image4.png)
-</div>
 
 d) Hana Rybálková
 
@@ -167,9 +159,7 @@ alternativně zaměřená žena, věk 35 let.
 
 Ostře se vymezuje proti **velkým společnostem** (farmaceutické, technologické, ropné aj). Často věří v **konspirační teorie**. Nevolí zelené, neboť je považuje za kolaboranty velkého byznysu. Zajímá se o alternativní **lékařství**, bojuje proti **očkování** a prosazuje **biopotraviny**. Je jí blízké hnutí new-age. Patří k nízkopříjmovým vrstvám.
 
-<div style="text-align:right" markdown="1">
 ![Prototypový volič](image5.png)
-</div>
 
 e) Ondřej Blažej
 
