@@ -29,6 +29,8 @@ Dopravní podnik jako povinný subjekt podle InfZ poskytl informace k bodům č.
 
 Povinný subjekt rovněž nevydal rozhodnutí o částečném odmítnutí žádosti, nýbrž pouze neformální přípis. Povinný subjekt v tomto přípisu jen velmi vágně odůvodnil důvod odmítnutí informací, a tedy nevyvinul prokazatelně dostatečné úsilí k tomu, aby žádané informace poskytl. Lze se oprávněně domnívat, že požadované informace existují, a to proto, že povinný subjekt zcela jistě provádí evidenci svých faktur, a zcela jistě eviduje například v kalendářích schůzky členů svých orgánů s jeho partnery. 
 
+Žádám, aby povinný subjekt postupoval nadále v souladu s InfZ. Pokud se rozhodne část žádaných informací neposkytnout, měl by vydat rozhodnutí o odmítnutí žádosti v souladu s § 15 odst. 1 InfZ, které bude obsahovat odůvodnění, proč se povinný subjekt rozhodl informaci neposkytnout. 
+
 Prosím o poskytnutí informace do mé datové schránky či na e-mailovou adresu. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Žádám zejména, aby mi nebylo doručováno poštou. Ke komunikaci a převzetí požadovaných informací v budově Magistrátu hl. m. Prahy zmocňuji svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17). Předem děkuji za Vaši vstřícnost.
 
 ---
