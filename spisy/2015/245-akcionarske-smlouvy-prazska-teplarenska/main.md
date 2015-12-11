@@ -25,6 +25,8 @@ Vážení,
 
 * Všechny akcionářské smlouvy, které kdy uzavřela Pražská teplárenská holding a.s. Žádám o poskytnutí obsahu každé jedné této smlouvy.
 
+Jedná se o smlouvy vypovídající o základních principech fungování společnosti ovládané hl. m. Prahou, jehož jsem zastupitelem, a tudíž souvisejí s výkonem mé funkce.
+
 Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Ke komunikaci zmocňuji dále svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17). Předem děkuji za Vaši vstřícnost. 
 
 ---
