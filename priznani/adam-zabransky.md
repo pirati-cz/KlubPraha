@@ -46,9 +46,7 @@ Aktuální informace o stavu jmění
 
 *Následující text vysvětluje, jakým způsobem výše uvedený funkcionář aktuálně financuje svou obživu, bydlení a další základní životní potřeby, zejména u koho je zaměstnán, ve službě, nebo kde vykonává funkci člena orgánu právnické osoby či kde podniká, jakou pobírá odměnu a jiné příjmy z veřejných zdrojů, případně kdo je jeho podpůrcem.*
 
-Z rozpočtu Magistrátu hl. m. Prahy dostávám odměny za výkon funkce člena zastupitelstva (zákonná měsíční odměna ve výši 3760 Kč) a náhrady za ušlý zisk (jejich výše je každý měsíc jiná, viz [rozpis odměn]). Příjem mám i z [příkazní smlouvy uzavřené s Českou pirátskou stranou](http://smlouvy.pirati.cz/smlouvy/2014/11/13/adam-zabransky/index.html) ve výši zhruba 10 000 Kč měsíčně (za výkon mandátu). Jsem také zaměstnán formou dohody o provedení práce na pozici pracovníka realizace internetového výzkumu ve společnosti Gemius, a.s. (měsíční výše příjmu zhruba 2000 Kč). Žiju v bytě s přítelkyní (byt je jejích rodičů), obživu a náklady na byt hradíme společně.
-
-[rozpis odměn]: https://github.com/pirati-cz/KlubPraha/tree/master/odmeny/odmeny.csv
+Z rozpočtu Magistrátu hl. m. Prahy dostávám odměny za výkon funkce člena zastupitelstva (zákonná měsíční odměna ve výši 3760 Kč) a náhrady za ušlý zisk (jejich výše je každý měsíc jiná, viz [rozpis odměn](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny/odmeny.csv)). Příjem mám i z [příkazní smlouvy uzavřené s Českou pirátskou stranou](http://smlouvy.pirati.cz/smlouvy/2014/11/13/adam-zabransky/index.html) ve výši zhruba 10 000 Kč měsíčně (za výkon mandátu). Jsem také zaměstnán formou dohody o provedení práce na pozici pracovníka realizace internetového výzkumu ve společnosti Gemius, a.s. (měsíční výše příjmu zhruba 2000 Kč). Žiju v bytě s přítelkyní (byt je jejích rodičů), obživu a náklady na byt hradíme společně.
 
 ### Neziskové aktivity
 Jsem členem Mladých pirátů a České veganské společnosti. Měsíčně přispívám po 150 Kč následujícím neziskovým organizacím: KohoVolit.eu, Auto*Mat.cz, Centrum aplikované ekonomie, Otevři oči, Česká pirátská strana, Oživení, Kverulant.org, Farma Naděje.
