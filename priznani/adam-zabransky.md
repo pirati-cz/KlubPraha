@@ -22,13 +22,15 @@ Aktuální informace o stavu jmění
 | Popis věci            | Odhad hodnoty |  Převažující zdroj                  |
 | --------------------- | ------------: |  ---------------------- |
 | Nemovitost s pozemkem s celkovou rozlohou 400 metrů čtverečních v Čerčanech | odhadem 800 000 Kč (kupovali jsme za 250 000 Kč ve špatném stavu) | úspory prarodičů a rodičů |
-| Bankovní účet u Air Bank a.s. | 300 000 Kč | úspory rodičů, úspory z měsíčních příjmů (viz níže) |
-| Stavební spoření u ČMSS | 130 000 Kč | úspory rodičů | 
+| Bankovní účet u Air Bank a.s. | 290 000 Kč | úspory rodičů, úspory z měsíčních příjmů (viz níže) |
+| Stavební spoření u ČMSS | 130 000 Kč | úspory rodičů |
 | Dluhopis společnosti DRFG, a.s. | 50 000 Kč | měsíční příjmy |
 | Notebook | 12 000 Kč | měsíční příjmy (viz níže) |
-| Investiční fond Pioneer Investments | 41 500 Kč | měsíční příjmy (viz níže) |
-| Bankovní účet u FIO banky a.s. | 6 000 Kč | měsíční příjmy (viz níže) |
-| Tablet Dell Venue 11 Pro | 30 000 Kč | Výpůjčka od Magistrátu hl. m. Prahy |
+| Investiční fond Pioneer Investments | 60 000 Kč | měsíční příjmy (viz níže) |
+| Bankovní účet u FIO banky a.s. | kolísá mezi 1 000 Kč a 20 000 Kč | měsíční příjmy (viz níže) |
+| Postel | 7 000 Kč | měsíční příjmy (viz níže) |
+| Lednička | 6 000 Kč | měsíční příjmy (viz níže) |
+| Tablet Dell Venue 11 Pro | 30 000 Kč | Výpůjčka od Magistrátu hl. m. Prahy (po skončení mandátu zastupitele budu vracet) |
 
 
 ### Dluhy
@@ -44,12 +46,10 @@ Aktuální informace o stavu jmění
 
 *Následující text vysvětluje, jakým způsobem výše uvedený funkcionář aktuálně financuje svou obživu, bydlení a další základní životní potřeby, zejména u koho je zaměstnán, ve službě, nebo kde vykonává funkci člena orgánu právnické osoby či kde podniká, jakou pobírá odměnu a jiné příjmy z veřejných zdrojů, případně kdo je jeho podpůrcem.*
 
-Z rozpočtu Magistrátu hl. m. Prahy dostávám odměny za výkon funkce člena zastupitelstva (zákonná měsíční odměna ve výši 3760 Kč) a náhrady za ušlý zisk (jejich výše je každý měsíc jiná, viz [rozpis odměn za rok 2014]). Příjem mám i z [příkazní smlouvy uzavřené s Českou pirátskou stranou](http://smlouvy.pirati.cz/smlouvy/2014/11/13/adam-zabransky/index.html) ve výši zhruba 9 000 Kč měsíčně (za výkon mandátu). Jsem také zaměstnán formou dohody o provedení práce na pozici pracovníka realizace internetového výzkumu ve společnosti MEDIARESEARCH, a.s. (měsíční výše příjmu zhruba 2000 Kč). Žiju u svých rodičů, obživu z části financují mí rodiče, z části já sám.
-
-[rozpis odměn za rok 2014]: https://github.com/pirati-cz/KlubPraha/raw/master/odmeny/2014/2014.ods
+Z rozpočtu Magistrátu hl. m. Prahy dostávám odměny za výkon funkce člena zastupitelstva (zákonná měsíční odměna ve výši 3760 Kč) a náhrady za ušlý zisk (jejich výše je každý měsíc jiná, viz [rozpis odměn](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny/odmeny.csv)). Příjem mám i z [příkazní smlouvy uzavřené s Českou pirátskou stranou](http://smlouvy.pirati.cz/smlouvy/2014/11/13/adam-zabransky/index.html) ve výši zhruba 10 000 Kč měsíčně (za výkon mandátu). Jsem také zaměstnán formou dohody o provedení práce na pozici pracovníka realizace internetového výzkumu ve společnosti Gemius, a.s. (měsíční výše příjmu zhruba 2000 Kč). Žiju v bytě s přítelkyní (byt je jejích rodičů), obživu a náklady na byt hradíme společně.
 
 ### Neziskové aktivity
-Jsem členem Mladých pirátů a České vegetariánské společnosti. Měsíčně přispívám po 150 Kč následujícím neziskovým organizacím: KohoVolit.eu, Auto*Mat.cz, Centrum aplikované ekonomie, Otevři oči, Česká pirátská strana, Oživení, Kverulant.org, Farma Naděje.
+Jsem členem Mladých pirátů a České veganské společnosti. Měsíčně přispívám po 150 Kč následujícím neziskovým organizacím: KohoVolit.eu, Auto*Mat.cz, Centrum aplikované ekonomie, Otevři oči, Česká pirátská strana, Oživení, Kverulant.org, Farma Naděje.
 
 
 Informace o významných změnách
@@ -63,29 +63,7 @@ Viz [oznámení podle etického kodexu](https://github.com/pirati-cz/KlubPraha/b
 ### Seznam příjmů od veřejných institucí
 *Následuje seznam příjmů poskytnutých od veřejných institucí. Veřejnou institucí je stát, územní samosprávné celky, veřejné vysoké školy, veřejné výzkumné instituce, školy, prosefní komory, jakož i akciové společnosti nebo jiné veřejné instituce jimi ovládané.*
 
-| Datum plnění | Odhad hodnoty | Popis plnění |
-| ----------   | ----------   | ------------: |
-| 10.11.2014 | 1392 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
-| 10.12.2014 | 2335 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
-| 11.12.2014 | 1920 Kč | Příjem za brigádu v tiskařském centru Právnické fakulty UK |
-| 18.12.2014 | 780 Kč | Čtvrtletní ubytovací stipendium od Univerzity Karlovy |
-| 09.01.2015 | 3760 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
-| 12.01.2015 | 13 500 Kč | Odměna za výkon mandátu od České pirátské strany |
-| 10.02.2015 | 3665 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
-| 11.02.2015 | 8498 Kč | Odměna za výkon mandátu od České pirátské strany |
-| 27.02.2015 | 4725 Kč | Náhrada ušlých zisků od hl. m. Prahy za prosinec |
-| 27.02.2015 | 3150 Kč | Náhrada ušlých zisků od hl. m. Prahy za leden|
-| 10.03.2015 | 3665 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
-| 20.03.2015 | 8498 Kč | Odměna za výkon mandátu od České pirátské strany |
-| 31.03.2015 | 780 Kč | Čtvrtletní ubytovací stipendium od Univerzity Karlovy |
-| 09.04.2015 | 3665 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
-| 26.04.2015 | 8003 Kč | Odměna za výkon mandátu od České pirátské strany |
-| 11.05.2015 | 3665 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
-| 23.05.2015 | 7810 Kč | Odměna za výkon mandátu od České pirátské strany |
-| 09.06.2015 | 3837 Kč | Zákonná odměna za mandát zastupitele od hl. m. Prahy |
-| 26.06.2015 | 8806 Kč | Odměna za výkon mandátu od České pirátské strany |
-| 30.06.2015 | 14 621 Kč | Náhrada ušlých zisků od hl. m. Prahy za únor |
-| 30.06.2015 | 5634 Kč | Náhrada ušlých zisků od hl. m. Prahy za březen |
+Viz [rozpis odměn].
 
 Prohlašuji, že jsem výše uvedené údaje uvedl úplně a pravdivě.
 
