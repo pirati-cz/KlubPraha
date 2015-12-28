@@ -29,9 +29,9 @@ Obdržel jsem v zákonné lhůtě odpověď od hlavního města Prahy, ve které
 
 Odpověď, kterou jsem od hlavního města Prahy obdržel, je nicméně neúplná. Hlavní město Praha neposkytlo informace o tom, jaké konkrétní kroky učinila ředitelka Magistrátu hlavního města Prahy; zda-li například přijala všechny závěry interního auditu evidence nemovitého majetku, či pouze některé, nebo postupovala jiným způsobem spolu s dalšími doporučeními AP Nexia. Poskytnutá informace pouze odkazuje na různé možnosti, neuvádí však, ke které se ředitelka MHMP nakonec uchýlila. Vzhledem k tomu, že v usnesení č. 1260 Rady hlavního města Prahy ze dne 2. 6. 2015, na základě něhož byla ředitelka zaúkolována, bylo termínováno dnem 30. září 2015., se lze oprávněně domnívat, že seznam uskutečněných opatření v písemné podobě existuje, a to minimálně pro potřeby vyhodnocení úkolu, který Rada hlavního města Prahy ředitelce MHMP zadala. 
 
-Vzhledem k tomu, že mi daná informace byla poskytnuta pouze částečně, podávám podle § 16a odst. 1 c) stížnost na vyřizování žádosti. Žádám, aby nadřízený správní orgán přikázal hlavnímu městu Praze jako povinnému subjektu, aby danou informaci poskytl ve lhůtě do pěti dnů.
+Vzhledem k tomu, že mi daná informace byla poskytnuta pouze částečně, podávám podle § 16a odst. 1 písm. c) zákona č. 106/1999 Sb., o svobodném přístupu k informacím, stížnost na vyřizování žádosti. Žádám, aby nadřízený správní orgán přikázal hlavnímu městu Praze jako povinnému subjektu, aby danou informaci poskytl ve lhůtě do pěti dnů.
 
-Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Ke komunikaci zmocňuji dále svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17). Předem děkuji za Vaši vstřícnost. 
+Dokumenty poskytněte elektronickou cestou, a to ve strojově čitelné a upravitelné podobě. Ke komunikaci zmocňuji dále svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17). Předem děkuji za Vaši vstřícnost. 
 
 ---
 signature:
