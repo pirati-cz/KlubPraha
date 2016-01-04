@@ -21,7 +21,7 @@ style:      letter
 
 Vážení,
 
-v souladu s § 51 odst. 3 zákona č. 131/2000 Sb., o hlavním městě Praze, resp. v souladu se zákonem č. 106/1999 Sb., ve znění pozdějších předpisů, Vás žádám o následující informace:
+v souladu s § 51 odst. 3 písm. b) a c) zákona č. 131/2000 Sb., o hlavním městě Praze, resp. v souladu se zákonem č. 106/1999 Sb., ve znění pozdějších předpisů, Vás žádám o následující informace:
 
 Průměrný měsíční plat (včetně osobního ohodnocení a odměn) za léta 2013 a 2014 pracovníků MHMP podle jejich pracovního zařazení podle tříd zaměstnání CZ-ISCO. Jedná se o následující pozice (pokud jsou do nich zaměstnanci MHMP zařazeni):
 
