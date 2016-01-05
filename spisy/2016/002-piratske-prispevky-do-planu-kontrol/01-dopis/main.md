@@ -9,7 +9,7 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha 2/2016
 your:
-   role:    Povinný subjekt
+   role:    Adresát
    name:    
       -     Hlavní město Praha
    address:
