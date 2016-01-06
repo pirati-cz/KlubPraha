@@ -1,5 +1,5 @@
 ---
-title:      Odvolání
+title:      Odvolání proti odmítnutí žádosti o informace
 author:
    name:    Adam Zábranský
    phone:   +420 721 006 868
@@ -21,17 +21,21 @@ style:      letter
 
 Vážení 
 
-v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, jsem Vás dne 6. 12. 2015 požádal o poskytnutí veškeré dokumentace (předané dokumenty atd.) o poskytnutých právních službách právničky JUDr. Radmily Kleslové, která pro České dráhy dle informací z veřejných zdrojů pracovala mezi lety 2011 až 2015. 
+v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), jsem Vás dne 6. 12. 2015 požádal o poskytnutí veškeré dokumentace (předané dokumenty atd.) o poskytnutých právních službách právničky JUDr. Radmily Kleslové, která pro České dráhy dle informací z veřejných zdrojů pracovala mezi lety 2011 až 2015.
 
-Protože jsem neobdržel od povinného subjektu odpověď ve stanovené lhůtě, podal jsem dne 28. 12. 2015 stížnost. Odpověď povinného subjektu jsem následně obdržel dne 2. 1. 2015. Povinný subjekt odmítl informaci poskytnout s odůvodněním, že žádaná informace se podle § 8 zákona č. 106/1999 Sb., o svobodném přístupu k informacím, týká osobnosti, projevů osobní povahy, soukromí fyzické osoby a osobních údajů. Dále povinný subjekt argumentoval tím, že podle Listiny základních práv a svobod se jedná o kolizi práva na informace a práva na ochranu osobnosti. Příslušný test proporcionality, který by v takovém případě bylo nezbytné provést, dle povinného subjektu již uskutečnil Ústavní soud, a to prostřednictvím svého nálezu Pl. ÚS 4/94 ze dne 12. 10. 1994. 
+Odpověď povinného subjektu jsem obdržel dne 2. 1. 2015. Povinný subjekt odmítl informaci poskytnout s odůvodněním, že žádaná informace se týká osobních údajů, obchodního tajemství a vnitřních pokynů povinného subjektu.
 
-Povinný subjekt se domnívá, že vzhledem k tomu, že § 4 zákona č. 101/2000 Sb., o ochraně osobních údajů definuje osobní údaj jako „jakoukoliv informaci týkající se určeného nebo určitelného subjektu údajů.“ S tímto závěrem se není možné ztotožnit, vzhledem ke skutečnosti, že Radmila Kleslová je podnikatelkou a její osobní údaje dobrovolně zveřejnila v okamžiku, kdy získala živnostenské oprávnění. Podle nálezu Ústavního soudu č. 299/2004 je však nezbytné jako rozlišovací kritérium považovat skutečnost, zda-li daná fyzická osoba vyvíjí podnikatelskou činnost, či nikoliv. V zmíněném nálezu dále Ústavní soud uvedl, že „Údaje o této (podnikatelské) činnosti zmíněné osoby podle tedy mínění Ústavního soudu Ústavního soudu ochrany podle zákona č. 101/2000 Sb., nepožívají. Vzhledem k tomu, že žádané informace souvisejí s podnikáním Radmily Kleslové, měl je povinný subjekt poskytnout. 
+S argumentem ohledně ochrany osobních údajů se nelze ztotožnit, vzhledem ke skutečnosti, že Radmila Kleslová je podnikatelkou a její osobní údaje dobrovolně zveřejnila v okamžiku, kdy získala živnostenské oprávnění. Podle nálezu Ústavního soudu č. 299/2004 je nezbytné jako rozlišovací kritérium považovat skutečnost, zda-li daná fyzická osoba vyvíjí podnikatelskou činnost, či nikoliv. V zmíněném nálezu dále Ústavní soud uvedl, že „Údaje o této (podnikatelské) činnosti zmíněné osoby podle tedy mínění Ústavního soudu Ústavního soudu ochrany podle zákona č. 101/2000 Sb., nepožívají.“ Vzhledem k tomu, že žádané informace souvisejí s podnikáním Radmily Kleslové, měl je povinný subjekt poskytnout. 
 
-I kdyby však povinný subjekt dospěl k závěru, že žádané informace jsou osobními údaji, neboť § 4 zákona č. 101/2000 Sb., o ochraně osobních údajů, definuje pojem osobního údaje velice široce, měl je poskytnout podle § 5 odst. 2 písm. e), tedy „pokud je to nezbytné pro ochranu práv a právem chráněných zájmů správce, příjemce nebo jiné dotčené osoby; takové zpracování osobních údajů však nesmí být v rozporu s právem subjektu údajů na ochranu jeho soukromého a osobního života“. Poskytnutí informací veřejnosti lze považovat za legitimní zájem podle citovaného usnesení zákona č. 101/2000 Sb., o ochraně osobních údajů, neboť žádané informace, které se týkají podnikání fyzické osoby, nezasáhnou její soukromý život.
+Povinný subjekt vůbec nezdůvodňuje, proč by požadované informace měly být obchodním tajemstvím. V této části je rozhodnutí nepřezkoumatelné.
 
-Proto jsem tedy přesvědčen, že povinný subjekt měl informaci poskytnout. Protože takto neučinil, podávám podle § 16 zákona č. 106/1999 Sb., o svobodném přístupu k informacím, odvolání. 
+Co se týče argumentu, že výše plnění poskytovaná ze strany povinného subjektu JUDr. Radmile Kleslové má něco společného s vnitřními pokyny povinného subjektu, také ho nelze než odmítnout. V případě plnění osobám mimo povinný subjekt se rozhodně nejedná o vnitřní pokyn či interní předpis.
 
-V souvislosti s výše uvedeným proto podávám odvolání podle § 16 zákona č. 106/1999 Sb., o svobodném přístupu k informacím.  Prosím o poskytnutí informace do datové schránky či na e-mailovou adresu uvedené v patičce této zprávy. Předem děkuji za Vaši vstřícnost.
+Co se týče argumentu, že se jedná o advokátní tajemství, tak zde lze povinnému subjektu připomenout, že povinnost zachovávat advokátní tajemství mají povinnost dodržovat advokáti, nikoliv jejich klienti, takže tento argument je též irelevantní.
+
+Z výše uvedených důvodů jsem přesvědčen, že povinný subjekt měl informaci poskytnout a rozhodnutí o odmítnutí informací je nezákonné. Proto podávám podle § 16 InfZ odvolání. Požaduji, aby nadřízený správní orgán napadané rozhodnutí povinného subjektu zrušil a informace mi poskytl. 
+
+Prosím o poskytnutí informace do datové schránky či na e-mailovou adresu uvedené v patičce této zprávy. Předem děkuji za Vaši vstřícnost.
 
 ---
 signature:
