@@ -31,7 +31,7 @@ Vážená paní ředitelko,
 
 O danou informaci jsem žádal neoformální cestou již v roce 2015. Přestože mi bylo přislíbeno průběžné informování v této kauze, odpovědi jsem se nedočkal. Svojí žádost jsem urgoval dne 14. 7. 2015, nicméně opět bez odpovědi. Proto podávám formální žádost o informace ve snaze domoci se údajů o tom, kdo je v tomto případě odpovědnou osobou. 
 
-Prosím o poskytnutí informace v elektronické podobě e-mailem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
+Prosím o poskytnutí informace v elektronické podobě do datové schránky, případně na e-mail. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
 
 ---
 signature:
