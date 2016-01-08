@@ -24,7 +24,7 @@ Vážení,
 
 přeposílám Vám korespondenci ve věci naší žádosti o informace, ze které vyplývá, že došlo k protiprávní likvidaci požadovaných dokumentů. Žádám Vás, abyste prověřili, zda nedošlo ke spáchání přestupku, nebo jiného správního deliktu a vyrozuměli mě o svých zjištěních v zákonné lhůtě.
 
-Rovněž připomínám, že jsem v této záležitosti již kontaktoval Národní archiv, který však informoval, že je v této záležitosti nepříslušným orgánem. 
+Rovněž připomínám, že jsem v této záležitosti již kontaktoval Národní archiv, který však informoval, že je v této záležitosti nepříslušným orgánem, jak dokládá § 46 odst. 1 písm. a) zákona č. 499/2004, zákona o archivnictví a spisové službě a o změně některých zákonů.
 
 ---
 signature:
