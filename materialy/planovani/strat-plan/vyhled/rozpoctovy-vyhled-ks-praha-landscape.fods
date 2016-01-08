@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><dc:date>2016-01-08T16:51:57.528973629</dc:date><meta:editing-duration>PT2H36M26S</meta:editing-duration><meta:editing-cycles>11</meta:editing-cycles><meta:generator>LibreOffice/4.4.6.3$Linux_X86_64 LibreOffice_project/40m0$Build-3</meta:generator><meta:document-statistic meta:table-count="3" meta:cell-count="688" meta:object-count="3"/></office:meta>
+ <office:meta><dc:date>2016-01-08T16:53:48.661095226</dc:date><meta:editing-duration>PT2H38M17S</meta:editing-duration><meta:editing-cycles>12</meta:editing-cycles><meta:generator>LibreOffice/4.4.6.3$Linux_X86_64 LibreOffice_project/40m0$Build-3</meta:generator><meta:document-statistic meta:table-count="3" meta:cell-count="688" meta:object-count="3"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -13,20 +13,20 @@
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Rozpočtový výhled">
-       <config:config-item config:name="CursorPositionX" config:type="int">20</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">12</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">4</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">6</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
-       <config:config-item config:name="VerticalSplitPosition" config:type="int">2</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">4</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">11</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">4</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
-       <config:config-item config:name="PageViewZoomValue" config:type="int">75</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Vstupní parametry">
@@ -43,7 +43,7 @@
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
-       <config:config-item config:name="PageViewZoomValue" config:type="int">75</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Výtah z rozpočtového výhledu">
@@ -60,7 +60,7 @@
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
-       <config:config-item config:name="PageViewZoomValue" config:type="int">75</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
@@ -68,7 +68,7 @@
      <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1310</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
-     <config:config-item config:name="PageViewZoomValue" config:type="int">75</config:config-item>
+     <config:config-item config:name="PageViewZoomValue" config:type="int">100</config:config-item>
      <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">true</config:config-item>
      <config:config-item config:name="ShowZeroValues" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
@@ -320,30 +320,27 @@
    <style:table-column-properties fo:break-before="auto" style:column-width="10.34mm"/>
   </style:style>
   <style:style style:name="co4" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="15.88mm"/>
-  </style:style>
-  <style:style style:name="co5" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="26.72mm"/>
   </style:style>
-  <style:style style:name="co6" style:family="table-column">
+  <style:style style:name="co5" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="22.58mm"/>
   </style:style>
-  <style:style style:name="co7" style:family="table-column">
+  <style:style style:name="co6" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="66.16mm"/>
   </style:style>
-  <style:style style:name="co8" style:family="table-column">
+  <style:style style:name="co7" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="13mm"/>
   </style:style>
-  <style:style style:name="co9" style:family="table-column">
+  <style:style style:name="co8" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="86.04mm"/>
   </style:style>
-  <style:style style:name="co10" style:family="table-column">
+  <style:style style:name="co9" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="16.42mm"/>
   </style:style>
-  <style:style style:name="co11" style:family="table-column">
+  <style:style style:name="co10" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="146.77mm"/>
   </style:style>
-  <style:style style:name="co12" style:family="table-column">
+  <style:style style:name="co11" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="99.4mm"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
@@ -991,11 +988,10 @@
     <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="ce12"/>
     <table:table-column table:style-name="co3" table:default-cell-style-name="ce12"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="10" table:default-cell-style-name="ce12"/>
-    <table:table-column table:style-name="co4" table:default-cell-style-name="ce12"/>
-    <table:table-column table:style-name="co5" table:number-columns-repeated="220" table:default-cell-style-name="ce12"/>
-    <table:table-column table:style-name="co6" table:number-columns-repeated="768" table:default-cell-style-name="ce12"/>
-    <table:table-column table:style-name="co6" table:number-columns-repeated="3" table:default-cell-style-name="ce3"/>
-    <table:table-column table:style-name="co6" table:number-columns-repeated="10" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:number-columns-repeated="221" table:default-cell-style-name="ce12"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="768" table:default-cell-style-name="ce12"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="3" table:default-cell-style-name="ce3"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="10" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Rozpočtový výhled krajského sdružení Praha</text:p>
@@ -2842,7 +2838,7 @@
             <text:p>Rozpočtový výhled krajského sdružení Praha</text:p>
            </chart:title>
            <chart:legend svg:x="2.456cm" svg:y="1.309cm" style:legend-expansion="custom" chartooo:width="8.725cm" chartooo:height="0.908cm" style:legend-expansion-aspect-ratio="9.60903083700441" chart:style-name="ch3"/>
-           <chart:plot-area chart:style-name="ch4" table:cell-range-address="&apos;Výtah z rozpočtového výhledu&apos;.B4:&apos;Výtah z rozpočtového výhledu&apos;.H5 &apos;Výtah z rozpočtového výhledu&apos;.A5:&apos;Výtah z rozpočtového výhledu&apos;.A5 &apos;Výtah z rozpočtového výhledu&apos;.A17:&apos;Výtah z rozpočtového výhledu&apos;.H17 &apos;Výtah z rozpočtového výhledu&apos;.A31:&apos;Výtah z rozpočtového výhledu&apos;.H31" chart:data-source-has-labels="both" svg:x="1.26cm" svg:y="1.201cm" svg:width="10.963cm" svg:height="5.176cm">
+           <chart:plot-area chart:style-name="ch4" table:cell-range-address="&apos;Výtah z rozpočtového výhledu&apos;.B4:&apos;Výtah z rozpočtového výhledu&apos;.H5 &apos;Výtah z rozpočtového výhledu&apos;.A4:&apos;Výtah z rozpočtového výhledu&apos;.A5 &apos;Výtah z rozpočtového výhledu&apos;.A17:&apos;Výtah z rozpočtového výhledu&apos;.H17 &apos;Výtah z rozpočtového výhledu&apos;.A31:&apos;Výtah z rozpočtového výhledu&apos;.H31" chart:data-source-has-labels="both" svg:x="1.26cm" svg:y="1.201cm" svg:width="10.963cm" svg:height="5.176cm">
             <chartooo:coordinate-region svg:x="2.252cm" svg:y="1.4cm" svg:width="9.971cm" svg:height="4.33cm"/>
             <chart:axis chart:dimension="x" chart:name="primary-x" chart:style-name="ch5" chartooo:axis-type="auto">
              <chartooo:date-scale/>
@@ -4826,9 +4822,9 @@
        </office:binary-data>
       </draw:image>
      </draw:frame></table:shapes>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co8" table:number-columns-repeated="7" table:default-cell-style-name="ce99"/>
-    <table:table-column table:style-name="co6" table:number-columns-repeated="5" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co7" table:number-columns-repeated="7" table:default-cell-style-name="ce99"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="5" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro9">
      <table:table-cell table:style-name="ce96" table:formula="of:=[&apos;Rozpočtový výhled&apos;.A1]" office:value-type="string" office:string-value="Rozpočtový výhled krajského sdružení Praha" calcext:value-type="string">
       <text:p>Rozpočtový výhled krajského sdružení Praha</text:p>
@@ -5629,12 +5625,12 @@
    </table:table>
    <table:table table:name="Vstupní parametry" table:style-name="ta3">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co8" table:default-cell-style-name="ce104"/>
     <table:table-column table:style-name="co9" table:default-cell-style-name="ce104"/>
-    <table:table-column table:style-name="co10" table:default-cell-style-name="ce104"/>
-    <table:table-column table:style-name="co6" table:default-cell-style-name="ce104"/>
-    <table:table-column table:style-name="co11" table:default-cell-style-name="ce112"/>
-    <table:table-column table:style-name="co12" table:number-columns-repeated="3" table:default-cell-style-name="ce104"/>
-    <table:table-column table:style-name="co6" table:number-columns-repeated="1017" table:default-cell-style-name="ce104"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="ce104"/>
+    <table:table-column table:style-name="co10" table:default-cell-style-name="ce112"/>
+    <table:table-column table:style-name="co11" table:number-columns-repeated="3" table:default-cell-style-name="ce104"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="1017" table:default-cell-style-name="ce104"/>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce96" office:value-type="string" calcext:value-type="string">
       <text:p>Vstupní parametry modelu</text:p>
