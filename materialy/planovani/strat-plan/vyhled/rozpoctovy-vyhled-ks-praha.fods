@@ -6,8 +6,8 @@
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">28530</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">16480</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">31966</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">19169</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -26,7 +26,7 @@
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
-       <config:config-item config:name="PageViewZoomValue" config:type="int">75</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Vstupní parametry">
@@ -43,12 +43,12 @@
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
-       <config:config-item config:name="PageViewZoomValue" config:type="int">75</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Výtah z rozpočtového výhledu">
-       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">12</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">14</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">23</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -57,18 +57,18 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">12</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
-       <config:config-item config:name="PageViewZoomValue" config:type="int">75</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
-     <config:config-item config:name="ActiveTable" config:type="string">Rozpočtový výhled</config:config-item>
+     <config:config-item config:name="ActiveTable" config:type="string">Výtah z rozpočtového výhledu</config:config-item>
      <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">270</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
-     <config:config-item config:name="PageViewZoomValue" config:type="int">75</config:config-item>
+     <config:config-item config:name="PageViewZoomValue" config:type="int">100</config:config-item>
      <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">true</config:config-item>
      <config:config-item config:name="ShowZeroValues" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
@@ -95,7 +95,7 @@
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">jAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">jAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
@@ -1015,7 +1015,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2016-01-10">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="14:51:05.690036875">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2016-01-10">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="17:09:40.565567643">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -2937,7 +2937,7 @@
         <office:body>
          <office:chart>
           <chart:chart svg:width="12.472cm" svg:height="6.197cm" xlink:href=".." xlink:type="simple" chart:class="chart:bar" chart:style-name="ch1">
-           <chart:title svg:x="1.657cm" svg:y="0.174cm" chart:style-name="ch2">
+           <chart:title svg:x="1.657cm" svg:y="0.175cm" chart:style-name="ch2">
             <text:p>Základní parametry rozpočtového výhledu</text:p>
            </chart:title>
            <chart:legend svg:x="2.456cm" svg:y="1.246cm" style:legend-expansion="custom" chartooo:width="8.725cm" chartooo:height="0.864cm" style:legend-expansion-aspect-ratio="10.0983796296296" chart:style-name="ch3"/>
@@ -3405,7 +3405,7 @@
         SEFQRV9FTkQAAAAAAAAAAAACAQAgAAAAFgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAA
         AACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAAywEAAP//AAACAAUAAAAA
         AAAABQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAA
-        AABxAAIATgEAAM0GAADgAgAAJwAAAFoA4QBrAGwAYQBkAG4A7QAgAHAAYQByAGEAbQBlAHQA
+        AABxAAIATgEAAM0GAADhAgAAJwAAAFoA4QBrAGwAYQBkAG4A7QAgAHAAYQByAGEAbQBlAHQA
         cgB5ACAAcgBvAHoAcABvAA0BdABvAHYA6QBoAG8AIAB2AP0AaABsAGUAZAB1AAAAJwAnAAAA
         CQEAAPcBAADlAgAATwMAAD0EAAArBQAAGQYAAJ0GAAAiBwAAEAgAAP4IAACdCQAAiwoAAP0L
         AADrDAAAcA0AAA4OAAD8DgAAgQ8AACAQAAAOEQAA/BEAAOoSAADYEwAAxhQAAEoVAAA5FgAA
@@ -3503,7 +3503,7 @@
        </office:binary-data>
       </draw:image>
      </draw:frame>
-     <draw:frame draw:z-index="1" draw:style-name="gr1" draw:text-style-name="P1" svg:width="12.388cm" svg:height="4.534cm" svg:x="14.029cm" svg:y="11.944cm">
+     <draw:frame draw:z-index="1" draw:style-name="gr1" draw:text-style-name="P1" svg:width="12.388cm" svg:height="4.534cm" svg:x="14.029cm" svg:y="11.844cm">
       <draw:object draw:notify-on-update-of-ranges="&apos;Výtah z rozpočtového výhledu&apos;.B4:&apos;Výtah z rozpočtového výhledu&apos;.H4 &apos;Výtah z rozpočtového výhledu&apos;.A23:&apos;Výtah z rozpočtového výhledu&apos;.A23 &apos;Výtah z rozpočtového výhledu&apos;.B23:&apos;Výtah z rozpočtového výhledu&apos;.H23 &apos;Výtah z rozpočtového výhledu&apos;.A24:&apos;Výtah z rozpočtového výhledu&apos;.A24 &apos;Výtah z rozpočtového výhledu&apos;.B24:&apos;Výtah z rozpočtového výhledu&apos;.H24">
        <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:chartooo="http://openoffice.org/2010/chart" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.chart">
         <office:meta><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator></office:meta>
@@ -4189,7 +4189,7 @@
         <office:body>
          <office:chart>
           <chart:chart svg:width="12.448cm" svg:height="4.971cm" xlink:href=".." xlink:type="simple" chart:class="chart:bar" chart:style-name="ch1">
-           <chart:title svg:x="3.546cm" svg:y="-0.021cm" chart:style-name="ch2">
+           <chart:title svg:x="3.546cm" svg:y="-0.02cm" chart:style-name="ch2">
             <text:p>Výdaje na placené funkce</text:p>
            </chart:title>
            <chart:legend svg:x="8.775cm" svg:y="1.085cm" style:legend-expansion="custom" chartooo:width="3.672cm" chartooo:height="3.461cm" style:legend-expansion-aspect-ratio="1.06096503900607" chart:style-name="ch3"/>
@@ -4776,7 +4776,7 @@
         UEVfRU5EAAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAA
         igABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAMsBAAD//wAAAgAFAAAAAAAA
         AAUEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAA
-        cQACANYAAAAuDgAAHQIAABgAAABWAP0AZABhAGoAZQAgAG4AYQAgAHAAbABhAGMAZQBuAOkA
+        cQACANYAAAAuDgAAHgIAABgAAABWAP0AZABhAGoAZQAgAG4AYQAgAHAAbABhAGMAZQBuAOkA
         IABmAHUAbgBrAGMAZQAAABgAGAAAACMBAAARAgAA/wIAAO0DAABXBAAARQUAAMoFAAC4BgAA
         pgcAACoIAAAYCQAAggkAAHAKAABeCwAATQwAADsNAAApDgAArQ4AADEPAAAgEAAADhEAAPwR
         AADqEgAA2BMAABgAVgD9AGQAYQBqAGUAIABuAGEAIABwAGwAYQBjAGUAbgDpACAAZgB1AG4A
@@ -5716,7 +5716,6 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Vstupní parametry" table:style-name="ta3">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co16" table:default-cell-style-name="ce109"/>
     <table:table-column table:style-name="co9" table:number-columns-repeated="2" table:default-cell-style-name="ce109"/>
     <table:table-column table:style-name="co17" table:default-cell-style-name="ce119"/>
