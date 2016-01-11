@@ -16,7 +16,7 @@ your:
       -     Mariánské náměstí 2
       -     110 00 Praha 1
    note:
-      -     k rukám: Ing. Tomáše Domeckého, pověřeného řízením interního auditu
+      -     k rukám Ing. Tomáše Domeckého, pověřeného řízením interního auditu
 sendby:     ds
 style:      letter
 ---
@@ -25,7 +25,7 @@ Vážený pane auditore,
 
 Připravil jsem seznam podnětů pro kontrolu postupu Magistrátu hlavního města Prahy jako povinného subjektu. Jako zastupitel často žádám o informace podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, nebo podle zákona č. 131/2000 Sb., o hlavním městě Praze. Za poslední rok jsem se nicméně setkal s nemalým počtem pochybení ze strany hlavního města Prahy; povinný subjekt často vydává nezákonná rozhodnutí, která jsou opětovně rušena Ministerstvem vnitra jako nadřízeným správním orgánem. Zastupitelé našeho klubu se s touto skutečností setkali celkem v osmi případech: 
 
-* [Žádost o poskytnutí dokumentů evidence bytů Prahy](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/07-nemovity-majetek-Prahy/5-vraceni-k-novemu-projednani/rozhodnuti.pdf)
+* [Žádost o poskytnutí seznamu nájmů nemovitostí Prahy](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/07-nemovity-majetek-Prahy/5-vraceni-k-novemu-projednani/rozhodnuti.pdf)
 * [Žádost o záznamy z jednání Rady hlavního města Prahy](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/10-zaznam-jednani-Rady/6-zruseni-rozhodnuti/zruseni-rozhodnuti.pdf)
 * [Žádost o přístup k informacím podle etického kodexu](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/11-oznameni-eticky-kodex/4-zruseni-rozhodnuti/42517_4%20Rozhodnut%C3%AD.pdf)
 * [Žádost o audit vyhotovený Václavem Láskou](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/25-audit-dpp-podruhe/8-druhe-zruseni/73748-6_ROZHODNUTI%20druhe%20odvolani_DS.pdf)
@@ -37,7 +37,6 @@ Připravil jsem seznam podnětů pro kontrolu postupu Magistrátu hlavního měs
 V dalších případech pak Magistrát hlavního města Prahy porušuje zákon č. 106/1999 Sb., o svobodném přístupu k informacím a další související právní předpisy tím, že nevydává rozhodnutí o odepření informací, resp. neposkytuje žádané informace včas. Zastupitelé klubu Pirátů byli v následujících devíti případech svědky prodlev hlavního města Prahy jako povinného subjektu, a museli podávat stížnosti.
 
 * [Žádost o informace ohledně vzdělání ředitele legislativního odboru](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2014/25-sef-leg-odboru-zadost-na-magistrat/stiznost-proti-necinnosti/main.pdf)
-* [Stížnost na nečinnost v případě žádosti o evidenci pražských bytů](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/07-nemovity-majetek-Prahy/2-stiznost-proti-necinnosti/main.pdf)
 * [Stížnost na prodlení při poskytování informací ohledně členství v dozorčích radách](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/08-clenove-dozorcich-rad/2-stiznost/main.pdf)
 * [Stížnost na prodlení při poskytování záznamu jednání Rady z 2. 6. 2015](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/75-zaznam-z-jednani-rady-2.6/2-stiznost/main.pdf)
 * [Stížnost na neprovedení kontroly etických kodexů](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/102-kontrola-etickych-kodexu/2-stiznost/main_signed.pdf)
