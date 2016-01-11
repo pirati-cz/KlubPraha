@@ -1,5 +1,5 @@
 ---
-title:      Žádost o informace
+title:      Žádost o přístup do registru podle střetu zájmů
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
@@ -21,9 +21,9 @@ style:      letter
 
 Vážení 
 
-v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, Vás žádám o poskytnutí přístupových údajů do registru oznámení o činnostech, oznámení o majetku a oznámení o příjmech, darech a závazcích podávaných veřejnými funkcionáři podle zákona č. 159/2006 Sb., o střetu zájmů, ve znění zákona č. 216/2008 Sb. Připomínám, že jsem o tento přístup již požádal dne 25. 9. 2015.
+v souladu se zákonem č. 159/2006 Sb., o střetu zájmů, Vás žádám o poskytnutí přístupových údajů do registru oznámení o činnostech, oznámení o majetku a oznámení o příjmech, darech a závazcích podávaných veřejnými funkcionáři podle zákona č. 159/2006 Sb., o střetu zájmů, ve znění zákona č. 216/2008 Sb. Připomínám, že jsem o tento přístup již požádal dne 25. 9. 2015.
 
-Mé žádosti sice bylo vyhověno, nicméně pouze na dobu čtrnácti dní. Připomínám, že omezení přístupu do registru oznámení o činnostech, oznámení o majetku a oznámení o příjmech, darech a závazcích podávaných veřejnými funkcionáři podle zákona č. 159/2006 Sb., o střetu zájmů, ve znění zákona č. 216/2008 Sb. na dobu pouhých 14 dnů, nemá oporu ani v zákoně č. 106/1999 Sb., o svobodném přístupu k informacím, ani v zákoně č. 159/2006 Sb., o střetů zájmů, ani v zákoně č. 216/2008 Sb., kterým se mění zákon č. 159/2006 Sb., o střetu zájmů. Tuto skutečnost přiznala rovněž i referentka organizačních vztahů a informací Magistrátu hlavního města Prahy, Bc. Zdeňka Topolczanová, a to během naší společné schůzky.
+Mé žádosti sice bylo vyhověno, nicméně pouze na dobu čtrnácti dní. Připomínám, že omezení přístupu do registru oznámení o činnostech, oznámení o majetku a oznámení o příjmech, darech a závazcích podávaných veřejnými funkcionáři podle zákona č. 159/2006 Sb., o střetu zájmů, ve znění zákona č. 216/2008 Sb. na dobu pouhých 14 dnů, nemá oporu ani v zákoně č. 159/2006 Sb., o střetů zájmů, ani v zákoně č. 216/2008 Sb., kterým se mění zákon č. 159/2006 Sb., o střetu zájmů. Tuto skutečnost přiznala rovněž i referentka organizačních vztahů a informací Magistrátu hlavního města Prahy, Bc. Zdeňka Topolczanová, a to během naší společné schůzky.
 
 I kdyby však Magistrát hlavního města Prahy jako povinný subjekt i nadále trval na tom, aby byl tento přístup podmíněn čtrnáctidenní nezákonou lhůtou, žádám pokaždé po vypršení uvedené lhůty o zaslání nových přístupových údajů podle § 4 odst. 2 písm. f) zákona č. 106/1999 Sb., o svobodném přístupu k informacím, a to jako k informaci, která se v průběhu času mění, obnovuje, doplňuje nebo opakovaně vytváří.
 
