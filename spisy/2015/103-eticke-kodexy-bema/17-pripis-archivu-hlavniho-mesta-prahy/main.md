@@ -9,7 +9,7 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha 103/2015
 your:
-   role:    
+   role:    Adresát
    name:    
       -     Archiv hlavního města Prahy
    address:
@@ -20,11 +20,9 @@ style:      letter
 ---
 
 
-Vážení,
+Vážení pracovníci Archivu hlavního města Prahy,
 
-přeposílám Vám korespondenci ve věci naší žádosti o informace, ze které vyplývá, že došlo k protiprávní likvidaci požadovaných dokumentů. Žádám Vás, abyste prověřili, zda nedošlo ke spáchání přestupku, nebo jiného správního deliktu a vyrozuměli mě o svých zjištěních v zákonné lhůtě.
-
-Rovněž připomínám, že jsem v této záležitosti již kontaktoval Národní archiv, který však informoval, že je v této záležitosti nepříslušným orgánem, jak dokládá § 46 odst. 1 písm. a) zákona č. 499/2004, zákona o archivnictví a spisové službě a o změně některých zákonů.
+přeposílám Vám korespondenci ve věci žádosti o archivované dokumenty, ze které vyplývá, že došlo k protiprávní likvidaci požadovaných dokumentů. Žádám Vás, abyste prověřili, zda nedošlo ke spáchání přestupku, nebo jiného správního deliktu a vyrozuměli mě o svých zjištěních v zákonné lhůtě.
 
 ---
 signature:

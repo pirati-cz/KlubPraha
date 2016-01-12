@@ -1,5 +1,5 @@
 ---
-title:      Stížnost
+title:      Stížnost na nepřeposílání korespondence
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
@@ -9,7 +9,7 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha 103/2015
 your:
-   role:    
+   role:    Adresát
    name:    
       -     Hlavní město Praha
    address:
@@ -21,11 +21,11 @@ sendby:     ds
 style:      letter
 ---
 
-Dne 13. 11. 2015 jsem podal podnět Národnímu archivu ohledně ztracených majetkových přiznání podle etického kodexu zastupitelů Pavla Béma a Petra Hulinského. Národní archiv následně odpověděl hlavnímu městu Praze (v přípise č. j. NA- 4733-2/12-2015), že je k dané záležitosti nepříslušným orgánem. Tato zpráva měla být dána na vědomí Zastupitelskému klubu Pirátů, to však nebylo ze strany Hlavního města Prahy učiněno, a dozvěděl jsem se o ní teprve tehdy, když můj asistent Jan Loužek telefonicky kontaktoval Národní archiv.
+Vážení,
 
-V souvislosti s tím podávám tímto stížnost na způsob, jakým Magistrát hlavního města Prahy vyřizuje naší komunikaci. Zároveň žádám podle zákona č. 106/1999 Sb., o informace, jaká opatření učinilo hlavní město Praha pro to, aby se takové skutečnosti do budoucna již neopakovaly. 
+dne 13. 11. 2015 jsem podal podnět Národnímu archivu ohledně ztracených majetkových přiznání podle etického kodexu zastupitelů Pavla Béma a Petra Hulinského. Národní archiv následně odpověděl hlavnímu městu Praze (v přípise č. j. NA- 4733-2/12-2015), že je k dané záležitosti nepříslušným orgánem. Tato zpráva měla být dána na vědomí Zastupitelskému klubu Pirátů, to však nebylo ze strany Hlavního města Prahy učiněno, a dozvěděl jsem se o ní teprve tehdy, když můj asistent Jan Loužek telefonicky kontaktoval Národní archiv. Proto podívám tímto stížnost v souladu s odst. 1 a odst. 4 § 175 zákona č. 500/2004 Sb., správního řádu. 
 
-Prosím o poskytnutí informace v elektronické podobě a doručování do datové schránky uvedené v patičce této zprávy. Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více datových zprávách, nebo se dostavím s paměťovým médiem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost. 
+Žádám proto, aby hlavní město Praha prošetřilo skutečnosti, které jsou uvedené ve stížnosti. Považuje-li to správní orgán za vhodné, může rovněž vyslechnout osoby, proti nimž stížnost směřuje, popřípadě i další osoby, které mohou přispět k objasnění věci. Žádám být vyrozuměn o učiněných opatřeních.
 
 ---
 signature:
