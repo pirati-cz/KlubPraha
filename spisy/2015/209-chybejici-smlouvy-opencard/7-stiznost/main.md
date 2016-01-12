@@ -7,14 +7,14 @@ author:
    mail:    jakub.michalek@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    ZK Pha 245/2015
+   sign:    ZK Pha 209/2015
 your:
    role:    Povinný subjekt
    name:    
-      -     Pražská teplárenská holding a.s.
+      -     Hlavní město Praha
    address:
-      -     Partyzánská 1
-      -     170 00 Praha 7
+      -     Mariánské náměstí 2
+      -     110 00 Praha 1
 sendby:     ds
 style:      letter
 ---
@@ -23,11 +23,13 @@ Vážení,
 
 dne 11. 12. jsem v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze, požádal o následující informace:
 
-* Všechny akcionářské smlouvy, které kdy uzavřela Pražská teplárenská holding a.s. Žádám o poskytnutí obsahu každé jedné této smlouvy.
+* Dodatek smlouvy č. LIC/40/01/001650/2008, který není i k dispozici prostřednictvím webu praha.eu
+* Dodatek smlouvy č. LIC/40/01/001653/2008, který není i k dispozici prostřednictvím webu praha.eu
+* Dodatek smlouvy č. LIC/40/01/001966/2009, který není i k dispozici prostřednictvím webu praha.eu
 
-Jednalo se o smlouvy vypovídající o základních principech fungování společnosti ovládané hl. m. Prahou, jehož jsem zastupitelem, a tudíž souvisejí s výkonem mé funkce.
+Povinný subjekt první u uvedených dokumentů poskytl, o dalším tvrdí, že neexistuje. Třetí vyžádaný dokument povinný subjekt sice vlastní, nicméně ve svém rozhodnutí ze dne 24. 11. uvedl, že k jeho zveřejnění musí mít souhlas třetí strany, tedy společnosti eMoneyServices, se kterou byl uzavřen. O tento souhlas povinný subjekt požádal, nicméně jej v přípisu z 20. 11., nezískal. Na základě toho se rozhodl danou informaci neposkytnout ve smyslu ustanovení § 9 InfZ. Protože jsem s tímto závěrem povinného subjektu nesouhlasil, podal jsem dne 24. 11. 2015 odvolání. Ministerstvo vnitra jako nadřízený správní orgán následně rozhodnutí povinného subjektu svým rozhodnutím ze dne 17. 12. 2015 č. j. MV-177214-4/ODK-2015 zrušilo a vrátilo danou věc k novému projednání.
 
-Na svoji žádost jsem nicméně v zákonné lhůtě patnácti dnů, kterou zákon č. 106/1999 Sb. stanoví, neobdržel od povinného subjektu odpověď. Podávám proto podle §16a odst. 1 písm. a) InfZ stížnost na postup při vyřizování žádosti o informace. Nesouhlasím se způsobem vyřízení mé žádosti a i nadále trvám na poskytnutí žádané informace povinným subjektem. Navrhuji, aby nadřízený správní orgán postupem podle § 16a odst. 6 písm. b) InfZ povinnému subjektu přikázal, aby žádost vyřídil ve lhůtě 5 dnů ode dne doručení rozhodnutí nadřízeného orgánu.
+Na svoji žádost jsem v zákonné lhůtě patnácti dnů, kterou zákon č. 106/1999 Sb. stanoví, neobdržel od povinného subjektu odpověď. Podávám proto podle §16a odst. 1 písm. a) InfZ stížnost na postup při vyřizování žádosti o informace. Nesouhlasím se způsobem vyřízení mé žádosti a i nadále trvám na poskytnutí žádané informace povinným subjektem. Navrhuji, aby nadřízený správní orgán postupem podle § 16a odst. 6 písm. b) InfZ povinnému subjektu přikázal, aby žádost vyřídil ve lhůtě 5 dnů ode dne doručení rozhodnutí nadřízeného orgánu.
 
 Prosím o poskytnutí informace v elektronické podobě a doručování do datové schránky uvedené v patičce této zprávy. Ke komunikaci zmocňuji dále svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17). Předem děkuji za Vaši vstřícnost. 
 
