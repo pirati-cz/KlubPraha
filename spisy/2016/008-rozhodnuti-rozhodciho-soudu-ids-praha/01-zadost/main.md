@@ -22,7 +22,7 @@ style:      letter
 
 Vážení
 
-Žádám v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a v souladu s odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze o následující informace:
+žádám v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a v souladu s odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze o následující informace:
 
 * Rozhodnutí Rozhodčího soudu při Hospodářské komoře České republiky ve věci nároku spolenčosti IDS a.s.
 * Umožnění nahlédnutí do stavebních deníků na stavbě tunelu Blanka.
