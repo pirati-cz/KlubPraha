@@ -284,6 +284,9 @@ Měsíc,Platba,Plátce,Příjemce,Částka (Kč),Důvod platby,Zdroj
 2015-07,2015-08-07,Praha,Jan Loužek,18788,plat zaměstnance,
 2015-08,2015-09-09,Praha,Jan Loužek,15234,plat zaměstnance,
 2015-09,2015-10-08,Praha,Jan Loužek,29986,plat zaměstnance,
+2015-10,2015-11-10,Praha,Jan Loužek,15192,plat zaměstnance,
+2015-11,2015-12-09,Praha,Jan Loužek,35088,plat zaměstnance,
+2015-12,2016-01-11,Praha,Jan Loužek,23107,plat zaměstnance,
 2015-10,2015-11-23,Praha,Adam Zábranský,8437,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/10/adam-zabransky/README.md
 2015-10,2015-11-23,Pirati,Adam Zábranský,7511,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/10/adam-zabransky/README.md
 2015-10,2015-11-23,Pirati,Adam Zábranský,4000,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/10/adam-zabransky/README.md
