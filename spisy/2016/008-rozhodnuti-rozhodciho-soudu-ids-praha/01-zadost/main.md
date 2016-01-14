@@ -20,12 +20,12 @@ style:      letter
 ---
 
 
-Vážení
+Vážení,
 
 žádám v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a v souladu s odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze o následující informace:
 
-* Rozhodnutí Rozhodčího soudu při Hospodářské komoře České republiky ve věci nároku spolenčosti IDS a.s.
-* Umožnění nahlédnutí do stavebních deníků na stavbě tunelu Blanka.
+1. Rozhodnutí Rozhodčího soudu při Hospodářské komoře České republiky ve věci nároku spolenčosti IDS a.s.
+2. Umožnění nahlédnutí do stavebních deníků na stavbě tunelu Blanka.
 
 Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě, kdykoliv je to možné. Ke komunikaci zmocňuji dále svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17). Předem děkuji za Vaši vstřícnost. 
 
