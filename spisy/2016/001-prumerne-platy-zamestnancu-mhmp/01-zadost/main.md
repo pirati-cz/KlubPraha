@@ -7,7 +7,7 @@ author:
    mail:    adam.zabransky@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    ZK Pha 1/2006
+   sign:    ZK Pha 1/2016
 your:
    role:    Povinný subjekt
    name:    
@@ -23,54 +23,24 @@ Vážení,
 
 v souladu s § 51 odst. 3 písm. b) a c) zákona č. 131/2000 Sb., o hlavním městě Praze, resp. v souladu se zákonem č. 106/1999 Sb., ve znění pozdějších předpisů, Vás žádám o následující informace:
 
-Průměrný měsíční plat (včetně osobního ohodnocení a odměn) za léta 2013 a 2014 pracovníků MHMP podle jejich pracovního zařazení podle tříd zaměstnání CZ-ISCO. Jedná se o následující pozice (pokud jsou do nich zaměstnanci MHMP zařazeni):
+Příjem každého jednoho pracovníka Magistrátu hlavního města Prahy za rok 2013 a 2014, podle funkcí, které zastávají. Žádám tyto informace poskytnout v tabulce pro každý rok zvlášť. Požadované údaje poskytněte formou tabulky, pro každého jednoho zaměstnance zvlášť, pro každý jeden rok zvlášť; u každého zaměstnance uveďte:
 
-- 11 Nejvyšší státní úřadníci, nejvyšší představitelé společností
-- 12 řídící prac.správy podniku, obchod., admin. a pod. činností
-- 13 řídící pracovníci výroby, IT, vzdělávání a příbuzných oborů
-- 14 řídící prac.ubyt.,strav.služeb,obchodu,ost.řídící pracovníci
-- 21 Specialisté v oblasti vědy a techniky
-- 22 Specialisté v oblasti zdravotnictví
-- 24 Specialisté v obchodní sféře a veřejné správě
-- 25 Specialisté v oblasti ICT
-- 26 Specialisté obl. právní, sociální, kulturní a příbuz.oblastí
-- 31 Techničtí a odborní pracovníci v oblasti vědy a techniky 
-- 32 Odborní pracovníci v oblasti zdravotnictví
-- 34 Odborní pracovníci v obl.práva,kultury,sportu,příbuz.oborech 
-- 35 Technici v oblasti ICT 
-- 41 Všeobecní admin.pracovníci,sekretáři,pracovníci zadávání dat
-- 42 Pracovníci informačních služeb,na přepážkách,v příb.oborech 
-- 43 Úředníci pro zpracování číselných údajů a v logistice
-- 44 Ostatní úředníci
-- 51 Pracovníci v oblasti osobních služeb
-- 52 Pracovníci v oblasti prodeje
-- 53 Pracovníci osob.péče ve vzdělávání,zdravotnictví,příbuz.obl.
-- 54 Pracovníci v oblasti ochrany a ostrahy 
-- 61 Kvalifikovaní pracovníci v zemědělství
-- 62 Kvalifikovaní pracovníci v lesnictví, rybářství a myslivosti 
-- 63 Farmáři, rybáři, lovci a sběrači samozásobitelé
-- 71 řemeslníci,kvalif.pracovníci na stavbách(kromě elektrikářů)
-- 72 Kovodělníci,strojírenští dělníci,pracovníci v příb.oborech
-- 73 Pracovníci v obl.uměleckých a tradičních řemesel, polygrafie
-- 74 Pracovníci v oboru elektroniky a elektrotechniky
-- 75 Zpracovatelé potravin,dřeva,textilu,pracovníci příbuz.oborů
-- 81 Obsluha stacionárních strojů a zařízení
-- 82 Montážní dělníci výrobků a zařízení
-- 83 řidiči a obsluha pojízdných zařízení
-- 91 Uklízeči a pomocníci
-- 92 Pomocní pracovníci v zemědělství, lesnictví a rybářství
-- 93 Pomocní pracovníci těžby,staveb.,výroby,dopravy a příb.ob.
-- 94 Pomocní pracovníci při přípravě jídla
-- 95 Pracovníci pouličního prodeje a poskytování služeb
-- 96 Pracovníci s odpady a ostatní pomocní pracovníci
+* Pracovní místo
+* Vyplacenou odměnu za rok v českých korunách
+* Začlenění zaměstnance v organizační struktuře
+* kód sekce
+* odbor
+* oddělení
 
-Připomínám, že v roce 2015 o stejnou informaci již žádal zastupitel Jakub Michálek. Tato informace mu nebyla hlavním městem Prahou poskytnuta z toho důvodu, že se povinný subjekt domníval, že nespadá do okruhu informací, na které by měl mít jako zastupitel nárok. Magistrát hlavního města Prahy tuto skutečnost písemně stvrdil ve svém rozhodnutí č. j. S-MHMP 1540865/2015.
+Žádám, aby v odpovědi nebyly uváděny žádné osobní údaje zaměstnanců (jméno, příjmení, bydliště apod). 
 
-Proto podal odvolání podle § 16 zákona č. 106/1999 Sb., o svobodném přístupu k informacím. Ministerstvo vnitra jako nadřízený správní orgán ve svém rozhodnutí č. j. MV-147454-4/ODK-2015 původní rozhodnutí hlavního města Prahy zrušilo a vrátilo ji k novému projednání. 
+Připomínám, že v roce 2015 o obdobnou informaci již žádal zastupitel Jakub Michálek. Tato informace mu nebyla hlavním městem Prahou poskytnuta z toho důvodu, že se povinný subjekt domníval, že nespadá do okruhu informací, na které by měl mít jako zastupitel nárok. Magistrát hlavního města Prahy tuto skutečnost písemně stvrdil ve svém rozhodnutí č. j. S-MHMP 1540865/2015.
 
-Následně vydal povinný subjekt nové rozhodnutí, ve kterém znovu a opětovně zamítl poskytnutí této informace s odůvodněním, že Magistrát hlavního města Prahy danou informaci nemá k dispozici, tedy že neeviduje dané statistické údaje. Lze se však jen stěží ztotožnit s tím, že hlavní město Praha nemá k dispozici vůbec žádné informace o odměnách zaměstnanců Magistrátu hlavního města Prahy. **Pokud hlavní město Praha tedy eviduje průměrné platy zaměstnanců podle jejich profesního zařazení jiným způsobem, nechť poskytne danou informaci ve struktuře, kterou používá, namísto seznamu uvedeného výše.** V takovém případě ale musí být poskytnutá informace v objemu odpovídajícím seznamu uvedeném výše. 
+Jakub Michálek proto podal odvolání podle § 16 zákona č. 106/1999 Sb., o svobodném přístupu k informacím. Ministerstvo vnitra jako nadřízený správní orgán ve svém rozhodnutí č. j. MV-147454-4/ODK-2015 původní rozhodnutí hlavního města Prahy zrušilo a vrátilo ji k novému projednání. 
 
-Prosím o poskytnutí informace v elektronické podobě a doručování do datové schránky uvedené v patičce této zprávy. Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více datových zprávách, nebo se dostavím s paměťovým médiem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost. 
+Následně vydal povinný subjekt nové rozhodnutí, ve kterém znovu a opětovně zamítl poskytnutí této informace s odůvodněním, že Magistrát hlavního města Prahy danou informaci nemá k dispozici, tedy že neeviduje dané statistické údaje. Lze se však jen stěží ztotožnit s tím, že hlavní město Praha nemá k dispozici vůbec žádné informace o odměnách zaměstnanců Magistrátu hlavního města Prahy; lze však souhlasit s tím, že danou informaci nemá ve struktuře, kterou Jakub Michálek ve své prvotní žádosti požadoval (podle tříd zaměstnání podle CZ-ISCO).
+
+Prosím o poskytnutí informace v elektronické podobě do datové schránky, případně na e-mail. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
 
 S pozdravem
 
