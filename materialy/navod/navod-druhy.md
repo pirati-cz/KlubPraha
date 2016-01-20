@@ -28,7 +28,7 @@ Můžete však exportovat účetní záznamy podle jednotlivých let, a tedy dat
 
 ### 2.1. Výběr účetního období
 
-První co nás nejspíše bude v tomto případě zajímat, bude přístup k jednotlivým datům. Pomocí volby **Aplikace → Účetní období** v levé horní části obrazovky zvolte rok, odkud chcete faktury exportovat. 
+První co nás nejspíše bude v tomto případě zajímat, bude přístup k jednotlivým datům. Pomocí volby **Aplikace → Účetní období** v levé horní části obrazovky zvolte rok, odkud chcete faktury exportovat. Uprostřed horní části obrazovky by se Vám tak mělo zobrazit aktuálně vybrané období jako konkrétní rok.
 
 ![Ilustrace 2: Volba "Výběr účetního období"](ginis-start.png)
 
@@ -101,6 +101,8 @@ Jakmile jsou data seřazena tímto způsobem, lze je exportovat v podobě, kter�
 1. označíme veškeré položky (CTRL+A)
 2. pravým tlačítkem vybereme z kontextové nabídky „export → vše do Excelu“
 3. otevře se nám automaticky spreadsheetový editor s účetními daty z dané knihy.
-4. uložíme danou tabulku ve formátu .xlsx
+4. uložíme danou tabulku ve formátu **.xlsx**
 5. Otevřeme si danou tabulku ve formátu Libre Office
-6. Uložíme tabulku jako Textové CSV
+6. Uložíme tabulku jako Textové CSV s příponou **.csv**
+
+Důvodem, proč je nezbytné v pátém a šestém kroku použít Libre Office je problematika kódování češtiny. Typicky české znaky (**ěščřžýáí** a další) musí být zakódovány (uloženy) ve formátu UTF-8, který je možné efektivněji a praktičtěji zpracovávat. Bohužel Microsoft **Excel** toto kódování nepoužívá a ani neumožňuje exportovat soubory do tohoto formátu. 
