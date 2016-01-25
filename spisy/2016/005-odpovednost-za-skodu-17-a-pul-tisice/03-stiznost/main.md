@@ -21,7 +21,7 @@ style:      letter
 
 Vážení,
 
-Dne 7. 1. 2016 jsem požádal v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze, o následující informace:
+dne 7. 1. 2016 jsem požádal v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze, o následující informace:
 
 1. Jaký byl výsledek jednání škodní komise MHMP v případě škody ve výši 17 200 Kč za nezákonné potvrzení rozhodnutí městské části o odmítnutí poskytnutí informace, které zrušil rozsudek Městského soudu v Praze č.j. 11A 166/2012?
 
@@ -29,7 +29,7 @@ Dne 7. 1. 2016 jsem požádal v souladu se zákonem č. 106/1999 Sb, o svobodné
 
 Dne 21. 1. 2016 jsem obdržel přípis ředitelky odboru služeb Magistrátu hlavního města Prahy, Ing. Ivety Pekárkové, ve které bylo odpovězeno zároveň i na mojí druhou žádost o informace, kterou jsem zasílal Magistrátu hlavního města Prahy (spisová značka Zk Pha 225/2015). Ačkoliv jsem obdržel seznam případů, které řešily Škodní komise Magistrátu, neobdržel jsem informace které jsem žádal ve výše zmíněné žádosti ze dne 7. 1. 2016. 
 
-Povinný subjekt ve svém rozhodnutí, které sice není formálním rozhodnutím o odepření informací podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, byť jeho znaky z hlediska materiálního vykazuje, informuje, že odbor služeb nemá k dispozici žádanou informaci. Vzhledem k tomu, že žádost byla adresována Hlavnímu městu Praze, a nikoliv odboru služeb Magistrátu hlavního města Prahy, nelze se se závěrem povinného subjektu ztotožnit. Územní samosprávný celek je povinný subjekt; on sám je-li mu žádost adresována je povinnen zajistit součinnost svých vnitřních orgánů tak, aby žádost vyřídil (srov. rozsudek NSS ze dne 7. 8. 2007, č.j. 2 As 12/2007-79 nebo rozsudek NSS ze dne 28. 3. 2008 č.j. 3 As 13/2007). 
+Povinný subjekt na mojí žádost v požadované lhůtě neodpověděl. Neformálním přípisem za něj odpověděl sice Odbor služeb Magistrátu hlavního města Prahy, žádost byla adresována Hlavnímu městu Praze, a nikoliv odboru služeb Magistrátu hlavního města Prahy. Územní samosprávný celek je povinný subjekt; on sám je-li mu žádost adresována je povinnen zajistit součinnost svých vnitřních orgánů tak, aby žádost vyřídil (srov. rozsudek NSS ze dne 7. 8. 2007, č.j. 2 As 12/2007-79 nebo rozsudek NSS ze dne 28. 3. 2008 č.j. 3 As 13/2007). 
 
 Protože povinný subjekt neposkytl informace, a to ani částečně; a neučinil tak ve lhůtě 15 dní, jak stanoví zákon č. 106/1999 Sb., o svobodném přístupu k informacím, podávám podle § 16a odst. 1 písm. b) zákona č. 106/1999 Sb, stížnost na vyřizování žádosti o informace. Navrhuji, aby nadřízený správní orgán postupem podle § 16a odst. 6 písm. b) InfZ povinnému subjektu přikázal, aby žádost vyřídil ve lhůtě 5 dnů ode dne doručení rozhodnutí nadřízeného orgánu.
 
