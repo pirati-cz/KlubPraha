@@ -16,12 +16,12 @@ your:
       -     Mariánské náměstí 2/2
       -     110 01 Praha 1
    note:
-      -     k rukám Ing. Karla Prajera, ředitele odboru strategických investic
+      -     k rukám Bc. Ondřeje Krutského
 sendby:     ds
 style:      letter
 ---
 
-Vážený pane řediteli,
+Vážený pane Krucký,
 
 v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, vás žádám o poskytnutí následujících informací:
 
