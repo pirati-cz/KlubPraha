@@ -27,7 +27,7 @@ dne 7. 1. 2016 jsem požádal v souladu se zákonem č. 106/1999 Sb, o svobodné
 
 2. Kdo byl osobou, která ve výše uvedeném případě jménem hlavního města Prahy vyhotovila rozhodnutí, potvrzující dřívější rozhodnutí městské části Praha 6 o odmítnutí informací?
 
-Dne 21. 1. 2016 jsem obdržel přípis ředitelky odboru služeb Magistrátu hlavního města Prahy, Ing. Ivety Pekárkové, ve které bylo odpovězeno zároveň i na mojí druhou žádost o informace, kterou jsem zasílal Magistrátu hlavního města Prahy (spisová značka Zk Pha 225/2015). Ačkoliv jsem obdržel seznam případů, které řešily Škodní komise Magistrátu, neobdržel jsem informace které jsem žádal ve výše zmíněné žádosti ze dne 7. 1. 2016. 
+Dne 21. 1. 2016 jsem obdržel přípis ředitelky odboru služeb Magistrátu hlavního města Prahy, Ing. Ivety Pekárkové, ve které bylo odpovězeno zároveň i na mojí žádost o informace týkající se činnosti škodních komisí, kterou jsem zasílal Magistrátu hlavního města Prahy (spisová značka Zk Pha 225/2015). Ačkoliv jsem obdržel seznam případů, které řešily Škodní komise Magistrátu, neobdržel jsem informace které jsem žádal ve výše zmíněné žádosti ze dne 7. 1. 2016. 
 
 Povinný subjekt na mojí žádost v požadované lhůtě neodpověděl. Neformálním přípisem za něj odpověděl sice Odbor služeb Magistrátu hlavního města Prahy, žádost byla adresována Hlavnímu městu Praze, a nikoliv odboru služeb Magistrátu hlavního města Prahy. Územní samosprávný celek je povinný subjekt; on sám je-li mu žádost adresována je povinnen zajistit součinnost svých vnitřních orgánů tak, aby žádost vyřídil (srov. rozsudek NSS ze dne 7. 8. 2007, č.j. 2 As 12/2007-79 nebo rozsudek NSS ze dne 28. 3. 2008 č.j. 3 As 13/2007). 
 
