@@ -11,10 +11,10 @@ our:
 your:
    role:    Povinný subjekt
    name:    
-      -     Hlavní město Praha
+      -     Pražská plynárenská a.s.
    address:
-      -     Mariánské náměstí 2/2
-      -     110 01 Praha 1
+      -     Národní 37/38
+      -     110 00 Praha 1
 sendby:     ds
 style:      letter
 ---
