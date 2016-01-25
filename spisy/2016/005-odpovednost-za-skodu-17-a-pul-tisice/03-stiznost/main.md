@@ -1,5 +1,5 @@
 ---
-title:      Odvolání proti odepření informací
+title:      Stížnost na vyřizování žádosti o informace dle zákona č. 106/1999 Sb.
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
@@ -31,7 +31,7 @@ Dne 21. 1. 2016 jsem obdržel přípis ředitelky odboru služeb Magistrátu hla
 
 Povinný subjekt ve svém rozhodnutí, které sice není formálním rozhodnutím o odepření informací podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, byť jeho znaky z hlediska materiálního vykazuje, informuje, že odbor služeb nemá k dispozici žádanou informaci. Vzhledem k tomu, že žádost byla adresována Hlavnímu městu Praze, a nikoliv odboru služeb Magistrátu hlavního města Prahy, nelze se se závěrem povinného subjektu ztotožnit. Územní samosprávný celek je povinný subjekt; on sám je-li mu žádost adresována je povinnen zajistit součinnost svých vnitřních orgánů tak, aby žádost vyřídil (srov. rozsudek NSS ze dne 7. 8. 2007, č.j. 2 As 12/2007-79 nebo rozsudek NSS ze dne 28. 3. 2008 č.j. 3 As 13/2007). 
 
-Na základě výše uvedených argumentů tímto podávám odvolání proti odepření informací dle § 16 odst. 1 zákona č. 106/1999 Sb., o svobodném přístupu k informacím a žádám, aby mi informace byly poskytnuty.
+Protože povinný subjekt neposkytl informace, a to ani částečně; a neučinil tak ve lhůtě 15 dní, jak stanoví zákon č. 106/1999 Sb., o svobodném přístupu k informacím, podávám podle § 16a odst. 1 písm. b) zákona č. 106/1999 Sb, stížnost na vyřizování žádosti o informace. Navrhuji, aby nadřízený správní orgán postupem podle § 16a odst. 6 písm. b) InfZ povinnému subjektu přikázal, aby žádost vyřídil ve lhůtě 5 dnů ode dne doručení rozhodnutí nadřízeného orgánu.
 
 Prosím o poskytnutí informace v elektronické podobě do datové schránky, případně na e-mail. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
 
