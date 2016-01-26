@@ -21,7 +21,7 @@ style:      letter
 
 Vážení
 
-dne 11. 1. jsem v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a v souladu s odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze požádal o následující informace:
+dne 11. 1. 2016 jsem v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a v souladu s odst. 3 písm. c) zákona č. 131/2000 Sb, o hlavním městě Praze požádal o následující informace:
 
 Důvodovou zprávu a všechny tři její přílohy k tisku č. R-19577 (k problematice stávajících smluvních vztahů mezi HMP, PVS a.s. a PVK a.s. týkajících se provozování vodovodů a kanalizací ve vlastnictví HMP), který byl schválen dne 27. 10. a ke kterému bylo vydáno usnesení č. 2610.
 
