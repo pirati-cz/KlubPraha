@@ -25,7 +25,7 @@ dne 11. 1. jsem v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k
 
 Důvodovou zprávu a všechny tři její přílohy k tisku č. R-19577 (k problematice stávajících smluvních vztahů mezi HMP, PVS a.s. a PVK a.s. týkajících se provozování vodovodů a kanalizací ve vlastnictví HMP), který byl schválen dne 27. 10. a ke kterému bylo vydáno usnesení č. 2610.
 
-Konstatuji, že jsem na svojí žádost neobdržel v patnáctidenní lhůtě, kterou uvádí zákon č. 106/1999 Sb., o svobodném přístupu k informacím, odpověď. Proto podávám podle § 16a zákona č. 106/1999 Sb. stížnost na vyřizování žádosti o informace. Navrhuji, aby nadřízený správní orgán postupem podle § 16a odst. 6 písm. b) InfZ povinnému subjektu přikázal, aby žádost vyřídil ve lhůtě 5 dnů ode dne doručení rozhodnutí nadřízeného orgánu.
+Konstatuji, že jsem na svojí žádost neobdržel v patnáctidenní lhůtě, kterou uvádí zákon č. 106/1999 Sb., o svobodném přístupu k informacím, odpověď. Proto podávám podle § 16a zákona č. 106/1999 Sb. o svobodném přístupu k informacím, stížnost na vyřizování žádosti o informace. Navrhuji, aby nadřízený správní orgán postupem podle § 16a odst. 6 písm. b) InfZ povinnému subjektu přikázal, aby žádost vyřídil ve lhůtě 5 dnů ode dne doručení rozhodnutí nadřízeného orgánu.
 
 Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Ke komunikaci zmocňuji dále svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17). Předem děkuji za Vaši vstřícnost. 
 
