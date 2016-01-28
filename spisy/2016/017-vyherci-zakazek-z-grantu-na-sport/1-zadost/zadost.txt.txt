@@ -1,0 +1,5 @@
+Dobrý den, paní ředitelka Fáberová mi říkala, že Magistrát v nějakém informačním systému eviduje, kdo vyhrává zakázky vzešlé z grantů, které Praha v rámci sportu přiděluje. Ve zkratce: Praha poskytne grant subjektu X na nějakou investiční akci a subjekt X si na práce s tím související najme subjekt Y (třeba stavební firmu). Magistrát eviduje seznam subjektů Y.
+
+Jestliže to odbor eviduje v nějakém informačním systému, pak asi nebude těžké z něho vyexportovat nějaké tabulky, kde to bude přehledně zpracované. Prosil bych tedy tabulky (ideálně v excelovském souboru) za posledních 10 let, kde bude napsaný subjekt, který získal dotaci, výši a účel dotace, subjekt, který dělal zakázku.
+
+Doufám, že to pro vás nebude příliš časově náročné. Kdyby s tím byl nějaký problém, tak se mi určitě ozvěte. Předem děkuji.
