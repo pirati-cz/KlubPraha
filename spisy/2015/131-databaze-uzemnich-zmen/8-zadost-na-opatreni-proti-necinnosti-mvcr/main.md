@@ -36,3 +36,4 @@ signature:
   - bytem Bořivojova 108, Praha 3
   - zastupitel hl. m. Prahy
 abbr:       miki
+...
