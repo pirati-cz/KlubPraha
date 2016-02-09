@@ -12,6 +12,8 @@ your:
    role:    Nadřízený správní orgán
    name:    
       -     České dráhy a.s.
+   note:
+      -     k rukám Pavla Krtka, M.Sc, předsedy představenstva
    address:
       -     Nábřeží Ludvíka Svobody 1222
       -     110 15 Praha 1
@@ -19,7 +21,7 @@ sendby:     ds
 style:      letter
 ---
 
-Vážení,
+Vážený pane řediteli,
 
 Dne 9. 10. 2015 jsem podal prostřednictvím e-mailu s zaručeným elektronickým podpisem odeslal žádost o informace v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), ve znění pozdějších předpisů. Požadoval jsem od Českých drah a.s. jako od povinného subjektu následující informace:
 
