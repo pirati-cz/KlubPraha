@@ -1,5 +1,5 @@
 ---
-title:      Stížnost na rozhodnutí o částečném odepření poskytnutí informace.
+title:      Odvolání proti rozhodnutí o částečném odepření poskytnutí informace.
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
@@ -29,7 +29,7 @@ Městská část Praha 10 (povinný subjekt) vydala dne 9. 11. rozhodnutí, ve k
 
 Proto jsem dne 23. 12. 2015 podal nové odvolání. Dne 27. 1. 2016 vydalo Hlavní město Praha nové rozhodnutí, kterým zrušilo předchozí rozhodnutí městské části Praha 10 a nařídilo věc k novému projednání. Městská část Praha 10 jako povinný subjekt dne 8. 2. poskytla opět jen část požadované informace (tedy celkovou výši finančních prostředků, kterou poskytla tajemníkovi městské části za poslední tři roky). Žádanou výši finančních prostředků, poskytnutých řediteli odboru Úřadu městské části Prahy 10 nicméně neposkytla, a to s odůvodněním, že s tím jednak žadatelé nesouhlasí, jednak že se jedná o osobní údaj. Povinný subjekt již potřetí tak zopakoval argumentci ze dne 9. 11. 2015. Podle § 90 odst. 1 písm b) zákona č. 500/2004 Sb., správní řád, je povinný subjekt při novém projednání věci vázán rozhodnutím odvolacího správního orgánu. Protože povinný subjekt vydal rozhodnutí, které dříve nadřízený správní orgán zrušil, je opětovné vydání stejného rozhodnutí v rozporu s uvedeným ustanovením správního řádu, a tedy nezákonné. 
 
-Vzhledem k tomu, že povinný subjekt poskytl pouze část požadované informace, podávám podle § 16a odst. 2 písm. c) zákona č. 106/1999 Sb., o svobodném přístupu k informacím, stížnost. Žádám aby nadřízený správní orgán povinnému subjektu přikázal, že má tuto informaci poskytnout.
+Vzhledem k tomu, že povinný subjekt poskytl pouze část požadované informace, podávám podle § 16 odst. 1 zákona č. 106/1999 Sb., o svobodném přístupu k informacím, odvolání.
 
 Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více datových zprávách, nebo se dostavím s paměťovým médiem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Ke komunikaci zmocňuji dále svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17). Předem děkuji za Vaši vstřícnost. 
 
