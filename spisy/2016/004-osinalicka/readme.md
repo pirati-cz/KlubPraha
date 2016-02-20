@@ -12,9 +12,13 @@ Dům: 47 bytů
    * http://www.acton.cz
    * [Výpis z Justice](https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=461567&typ=UPLNY)
 * [Smlouva MHMP a Acton](http://usneseni.praha.eu/ina2010/cessmldetail.aspx?id=139850)
-* [Vývoj cen zem. plynu 2008-2014]( http://www.kurzy.cz/komodity/index.asp?A=5&idk=43&od=01.01.2008&do=01.01.2015&curr=CZK&unit=1%20GJhttp://www.kurzy.cz/komodity/index.asp?A=5&idk=43&od=01.01.2008&do=01.01.2015&curr=CZK&unit=1%20GJ)
+* [Vývoj cen zem. plynu 2008-2014](http://www.kurzy.cz/komodity/zemni-plyn-graf-vyvoje-ceny/nr_index.asp?A=5&idk=43&od=29.9.2003&curr=CZK&default_curr=USD&unit=1%20GJ&lg=1)
 
 ## Shrnutí
+
+Zatímco spotřeba začala mírně klesat, cena začala stoupat. Navíc je cena dost jiná než je běžný ceník.
+
+## Shrnutí původní
 
 Skokové, bezdůvodné a svévolné **zvýšení ceny za ohřev vody o 90% a topení o 69% během jednoho roku v domě s nájemními byty v majetku hl.m. Prahy.**
 
