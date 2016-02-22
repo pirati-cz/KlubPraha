@@ -57,5 +57,5 @@ zveřejňovač Pirátů v Praze
 
 ## Související odkazy
 
-* [Podmínky výběrového řízení](podminky.md)
+* [Podmínky výběrového řízení](pravidla.md)
 * [Schválené usnesení](usneseni.md) 
