@@ -1,7 +1,7 @@
 ---
 osoba:                Michaela Krausová
 období:               2016-01
-počet pracovních dnů: 22
+počet pracovních dnů: 20
 user_id:              7
 ---
 Česká pirátská strana  
@@ -16,7 +16,7 @@ která obsahuje podrobnosti. U všech údajů jsou uvedeny odkazy do projektové
 Významné úkoly
 ----------------------
 
-Následující seznam zahrnuje všechny úkoly z domovského projektu krajského sdružení Praha, které zabraly déle než 3 hodiny. Každý dodavatel si může tento seznam doplnit či upravit podle své úvahy tak, aby podával co nejlepší informaci o odvedené práci.
+Následující seznam zahrnuje všechny úkoly z domovského [projektu krajského sdružení Praha][kspraha], které zabraly déle než 3 hodiny. Dodavatel si může tento seznam doplnit či upravit podle své úvahy tak, aby podával co nejlepší informaci o odvedené práci.
 
 Číslo              |   Název úkolu                                          |  Celkem           
 -------------------|--------------------------------------------------------|------------------:
@@ -44,27 +44,29 @@ Rozsah činnosti                        | Počet hodin
 B.1 v projektu krajského sdružení Praha| [70.90][linktohomehours]
 B.2 v ostatních projektech             | [2.50][linktootherhours]
 **Celkový počet hodin**                | 73.40
-Dohodnutý rozsah práce                 | 88.00
-**Procento vytížení**                  | 83
+Dohodnutý rozsah práce                 | 80.00
+**Procento vytížení**                  | 91
 
 Grafické znázornění [odpracované doby dle aktivity][activitylist]:
 
 ![Aktivity v měsíci](aktivity.png)
 
-Graf zahrnuje pouze aktivity v domovském projektu krajského sdružení Praha.
+Graf zahrnuje pouze aktivity v domovském [projektu krajského sdružení Praha][kspraha].
 
 
 Odměňování
 ----------
 
+Dodavatel má na základě [smlouvy][smlouva] s Českou pirátskou stranou právo na odměnu podle rozsahu odvedené práce pro stranu.
+
 Zdroj příjmu                           | Výše příjmu (Kč)
 -----------------                      | --------------:
 **B. Peníze od strany**                | TMPPARTYMONEY
 *z toho*                               |
-B.1 pevná složka odměny                | 5004
+B.1 pevná složka odměny                | 5505
 B.2 variabilní složka odměny           | TMPVARMONEY
 *z toho*                               |
-B.2.1 odměna za dodržení rozsahu práce | 688
+B.2.1 odměna za dodržení rozsahu práce | 828
 B.2.2 odměna za přesčasy               | 0
 B.2.3 odměna za významné splněné úkoly | TMPTASKSMONEY
 B.2.4 odpočet za výhrady               | TMPSANCTIONS
@@ -73,6 +75,8 @@ B.2.4 odpočet za výhrady               | TMPSANCTIONS
 Částky jsou uváděny vždy v hrubé výši. Je odpovědností každého dodavatele, aby příjem zdanil a zaplatil zákonné pojištění.
 
 [metodika]: https://redmine.pirati.cz/projects/praha/wiki/Odm%C4%9B%C5%88ov%C3%A1n%C3%AD_zastupitel%C5%AF
+
+[kspraha]: https://redmine.pirati.cz/projects/kspraha
 [tasklist]: https://redmine.pirati.cz/projects/kspraha/time_entries/report?f[]=spent_on&f[]=user_id&op[user_id]==&f[]=&columns=month&criteria[]=issue&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
 [task1763]: https://redmine.pirati.cz/issues/1763
 [time1763]:https://redmine.pirati.cz/issues/1763/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
@@ -90,5 +94,6 @@ B.2.4 odpočet za výhrady               | TMPSANCTIONS
 [time2555]:https://redmine.pirati.cz/issues/2555/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
 [activitylist]: https://redmine.pirati.cz/projects/kspraha/time_entries/report?columns=month&criteria[]=activity&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
 
+[smlouva]: https://smlouvy.pirati.cz/smlouvy/2016/01/misa/index.html
 [linktohomehours]: https://redmine.pirati.cz/projects/kspraha/time_entries?f[]=spent_on&f[]=user_id&f[]=&f[]=subproject_id&op[subproject_id]=!*&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
 [linktootherhours]: https://redmine.pirati.cz/time_entries/report?f[]=spent_on&f[]=cf_16&op[cf_16]==&v[cf_16][]=strana&f[]=project_id&op[project_id]=!&v[project_id][]=44&f[]=&columns=month&criteria[]=user&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
