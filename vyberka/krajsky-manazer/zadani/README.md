@@ -45,7 +45,7 @@ V nabídce nám prosím zašlete životopis a pokud budete chtít, případně i
 
 Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPP, DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [zadávacích podmínek](https://www.pirati.cz/regiony/praha/podminky) krajského sdružení s vykazováním v systémů [redmine](https://redmine.pirati.cz/).
 
-**Nabídku nám prosím zašlete do 29. 2. 2016, následující den do 12:00 se vám ozvu ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošlete na adresu <jan.louzek@pirati.cz>, kopii potom na <info@pirati.cz>.**
+**Nabídku nám prosím zašlete do ........... *(bude doplněno do 16 dnů od vyhlášení)*, následující den do 12:00 se vám ozvu ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošlete na adresu <jan.louzek@pirati.cz>, kopii potom na <info@pirati.cz>.**
 
 S pozdravem 
 
@@ -57,5 +57,5 @@ zveřejňovač Pirátů v Praze
 
 ## Související odkazy
 
-* [Podmínky výběrového řízení](/podminky.md)
-* [Schválené usnesení](/usneseni.md) 
+* [Podmínky výběrového řízení](podminky.md)
+* [Schválené usnesení](usneseni.md) 
