@@ -1,7 +1,7 @@
 Česká pirátská strana  
 krajské sdružení Praha
 
-Výběr krajského manažera
+Výběrové řízení na krajského manažera
 ========================
 
 Ahoj!
