@@ -18,15 +18,15 @@ Významné úkoly
 
 Následující seznam zahrnuje všechny úkoly z domovského projektu krajského sdružení Praha, které zabraly déle než 3 hodiny. Každý dodavatel si může tento seznam doplnit či upravit podle své úvahy tak, aby podával co nejlepší informaci o odvedené práci.
 
-Číslo              |   Název úkolu                                          |  Celkem
--------------------|--------------------------------------------------------|-------:
-[#1763][task1763]  |   Teambuildingy                                        |  21.50 
-[#2309][task2309]  |   Koordinace dobrovolníků                              |  17.85 
-[#2626][task2626]  |   E-mailový zpravodaj pro příznivce (newsletter)       |  9.65  
-[#2583][task2583]  |   Setkání ke koordinaci dobrovolníků                   |  7.00  
-[#2642][task2642]  |   Zajistit hladké přijímání členů a zaškolení nováčků  |  4.60  
-[#2549][task2549]  |   Připravit strategický plán krajského sdružení        |  4.00  
-[#2555][task2555]  |   Materiály ke studiu pro koordinátorku                |  3.25  
+Číslo              |   Název úkolu                                          |  Celkem           
+-------------------|--------------------------------------------------------|------------------:
+[#1763][task1763]  |   Teambuildingy                                        |  [21.50][time1763]
+[#2309][task2309]  |   Koordinace dobrovolníků                              |  [17.85][time2309]
+[#2626][task2626]  |   E-mailový zpravodaj pro příznivce (newsletter)       |  [9.65][time2626] 
+[#2583][task2583]  |   Setkání ke koordinaci dobrovolníků                   |  [7.00][time2583] 
+[#2642][task2642]  |   Zajistit hladké přijímání členů a zaškolení nováčků  |  [4.60][time2642] 
+[#2549][task2549]  |   Připravit strategický plán krajského sdružení        |  [4.00][time2549] 
+[#2555][task2555]  |   Materiály ke studiu pro koordinátorku                |  [3.25][time2555] 
 
 Můžete si zobrazit plný [přehled plněných úkolů][tasklist].
 
@@ -34,7 +34,7 @@ Měřitelné ukazatele
 -------------------
 
 Následující tabulka obsahuje měřitelné ukazatele za všechny úkoly v daném měsíci
-včetně neveřejných úkolů. Proto mohou být hodiny v ní vyšší než se vám bez
+včetně neveřejných úkolů. Proto mohou být hodiny v ní vyšší, než se vám bez
 přihlášení zobrazí v projektovém systému.
 
 Rozsah činnosti                        | Počet hodin
@@ -74,13 +74,20 @@ B.2.4 odpočet za výhrady               | TMPSANCTIONS
 
 [metodika]: https://redmine.pirati.cz/projects/praha/wiki/Odm%C4%9B%C5%88ov%C3%A1n%C3%AD_zastupitel%C5%AF
 [tasklist]: https://redmine.pirati.cz/projects/kspraha/time_entries/report?f[]=spent_on&f[]=user_id&op[user_id]==&f[]=&columns=month&criteria[]=issue&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
-[task1763]: https://redmine.pirati.cz/issues/1763/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
-[task2309]: https://redmine.pirati.cz/issues/2309/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
-[task2626]: https://redmine.pirati.cz/issues/2626/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
-[task2583]: https://redmine.pirati.cz/issues/2583/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
-[task2642]: https://redmine.pirati.cz/issues/2642/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
-[task2549]: https://redmine.pirati.cz/issues/2549/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
-[task2555]: https://redmine.pirati.cz/issues/2555/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
+[task1763]: https://redmine.pirati.cz/issues/1763
+[time1763]:https://redmine.pirati.cz/issues/1763/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
+[task2309]: https://redmine.pirati.cz/issues/2309
+[time2309]:https://redmine.pirati.cz/issues/2309/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
+[task2626]: https://redmine.pirati.cz/issues/2626
+[time2626]:https://redmine.pirati.cz/issues/2626/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
+[task2583]: https://redmine.pirati.cz/issues/2583
+[time2583]:https://redmine.pirati.cz/issues/2583/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
+[task2642]: https://redmine.pirati.cz/issues/2642
+[time2642]:https://redmine.pirati.cz/issues/2642/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
+[task2549]: https://redmine.pirati.cz/issues/2549
+[time2549]:https://redmine.pirati.cz/issues/2549/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
+[task2555]: https://redmine.pirati.cz/issues/2555
+[time2555]:https://redmine.pirati.cz/issues/2555/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
 [activitylist]: https://redmine.pirati.cz/projects/kspraha/time_entries/report?columns=month&criteria[]=activity&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
 
 [linktohomehours]: https://redmine.pirati.cz/projects/kspraha/time_entries?f[]=spent_on&f[]=user_id&f[]=&f[]=subproject_id&op[subproject_id]=!*&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=7
