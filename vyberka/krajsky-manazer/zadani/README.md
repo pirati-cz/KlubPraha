@@ -35,7 +35,7 @@ Dobrý den,
 * Filosofické ztotožnění se s Pirátským programem
 * Schopnost naučit se používat Pirátský redmine a Pirátské fórum a další technické systémy
 * Zkušenosti s administrativou a dobrý písemný projev 
-* Časovou flexibilitu a schopost rychle dopravit se do Pirátského centra 
+* Časovou flexibilitu a schopnost rychle se dopravit do Pirátského centra 
 * Manuální zručnost
 * Komunikační dovednosti, svědomitost a slušnost
 
