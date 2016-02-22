@@ -6,7 +6,7 @@ Výběrové řízení na krajského manažera
 
 Ahoj!
 
-V pražském sdružení Pirátů hledáme **krajského manažera**, který bude mít na starosti administrativu a správu Pirátského centra celkem v rozsahu cca 20 hodin týdně (cca poloviční úvazek). Pokud sympatizuješ s Piráty, líbí se ti zásady průhledného hospodaření a chceš si sám trochu přivydělat, je tohle pro tebe ideální nabídka.
+V pražském sdružení Pirátů hledáme **krajského manažera**, který bude mít na starosti administrativu a správu Pirátského centra celkem v rozsahu cca 20 hodin týdně (cca poloviční úvazek). Pokud sympatizuješ s Piráty, líbí se ti zásady průhledného hospodaření a chceš si trochu přivydělat, je tohle pro tebe ideální nabídka.
 
 ![Krajské sdružení Praha](https://redmine.pirati.cz/attachments/download/146/pirati-mezinarodni.jpg)
 
