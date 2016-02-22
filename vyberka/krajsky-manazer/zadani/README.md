@@ -1,4 +1,4 @@
-Česká pirátská strana
+Česká pirátská strana  
 krajské sdružení Praha
 
 Výběr krajského manažera
