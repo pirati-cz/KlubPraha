@@ -1,9 +1,14 @@
+Česká pirátská strana
+krajské sdružení Praha
+
 Výběr krajského manažera
 ========================
 
-Dobrý den,
+Ahoj!
 
-Česká pirátská strana hledá **krajského manažera**, který bude mít na starosti administrativu krajského sdružení Pirátů Praha a správu Pirátského centra celkem v rozsahu cca 20 hodin týdně (dodávka na poloviční úvazek). 
+hledáme **krajského manažera**, který bude mít na starosti administrativu pražského sdružení Pirátů a správu Pirátského centra celkem v rozsahu cca 20 hodin týdně (cca poloviční úvazek). 
+
+V našem krajském sdružení usilujeme o dobrou atmosféru, otevřené, konstruktivní a férové jednání. Tvým úkolem bude starat se o **byrokracii krajského sdružení a chod Pirátského centra** v Praze na Žižkově tak, abychom se my mohli soustředit na prosazování Pirátského programu. Tvým cílem bude, aby byla byrokracie dobře zdokumentovaná, rychlá, profesionální a vstřícná. 
 
 ## Poptávaná činnost
 
@@ -24,7 +29,7 @@ Dobrý den,
 
 ## Nabízíme
 
-* Smlouvu na dobu neurčitou, s odměnou 7 až 8 tis. Kč měsíčně
+* Smlouvu na dobu neurčitou, s odměnou 7 až 8 tis. Kč měsíčně, odměňování nadstandardní kvality
 * Telefonní tarif s neomezeným voláním, doplatit si lze i data
 * Možnost podílet se na realizaci Pirátského programu
 * Práci se zastupiteli, senátory a představiteli strany i širokou a rozmanitou členskou základnou
@@ -32,18 +37,22 @@ Dobrý den,
 
 ## Požadujeme
 
-* Filosofické ztotožnění se s Pirátským programem
-* Schopnost naučit se používat Pirátský redmine a Pirátské fórum a další technické systémy
+* Filosofické ztotožnění se s [Pirátským programem][program]
+* Schopnost naučit se používat [Pirátský redmine][redmine] a [Pirátské fórum][forum] a další technické systémy
 * Zkušenosti s administrativou a dobrý písemný projev 
 * Časovou flexibilitu a schopnost rychle se dopravit do Pirátského centra 
 * Manuální zručnost
 * Komunikační dovednosti, svědomitost a slušnost
 
+[program]: https://www.pirati.cz/program/start
+[forum]: https://forum.pirati.cz
+[redmine]: https://redmine.pirati.cz/
+
 ## Zasílání nabídek
 
-V nabídce nám prosím zašlete životopis a pokud budete chtít, případně i motivační dopis, reference a další materiály (abychom mohli posoudit vaší spolehlivost a zkušenosti s obdobným typem práce). Pokud máte záznam v trestním rejstříku, popište ho a zdůvodněte. Podrobnosti o výběrovém řízení si přečtěte v [podmínkách](/zadani/podminky.md). Pokud máte zájem o upřesnění informací, neváhejte se na mne obrátit emailem, či telefonicky.
+V nabídce nám prosím zašlete životopis a pokud budete chtít, případně i motivační dopis, reference a další materiály (abychom mohli posoudit vaší spolehlivost a zkušenosti s obdobným typem práce). Pokud máte záznam v trestním rejstříku, popište ho a zdůvodněte. Podrobnosti o výběrovém řízení si přečtěte v [pravidlech výběrového řízení](pravidla.md). Pokud máte zájem o upřesnění informací, neváhejte se na mne obrátit emailem, či telefonicky.
 
-Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPP, DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [zadávacích podmínek](https://www.pirati.cz/regiony/praha/podminky) krajského sdružení s vykazováním v systémů [redmine](https://redmine.pirati.cz/).
+Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPP, DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [zadávacích podmínek](https://www.pirati.cz/regiony/praha/podminky) krajského sdružení s vykazováním v systémů [redmine][redmine].
 
 **Nabídku nám prosím zašlete do ........... *(bude doplněno do 16 dnů od vyhlášení)*, následující den do 12:00 se vám ozvu ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošlete na adresu <jan.louzek@pirati.cz>, kopii potom na <info@pirati.cz>.**
 
