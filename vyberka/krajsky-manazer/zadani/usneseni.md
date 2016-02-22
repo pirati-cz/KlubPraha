@@ -13,7 +13,7 @@ Předpokládaný rozsah práce činí 20 hodin týdně, v případě potřeby st
 Přílohy:
 
 * [Inzerát na krajského manažera](README.md)
-* [Podmínky výběrového řízení](podminky.md)
+* [Pravidla výběrového řízení](pravidla.md)
 * [Podmínky pro placené úkoly](https://www.pirati.cz/regiony/praha/podminky) (v případě pozdějšího schválení celostranických podmínek do uzavření smlouvy platí tyto celostranické podmínky)
 
 Potřeba projektu
