@@ -8,7 +8,7 @@ Shrnutí
 
 V rámci profesionalizace aparátu strany navrhujeme provést výběrové řízení na **krajského manažera** a podepsat s ním smlouvu. Krajský manažer bude mít na starosti administrativu sdružení, správu Pirátského centra a celostátní agendy související s Pirátským centrem (archiv, skenování pošty, datová schránka, organizace zasedání apod.).
 
-Předpokládaný rozsah práce činí 20 hodin týdně, v případě potřeby strany může být rozšířen. Roční náklady činí 50 tis. Kč (z rozpočtu krajského sdružení Praha) a 54 tis. Kč (z celostranického rozpočtu) při smluvní odměně cca 8 tis. Kč. Krajský manažer bude odpovědný předsedovi krajského sdružení a v rámci své působnosti ho přiměřeně budou úkolovat i členové krajského a republikového předsednictva.
+Předpokládaný rozsah práce činí 20 hodin týdně, v případě potřeby strany může být rozšířen. Roční náklady činí 54 tis. Kč (z rozpočtu krajského sdružení Praha) a 50 tis. Kč (z celostranického rozpočtu) při smluvní odměně cca 8 tis. Kč. Krajský manažer bude odpovědný předsedovi krajského sdružení a v rámci své působnosti ho přiměřeně budou úkolovat i členové krajského a republikového předsednictva.
 
 Přílohy:
 
@@ -25,8 +25,7 @@ Schválený [strategický plán krajského sdružení Praha][strategie] počít�
 
 > Krajské sdružení Praha chce jen takovou byrokracii, která je potřebná k naší otevřenosti. Taková byrokracie musí být dobře zdokumentovaná, rychlá, profesionální a vstřícná. Proto za ni zodpovídá krajský manažer, jehož úkolem je, aby ji ostatní pocítili co nejméně.
 
-
-Protože administrativa nikoho nebaví a nechceme, aby bránila zapojení nových členů a rozvoji sdružení, potřebujeme vyhlásit nové výběrové řízení a podepsat novou smlouvu. Krajský manažer bude podle rozpočtu nově placen částečně i ze členských příspěvků, tj. členové mají plné právo vyžadovat od něho pomoc a korektní a vstřícný přístup.
+Protože administrativa nikoho nebaví a nechceme, aby bránila zapojení nových členů a rozvoji sdružení, potřebujeme vyhlásit nové výběrové řízení a podepsat novou smlouvu. Krajský manažer bude podle rozpočtu nově placen částečně i ze členských příspěvků, tj. členové mají plné právo vyžadovat od něho pomoc a korektní a vstřícný přístup. Krajské sdružení pro tento účel vyhradilo v rozpočtu 54 tis. Kč.
 
 Vzhledem k tomu, že strana si dlouhodobě pronajímá sídlo v centru Prahy v Řehořově ulici, tzv. Pirátské centrum, byl na zasedání republikového výboru v Praze 16. ledna 2016 akceptován požadavek na to, aby strana rovněž hradila administrativu spojenou s vedením centra. Na tento účel republikový výbor vyhradil v celostranickém rozpočtu na rok 2016 v položce částku 50 tis. Kč.
 
@@ -87,7 +86,7 @@ Předsednictvo krajského sdružení Praha
 
 1. **souhlasí** s projektem na výběr krajského manažera a správce Pirátského centra včetně jeho příloh,
 2. **ukládá** předsedovi krajského sdružení předložit projekt krajskému fóru k projednání bezodkladně po schválení tohoto usnesení, a dále *pro případ schválení*:
-3. **ukládá** předsedsedovi krajského sdružení zajistit výběrové řízení, podepsat smlouvu a jinak realizovat schválený projekt,
+3. **ukládá** předsedsedovi krajského sdružení zajistit výběrové řízení, podepsat smlouvu, předkládat krajskému předsednictvu každý měsíc návrh na schválení odměny k odsouhlasení a jinak realizovat schválený projekt,
 4. **jmenuje** zástupce zadavatele Bc. Jana Loužka, zveřejňovače klubu Pirátů v ZHMP,
 5. **jmenuje** hodnotící komisi ve složení členové krajského předsednictva a jeden zástupce pověřený republikovým předsednictvem.
 
@@ -97,7 +96,7 @@ Krajské fórum Praha
 
 1. **bere na vědomí** předložený projekt na výběr krajského manažera a správce Pirátského centra včetně jeho příloh,
 2. **souhlasí** se záměrem zřídit funkci krajského manažera a správce Pirátského centra a
-3. **souhlasí** s náklady na tento záměr ve výši 50 tis. Kč ročně.
+3. **souhlasí** s náklady na tento záměr ve výši 54 tis. Kč ročně.
 
 ---
 
