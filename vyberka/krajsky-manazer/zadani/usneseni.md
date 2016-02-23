@@ -66,7 +66,7 @@ Republikové předsednictvo
 2. **souhlasí** s náklady na tento záměr z celostátního rozpočtu do 50 tis. Kč ročně,
 3. **ukládá** místopředsedovi Vojtěchu Pikalovi předložit projekt republikovému výboru k projednání bezodkladně po schválení tohoto usnesení, a dále *pro případ schválení*:
 4. **souhlasí** s použitím zvláštních [pravidel výběrového řízení](pravidla.md) a vyloučením [obecných pravidel](https://www.pirati.cz/zakazka/start) vydaných republikovým předsedictvem pro tento případ,
-5. **jmenuje** zástupcem republikového předsednictva ve výběrové komisi ........................,
+5. **jmenuje** zástupcem republikového předsednictva v hodnotící komisi ........................,
 6. **pověřuje** uzavřením smlouvy, podáváním žádostí o proplacení, kontrolou a dalšími úkony hospodáře týkajícími se pol. [212500002][strana] předsedu krajského sdružení Praha, a to v rozsahu souhlasu podle bodu 1.
 
 
@@ -88,7 +88,9 @@ Předsednictvo krajského sdružení Praha
 2. **ukládá** předsedovi krajského sdružení předložit projekt krajskému fóru k projednání bezodkladně po schválení tohoto usnesení, a dále *pro případ schválení*:
 3. **ukládá** předsedsedovi krajského sdružení zajistit výběrové řízení, podepsat smlouvu, předkládat krajskému předsednictvu každý měsíc návrh na schválení odměny k odsouhlasení a jinak realizovat schválený projekt,
 4. **jmenuje** zástupce zadavatele Bc. Jana Loužka, zveřejňovače klubu Pirátů v ZHMP,
-5. **jmenuje** hodnotící komisi ve složení členové krajského předsednictva a jeden zástupce pověřený republikovým předsednictvem.
+5. **jmenuje** hodnotící komisi ve složení zástupce zadavatele Bc. Jan Loužek, členové krajského předsednictva, jeden odborný zástupce pověřený republikovým předsednictvem, jeden odborný zástupce pověřený personálním odborem.
+
+Ve jmenované hodnotící komisi by měli být podle [§ 6 odst. 2 pravidel hospodaření](https://www.pirati.cz/rules/prah#vyberova_rizeni) aspoň 3 odborníci, což je splněno.
 
 #### Návrh usnesení krajského fóra
 
