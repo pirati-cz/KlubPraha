@@ -38,24 +38,10 @@ zástupce:		Mgr. Filip Hajný, advokát, ev. č. ČAK 14269
 
 # Žalobní body
 
+1. Žalobce má za to, že žalovaná je veře
 
 
-Žalobce má za to, že postup žalované nebyl v souladu se zákonem. Za prvé je přesvědčen, že § 51 odst. 3 písm. c) zákona o HMP, ačkoliv jeho doslovné znění umožňuje požadovat informace pouze od „zaměstnanců právnických osob, které hlavní město Praha založilo nebo zřídilo“, je třeba aplikovat v souladu s jeho účelem a že se musí vztahovat na všechny společnosti, které hl. m. Praha ovládá (tedy i pokud je nezaložilo ani nezřídilo), jakož i na dceřiné (popř. vnukovské) společnosti takovýchto právnických osob. Tyto dceřiné (vnukovské) společnosti byly totiž také zřízeny hl. m. Prahou, i když nepřímo, skrze ovládané společnosti. Připuštěním pouze strohého jazykového výkladu by totiž toto ustanovení šlo jednoduchým způsobem obejít (např. město by si kupovalo firmy již založené někým jiným nebo by všechnu činnost obchodních společností realizovalo skrze vnukovské společnosti) a znemožnit tak zastupitelům hl. m. Prahy přístup k informacím, což jistě není cílem zákona. Jediným akcionářem žalované je přitom obchodní společností Pražská plynárenská, a.s., jejímž jediným akcionářem je obchodní společnost Pražská plynárenská Holding, a.s., jejímž jediným akcionářem je hl. m. Praha.
 
-Za druhé i kdyby se na žalovanou nevztahoval § 51 odst. 3 písm. c) zákona o HMP, pak se na ni vztahuje povinnost poskytovat informace dle InfZ. Z judikatury Nejvyššího správního soudu a Ústavního soudu totiž jednoznačně vyplývá, že Pražská plynárenská Holding, a.s., je veřejnou institucí ve smyslu InfZ. Tuto vlastnost pak přirozeně musí mít všechny obchodní společnosti v holdingu, který veřejná instituce řídí, jinak by pojem veřejná instituce nemusel vůbec existovat. K utajení informací před veřejností by totiž stačilo, aby obchodní společnosti ovládané veřejnoprávními subjekty realizovaly veškerou svou činnost skrze své dceřinné a vnukovské společnosti, které by povinnými subjekty dle InfZ nebyly. 
-
-Žalovanou je tedy třeba považovat za veřejnou instituci dle § 2 odst. 1 InfZ a tedy povinný subjekt dle stejného zákona. Dle rozsudku Nejvyššího správního soudu ze dne 19. 2. 2013, čj. 8 Aps 5/2012-47 „Povaha žalované [jakožto obchodní společnosti ovládané obcí] s sebou nese povinnost poskytovat informace v režimu informačního zákona, ať již je žádost o informace podána podle informačního zákona nebo jiného právního předpisu, který proces poskytování informací samostatně neupravuje (srov. však § 2 odst. 3 informačního zákona).“ Žalovaná tedy po té, co usoudila, že se na ni nevztahuje § 51 odst. 3 písm. c) zákona o HMP (byť s tím žalobce nesouhlasí), měla postupovat dle InfZ a žalobci informaci stejně poskytnout.
-
-Protože žalovaná žalobci informace neposkytla, ačkoliv měla, postupoval žalobce v souladu s InfZ a podal proti rozhodnutí odvolání. Z rozsudku Nejvyššího správního soudu ze dne 19. 2. 2013, čj. 8 Aps 5/2012-47, vyplývá, že procesně je při vyřizování žádosti o informace dle zákona o obcích (v tomto případě dle zákona o HMP) třeba postupovat dle InfZ. Žalovaná tedy dle InfZ měla rozhodnout o odvolání ve lhůtě 15 (případně 22) dnů a neučinila tak. Žalobci tedy nezbývá než podat správní žalobu proti nečinnosti.
-
-K důkazu:
-
-- Žádost o informace z 29. 4. 2015 <https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/38-odmeny-ppservisdistribuce/1-zadost/ppservisdistribuce.pdf>
-- Odmítnutí ze dne 21. 5. 2015 <https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/38-odmeny-ppservisdistribuce/2-odmitnuti/odmitnuti.pdf>
-- Odvolání ze dne 15. 6. 2015 <https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/38-odmeny-ppservisdistribuce/3-odvolani/main.pdf>
-- Podací list k dopisu ze dne 15. 6. 2015 <https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/38-odmeny-ppservisdistribuce/3-odvolani/podaci-list.pdf>
-- Stížnost proti nečinnosti ze dne 3. 8. 2015 <https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/38-odmeny-ppservisdistribuce/4-stiznost-na-necinnost/main.pdf>
-- Podací list k dopisu ze dne 3. 8. 2015 <https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/38-odmeny-ppservisdistribuce/4-stiznost-na-necinnost/podaci-list.pdf>
 
 # Návrh rozsudku
 
