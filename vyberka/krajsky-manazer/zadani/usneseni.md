@@ -66,7 +66,7 @@ Republikové předsednictvo
 2. **souhlasí** s náklady na tento záměr z celostátního rozpočtu do 50 tis. Kč ročně,
 3. **ukládá** místopředsedovi Vojtěchu Pikalovi předložit projekt republikovému výboru k projednání bezodkladně po schválení tohoto usnesení, a dále *pro případ schválení*:
 4. **souhlasí** s použitím zvláštních [pravidel výběrového řízení](pravidla.md) a vyloučením [obecných pravidel](https://www.pirati.cz/zakazka/start) vydaných republikovým předsedictvem pro tento případ,
-5. **jmenuje** zástupcem republikového předsednictva v hodnotící komisi ........................,
+5. **jmenuje** odborným zástupcem republikového předsednictva v hodnotící komisi ........................,
 6. **pověřuje** uzavřením smlouvy, podáváním žádostí o proplacení, kontrolou a dalšími úkony hospodáře týkajícími se pol. [212500002][strana] předsedu krajského sdružení Praha, a to v rozsahu souhlasu podle bodu 1.
 
 
