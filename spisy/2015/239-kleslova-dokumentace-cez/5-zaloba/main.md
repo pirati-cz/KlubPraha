@@ -26,7 +26,7 @@ style:      letter
 
 **Žalovaná:**  ČEZ, a.s., IČO 45274649 se sídlem Duhová 2/1444, Praha 4
 
-*Přílohy:*
+**Přílohy:**
 
 1. Plná moc
 2. Žádost o informace ze dne 7. 12. 2015
