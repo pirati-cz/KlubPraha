@@ -17,7 +17,7 @@ která obsahuje podrobnosti. U všech údajů jsou uvedeny odkazy do projektové
 Významné úkoly
 ----------------------
 
-Následující seznam zahrnuje všechny úkoly z domovského [projektu krajského sdružení Praha][kspraha], které zabraly déle než 3 hodiny. Zastupitel si může tento seznam doplnit či upravit podle své úvahy tak, aby podával co nejlepší informaci o odvedené práci.
+Následující seznam zahrnuje všechny úkoly z [projektu krajského sdružení Praha][kspraha], které zabraly déle než 3 hodiny. Zastupitel si může tento seznam doplnit či upravit podle své úvahy tak, aby podával co nejlepší informaci o odvedené práci.
 
 Číslo              |   Název úkolu                                    |  Celkem           
 -------------------|--------------------------------------------------|------------------:
@@ -44,19 +44,19 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 **A. Práce pro město**                 | [13.25][linktocityhours]
-**B. Práce pro stranu**                | 81.65
+**B. Práce pro stranu**                | 91.50
 *z toho*                               |
-B.1 v projektu zastupitelstva          | [73.25][linktohomehours]
-B.2 v ostatních projektech             | [8.40][linktootherhours]
-**Celkový počet hodin**                | 94.90
+B.1 v projektu zastupitelstva          | [86.50][linktohomehours]
+B.2 v ostatních projektech             | [5.00][linktootherhours]
+**Celkový počet hodin**                | 104.75
 Dohodnutý rozsah práce                 | 120.00
-**Procento vytížení**                  | 79
+**Procento vytížení**                  | 87
 
 Grafické znázornění [odpracované doby dle aktivity][activitylist]:
 
 ![Aktivity v měsíci](aktivity.png)
 
-Graf zahrnuje pouze aktivity v domovském [projektu krajského sdružení Praha][kspraha].
+Graf zahrnuje pouze aktivity v [projektu krajského sdružení Praha][kspraha].
 
 
 Odměňování
@@ -70,16 +70,16 @@ Zdroj příjmu                           | Výše příjmu (Kč)
 *z toho*                               |
 A.1 paušální odměna                    | 5486
 A.2 náhrada výdělku                    | 5962
-**B. Peníze od strany**                | TMPPARTYMONEY
+**B. Peníze od strany**                | 9537
 *z toho*                               |
-B.1 pevná složka odměny                | 5783
-B.2 variabilní složka odměny           | TMPVARMONEY
+B.1 pevná složka odměny                | 6481
+B.2 variabilní složka odměny           | 3056
 *z toho*                               |
-B.2.1 odměna za dodržení rozsahu práce | 624
+B.2.1 odměna za dodržení rozsahu práce | 756
 B.2.2 odměna za přesčasy               | 0
-B.2.3 odměna za významné splněné úkoly | TMPTASKSMONEY
-B.2.4 odpočet za výhrady               | TMPSANCTIONS
-**Celkový měsíční příjem**             | TMPTOTALMONEY
+B.2.3 odměna za významné splněné úkoly | 2300
+B.2.4 odpočet za výhrady               | 0
+**Celkový měsíční příjem**             | 20985
 
 Částky jsou uváděny vždy v hrubé výši, přičemž z paušální odměny odvádí město zálohu na daň z příjmu a zdravotní pojištění. Je dále odpovědností každého zastupitele, aby příjem zdanil a zaplatil zákonné pojištění.
 
@@ -111,5 +111,5 @@ B.2.4 odpočet za výhrady               | TMPSANCTIONS
 
 [smlouva]: https://smlouvy.pirati.cz/smlouvy/2014/11/13/adam-zabransky/index.html
 [linktocityhours]: https://redmine.pirati.cz/projects/praha/time_entries?f[]=spent_on&f[]=user_id&f[]=cf_16&f[]=&op[cf_16]=*&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=16
-[linktohomehours]: https://redmine.pirati.cz/projects/praha/time_entries?f[]=spent_on&f[]=user_id&f[]=cf_16&f[]=&op[cf_16]=!*&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=16
-[linktootherhours]: https://redmine.pirati.cz/time_entries/report?f[]=spent_on&f[]=cf_16&op[cf_16]=%3D&v[cf_16][]=strana&f[]=project_id&op[project_id]=!&v[project_id][]=15&f[]=&columns=month&criteria[]=user&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=16
+[linktohomehours]: https://redmine.pirati.cz/projects/praha/time_entries?f[]=spent_on&f[]=user_id&f[]=&f[]=subproject_id&op[subproject_id]=!*&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=16
+[linktootherhours]: https://redmine.pirati.cz/time_entries?&columns=month&criteria[]=user&f[]=spent_on&f[]=user_id&f[]=cf_16&f[]=project_id&f[]=&op[cf_16]==&op[project_id]=!&v[cf_16][]=strana&v[project_id][]=15&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=16

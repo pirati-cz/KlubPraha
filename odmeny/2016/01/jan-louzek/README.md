@@ -17,7 +17,7 @@ která obsahuje podrobnosti. U všech údajů jsou uvedeny odkazy do projektové
 Významné úkoly
 ----------------------
 
-Následující seznam zahrnuje všechny úkoly z domovského [projektu krajského sdružení Praha][kspraha], které zabraly déle než 3 hodiny. Zaměstnanec si může tento seznam doplnit či upravit podle své úvahy tak, aby podával co nejlepší informaci o odvedené práci.
+Následující seznam zahrnuje všechny úkoly z [projektu krajského sdružení Praha][kspraha], které zabraly déle než 3 hodiny. Zaměstnanec si může tento seznam doplnit či upravit podle své úvahy tak, aby podával co nejlepší informaci o odvedené práci.
 
 Číslo              |   Název úkolu                          |  Celkem           
 -------------------|----------------------------------------|------------------:
@@ -53,7 +53,7 @@ Grafické znázornění [odpracované doby dle aktivity][activitylist]:
 
 ![Aktivity v měsíci](aktivity.png)
 
-Graf zahrnuje pouze aktivity v domovském [projektu krajského sdružení Praha][kspraha].
+Graf zahrnuje pouze aktivity v [projektu krajského sdružení Praha][kspraha].
 
 
 
