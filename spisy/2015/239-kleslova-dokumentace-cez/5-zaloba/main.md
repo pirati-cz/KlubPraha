@@ -1,5 +1,5 @@
 ---
-title:      
+title:      "--"
 author:
    name:    Adam Zábranský
    phone:   +420 721 006 868
@@ -18,7 +18,7 @@ sendby:     ds
 style:      letter
 ---
 
-# Žaloba proti nečinnosti správního orgánu podle ust. § 79 a násl. s.ř.s.
+## Žaloba proti nečinnosti správního orgánu podle ust. § 79 a násl. s.ř.s.
 
 **Žalobce:**   Adam Zábranský, nar. 28. 12. 1993, bytem Zbynická 6, Praha 16
 
