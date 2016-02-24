@@ -18,13 +18,13 @@ sendby:     ds
 style:      letter
 ---
 
-Věc: žaloba proti nečinnosti správního orgánu podle ust. § 79 a násl. s.ř.s.
+**Věc:**       žaloba proti nečinnosti správního orgánu podle ust. § 79 a násl. s.ř.s.
 
-*Žalobce:*    Adam Zábranský, nar. 28. 12. 1993, bytem Zbynická 6, Praha 16
+**Žalobce:**   Adam Zábranský, nar. 28. 12. 1993, bytem Zbynická 6, Praha 16
 
-*Zástupce:*    Mgr. Filip Hajný, advokát, ev. č. ČAK 14269, se sídlem Moskevská 532/60, 101 00 Praha 10 - Vršovice
+**Zástupce:**  Mgr. Filip Hajný, advokát, ev. č. ČAK 14269, se sídlem Moskevská 532/60, 101 00 Praha 10 - Vršovice
 
-*Žalovaná:*    ČEZ, a.s., IČO 45274649 se sídlem Duhová 2/1444, Praha 4
+**Žalovaná:**  ČEZ, a.s., IČO 45274649 se sídlem Duhová 2/1444, Praha 4
 
 *Přílohy:*
 
