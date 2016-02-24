@@ -24,13 +24,11 @@ Vážení
 žádám vás dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, o následující informace:
 
 * Výši pořizovacích nákladů tzv. "inteligentních odpadkových košů" značky BigBelly, které Úřad městské části Praha 1 umístil na území této městské části. 
-* Výši provozních nákladů (za rok) výše zmíněných košů. 
+* Výši provozních nákladů (za rok) výše zmíněných košů (rozdělenou na jednotlivé koše a backend). 
 * Měsíční výši licenčních poplatků, které Městská část Praha 1, nebo jiná společnost, jejímž zřizovatelem je Městská část Praha 1, platí za provoz těchto košů. Tuto výši žádám uvést za každý jeden měsíc v období posledních dvanáct měsíců a pro každý jeden měsíc zvlášť.
 * Veškeré smlouvy, které uzavřela Městská část Praha 1, nebo jiná společnost, jejímž zřizovatelem je Městská část Praha 1, k softwarovému vybavení výše zmíněných košů.
 
 Žádám vás o poskytnutí této informace elektronicky, prostřednictví datové schránky, a nebo e-mailem. Ke komunikaci s povinným subjektem zmocňuji dále svého asistenta Jana Loužka (narozen 9. července 1986 v Písku, bytem Vondroušova 1198, Praha 17). 
-
-Přílohy:
 
 S pozdravem
 
