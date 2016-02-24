@@ -18,8 +18,8 @@ jméno a příjmení          |  funkce                      |  domovský projek
 [Michaela Krausová][u7]   |  koordinátorka dobrovolníků  |  [krajské sdružení Praha][p44]         |  [dodavatel strany][c7]
 [Jan Loužek][u46]         |  zveřejňovač klubu           |  [klub zastupitelů hl. m. Prahy][p15]  |                        
 
-[p15]: https://redmine.pirati.cz/project/true
-[p44]: https://redmine.pirati.cz/project/true
+[p15]: https://redmine.pirati.cz/project/15
+[p44]: https://redmine.pirati.cz/project/44
 
 [u4]: jakub-michalek/
 [u3]: ondrej-profant/
@@ -28,8 +28,8 @@ jméno a příjmení          |  funkce                      |  domovský projek
 [u7]: michaela-krausova/
 [u46]: jan-louzek/
 
-[c4]: https://smlouvy.pirati.cz/smlouvy/2014/11/13/jakub-michalek/index.html/
-[c3]: https://smlouvy.pirati.cz/smlouvy/2014/11/13/ondrej-profant/index.html/
-[c17]: https://smlouvy.pirati.cz/smlouvy/2014/11/13/mikulas-ferjencik/index.html/
-[c16]: https://smlouvy.pirati.cz/smlouvy/2014/11/13/adam-zabransky/index.html/
-[c7]: https://smlouvy.pirati.cz/smlouvy/2016/01/misa/index.html/
+[c4]: https://smlouvy.pirati.cz/smlouvy/2014/11/13/jakub-michalek/index.html
+[c3]: https://smlouvy.pirati.cz/smlouvy/2014/11/13/ondrej-profant/index.html
+[c17]: https://smlouvy.pirati.cz/smlouvy/2014/11/13/mikulas-ferjencik/index.html
+[c16]: https://smlouvy.pirati.cz/smlouvy/2014/11/13/adam-zabransky/index.html
+[c7]: https://smlouvy.pirati.cz/smlouvy/2016/01/misa/index.html
