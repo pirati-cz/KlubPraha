@@ -26,7 +26,7 @@ Vážení
 * Veškeré smlouvy, které povinný subjekt kdy uzavřel se společností JCDecaux Městský mobiliář, spol. s r.o. a se společností JCDecaux Neonlight s.r.o. (IČ: 45241538 a IČ: 62414780)
 * Veškeré smlouvy, které povinný subjekt kdy uzavřel se společností Rencar Praha a.s. (IČ: 00506397)
 
-Žádám vás o poskytnutí této informace elektronicky, prostřednictví datové schránky, a nebo e-mailem. Ke komunikaci s povinným subjektem zmocňuji dále svého asistenta Jana Loužka (narozen 9. července 1986 v Písku, bytem Vondroušova 1198, Praha 17). 
+Žádám vás o poskytnutí této informace elektronicky, prostřednictvím e-mailu, a nebo osobním předáním na CD či jiném přenosném mediu. Ke komunikaci s povinným subjektem zmocňuji dále svého asistenta Jana Loužka (narozen 9. července 1986 v Písku, bytem Vondroušova 1198, Praha 17). 
 
 S pozdravem
 
