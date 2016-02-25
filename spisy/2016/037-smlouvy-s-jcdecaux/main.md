@@ -23,10 +23,10 @@ Vážení
 
 žádám dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, Dopravní podnik hlavního města Prahy a.s. jako povinný subjekt, o následující informace:
 
-* Veškeré smlouvy, které povinný subjekt kdy uzavřel se společností JCDecaux
+* Veškeré smlouvy, které povinný subjekt kdy uzavřel se společností JCDecaux 
 * Veškeré smlouvy, které povinný subjekt kdy uzavřel se společností Rencar Praha a.s.
 
-Žádám vás o poskytnutí této informace elektronicky, prostřednictví datové schránky, a nebo e-mailem. Ke komunikaci s povinným subjektem zmocňuji dále svého asistenta Jana Loužka (narozen 9. července 1986 v Písku, bytem Vondroušova 1198, Praha 17). 
+Žádám vás o poskytnutí této informace elektronicky, prostřednictvím e-mailu, a nebo osobním předáním na CD či jiném přenosném mediu. Ke komunikaci s povinným subjektem zmocňuji dále svého asistenta Jana Loužka (narozen 9. července 1986 v Písku, bytem Vondroušova 1198, Praha 17). 
 
 S pozdravem
 
