@@ -14,14 +14,18 @@ V našem krajském sdružení usilujeme o dobrou atmosféru, otevřené, konstru
 
 ## Poptávaná činnost
 
-**Úkoly krajského manažera** s regionální (a případně celostátní) působností:
+**Úkoly krajského manažera** na regionální úrovni pro předsednictvo krajského sdružení:
 
 * správa členských přihlášek, 
 * správa žádostí o proplacení, 
-* procesování pošty, 
 * pomoc s vedením jednání a zápisy, 
+* přebírání a procesování pošty, komunikace s vedením, digitalizace dokumentů,*
+* vkládání doručených smluv do registru smluv,*
+* spisová služba a správa a údržba fyzického archivu smluv, dokumentů apod.*
 * aktualizace webu,
-* dokumentace postupů.
+* dokumentace postupů.*
+
+Úkoly označené * budou prováděny též pro republikové předsednictvo, pokud se týkají sídla strany.
 
 **Úkoly správce Pirátského centra** v Pirátském centru, Řehořova 19, Praha 3: 
 
