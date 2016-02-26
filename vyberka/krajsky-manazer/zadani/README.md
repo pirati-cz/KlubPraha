@@ -18,8 +18,8 @@ V našem krajském sdružení usilujeme o dobrou atmosféru, otevřené, konstru
 
 * správa členských přihlášek, 
 * správa žádostí o proplacení, 
-* pomoc s vedením jednání a zápisy, 
-* přebírání a procesování pošty, komunikace s vedením, digitalizace dokumentů,*
+* pomoc s vedením jednání a zápisy,
+* přebírání a procesování papírové pošty, správa datové schránky, komunikace s vedením, digitalizace dokumentů,*
 * vkládání doručených smluv do registru smluv,*
 * spisová služba a správa a údržba fyzického archivu smluv, dokumentů apod.*
 * aktualizace webu,
