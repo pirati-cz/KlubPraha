@@ -1,5 +1,5 @@
 ---
-title:      Přípis náměstkyni Evě Kislingerové
+title:      Výzva ke zřízení komise pro participativní rozpočtování
 author:
    name:    Adam Zábranský
    phone:   +420 721 006 868
@@ -9,9 +9,9 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha 110/2015
 your:
-   role:    adresát
+   role:    Rada hl. m. Prahy
    name:    
-      -     Magistrát hl. města Prahy
+      -     k rukám Evy Kislingerové
    address:
       -     Mariánské náměstí 2, Praha 1
       -     110 00 Praha 1
