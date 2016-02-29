@@ -14,14 +14,18 @@ V našem krajském sdružení usilujeme o dobrou atmosféru, otevřené, konstru
 
 ## Poptávaná činnost
 
-**Úkoly krajského manažera** s regionální (a případně celostátní) působností:
+**Úkoly krajského manažera** na regionální úrovni pro předsednictvo krajského sdružení:
 
 * správa členských přihlášek, 
 * správa žádostí o proplacení, 
-* procesování pošty, 
-* pomoc s vedením jednání a zápisy, 
+* pomoc s vedením jednání a zápisy,
+* přebírání a procesování papírové pošty, správa datové schránky, komunikace s vedením, digitalizace dokumentů,*
+* vkládání doručených smluv do registru smluv,*
+* spisová služba a správa a údržba fyzického archivu smluv, dokumentů apod.*
 * aktualizace webu,
-* dokumentace postupů.
+* dokumentace postupů.*
+
+Úkoly označené * budou prováděny též pro republikové předsednictvo, pokud se týkají sídla strany.
 
 **Úkoly správce Pirátského centra** v Pirátském centru, Řehořova 19, Praha 3: 
 
@@ -54,7 +58,7 @@ V našem krajském sdružení usilujeme o dobrou atmosféru, otevřené, konstru
 
 V nabídce nám prosím zašli svůj životopis a pokud budeš chtít, případně i motivační dopis, reference a další materiály (abychom mohli posoudit tvoji spolehlivost a zkušenosti s obdobným typem práce). Pokud máš nedejbože záznam v trestním rejstříku, popiš ho a zdůvodni. Podrobnosti o výběrovém řízení si přečti v [pravidlech výběrového řízení](pravidla.md). Pokud máš zájem o upřesnění informací, neváhej se na mne obrátit emailem či telefonicky.
 
-Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPP, DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [zadávacích podmínek](https://www.pirati.cz/regiony/praha/podminky) krajského sdružení s vykazováním v systémů [redmine][redmine].
+Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPP, DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [podmínek pro placené úkoly](https://github.com/pirati-cz/sablony/blob/4b07ba675434ee634c527909d537122264cc712e/ukoly/podminky/podminky.md) s vykazováním v systémů [redmine][redmine].
 
 **Nabídku nám prosím zašli do ........... *(bude doplněno do 16 dnů od vyhlášení)*, následující den do 12:00 se ti ozvu ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošli na adresu <jan.louzek@pirati.cz>, kopii potom na <info@pirati.cz>.**
 

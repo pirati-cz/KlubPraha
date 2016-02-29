@@ -14,7 +14,7 @@ Přílohy:
 
 * [Inzerát na krajského manažera](README.md)
 * [Pravidla výběrového řízení](pravidla.md)
-* [Podmínky pro placené úkoly](https://www.pirati.cz/regiony/praha/podminky) (v případě pozdějšího schválení celostranických podmínek do uzavření smlouvy platí tyto celostranické podmínky)
+* [Podmínky pro placené úkoly](https://github.com/pirati-cz/sablony/blob/4b07ba675434ee634c527909d537122264cc712e/ukoly/podminky/podminky.md)
 
 Potřeba projektu
 --------------
