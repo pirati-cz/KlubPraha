@@ -25,7 +25,7 @@ oslovili jste nás s žádostí o podporu mimořádného zasedání zastupitelst
 
 Toto partnerství jsme nikdy nepodporovali. Obdobné smlouvy o partnerství dalších evropských metropolí a Pekingu neobsahují politická prohlášení. Je jasné, že ustanovení si vynutila protistrana proti naši vůli a tak se rozhodně dobrý partner nechová. Obecně jsme velmi na pochybách, že partnerství s Pekingem, který řeší zcela jiné problémy než my, může Praze pomoci.
 
-Rádi vám pomůžeme mimořádné zastupitelstvo svolat, pokud bude reálná možnost danou věc změnit. Čili bude nadpoloviční politická shoda nad konkrétním návrhem.
+Rádi vám pomůžeme mimořádné zastupitelstvo svolat, pokud bude reálná možnost danou věc změnit, čili pokud bude nadpoloviční politická shoda nad konkrétním návrhem. Byli bychom neradi, kdyby se konalo zvláštní zasedání pouze jako drahé rétorické cvičení.
 
 \bigskip
 
