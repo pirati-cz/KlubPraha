@@ -21,7 +21,7 @@ style:      letter
 
 Vážení,
 
-v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, resp. zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, žádám o přístupové údaje do modulů/aplikací KDF (Kniha došlých faktur) a BAR (Balancování rozpočtu) systému Gordic GINIS, který používá Magistrát hlavního města Prahy. O tento přístup žádám jako zastupitel hlavního města Prahy a člen Kontrolního výboru Zastupitelstva hlavního města Prahy.
+v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, resp. podle § 4a odst. 2 písm. e) zákona č. 106/1999 Sb., o svobodném přístupu k informacím, žádám o přístupové údaje do modulů/aplikací KDF (Kniha došlých faktur) a BAR (Balancování rozpočtu) systému Gordic GINIS, který používá Magistrát hlavního města Prahy. O tento přístup žádám jako zastupitel hlavního města Prahy a člen Kontrolního výboru Zastupitelstva hlavního města Prahy.
 
 Uvádím, že jsem přístupové údaje již v minulosti (přípisem z 10. listopadu 2014 č.j. MHMP/INF/1936/2014 S-1537987/2014) do obou modulů/aplikací obdržel, nicméně mi byly v nedávné době (přelom února a března 2016) z neznámých důvodů odebrány.
 
