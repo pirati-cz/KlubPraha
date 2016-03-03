@@ -75,16 +75,16 @@ Zdroj příjmu                           | Výše příjmu (Kč)
 *z toho*                               |
 A.1 paušální odměna                    | 5486
 A.2 náhrada výdělku                    | 7762
-**B. Peníze od strany**                | 14089
+**B. Peníze od strany**                | 13500
 *z toho*                               |
 B.1 pevná složka odměny                | 8500
-B.2 variabilní složka odměny           | 5589
+B.2 variabilní složka odměny           | 5000
 *z toho*                               |
 B.2.1 odměna za dodržení rozsahu práce | 1000
 B.2.2 odměna za přesčasy               | 2089
-B.2.3 odměna za významné splněné úkoly | 2500
+B.2.3 odměna za významné splněné úkoly | 1911
 B.2.4 odpočet za výhrady               | 0
-**Celkový měsíční příjem**             | 27337
+**Celkový měsíční příjem**             | 26748
 
 Částky jsou uváděny vždy v hrubé výši, přičemž z paušální odměny odvádí město zálohu na daň z příjmu a zdravotní pojištění. Je dále odpovědností každého zastupitele, aby příjem zdanil a zaplatil zákonné pojištění.
 
