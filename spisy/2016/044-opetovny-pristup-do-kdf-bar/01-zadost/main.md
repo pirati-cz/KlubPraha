@@ -1,5 +1,5 @@
 ---
-title:      Žádost o informace
+title:      Žádost o přístup do modulů/aplikací KDF a BAR programu Gordic GINIS
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
