@@ -25,7 +25,7 @@ v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě
 
 Uvádím, že jsem přístupové údaje již v minulosti (přípisem z 10. listopadu 2014 č.j. MHMP/INF/1936/2014 S-1537987/2014) do obou modulů/aplikací obdržel, nicméně mi byly v nedávné době (přelom února a března 2016) z neznámých důvodů odebrány.
 
-Prosím o poskytnutí informace v elektronické podobě a doručování do datové schránky uvedené v patičce této zprávy. Vyžaduje-li to velikost poskytovaných informací, zašlete informace ve více datových zprávách, nebo se dostavím s paměťovým médiem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost. 
+Prosím o poskytnutí informace v elektronické podobě do datové schránky nebo e-mailu. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Předem děkuji za Vaši vstřícnost. 
 
 S pozdravem
 
