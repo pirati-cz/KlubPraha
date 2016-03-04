@@ -24,7 +24,7 @@ Následující seznam zahrnuje všechny úkoly z [projektu krajského sdružení
 [#2759][task2759]  |   Zasedání zastupitelstva 25. 2. 2016            |  [20.10][time2759]
 [#2727][task2727]  |   Restaurace na Praze 1                          |  [19.50][time2727]
 [#105][task105]    |   Podněty občanů                                 |  [12.85][time105] 
-[#2397][task2397]  |   nezveřejněný úkol                              |  [11.05][time2397]
+[#2397][task2397]  |   nájemní kauza na Praze 1                       |  [11.05][time2397]
 [#2653][task2653]  |   SVOČ na téma Přístup zastupitelů k informacím  |  [7.70][time2653] 
 [#184][task184]    |   Rada hl. m. Prahy                              |  [6.45][time184]  
 [#652][task652]    |   Výbor pro sport a volný čas                    |  [5.10][time652]  
