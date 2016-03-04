@@ -20,6 +20,7 @@ Následující seznam zahrnuje všechny úkoly z [projektu krajského sdružení
 
 Číslo              |   Název úkolu                                          |  Celkem           
 -------------------|--------------------------------------------------------|------------------:
+[#2731][task2731]  |   Akce pro veřejnost                                   |  [74.60][time2731]
 [#2626][task2626]  |   E-mailový zpravodaj pro příznivce (newsletter)       |  [13.85][time2626]
 [#2729][task2729]  |   Zapojovací sekce a sekce merchandise na webu Pirátů  |  [5.30][time2729] 
 [#2596][task2596]  |   Komunikace s (potenciálními) Piráty                  |  [5.25][time2596] 
@@ -76,6 +77,8 @@ B.2.4 odpočet za výhrady               | TMPSANCTIONS
 
 [kspraha]: https://redmine.pirati.cz/projects/kspraha
 [tasklist]: https://redmine.pirati.cz/projects/kspraha/time_entries/report?f[]=spent_on&f[]=user_id&op[user_id]==&f[]=&columns=month&criteria[]=issue&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-02-01&v[spent_on][]=2016-02-29&v[user_id][]=7
+[task2731]: https://redmine.pirati.cz/issues/2731
+[time2731]:https://redmine.pirati.cz/issues/2731/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-02-01&v[spent_on][]=2016-02-29&v[user_id][]=7
 [task2626]: https://redmine.pirati.cz/issues/2626
 [time2626]:https://redmine.pirati.cz/issues/2626/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-02-01&v[spent_on][]=2016-02-29&v[user_id][]=7
 [task2729]: https://redmine.pirati.cz/issues/2729

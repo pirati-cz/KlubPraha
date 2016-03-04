@@ -44,13 +44,13 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 **A. Práce pro město**                 | [13.25][linktocityhours]
-**B. Práce pro stranu**                | 91.50
+**B. Práce pro stranu**                | 78.25
 *z toho*                               |
-B.1 v projektu zastupitelstva          | [86.50][linktohomehours]
+B.1 v projektu zastupitelstva          | [73.25][linktohomehours]
 B.2 v ostatních projektech             | [5.00][linktootherhours]
-**Celkový počet hodin**                | 104.75
+**Celkový počet hodin**                | 91.50
 Dohodnutý rozsah práce                 | 120.00
-**Procento vytížení**                  | 87
+**Procento vytížení**                  | 76
 
 Grafické znázornění [odpracované doby dle aktivity][activitylist]:
 
@@ -70,16 +70,16 @@ Zdroj příjmu                           | Výše příjmu (Kč)
 *z toho*                               |
 A.1 paušální odměna                    | 5486
 A.2 náhrada výdělku                    | 5962
-**B. Peníze od strany**                | 9537
+**B. Peníze od strany**                | 8419
 *z toho*                               |
-B.1 pevná složka odměny                | 6481
-B.2 variabilní složka odměny           | 3056
+B.1 pevná složka odměny                | 5542
+B.2 variabilní složka odměny           | 2877
 *z toho*                               |
-B.2.1 odměna za dodržení rozsahu práce | 756
+B.2.1 odměna za dodržení rozsahu práce | 577
 B.2.2 odměna za přesčasy               | 0
 B.2.3 odměna za významné splněné úkoly | 2300
 B.2.4 odpočet za výhrady               | 0
-**Celkový měsíční příjem**             | 20985
+**Celkový měsíční příjem**             | 19867
 
 Částky jsou uváděny vždy v hrubé výši, přičemž z paušální odměny odvádí město zálohu na daň z příjmu a zdravotní pojištění. Je dále odpovědností každého zastupitele, aby příjem zdanil a zaplatil zákonné pojištění.
 
@@ -111,5 +111,5 @@ B.2.4 odpočet za výhrady               | 0
 
 [smlouva]: https://smlouvy.pirati.cz/smlouvy/2014/11/13/adam-zabransky/index.html
 [linktocityhours]: https://redmine.pirati.cz/projects/praha/time_entries?f[]=spent_on&f[]=user_id&f[]=cf_16&f[]=&op[cf_16]=*&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=16
-[linktohomehours]: https://redmine.pirati.cz/projects/praha/time_entries?f[]=spent_on&f[]=user_id&f[]=&f[]=subproject_id&op[subproject_id]=!*&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=16
+[linktohomehours]: https://redmine.pirati.cz/projects/praha/time_entries?f[]=spent_on&f[]=user_id&f[]=&f[]=subproject_id&op[subproject_id]=!*&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=16&f[]=cf_16&op[cf_16]=!*
 [linktootherhours]: https://redmine.pirati.cz/time_entries?&columns=month&criteria[]=user&f[]=spent_on&f[]=user_id&f[]=cf_16&f[]=project_id&f[]=&op[cf_16]==&op[project_id]=!&v[cf_16][]=strana&v[project_id][]=15&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=16

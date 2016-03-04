@@ -45,13 +45,13 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 **A. Práce pro město**                 | [14.15][linktocityhours]
-**B. Práce pro stranu**                | 128.75
+**B. Práce pro stranu**                | 114.60
 *z toho*                               |
-B.1 v projektu zastupitelstva          | [128.75][linktohomehours]
+B.1 v projektu zastupitelstva          | [114.60][linktohomehours]
 B.2 v ostatních projektech             | [0.00][linktootherhours]
-**Celkový počet hodin**                | 142.90
+**Celkový počet hodin**                | 128.75
 Dohodnutý rozsah práce                 | 126.00
-**Procento vytížení**                  | 113
+**Procento vytížení**                  | 102
 
 Grafické znázornění [odpracované doby dle aktivity][activitylist]:
 
@@ -73,13 +73,13 @@ A.1 paušální odměna                    | 5486
 A.2 náhrada výdělku                    | 6367
 **B. Peníze od strany**                | TMPPARTYMONEY
 *z toho*                               |
-B.1 pevná složka odměny                | 8500
+B.1 pevná složka odměny                | 7730
 B.2 variabilní složka odměny           | TMPVARMONEY
 *z toho*                               |
 B.2.1 odměna za dodržení rozsahu práce | 1000
-B.2.2 odměna za přesčasy               | 185
+B.2.2 odměna za přesčasy               | 0
 B.2.3 odměna za významné splněné úkoly | TMPTASKSMONEY
-B.2.4 odpočet za výhrady               | TMPSANCTIONS
+B.2.4 odpočet za výhrady               | 1118
 **Celkový měsíční příjem**             | TMPTOTALMONEY
 
 Částky jsou uváděny vždy v hrubé výši, přičemž z paušální odměny odvádí město zálohu na daň z příjmu a zdravotní pojištění. Je dále odpovědností každého zastupitele, aby příjem zdanil a zaplatil zákonné pojištění.
@@ -114,5 +114,5 @@ B.2.4 odpočet za výhrady               | TMPSANCTIONS
 
 [smlouva]: https://smlouvy.pirati.cz/smlouvy/2014/11/13/adam-zabransky/index.html
 [linktocityhours]: https://redmine.pirati.cz/projects/praha/time_entries?f[]=spent_on&f[]=user_id&f[]=cf_16&f[]=&op[cf_16]=*&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-02-01&v[spent_on][]=2016-02-29&v[user_id][]=16
-[linktohomehours]: https://redmine.pirati.cz/projects/praha/time_entries?f[]=spent_on&f[]=user_id&f[]=&f[]=subproject_id&op[subproject_id]=!*&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-02-01&v[spent_on][]=2016-02-29&v[user_id][]=16
+[linktohomehours]: https://redmine.pirati.cz/projects/praha/time_entries?f[]=spent_on&f[]=user_id&f[]=&f[]=subproject_id&op[subproject_id]=!*&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-02-01&v[spent_on][]=2016-02-29&v[user_id][]=16&f[]=cf_16&op[cf_16]=!*
 [linktootherhours]: https://redmine.pirati.cz/time_entries?&columns=month&criteria[]=user&f[]=spent_on&f[]=user_id&f[]=cf_16&f[]=project_id&f[]=&op[cf_16]==&op[project_id]=!&v[cf_16][]=strana&v[project_id][]=15&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-02-01&v[spent_on][]=2016-02-29&v[user_id][]=16

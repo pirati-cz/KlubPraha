@@ -3,7 +3,7 @@ období: 2016-01
 ---
 
 Česká pirátská strana  
-krajské sdružení Praha
+krajské sdružení Praha  
 
 Výkazy odměňování za leden 2016
 =======================================
@@ -17,6 +17,10 @@ jméno a příjmení          |  funkce                      |  domovský projek
 [Adam Zábranský][u16]     |  zastupitel hl. m. Prahy     |  [klub zastupitelů hl. m. Prahy][p15]  |  [zastupitel][c16]     
 [Michaela Krausová][u7]   |  koordinátorka dobrovolníků  |  [krajské sdružení Praha][p44]         |  [dodavatel strany][c7]
 [Jan Loužek][u46]         |  zveřejňovač klubu           |  [klub zastupitelů hl. m. Prahy][p15]  |                        
+
+### Poznámka
+
+V lednu 2016 došlo při prvním nasazení skriptu na výpočet odměn k chybě, že zastupitelé dostali peníze od strany i za čas strávený prací pro město, za kterou jim náleží refundace od města. Tato chyba bude napravena zápočtem oproti odměnám v únoru, tj. přeplatek se objeví v políčku odpočet za výhrady.
 
 [p15]: https://redmine.pirati.cz/project/15
 [p44]: https://redmine.pirati.cz/project/44
