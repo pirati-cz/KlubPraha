@@ -18,6 +18,23 @@ jméno a příjmení          |  funkce                      |  domovský projek
 [Michaela Krausová][u7]   |  koordinátorka dobrovolníků  |  [krajské sdružení Praha][p44]         |  [dodavatel strany][c7]
 [Jan Loužek][u46]         |  zveřejňovač klubu           |  [klub zastupitelů hl. m. Prahy][p15]  |                        
 
+### Poznámka 
+
+V lednu 2016 došlo při prvním nasazení skriptu na výpočet 
+odměn k chybě, že zastupitelé dostali peníze od strany i za čas strávený prací
+pro město, za kterou jim náleží refundace od města. Tato chyba bude napravena zápočtem oproti odměnám v únoru, tj. přeplatek se objeví v políčku odpočet za výhrady. 
+
+Změny zahrnuje následující tabulka, ve které je zanesen příjem od strany za leden 2015 v původní a opravené variantě a dále rozdíl, který bude zúčtován v rámci tohoto odměňování za únor 2016:
+
+Zastupitel | původní |	opravný |	rozdíl
+---------- | ------: | -------: | -----:
+Adam Zábranský |	9537 | 	8419	| -1118
+Ondřej Profant |	12949 |	11851 |	-1098
+Mikuláš Ferjenčík |	10978 |	9548 |	-1430
+Jakub Michálek |	13500 |	12867 |	-633
+
+
+
 [p15]: https://redmine.pirati.cz/project/15
 [p44]: https://redmine.pirati.cz/project/44
 

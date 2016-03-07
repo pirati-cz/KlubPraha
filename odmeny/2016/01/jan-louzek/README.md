@@ -19,19 +19,20 @@ Významné úkoly
 
 Následující seznam zahrnuje všechny úkoly z [projektu krajského sdružení Praha][kspraha], které zabraly déle než 3 hodiny. Zaměstnanec si může tento seznam doplnit či upravit podle své úvahy tak, aby podával co nejlepší informaci o odvedené práci.
 
-Číslo              |   Název úkolu                          |  Celkem           
--------------------|----------------------------------------|------------------:
-[#237][task237]    |   Spisová služba                       |  [44.78][time237] 
-[#2651][task2651]  |   Zasedání zastupitelstva 28. 1. 2016  |  [18.46][time2651]
-[#597][task597]    |   E-mailová komunikace                 |  [12.52][time597] 
-[#1256][task1256]  |   Práce s grafikou                     |  [8.78][time1256] 
-[#165][task165]    |   Mediální výstupy                     |  [8.18][time165]  
-[#2394][task2394]  |   Vyjednávání druhé Rady               |  [4.50][time2394] 
-[#914][task914]    |   Vykazování úkolů                     |  [4.37][time914]  
-[#598][task598]    |   Telefonická komunikace               |  [3.68][time598]  
-[#1168][task1168]  |   Tisky materiálů pro zastupitele      |  [3.22][time1168] 
-[#310][task310]    |   Zastupitelské úterky                 |  [3.16][time310]  
-[#1569][task1569]  |   účetnictví města                     |  [3.08][time1569] 
+Číslo              |   Název úkolu                                    |  Celkem           
+-------------------|--------------------------------------------------|------------------:
+[#237][task237]    |   Spisová služba                                 |  [44.78][time237] 
+[#2651][task2651]  |   Zasedání zastupitelstva 28. 1. 2016            |  [18.46][time2651]
+[#597][task597]    |   E-mailová komunikace                           |  [12.52][time597] 
+[#1256][task1256]  |   Práce s grafikou                               |  [8.78][time1256] 
+[#165][task165]    |   Mediální výstupy                               |  [8.18][time165]  
+[#2394][task2394]  |   Vyjednávání druhé Rady                         |  [4.50][time2394] 
+[#914][task914]    |   Vykazování úkolů                               |  [4.37][time914]  
+[#598][task598]    |   Telefonická komunikace                         |  [3.68][time598]  
+[#2549][task2549]  |   Připravit strategický plán krajského sdružení  |  [3.66][time2549] 
+[#1168][task1168]  |   Tisky materiálů pro zastupitele                |  [3.22][time1168] 
+[#310][task310]    |   Zastupitelské úterky                           |  [3.16][time310]  
+[#1569][task1569]  |   účetnictví města                               |  [3.08][time1569] 
 
 Můžete si zobrazit plný [přehled plněných úkolů][tasklist].
 
@@ -92,6 +93,8 @@ A.2 mimořádná odměna                   | 0
 [time914]:https://redmine.pirati.cz/issues/914/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=46
 [task598]: https://redmine.pirati.cz/issues/598
 [time598]:https://redmine.pirati.cz/issues/598/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=46
+[task2549]: https://redmine.pirati.cz/issues/2549
+[time2549]:https://redmine.pirati.cz/issues/2549/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=46
 [task1168]: https://redmine.pirati.cz/issues/1168
 [time1168]:https://redmine.pirati.cz/issues/1168/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-01-01&v[spent_on][]=2016-01-31&v[user_id][]=46
 [task310]: https://redmine.pirati.cz/issues/310
