@@ -13,7 +13,8 @@ your:
    name:    Policie České republiky – Útvar odhalování korupce a finanční kriminality SKPV
    address:
       -     Strojnická 27/935
-      -     170 89 Praha 7, CZ
+      -     170 89 Praha 7
+   ds:      mrfdq3m
 sendby:     ds
 style:      letter
 ---
