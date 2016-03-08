@@ -23,7 +23,8 @@ Vážení,
 
 žádám podle zákona č. 106/1999 Sb,. o svobodném přístupu k informacím, o poskytnutí kopie kompletního spisového materiálu útvaru pro odhalování korupce a finanční kriminality k podanému trestnímu oznámení na JUDr. Ondřeje Havlína, JUDr. Jana Harangozzu a Ing. Karla Březinu (č. j. OKFK-4323-17/ČJ-2015-251002) s výjimkou informací poskynutých povinnému subjektu oznamovatelem.
 
-Prosím o poskytnutí informace v elektronické podobě e-mailem či do datové schránky na adresu 4memzkm. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
+Prosím o poskytnutí informace v elektronické podobě e-mailem či do datové schránky na adresu 4memzkm. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Ke komunikaci zmocňuji dále svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17, tel. 608 213 119). Předem děkuji za Vaši vstřícnost. 
+
 
 S pozdravem
 
