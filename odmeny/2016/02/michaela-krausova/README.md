@@ -91,6 +91,6 @@ B.2.4 odpočet za výhrady               | 0
 [time2583]:https://redmine.pirati.cz/issues/2583/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-02-01&v[spent_on][]=2016-02-29&v[user_id][]=7
 [activitylist]: https://redmine.pirati.cz/projects/kspraha/time_entries/report?columns=month&criteria[]=activity&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-02-01&v[spent_on][]=2016-02-29&v[user_id][]=7
 
-[smlouva]: https://smlouvy.pirati.cz/smlouvy/2016/01/misa/index.html
+[smlouva]: https://smlouvy.pirati.cz/smlouvy/2016/01/04/koordinator-misa/
 [linktohomehours]: https://redmine.pirati.cz/projects/kspraha/time_entries?f[]=spent_on&f[]=user_id&f[]=&f[]=subproject_id&op[subproject_id]=!*&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-02-01&v[spent_on][]=2016-02-29&v[user_id][]=7
 [linktootherhours]: https://redmine.pirati.cz/time_entries?&columns=month&criteria[]=user&f[]=spent_on&f[]=user_id&f[]=cf_16&f[]=project_id&f[]=&op[cf_16]==&op[project_id]=!&v[cf_16][]=strana&v[project_id][]=44&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-02-01&v[spent_on][]=2016-02-29&v[user_id][]=7
