@@ -66,16 +66,16 @@ Zdroj příjmu                           | Výše příjmu (Kč)
 *z toho*                               |
 A.1 paušální odměna                    | 5486
 A.2 náhrada výdělku                    | 8032
-**B. Peníze od strany**                | TMPPARTYMONEY
+**B. Peníze od strany**                | 6018
 *z toho*                               |
 B.1 pevná složka odměny                | 4242
-B.2 variabilní složka odměny           | TMPVARMONEY
+B.2 variabilní složka odměny           | 1776
 *z toho*                               |
 B.2.1 odměna za dodržení rozsahu práce | 409
 B.2.2 odměna za přesčasy               | 0
-B.2.3 odměna za významné splněné úkoly | TMPTASKSMONEY
+B.2.3 odměna za významné splněné úkoly | 2000
 B.2.4 odpočet za výhrady               | 633
-**Celkový měsíční příjem**             | TMPTOTALMONEY
+**Celkový měsíční příjem**             | 19536
 
 Částky jsou uváděny vždy v hrubé výši, přičemž z paušální odměny odvádí město zálohu na daň z příjmu a zdravotní pojištění. Je dále odpovědností každého zastupitele, aby příjem zdanil a zaplatil zákonné pojištění.
 
