@@ -49,4 +49,4 @@ Jakub Michálek |	13500 |	12867 |	-633
 [c3]: https://smlouvy.pirati.cz/smlouvy/2014/11/13/ondrej-profant/index.html
 [c17]: https://smlouvy.pirati.cz/smlouvy/2014/11/13/mikulas-ferjencik/index.html
 [c16]: https://smlouvy.pirati.cz/smlouvy/2014/11/13/adam-zabransky/index.html
-[c7]: https://smlouvy.pirati.cz/smlouvy/2016/01/misa/index.html
+[c7]: https://smlouvy.pirati.cz/smlouvy/2016/01/04/koordinator-misa/
