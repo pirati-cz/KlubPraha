@@ -38,13 +38,13 @@ přihlášení zobrazí v projektovém systému.
 
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
-**B. Práce pro stranu**                | 104.50
+**B. Práce pro stranu**                | 114.20
 *z toho*                               |
 B.1 v projektu krajského sdružení Praha| [104.50][linktohomehours]
-B.2 v ostatních projektech             | [0.00][linktootherhours]
-**Celkový počet hodin**                | 104.50
+B.2 v ostatních projektech             | [9.70][linktootherhours]
+**Celkový počet hodin**                | 114.20
 Dohodnutý rozsah práce                 | 84.00
-**Procento vytížení**                  | 124
+**Procento vytížení**                  | 135
 
 Grafické znázornění [odpracované doby dle aktivity][activitylist]:
 
@@ -60,16 +60,16 @@ Dodavatel má na základě [smlouvy][smlouva] s Českou pirátskou stranou práv
 
 Zdroj příjmu                           | Výše příjmu (Kč)
 -----------------                      | --------------:
-**B. Peníze od strany**                | TMPPARTYMONEY
+**B. Peníze od strany**                | 11457
 *z toho*                               |
 B.1 pevná složka odměny                | 6000
-B.2 variabilní složka odměny           | TMPVARMONEY
+B.2 variabilní složka odměny           | 5457
 *z toho*                               |
 B.2.1 odměna za dodržení rozsahu práce | 1000
-B.2.2 odměna za přesčasy               | 1464
-B.2.3 odměna za významné splněné úkoly | TMPTASKSMONEY
-B.2.4 odpočet za výhrady               | TMPSANCTIONS
-**Celkový měsíční příjem**             | TMPTOTALMONEY
+B.2.2 odměna za přesčasy               | 2157
+B.2.3 odměna za významné splněné úkoly | 2300
+B.2.4 odpočet za výhrady               | 0
+**Celkový měsíční příjem**             | 11457
 
 Částky jsou uváděny vždy v hrubé výši. Je odpovědností každého dodavatele, aby příjem zdanil a zaplatil zákonné pojištění.
 

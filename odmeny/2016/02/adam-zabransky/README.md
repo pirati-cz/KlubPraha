@@ -24,7 +24,7 @@ Následující seznam zahrnuje všechny úkoly z [projektu krajského sdružení
 [#2759][task2759]  |   Zasedání zastupitelstva 25. 2. 2016            |  [20.10][time2759]
 [#2727][task2727]  |   Restaurace na Praze 1                          |  [19.50][time2727]
 [#105][task105]    |   Podněty občanů                                 |  [12.85][time105] 
-[#2397][task2397]  |   nájemní kauza na Praze 1                       |  [11.05][time2397]
+[#2397][task2397]  |   nezveřejněný úkol                              |  [11.05][time2397]
 [#2653][task2653]  |   SVOČ na téma Přístup zastupitelů k informacím  |  [7.70][time2653] 
 [#184][task184]    |   Rada hl. m. Prahy                              |  [6.45][time184]  
 [#652][task652]    |   Výbor pro sport a volný čas                    |  [5.10][time652]  
@@ -71,16 +71,16 @@ Zdroj příjmu                           | Výše příjmu (Kč)
 *z toho*                               |
 A.1 paušální odměna                    | 5486
 A.2 náhrada výdělku                    | 6367
-**B. Peníze od strany**                | TMPPARTYMONEY
+**B. Peníze od strany**                | 9612
 *z toho*                               |
 B.1 pevná složka odměny                | 7730
-B.2 variabilní složka odměny           | TMPVARMONEY
+B.2 variabilní složka odměny           | 1882
 *z toho*                               |
 B.2.1 odměna za dodržení rozsahu práce | 1000
 B.2.2 odměna za přesčasy               | 0
-B.2.3 odměna za významné splněné úkoly | TMPTASKSMONEY
+B.2.3 odměna za významné splněné úkoly | 2000
 B.2.4 odpočet za výhrady               | 1118
-**Celkový měsíční příjem**             | TMPTOTALMONEY
+**Celkový měsíční příjem**             | 21465
 
 Částky jsou uváděny vždy v hrubé výši, přičemž z paušální odměny odvádí město zálohu na daň z příjmu a zdravotní pojištění. Je dále odpovědností každého zastupitele, aby příjem zdanil a zaplatil zákonné pojištění.
 
