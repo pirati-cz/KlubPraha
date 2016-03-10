@@ -21,7 +21,7 @@ style:      letter
 
 Vážení
 
-žádám vás dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, o následující informace:
+jako fyzická osoba – zastupitel hl. města Prahy – vás žádám dle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, o následující informace:
 
 * Jaké jsou roční a měsíční provozní náklady "inteligentních odpadkových košů" značky BigBelly, které Úřad městské části Praha 1 umístil na území této městské části. Tyto náklady žádám rozdělené na náklady na jednotlivé koše a backend. 
 * Text memoranda, uzavřeného dne 1. 7. 2015, na základě něhož je provoz výše zmíněných košů umožněn.
