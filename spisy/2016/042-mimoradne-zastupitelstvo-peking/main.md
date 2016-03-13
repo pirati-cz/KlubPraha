@@ -34,7 +34,7 @@ S pozdravem
 ---
 signature: 
   - Ondřej Profant
-  - zastupitel hl. m. Prahy
-  - klub Pirátů
+  - místopředseda klubu Pirátů v ZHMP
+  - předseda krajské organizace Pirátů
 abbr:       ondra
 ...
