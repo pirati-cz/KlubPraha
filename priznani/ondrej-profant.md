@@ -21,13 +21,12 @@ Následující seznam obsahuje přehled o veškerém majetku výše uvedeného f
 
 | Popis věci            | Odhad hodnoty |  Převažující zdroj                  |
 | --------------------- | ------------: |  ---------------------- |
-| Bankovní účet u České spořitelny, a. s. |  15 000 Kč | úspory |
-| Stavební spoření | 135 000 Kč | dar od rodičů |
-| Notebook |  20 000 Kč | úspory, dar od rodičů |
-| Nábytek | 15 000 Kč | úspory, dar z rodiny |
-| Automobil Škoda Felicia, rok výroby 1998 | 15 000 Kč | dar od rodičů |
-| Mobilní telefon | 3 000 Kč | vlastní úspory |
-| Počítač. hry ve službě Steam cca 200 ks (mnoho kupováno v balicích či jiných slevách)| 2000-6000 Kč | úspory |
+| Bankovní účet u České spořitelny | ~ 100 000 Kč | úspory |
+| Stavební spoření      | 135 000 Kč | dar od rodičů |
+| Notebook (2ks)        |  20 000 Kč | úspory, dar od rodičů |
+| Nábytek               |  15 000 Kč | úspory, dar z rodiny |
+| Mobilní telefon       |   3 000 Kč | vlastní úspory |
+| Počítač. hry ve službě Steam cca 300 ks (mnoho kupováno v balicích či jiných slevách)| 2000-6000 Kč | úspory |
 
 ### Dluhy
 
@@ -51,19 +50,17 @@ Informace o významných změnách
 ----------------------------------
 
 ### Seznam darů
-Následuje seznam darovaných plnění, výhod a jiných bezplatných požitků za období od vzniku funkce. Za dar se považuje každé plnění nebo opomenutí funkcionáři v rozsahu, ve kterém funkcionář neuhradí odpovídající protihodnotu (bezplatné dovolené, prominutí dluhu apod.).
 
-| Datum daru | Popis daru | Odhad hodnoty | 
-| ---------- | ---------- | ------------: |
-| Zatím nejsou. |  |  |
+*Následuje seznam darovaných plnění, výhod a jiných bezplatných požitků za období od vzniku funkce. Za dar se považuje každé plnění nebo opomenutí funkcionáři v rozsahu, ve kterém funkcionář neuhradí odpovídající protihodnotu (bezplatné dovolené, prominutí dluhu apod.).*
+
+Viz [oznámení podle etického kodexu za rok 2014](https://github.com/pirati-cz/KlubPraha/blob/master/priznani/eticky-kodex/2014/ondra/eticky_kodex_ondra.docx).
+
 
 ### Seznam příjmů od veřejných institucí
-Následuje seznam příjmů poskytnutých od veřejných institucí. Veřejnou institucí je stát, územní samosprávné celky, veřejné vysoké školy, veřejné výzkumné instituce, školy, prosefní komory, jakož i akciové společnosti nebo jiné veřejné instituce jimi ovládané.
 
-| Datum plnění | Popis plnění | Odhad hodnoty | 
-| ----------   | ----------   | ------------: |
-| Příjem zastupitele říjen | 1 853 Kč | Magistrát hlavního města Prahy |
-| Příjem zastupitele listopad | 2974 Kč | Magistrát hlavního města Prahy |
+*Následuje seznam příjmů poskytnutých od veřejných institucí. Veřejnou institucí je stát, územní samosprávné celky, veřejné vysoké školy, veřejné výzkumné instituce, školy, prosefní komory, jakož i akciové společnosti nebo jiné veřejné instituce jimi ovládané.*
+
+Viz [repozitář odměňování](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny). 
 
 
 Prohlašuji, že jsem výše uvedené údaje uvedl úplně a pravdivě. 
