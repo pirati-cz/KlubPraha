@@ -14,7 +14,7 @@ your:
    address:
       -     Mariánské náměstí 2
       -     110 00 Praha 1
-   note:    k rukám primátorky Mgr. Adriany Krnáčové, MBA
+   note:    k rukám primátorky Mgr. Adriany Krnáčové, MBA, na vědomí předsedům pol. klubů
 sendby:     ds
 style:      letter
 ---
