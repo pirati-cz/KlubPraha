@@ -53,14 +53,14 @@ Informace o významných změnách
 
 *Následuje seznam darovaných plnění, výhod a jiných bezplatných požitků za období od vzniku funkce. Za dar se považuje každé plnění nebo opomenutí funkcionáři v rozsahu, ve kterém funkcionář neuhradí odpovídající protihodnotu (bezplatné dovolené, prominutí dluhu apod.).*
 
-Viz [oznámení podle etického kodexu za rok 2014](https://github.com/pirati-cz/KlubPraha/blob/master/priznani/eticky-kodex/2014/ondra/eticky_kodex_ondra.docx).
+Viz [oznámení podle etického kodexu za rok 2014](https://github.com/pirati-cz/KlubPraha/blob/master/priznani/eticky-kodex/2014/ondra/eticky_kodex_ondra.docx) (https://github.com/pirati-cz/KlubPraha/blob/master/priznani/eticky-kodex/2014/ondra/eticky_kodex_ondra.docx).
 
 
 ### Seznam příjmů od veřejných institucí
 
 *Následuje seznam příjmů poskytnutých od veřejných institucí. Veřejnou institucí je stát, územní samosprávné celky, veřejné vysoké školy, veřejné výzkumné instituce, školy, prosefní komory, jakož i akciové společnosti nebo jiné veřejné instituce jimi ovládané.*
 
-Viz [repozitář odměňování](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny). 
+Viz [repozitář odměňování](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny) (https://github.com/pirati-cz/KlubPraha/tree/master/odmeny). 
 
 
 Prohlašuji, že jsem výše uvedené údaje uvedl úplně a pravdivě. 
