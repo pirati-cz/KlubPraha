@@ -1,5 +1,5 @@
 ---
-title:      Žádost o sjednání nápravy
+title:      Doplnění k žádosti o zjednání nápravy
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
@@ -21,9 +21,11 @@ sendby:     ds
 style:      letter
 ---
 
-Vážená paní primátorko,
+Vážená paní ředitelko,
 
-děkuji za tisk č. 2355, který jste nechali zpracovat na můj podnět, nicméně konstatuji, že zpracovaný materiál se nezabývá odpovědností členů Rady hlavního města Prahy. Moje analýza a advokátní kancelář uvádí, že ji pro účel posouzení všech nároků nebyly dodány potřebné dokumenty. Žádám Vás proto o urychlené sjednání nápravy.
+můj předchozí přípis, který jsem zaslal paní primátorce, se týkal tisku č. R-20355, přesněji usnesení č. 3135 ze dne 15.12.2015. Rovněž se tímto ptám, zda-li došlo k záležitosti v souvislosti s tímto tiskem od doby, kdy jsem poslal svůj první dopis, k nějakému pokroku, a jestli ředitelka MHMP učinila v této oblasti vhodná opatření. 
+
+S pozdravy
 
 ---
 signature:
