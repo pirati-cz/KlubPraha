@@ -16,7 +16,7 @@ your:
       -     Mariánské náměstí 2
       -     110 00 Praha 1
    note:
-      -     k rukám primátorky Mgr. Adriany Krnáčové, MBA
+      -     k rukám JUDr. Lucie Týcové, ředitelky odboru Kancelář primátora
 sendby:     ds
 style:      letter
 ---
