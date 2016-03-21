@@ -21,7 +21,7 @@ style:      letter
 
 Vážení,
 
-jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – Vás tímto zdvořile žádám v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím a podle § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, o poskytnutí nájemní smlouvy, kterou uzavřela Městská část Praha 2, nebo jiná společnost, k tomu Městskou částí Praha 2 pověřená, se Srbským kulturním sdružením sv. Sáva na prostory, které toto sdružení využívá na adrese Sokolská 18, Praha 2, kde sídlí.
+jako fyzická osoba Vás tímto zdvořile žádám v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím o poskytnutí nájemní smlouvy, kterou uzavřela Městská část Praha 2, nebo jiná společnost, k tomu Městskou částí Praha 2 pověřená, se Srbským kulturním sdružením sv. Sáva na prostory, které toto sdružení využívá na adrese Sokolská 18, Praha 2, kde sídlí.
 
 Prosím o poskytnutí informace v elektronické podobě e-mailem či do datové schránky na adresu xwfwgha. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), pokud je v této podobě máte k dispozici. Předem děkuji za Vaši vstřícnost. 
 
