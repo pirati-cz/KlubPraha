@@ -1,5 +1,6 @@
 ---
-title:      Žádost o přístup do registru podle střetu zájmů
+title:      Žádost o nahlédnutí do registru oznámení o činnostech, oznámení o majetku a oznámení o příjmech, darech a závazcích
+podávaných veřejnými funkcionáři podle zákona č. 159/2006 Sb., o střetu zájmů, ve znění zákona č.216/2008 Sb.
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
@@ -9,7 +10,7 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha 144/2015
 your:
-   role:    
+   role:    adresát
    name:    
       -     Hlavní město Praha
    address:
