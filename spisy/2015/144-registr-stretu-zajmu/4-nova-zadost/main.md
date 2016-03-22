@@ -1,6 +1,5 @@
 ---
-title:      Žádost o nahlédnutí do registru oznámení o činnostech, oznámení o majetku a oznámení o příjmech, darech a závazcích
-podávaných veřejnými funkcionáři podle zákona č. 159/2006 Sb., o střetu zájmů, ve znění zákona č.216/2008 Sb.
+title:      "Žádost o nahlédnutí do registru oznámení o činnostech, oznámení o majetku a oznámení o\ příjmech, darech a závazcích podávaných veřejnými funkcionáři podle zákona č.\ 159/2006 Sb., o\ střetu zájmů, ve znění zákona č.\ 216/2008 Sb."
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
