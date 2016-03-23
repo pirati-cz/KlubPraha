@@ -9,7 +9,7 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha 66/2016
 your:
-   role:    adresát
+   role:    JUDr. Martina Děvěrová, MPA, ředitelka Magistrátu  hl. m. Prahy
    name:    Magistrát hlavního města Prahy
    address:
       -     Mariánské náměstí 2
