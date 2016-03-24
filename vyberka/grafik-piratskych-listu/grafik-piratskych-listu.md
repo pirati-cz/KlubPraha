@@ -8,6 +8,7 @@ Ahoj!
 
 V pražském sdružení Pirátů hledáme **grafika**, který vytvoří šablony pro opakovanou přípravu Pirátských listů. Pokud Tě baví tvořit a chceš pomoci Pirátům s designem novin, kterých se budou rozdávat stovky tisíc, je tohle ideální nabídka právě pro Tebe.
 
+[](../Pirastke%20listy.jpg)
 
 V našem krajském sdružení usilujeme o průběžné informování veřejnosti o činnosti pirátských zastupitelů a pražských kauzách. Chceme, aby byl kvalitní nejen obsah, ale i vizuální stránka naší prezentace. Tvým úkolem proto bude připravit **šablony pro Pirátské listy**, které budeme moci opakovaně používat při tvorbě nových vydání. 
 
