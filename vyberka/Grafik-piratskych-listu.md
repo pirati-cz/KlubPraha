@@ -1,4 +1,5 @@
 Česká pirátská strana
+
 krajské sdružení Praha
 
 #Výběrové řízení na šablony Pirátských listů ve Scribusu
