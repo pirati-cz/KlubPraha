@@ -18,13 +18,13 @@ Návrhy šablon Pirátských listů musí splňovat tyto požadavky:
 - Tvorba v software Scribus
 - Licence: CC-BY-SA
 
-- 1. formát Listů: 8 stran A3 na novinovém papíře
+- 1) formát Listů: 8 stran A3 na novinovém papíře
     - šablona titulní strany s hlavičkou
     - šablonu běžné strany (strany 2, 3, 6, 7 – vlevo i vpravo)
     - šablonu prostřední dvojstrany (tiskne se A2 na šířku, namísto dvou oddělených stran A3)
     - šablonu zadní strany
 
-- 2. formát Listů: 315 x 470 mm - tzv. berlínský formát, 8 stran, novinový papír
+- 2) formát Listů: 315 x 470 mm - tzv. berlínský formát, 8 stran, novinový papír
     - šablony stejných stran jako u 1. formátu
     - Svobodné fonty k volnému užití
     - písmo pro běžný text
@@ -42,7 +42,8 @@ Návrhy šablon Pirátských listů musí splňovat tyto požadavky:
 - Nápis Pirátské listy
 - Odkaz na web http://praha.pirati.cz
 
-Předchozí vydání Pirátských listů: <http://www.piratskelisty.cz/upload/1486.pdf>
+Předchozí vydání Pirátských listů: 
+<http://www.piratskelisty.cz/upload/1486.pdf>
 <https://github.com/pirati-cz/praha2014/tree/master/noviny> 
 
 ## Nabízíme
