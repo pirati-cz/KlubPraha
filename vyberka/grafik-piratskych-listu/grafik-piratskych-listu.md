@@ -31,7 +31,6 @@ Návrhy šablon Pirátských listů musí splňovat tyto požadavky:
     - písmo pro nadpisy
     - kurzíva
     - bold
-
 - Profily zastupitelů
 - Mapa městských částí
 - Tabulka
