@@ -1,5 +1,5 @@
 ---
-title:      Žádost o informace
+title:      přípis
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
