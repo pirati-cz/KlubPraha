@@ -46,9 +46,9 @@ Předchozí vydání Pirátských listů: <http://www.piratskelisty.cz/upload/14
 
 ## Nabízíme
 
-  Jednorázová odměna až 10 000 Kč
-  Účast na přípravě novin, kterých se bude pravidelně rozdávat stovky tisíc
-  Seznámení a zdokonalení se se svobodnými technologiemi
+- Jednorázová odměna až 10 000 Kč
+- Účast na přípravě novin, kterých se bude pravidelně rozdávat stovky tisíc
+- Seznámení a zdokonalení se se svobodnými technologiemi
   
 ## Požadujeme
 
