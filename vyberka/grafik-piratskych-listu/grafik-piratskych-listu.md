@@ -37,7 +37,8 @@ Návrhy šablon Pirátských listů musí splňovat tyto požadavky:
 - Tabulka
 - Kalendář akcí
 - Celkový grafický styl
-- V návrzích musí být následující prvky:
+
+*V návrzích musí být následující prvky:*
 - Logo Pirátské strany
 - Nápis Pirátské listy
 - Odkaz na web http://praha.pirati.cz
