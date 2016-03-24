@@ -42,9 +42,9 @@ Návrhy šablon Pirátských listů musí splňovat tyto požadavky:
 - Nápis Pirátské listy
 - Odkaz na web http://praha.pirati.cz
 
-Předchozí vydání Pirátských listů: 
-<http://www.piratskelisty.cz/upload/1486.pdf>
-<https://github.com/pirati-cz/praha2014/tree/master/noviny> 
+**Předchozí vydání Pirátských listů:**
+- <http://www.piratskelisty.cz/upload/1486.pdf>
+- <https://github.com/pirati-cz/praha2014/tree/master/noviny> 
 
 ## Nabízíme
 
