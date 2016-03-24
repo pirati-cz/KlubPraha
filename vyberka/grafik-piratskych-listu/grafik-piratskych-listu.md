@@ -20,7 +20,6 @@ Návrhy šablon Pirátských listů musí splňovat tyto požadavky:
     - šablonu běžné strany (strany 2, 3, 6, 7 – vlevo i vpravo)
     - šablonu prostřední dvojstrany (tiskne se A2 na šířku, namísto dvou oddělených stran A3)
     - šablonu zadní strany
-
 - 2) formát Listů: 315 x 470 mm - tzv. berlínský formát, 8 stran, novinový papír
     - šablony stejných stran jako u 1. formátu
     - Svobodné fonty k volnému užití
