@@ -68,3 +68,4 @@ Poptávaná činnost bude dodána jako **služba živnostníkem** (na IČO) nebo
 S pozdravem
 
 Míša Krausová
+Koordinátorka projektu
