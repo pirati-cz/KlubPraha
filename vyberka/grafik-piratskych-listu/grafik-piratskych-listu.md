@@ -54,7 +54,8 @@ Návrhy šablon Pirátských listů musí splňovat tyto požadavky:
 - Zkušenosti s grafikou a reference odkazující na dosavadní činnost
 - Schopnost vytvořit šablonu ve Scribusu
 - Spolehlivost
-- Zasílání nabídek
+
+##Zasílání nabídek
   
 V nabídce nám prosím zašli své **reference** odkazující na dosavadní grafickou tvorbu a  pokud budeš chtít, tak i další materiály podle kterých budeme moci posoudit Tvoji spolehlivost a zkušenosti s obdobným typem práce. Přilož také **cenu**, za kterou jsi ochotná/ý zakázku zpracovat a **termín**, do kterého jsi schopná/ý šablony dodat, šablony však musí být hotové nejpozději do **10. dubna 2016**. Pokud máš zájem o upřesnění informací, neváhej se na mne obrátit emailem či telefonicky na misa.krausova@pirati.cz nebo 732858172.
 
