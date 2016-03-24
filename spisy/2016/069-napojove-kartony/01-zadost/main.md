@@ -23,7 +23,7 @@ Vážení,
 
 jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – Vás tímto zdvořile žádám v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a § 51 zákona č. 131/2000 Sb., o hlavním městě Praze, o následující informace:
 
-Žádám o soupis všech košů na kovy a nápojové kartony na území hlavního města Prahy, s co nejpřesněji specifikovaným místem, nejlépe s přesnými souřadnicemi
+Žádám o soupis všech košů na kovy a nápojové kartony na území hlavního města Prahy, s co nejpřesněji specifikovaným místem, nejlépe s přesnými souřadnicemi.
 
 Prosím o poskytnutí informace v elektronické podobě do datové schránky, případně na e-mail. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
 
