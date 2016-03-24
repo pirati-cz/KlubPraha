@@ -11,7 +11,7 @@ our:
 your:
    role:    Povinný subjekt
    name:    
-      -     Dopravní podnik hlavního města Prahy
+      -     Dopravní podnik hlavního města Prahy, a.s.
    address:
       -     Sokolovská 217/42
       -     190 22 Praha 9
@@ -33,8 +33,10 @@ Prosím o poskytnutí informace v elektronické podobě do datové schránky, p�
 S pozdravem
 
 ---
-signature:
-
-    Mgr. Bc. Jakub Michálek
-    předseda klubu Pirátů
-    zastupitel hl. m. Prahy abbr: jakub ...
+signature: 
+  - Jakub Michálek
+  - nar. 6. 2. 1989
+  - bytem Zenklova 193, Praha 8
+  - zastupitel hl. m. Prahy
+abbr:       jakub
+...
