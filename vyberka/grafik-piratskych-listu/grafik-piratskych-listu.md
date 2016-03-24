@@ -12,12 +12,9 @@ V pražském sdružení Pirátů hledáme **grafika**, který vytvoří šablony
 V našem krajském sdružení usilujeme o průběžné informování veřejnosti o činnosti pirátských zastupitelů a pražských kauzách. Chceme, aby byl kvalitní nejen obsah, ale i vizuální stránka naší prezentace. Tvým úkolem proto bude připravit **šablony pro Pirátské listy**, které budeme moci opakovaně používat při tvorbě nových vydání. 
 
 ##Parametry poptávky
-
 Návrhy šablon Pirátských listů musí splňovat tyto požadavky:
-
 - Tvorba v software Scribus
 - Licence: CC-BY-SA
-
 - 1) formát Listů: 8 stran A3 na novinovém papíře
     - šablona titulní strany s hlavičkou
     - šablonu běžné strany (strany 2, 3, 6, 7 – vlevo i vpravo)
@@ -67,5 +64,4 @@ Poptávaná činnost bude dodána jako **služba živnostníkem** (na IČO) nebo
 
 S pozdravem
 
-Míša Krausová
-Koordinátorka projektu
+Míša Krausová, koordinátorka projektu
