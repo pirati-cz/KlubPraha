@@ -8,39 +8,39 @@ Ahoj!
 
 V pražském sdružení Pirátů hledáme **grafika**, který vytvoří šablony pro opakovanou přípravu Pirátských listů. Pokud Tě baví tvořit a chceš pomoci Pirátům s designem novin, kterých se budou rozdávat stovky tisíc, je tohle ideální nabídka právě pro Tebe.
 
+
 V našem krajském sdružení usilujeme o průběžné informování veřejnosti o činnosti pirátských zastupitelů a pražských kauzách. Chceme, aby byl kvalitní nejen obsah, ale i vizuální stránka naší prezentace. Tvým úkolem proto bude připravit **šablony pro Pirátské listy**, které budeme moci opakovaně používat při tvorbě nových vydání. 
 
 ##Parametry poptávky
 
 Návrhy šablon Pirátských listů musí splňovat tyto požadavky:
 
-  Tvorba v software Scribus
-  
-  Licence: CC-BY-SA
-  
-  1. formát Listů: 8 stran A3 na novinovém papíře
-    šablona titulní strany s hlavičkou
-    šablonu běžné strany (strany 2, 3, 6, 7 – vlevo i vpravo)
-    šablonu prostřední dvojstrany (tiskne se A2 na šířku, namísto dvou oddělených stran A3)
-    šablonu zadní strany
+- Tvorba v software Scribus
+- Licence: CC-BY-SA
 
-  2. formát Listů: 315 x 470 mm - tzv. berlínský formát, 8 stran, novinový papír
-    šablony stejných stran jako u 1. formátu
-    Svobodné fonty k volnému užití
-    písmo pro běžný text
-    písmo pro nadpisy
-    kurzíva
-    bold
+- 1. formát Listů: 8 stran A3 na novinovém papíře
+    - šablona titulní strany s hlavičkou
+    - šablonu běžné strany (strany 2, 3, 6, 7 – vlevo i vpravo)
+    - šablonu prostřední dvojstrany (tiskne se A2 na šířku, namísto dvou oddělených stran A3)
+    - šablonu zadní strany
 
-  Profily zastupitelů
-  Mapa městských částí
-  Tabulka
-  Kalendář akcí
-  Celkový grafický styl
-  V návrzích musí být následující prvky:
-  Logo Pirátské strany
-  Nápis Pirátské listy
-  Odkaz na web http://praha.pirati.cz
+- 2. formát Listů: 315 x 470 mm - tzv. berlínský formát, 8 stran, novinový papír
+    - šablony stejných stran jako u 1. formátu
+    - Svobodné fonty k volnému užití
+    - písmo pro běžný text
+    - písmo pro nadpisy
+    - kurzíva
+    - bold
+
+- Profily zastupitelů
+- Mapa městských částí
+- Tabulka
+- Kalendář akcí
+- Celkový grafický styl
+- V návrzích musí být následující prvky:
+- Logo Pirátské strany
+- Nápis Pirátské listy
+- Odkaz na web http://praha.pirati.cz
 
 Předchozí vydání Pirátských listů: <http://www.piratskelisty.cz/upload/1486.pdf>
 <https://github.com/pirati-cz/praha2014/tree/master/noviny> 
