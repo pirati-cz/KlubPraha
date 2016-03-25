@@ -7,7 +7,7 @@ author:
    mail:    jakub.michalek@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    ZK Pha 244/2015
+   sign:    ZK Pha 245/2015
 your:
    name:    
       -     Městský soud v Praze
