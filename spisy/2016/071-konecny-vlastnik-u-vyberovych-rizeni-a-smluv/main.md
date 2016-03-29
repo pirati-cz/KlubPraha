@@ -9,7 +9,7 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha 71/2016
 your:
-   role:    Adresát
+   role:    
    name:    Hlavní město Praha
    address:
       -     Mariánské náměstí 2
