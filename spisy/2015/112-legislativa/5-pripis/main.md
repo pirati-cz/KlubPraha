@@ -19,7 +19,7 @@ your:
    sign:
    date:    
    note:
-   -        k rukám ředitele
+   -        k rukám ředitelky Magistrátu hl. m. Prahy JUDr. Martiny Děvěrové.
 sendby:     ds
 style:      letter
 ---
