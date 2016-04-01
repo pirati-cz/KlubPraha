@@ -11,10 +11,10 @@ our:
 your:
    role:    Povinný subjekt
    name:    
-      -     Obecní dům a.s.
+      -     Hlavní město Praha
    address:
-      -     nám. Republiky 1090/5
-      -     111 21, Praha 1
+      -     Mariánské náměstí 2.
+      -     110 00, Praha 1
 sendby:     ds
 style:      letter
 ---
