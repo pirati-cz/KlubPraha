@@ -11,10 +11,10 @@ our:
 your:
    role:    Povinný subjekt
    name:    
-      -     Hlavní město Praha
+      -     Pražské služby a.s.
    address:
-      -     Mariánské náměstí 2/2
-      -     110 01 Praha 1
+      -     Mečislavova 165/3
+      -     140 00, Praha 4
 sendby:     ds
 style:      letter
 ---
