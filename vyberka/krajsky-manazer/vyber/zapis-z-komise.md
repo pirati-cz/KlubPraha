@@ -1,24 +1,24 @@
 Zápis z jednání hodnotící komise
 ===============================
 
-Datum jednání:
+**Datum jednání**:
 
-Zástupce zadavatele: Jan Loužek, zveřejňovač klubu Pirátů, předsedá jednání
+**Zástupce zadavatele**: Jan Loužek, zveřejňovač klubu Pirátů, předsedá jednání
 
-Přítomní členové hodnotící komise:
+**Přítomní členové hodnotící komise**:
 
-Zapisovatel:
+**Zapisovatel**:
 
-Hosté:
+**Hosté**:
 
-Program:
+**Program**:
 
 * Seznámení s pravidly výběrového řízení
 * Oznámení možného střetu zájmů členů hodnotící komise
 * Hodnocení uchazečů
 * Výsledek výběrového řízení
 
-Program byl/nebyl schválen konsensem.
+**Program byl/nebyl schválen konsensem.**
 
 ## Seznámení s pravidly výběrového řízení
 
@@ -26,7 +26,7 @@ Zástupce zadavatele vyzval přítomné členy hodnotící komise s [pravidly v�
 
 [pravidla]: ../zadani/pravidla.md
 
-Členové prohlašují, že jim rozumí a zavazují se podle nich postupovat.
+**Členové prohlašují, že jim rozumí a zavazují se podle nich postupovat.**
 
 Výhrady:
 
