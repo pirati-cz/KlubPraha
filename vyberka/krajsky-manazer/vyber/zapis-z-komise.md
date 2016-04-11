@@ -1,11 +1,11 @@
-Výběr
-=====
+Zápis z jednání hodnotící komise
+===============================
 
 Datum jednání:
 
-Přítomní členové hodnotící komise:
-
 Zástupce zadavatele: Jan Loužek, zveřejňovač klubu Pirátů, předsedá jednání
+
+Přítomní členové hodnotící komise:
 
 Zapisovatel:
 
@@ -15,15 +15,16 @@ Program:
 
 * Seznámení s pravidly výběrového řízení
 * Oznámení možného střetu zájmů členů hodnotící komise
-* Rozhodnutí o vyřazení nabídek v rozporu zadání
-* První kolo hodnocení uchazečů
-* Další postup a termín jednání
+* Hodnocení uchazečů
+* Výsledek výběrového řízení
 
 Program byl/nebyl schválen konsensem.
 
 ## Seznámení s pravidly výběrového řízení
 
-Zástupce zadavatele vyzval přítomné členy hodnotící komise s pravidly výběrového řízení. 
+Zástupce zadavatele vyzval přítomné členy hodnotící komise s [pravidly výběrového řízení][pravidla].
+
+[pravidla]: ../zadani/pravidla.md
 
 Členové prohlašují, že jim rozumí a zavazují se podle nich postupovat.
 
@@ -33,7 +34,7 @@ Výhrady:
 
 Zástupce zadavatele vyzval přítomné členy hodnotící komise k oznámení střetu zájmů vzhledem k uchazečům či jejich známým. 
 
-Přítomní členové hodnotící komise prohlásili, že žádná skutečnost zakládající střet zájmů jim není známa.
+**Přítomní členové hodnotící komise prohlásili, že žádná skutečnost zakládající střet zájmů jim není známa.**
 
 Výhrady:
 
@@ -43,13 +44,13 @@ Podle pravidel výběrového řízení:
 
 > Nabídky zaslané opožděně či jinak v rozporu s pravidly, inzerátem, schválenými usneseními nebo jinými zveřejněnými směrodatnými dokumenty (společně jen „zadání“) budou vyřazeny. Zástupce zadavatele nebo hodnotící komise mohou vyzvat uchazeče k opravě či doplnění nabídky a osobnímu pohovoru či ověření předpokladů, pokud je to potřebné, ale nejsou k tomu povinni. Hodnotí se podle dodaných materiálů (životopis, motivační dopis, reference apod.) a informací, které má hodnotící komise k dispozici nebo které si zjistí.
 
-Zástupce zadavatele seznámil členy hodnotící komise s kompletními nabídkami.
+Zástupce zadavatele seznámil členy hodnotící komise s kompletními nabídkami. O vyřazení nabídky, která nesplňuje některé kritérium inzerátu bude rozhodnuto až hodnocením v rámci prvního kola.
 
-Přítomní členové hodnotící komise prohlásili, že se s nabídkami seznámili a že u žádné nabídky není důvod jejího vyřazení (s výjimkou kritérií podle inzerátu, která budou hodnocena v rámci prvního kola).
+**Přítomní členové hodnotící komise prohlásili, že se s nabídkami seznámili a že u žádné nabídky není důvod jejího vyřazení před prvním kolem.**
 
 Výhrady:
 
-### První kolo
+### První kolo hodnocení uchazečů
 
 Podle pravidel výběrového řízení:
 
@@ -63,6 +64,10 @@ Kritéria podle inzerátu:
 4. Časovou flexibilitu a schopnost rychle se dopravit do Pirátského centra 
 5. Manuální zručnost
 6. Komunikační dovednosti, svědomitost a slušnost
+
+[program]: https://www.pirati.cz/program/start
+[forum]: https://forum.pirati.cz
+[redmine]: https://redmine.pirati.cz/
 
 Hodnotící komise hodnotila jednotlivé uchazeče v prvním kole následovně:
 
@@ -100,6 +105,8 @@ Uchazeč \ hodnocení |  1. |  2. |  3. |  4. |  5. | Celkem
 Maximum             |  10 | 30  |  20 |  30 |  20 | 110
 Minimum             |  0  |  0  |  0  |  0  |  0  |   0
 
+## Výsledek výběrového řízení
+
 Podle pravidel výběrového řízení:
 
 > Výsledkem výběrového řízení je seřazený seznam nabídek s uvedením, jaké je pořadí nabídek, které jsou přijatelné nabídky, a čí nabídka je vyřazena. O hodnocení a výsledku výběrového řízení rozhoduje hodnotící komise jmenovaná zadavatelem. 
@@ -108,6 +115,6 @@ Hodnotící komise se usnesla na následujícím výroku:
 
 **Přijatelné nabídky jsou 1. ........................, 2. ......................... . Nepřijatelné a vyřazené nabídky jsou .................... . Komise doporučuje uzavřít smlouvu s prvním vybraným uchazečem/Jiné doporučení.**  
 
-Hlasování:
+Hlasování: ........... (uveďte jmenovitě)
 
 Zapsáno dne XYZ v Praze, zápis před zveřejněním ověřil zástupce zadavatele.
