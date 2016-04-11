@@ -64,19 +64,14 @@ Kritéria podle inzerátu:
 5. Manuální zručnost
 6. Komunikační dovednosti, svědomitost a slušnost
 
-Uchazeč \ hodnocení | 1. | 2. | 3. | 4. | 5. | 6. | Celkem
-------------------- | -- | -- | -- | -- | -- | -- | -----
-A.                  | 1  | 0  | 1  | 1  | 0  | 1  | 0
-B.                  | 1  | 1  | 1  | 1  | 1  | 1  | 1
+Hodnotící komise hodnotila jednotlivé uchazeče v prvním kole následovně:
 
-Uchazeči, kteří uspěli v prvním kole výběrového řízení:
+Uchazeč \ hodnocení | 1.  | 2.  | 3.  | 4.  | 5.  | 6.  | Celkem
+------------------- | --- | --- | --- | --- | --- | --- | -----
+A.                  | 1   | 0   | 1   | 1   | 0   | 1   | 0
+B.                  | 1   | 1   | 1   | 1   | 1   | 1   | 1
 
-*
-
-Uchazeči, kteří neuspěli v prvním kole výběrového řízení:
-
-*
-*
+**V prvním kole výběrového řízení uspěli uchazeči: ................................ . V prvním kole výběrového řízení neuspěli uchazeči: ......................... . Úspěšní uchazeči postupují do druhého kola výběrového řízení. / Jako jediný uchazeč byl v prvním kole výběrového řízení vybrán ........................ .**  
 
 ### Druhé kolo hodnocení uchazečů
 
@@ -94,6 +89,12 @@ Kritérium | počet bodů
 4. zkušenosti s administrativou | 30
 5. práce s technickými systémy | 20
 
+Podle pravidel výběrového řízení:
+
+> Maximální počet bodů má obdržet kandidát, který zcela znamenitě splňuje předpoklady z dané oblasti.
+
+Hodnotící komise hodnotila jednotlivé uchazeče v prvním kole následovně:
+
 Uchazeč \ hodnocení |  1. |  2. |  3. |  4. |  5. | Celkem
 ------------------- | --: | --: | --: | --: | --: | ----:
 Maximum             |  10 | 30  |  20 |  30 |  20 | 110
@@ -101,29 +102,11 @@ Minimum             |  0  |  0  |  0  |  0  |  0  |   0
 
 Podle pravidel výběrového řízení:
 
-> Maximální počet bodů má obdržet kandidát, který zcela znamenitě splňuje předpoklady z dané oblasti. 
-
-### Výrok hodnotící komise
-
-Podle pravidel výběrového řízení:
-
 > Výsledkem výběrového řízení je seřazený seznam nabídek s uvedením, jaké je pořadí nabídek, které jsou přijatelné nabídky, a čí nabídka je vyřazena. O hodnocení a výsledku výběrového řízení rozhoduje hodnotící komise jmenovaná zadavatelem. 
 
 Hodnotící komise se usnesla na následujícím výroku:
 
-Seznam nabídek, které jsou přijatelné v pořadí podle hodnocení:
-
-1. 
-2. 
-3.
-
-Seznam nabídek, které nejsou přijatelné nebo které byly vyřazeny:
-
-1.
-2.
-3. 
-
-Doporučení k uzavření smlouvy: 
+**Přijatelné nabídky jsou 1. ........................, 2. ......................... . Nepřijatelné a vyřazené nabídky jsou .................... . Komise doporučuje uzavřít smlouvu s prvním vybraným uchazečem/Jiné doporučení.**  
 
 Hlasování:
 
