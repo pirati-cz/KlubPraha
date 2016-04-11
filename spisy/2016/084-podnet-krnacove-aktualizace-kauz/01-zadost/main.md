@@ -7,7 +7,7 @@ author:
    mail:    jakub.michalek@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    ZK Pha 49/2016
+   sign:    ZK Pha 84/2016
 your:
    role:    
    name:    Magistrát hlavního města Prahy
