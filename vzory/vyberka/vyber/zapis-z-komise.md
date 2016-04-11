@@ -1,5 +1,5 @@
-Výběr
-=====
+Zápis z jednání výběrové komise
+===============================
 
 Datum jednání:
 
