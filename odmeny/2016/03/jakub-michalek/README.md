@@ -25,7 +25,7 @@ Následující seznam zahrnuje všechny úkoly z [projektu krajského sdružení
 [#2612][task2612]  |   Zastupitelská úterý za rok 2016                                                          |  [6.50][time2612] 
 [#2590][task2590]  |   Jednání klubu 2016                                                                       |  [5.00][time2590] 
 [#2306][task2306]  |   Otevřené výběrové řízení na ekonomický systém na příspěvkovkách (náhrada malého GINISu)  |  [4.50][time2306] 
-[#678][task678]    |   Komise pro ICT                                                                           |  [3.66][time678]  
+[#678][task678]    |   Komise ICT RHMP                                                                          |  [3.66][time678]  
 [#797][task797]    |   Kontrolní výbor                                                                          |  [3.25][time797]  
 [#2083][task2083]  |   nezveřejněný úkol                                                                        |  [3.20][time2083] 
 [#2878][task2878]  |   Stanovisko k čínské misi                                                                 |  [3.00][time2878] 
@@ -68,16 +68,16 @@ Zdroj příjmu                           | Výše příjmu (Kč)
 *z toho*                               |
 A.1 paušální odměna                    | 5486
 A.2 náhrada výdělku                    | 7947
-**B. Peníze od strany**                | TMPPARTYMONEY
+**B. Peníze od strany**                | 5418
 *z toho*                               |
 B.1 pevná složka odměny                | 4046
-B.2 variabilní složka odměny           | TMPVARMONEY
+B.2 variabilní složka odměny           | 1372
 *z toho*                               |
 B.2.1 odměna za dodržení rozsahu práce | 372
 B.2.2 odměna za přesčasy               | 0
-B.2.3 odměna za významné splněné úkoly | TMPTASKSMONEY
-B.2.4 odpočet za výhrady               | TMPSANCTIONS
-**Celkový měsíční příjem**             | TMPTOTALMONEY
+B.2.3 odměna za významné splněné úkoly | 1000
+B.2.4 odpočet za výhrady               | 0
+**Celkový měsíční příjem**             | 18851
 
 Částky jsou uváděny vždy v hrubé výši, přičemž z paušální odměny odvádí město zálohu na daň z příjmu a zdravotní pojištění. Je dále odpovědností každého zastupitele, aby příjem zdanil a zaplatil zákonné pojištění.
 
