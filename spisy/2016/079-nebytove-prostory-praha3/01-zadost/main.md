@@ -3,7 +3,7 @@ title:      Žádost o informace
 author:
    name:    Ondřej Profant
    phone:   +420 607 580 015
-   ds:      
+   ds:      d25rp6p 
    mail:    ondrej.profant@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
@@ -25,7 +25,7 @@ jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu –
 
 * Seznam nebytových prostor, které jsou svěřeny vaší městské části Statutem hl. m. Prahy. Tento seznam poskytněte v podobě tabulky, která bude pro každý jeden nebytový prostor obsahovat následující informace: ulice, číslo popisné/číslo orientační, parcelní číslo, městská část, plocha prostoru, název správcovské společnosti, která daný prostor spravuje, údaj, zda-li je daný prostor aktuálně pronajímán, výši nájmu za m2, nájemce a dobu nájmu. 
 
-Prosím o poskytnutí informace v elektronické podobě e-mailem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOCX, XLSX, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost. Pro případnou další komunikaci zmocňuji asistenta klubu Pirátů Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17). 
+Prosím o poskytnutí informace v elektronické podobě datovou schránkou či e-mailem. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty XLSX, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost. Pro případnou další komunikaci zmocňuji asistenta klubu Pirátů Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17). 
 
 S pozdravem
 
