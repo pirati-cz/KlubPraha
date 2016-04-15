@@ -7,7 +7,7 @@ author:
    mail:    mikulas.ferjencik@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    ZK Pha 14/2016
+   sign:    ZK Pha 88/2016
 your:
    role:    
    name:    
