@@ -21,7 +21,7 @@ style:      letter
 
 Vážení,
 
-dovolte, abych se Vám představil. Jmenuji se Mikuláš Ferjenčík, a jsem zastupitel za Pirátskou stranu v Zastupitelstvu hl. m. Prahy. Rovněž jsem členem výboru pro územní rozvoj a územní plán. Od radní Jany Plamínkové jsem na svoji žádost v nedávné době obdržel aktuální návrh Metropolitního plánu hl. m. Prahy. Zajímá mně, zda-li existuje právní důvod, který by mi bránil tento návrh Metropolitního plánu zveřejnit, či nikoliv. 
+dovolte, abych se Vám představil. Jmenuji se Mikuláš Ferjenčík, a jsem zastupitel za Pirátskou stranu v Zastupitelstvu hl. m. Prahy. Rovněž jsem členem výboru pro územní rozvoj a územní plán. Od radní Jany Plamínkové jsem na svoji žádost v nedávné době obdržel aktuální verzi připravovaného Metropolitního plánu hl. m. Prahy. Zajímá mě, zda-li existuje právní důvod, který by mi bránil tento dokument zveřejnit, či nikoliv. 
 
 S pozdravem
 
