@@ -9,8 +9,8 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha 89/2016
 your:
-   role:    Ing. Martin Čemus, tajemník výboru pro územní rozvoj a územní plán
-   name:    Hlavní město Praha
+   role:    Ing. Martin Čemus
+   name:    tajemník výboru pro územní rozvoj a územní plán
    address:
       -     Mariánské náměstí 2
       -     110 00, Praha 1
