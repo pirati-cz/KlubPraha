@@ -44,7 +44,7 @@ V roce 2016 při předpokladu nástupu k 1. 5. 2016 jde o částku cca 70 tis. K
 Položka | Částka (tis. Kč)
 --- | ----:
 **Náklady celkem**  | **88**
-– smluvní odměna krajského manažera	|	  70
+– smluvní odměna asistenta senátora	|	  70
 **Financování** | **88**
 – rozpočet strany, pol. [212500004][strana] |	26
 – rozpočet krajského sdružení Praha, pol.	[220100240][kspraha] | 44
