@@ -48,7 +48,7 @@ Cíle projektu
 
 2. **Zapojit lidi do činnosti Pirátů v Praze**. Zapojíme příznivce do tvorby a rozdávání novin a nabereme nové Piráty do městských částí. Dosud se nám nepodařilo uspořádat úspěšný fundraising a využít potenciál pro decentní reklamu v Pirátských listech – nicméně letos se projekt připravuje velmi rychle a patrně se to tak stihne až v příštím vydání.
 
-Indikátory jsou rozepsány v šabloně závěrečné zprávy o projektu, která je kapitolou tohoto projektového záměru (viz strana 8) a kterou předloží vedoucí projektu krajskému předsednictvu. 
+Indikátory budou rozepsány v šabloně závěrečné zprávy o projektu (viz návrhu usnesení). 
 
 Volná místa
 -----------
