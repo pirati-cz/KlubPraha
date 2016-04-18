@@ -9,7 +9,7 @@ Dobrý den,
 Česká pirátská strana poptává tiskárnu pro tisk letního vydání **pražských Pirátských listů** s následující specifikací:
 
 * termín zaslání podkladů v PDF v tiskové kvalitě do tiskárny: 2. května 2016
-* počet 50000 ks novin
+* počet 80000 ks novin
 * papír bude novinový, 45 gramů, 
 * formát dvou listů A2 vložených do sebe a přeložených 2x (nebo berlínský formát)
 * tisk 4/4 barva
