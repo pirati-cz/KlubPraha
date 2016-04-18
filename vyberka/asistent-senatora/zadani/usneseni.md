@@ -1,4 +1,4 @@
-Výběr krajského manažera
+Záměr zřídit funkci asistenta senátora Libora Michálka
 ========================
 
 *Toto je projektový záměr, který předsednictvo krajského sdružení Pirátů v Praze a republikové předsednictvo předkládají krajskému fóru Pirátů v Praze a republikovému výboru.*
@@ -44,7 +44,7 @@ V roce 2016 při předpokladu nástupu k 1. 5. 2016 jde o částku cca 70 tis. K
 Položka | Částka (tis. Kč)
 --- | ----:
 **Náklady celkem**  | **88**
-– smluvní odměna krajského manažera	|	  70
+– smluvní odměna asistenta senátora	|	  70
 **Financování** | **88**
 – rozpočet strany, pol. [212500004][strana] |	26
 – rozpočet krajského sdružení Praha, pol.	[220100240][kspraha] | 44
@@ -100,9 +100,10 @@ Republikové předsednictvo
 
 Republikový výbor
 
-1. **souhlasí** se záměrem zřídit funkci Pirátského senátora asistenta Libora Michálka,
-2. **souhlasí** s náklady na tento záměr ve výši 60 tis. Kč ročně,
-3. **ukládá** republikovému předsednictvu v rámci tohoto výběrového řízení plnit úkoly nadřízeného orgánu ve výběrovém řízení.
+1. **bere na vědomí** projekt na výběr Pirátského asistenta senátora Libora Michálka včetně jeho příloh,
+2. **souhlasí** se záměrem zřídit funkci Pirátského senátora asistenta Libora Michálka,
+3. **souhlasí** s náklady na tento záměr ve výši 60 tis. Kč ročně,
+4. **ukládá** republikovému předsednictvu v rámci tohoto výběrového řízení plnit úkoly nadřízeného orgánu ve výběrovém řízení.
 
 ### Krajská úroveň
 
