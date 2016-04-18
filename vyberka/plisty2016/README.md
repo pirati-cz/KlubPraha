@@ -35,11 +35,11 @@ Po pozitivních zkušenostech s volebními i mimovolebními novinami (MČ Praha 
 
 Usnesení nechává prostor pro variabilitu, protože v tuto chvíli nevíme přesně, kolik novin vytisknout (aktuálně se přikláníme k počtu 80 000 ks) a nevíme jaká přesně bude cena (záleží i na tom, zda se přidají další kraje).
 
-Součástí projektu je jedno větší výběrové řízení na tiskárnu. Dosud byla již objednána  tvorba profesionální šablony Pirátských listů v open source software Scribus. Projekt povede Michaela Krausová v rámci své činnosti placené koordinátorky dobrovolníků.
+Součástí projektu je jedno větší výběrové řízení na tiskárnu. Dosud byla již objednána tvorba profesionální šablony Pirátských listů v open source software Scribus (viz [smlouva][smlouva-sablona]). Projekt povede Michaela Krausová v rámci své činnosti placené koordinátorky dobrovolníků.
  
 [strat-plan]: https://redmine.pirati.cz/projects/kspraha/wiki/Strategick%C3%BD_pl%C3%A1n
 [potreby-volice]: https://redmine.pirati.cz/projects/kspraha/wiki/Strategick%C3%BD_pl%C3%A1n#8-Voli%C4%8Di
-
+[smlouva-sablona]: https://smlouvy.pirati.cz/smlouvy/2016/04/01/sablona_hlavaty/
 
 Cíle projektu
 --------------
