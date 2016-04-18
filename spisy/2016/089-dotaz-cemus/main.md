@@ -14,7 +14,7 @@ your:
    address:
       -     Mariánské náměstí 2
       -     110 00, Praha 1
-   ds:      mrfdq3m
+   ds:      48ia97h
 sendby:     ds
 style:      letter
 ---
