@@ -27,7 +27,7 @@ Podle [strategického plánu krajského sdružení Pirátů v Praze][strat-plan]
 
 Jedním z klíčových ukazatelů strategického plánu, jak se nám daří dosahovat naší vize, je počet dobrovolníků podílejících se na rozdávání Pirátských listů. Nejsme strana, která je vidět pouze před volbami, ale jsme s lidmi v kontaktu celé volební období. Vydávání Pirátských listů je součástí tzv. permanentní kampaně
 
-> Při (...) práci na radnici či v senátě od nás voliči chtějí jediné – abychom **odváděli nejlepší práci**. To znamená (, abychom mimo jiné) pravidelně voliče informovali o své práci jazykem, kterému rozumí. (...) Vedeme permanentní kampaň, při které voliče informujeme o tom, co pro ně děláme v zastupitelstvech a v Senátu. K tomu je dobré vydávat např. každoroční Pirátské listy.
+> Při (...) práci na radnici či v senátě od nás voliči chtějí jediné – abychom **odváděli nejlepší práci**. To znamená (, abychom mimo jiné) pravidelně voliče informovali o své práci jazykem, kterému rozumí. (...) Vedeme **permanentní kampaň**, při které voliče informujeme o tom, co pro ně děláme v zastupitelstvech a v Senátu. K tomu je dobré vydávat např. každoroční Pirátské listy.
 
 Podrobné zásady jsou uvedeny ve stategickém plánu, např. jeho části [Potřeby voliče][potreby-volice]. 
 
