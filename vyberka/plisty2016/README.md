@@ -4,7 +4,7 @@ krajské sdružení Praha
 Pirátské listy 2016
 ========================
 
-Toto je projektový záměr, který předsednictvo krajského sdružení Pirátů v Praze předklá krajskému fóru Pirátů v Praze.
+Toto je projektový záměr, který předsednictvo krajského sdružení Pirátů v Praze předkládá krajskému fóru Pirátů v Praze.
 
 ![Pirátské listy](plisty.jpg)
 
