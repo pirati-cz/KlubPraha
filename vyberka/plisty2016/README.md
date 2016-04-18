@@ -106,7 +106,7 @@ Předsednictvo krajského sdružení Praha
 1. **bere na vědomí** předložený záměr včetně jeho příloh, 
 2. **schvaluje** podstatné náležitosti oznámení výběrového řízení na tiskárnu,
 3. **ukládá** koordinátorce dobrovolníků Michaele Krausové zahájit výběrové řízení na tiskárnu podle předloženého záměru a jmenuje ji zástupkyní zadavatele ve výběrovém řízení (termín: bezodkladně po schválení tohoto usnesení),
-4. **ukládá** předsedovi krajského sdružení předložit tento záměr krajskému fóru k projednání (termín: bezodkladně po schválení tohoto usnesení), a dále *pro případ schválení*:
+4. **ukládá** předsedovi krajského sdružení předložit tento záměr krajskému fóru k projednání, které by vzhledem k časové tísni mělo být co nejrychlejší (termín: bezodkladně po schválení tohoto usnesení), a dále *pro případ schválení*:
 5. **souhlasí** s jednotlivými výdaji tak, jak jsou uvedeny v rozpočtu projektu,
 6. **ukládá** koordinátorce dobrovolníků Michaele Krausové vést projekt Pirátských listů, uzavřít smlouvu podle výsledku výběrového řízení, předložit přihlášku Pirátských listů do 1. kola participativního rozpočtu, koordinovat dobrovolníky na roznášení a po skončení projektu předložit krajskému fóru zprávu o počtu zapojených členů a ostatních dobrovolníků.
 
