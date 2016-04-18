@@ -74,13 +74,13 @@ Položka | Částka (tis. Kč)
 – tisk (cena se vysoutěží v zakázce) |	  64
 – univerzální šablona Pirátských listů |  6
 **Financování** | **70**
-– rozpočet krajského sdružení Praha, pol. [220100260][kspraha] | 50
-– rozpočet strany, pol. [212500002][strana] |	20
+– rozpočet krajského sdružení Praha, pol. [220100210][kspraha] | 50
+– rozpočet strany, pol. [231160000][strana] |	20
 
 Vzhledem k tomu, že příjmy z participativního rozpočtu jsou z povahy věci nejisté (navíc k tomu viz poznámku níže u harmonogramu), je z důvodu opatrnosti třeba schválit záměr ve výši 70 tisíc Kč včetně případné rezervy.
 
-[strana]: https://www.pirati.cz/fo/hospodareni2016/rozpocty/strana/212500002
-[kspraha]: https://www.pirati.cz/fo/hospodareni2016/rozpocty/strana/220100260
+[strana]: https://www.pirati.cz/fo/hospodareni2016/rozpocty/strana/231160000
+[kspraha]: https://www.pirati.cz/fo/hospodareni2016/rozpocty/strana/220100210
 
 Harmonogram projektu
 --------------------
