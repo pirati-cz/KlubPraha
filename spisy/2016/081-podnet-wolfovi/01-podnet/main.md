@@ -7,7 +7,7 @@ tento rok hl. m. Praha vynaloží rekordní částku v řádu několika set mili
 3. zveřejňování bodového i slovního hodnocení jednotlivých žádostí
 4. zveřejňování vyúčtování grantů, převážně výši prostředků, které byly vyplaceny jednotlivým dodavatelům.
 
-Máme za to, že současný stav, kdy úředníci Magistrátu kontrolují čeprání pouze zhruba 5 % poskytnutých prostředků, je nevyhovující. Proto je dle našeho názoru nutné otevřít minimálně výše uvedená data veřejnosti, a to ideálně jejich zveřejněním na portále opendata.praha.eu. Tím se výrazně zvýší veřejná kontrola městem vynakládaných prostředků.
+Máme za to, že současný stav, kdy úředníci Magistrátu kontrolují čerpání pouze zhruba 5 % poskytnutých prostředků, je nevyhovující. Proto je dle našeho názoru nutné otevřít minimálně výše uvedená data veřejnosti, a to ideálně jejich zveřejněním na portále opendata.praha.eu. Tím se výrazně zvýší veřejná kontrola městem vynakládaných prostředků.
 
 Za zastupitelský klub Pirátů
 
