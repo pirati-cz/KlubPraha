@@ -1,5 +1,5 @@
 ---
-title:      Žádost o přezkoumání výkonu samostatné působnosti
+title:      Podnět ke kontrole podle zákona č. 131/2000 Sb,. o hlavním městě Praze
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
@@ -27,7 +27,7 @@ dne 31. 3. jsem se jako zastupitel Hlavního města Prahy účastnil jednání Z
 
 Následně jsem (jak dokládá stenozáznam z jednání) požádal přítomného pana ředitele legislativního odboru, JUDr. Tomáše Havla, aby se vyjádřil k tomu, zda-li je takový návrh hlasovatelný. Učinil jsem tak proto, že další zastupitelé přítomní v sále zpochybnili hlasovatelnost našeho návrhu. Pan JUDr. Havel následně dospěl k závěru, že tento návrh hlasovatelný není (tedy že se netýká konkrétního uvedeného bodu). 
 
-Vzhledem k tomu, že se domnívám, že postup, který řídící schůze (tj. náměstkyně primátorky Prof. Ing. Eva Kislingerová, CSc.) zvolila, je v rozporu s článkem č. 13 Jednacího řádu Zastupitelstva hl. m. Prahy, žádám tímto Ministerstvo vnitra podle § 94, odst. 1 zákona č. 500/2004 Sb., správního řádu o zahájení přezkumného řízení ve věci výkonu samostatné působnosti hlavního města Prahy. 
+Vzhledem k tomu, že se domnívám, že postup, který řídící schůze (tj. náměstkyně primátorky Prof. Ing. Eva Kislingerová, CSc.) zvolila, je v rozporu s článkem č. 13 Jednacího řádu Zastupitelstva hl. m. Prahy, podávám tímto Ministerstvu vnitra podnět ke kontrole resp. dohledu podle odst. 1 § 113 zákona č. 131/2000 Sb,. o hlavním městě Praze, nad výkonem samostatné působnosti v dané věci."
 
 Žádám o doručování odpovědi elektronicky, do datové schránky 4memzkm. Předem děkuji za Vaši vstřícnost. 
 
