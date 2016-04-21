@@ -97,7 +97,7 @@ Aby mohl být projekt financován z [1. kola participativního rozpočtování 2
 Schvalování záměru
 ------------------
 
-### Celostátní úroveň
+### Krajská úroveň
 
 #### Návrh usnesení krajského předsednictva
 
