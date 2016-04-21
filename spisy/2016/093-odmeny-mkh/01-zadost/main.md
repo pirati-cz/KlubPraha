@@ -14,7 +14,6 @@ your:
    address:
       -     Na Hroudě 1492/4
       -     100 000 Praha 10
-   ds:      6bnaawp
 sendby:     ds
 style:      letter
 ---
