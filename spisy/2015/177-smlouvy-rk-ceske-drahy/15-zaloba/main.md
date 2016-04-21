@@ -62,7 +62,7 @@ zástupce:  Mgr. Filip Hajný, advokát, ev. č. ČAK 14269, se sídlem Moskevsk
 Z výše uvedených důvodů navrhuji, aby soud vydal následující rozsudek:
 
 1. Rozhodnutí nadřízeného správního orgánu žalované ze dne 1. 4. 2016 se v souladu s odst. 4) § 16 zákona č. 106/1999 Sb., o svobodném přístupu k informacím, zrušuje.
-2. Žalované se nařizuje, aby poskytla informace, žádané v žádosti ze dne 6. 12. 2015, a to do 3 dnů od právní moci rozsudku.
+2. Žalované se nařizuje, aby poskytla informace, žádané v žádosti ze dne 7. 10. 2015, a to do 3 dnů od právní moci rozsudku.
 3. Žalovaná je povinna zaplatit žalobci náhradu nákladů řízení, a to do 3 dnů od právní moci rozsudku, k rukám zástupce žalobce.
 
 Žalobce souhlasí s tím, aby soud projednal věc bez nařízení jednání. 
