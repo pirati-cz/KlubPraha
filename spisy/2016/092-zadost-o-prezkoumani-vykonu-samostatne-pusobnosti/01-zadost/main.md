@@ -40,7 +40,7 @@ signature:
   - zastupitel hl. m. Prahy
 abbr:       jakub
 attachments:
-  - Stenozápis ze zastupitelstva
-  - Zápis ze zastupitelstva hl. m. Prahy
-  - Jednací řád hl. m. Prahy
+  - Stenozápis ze zasedání Zastupitelstva
+  - Zápis ze zasedání Zastupitelstva hl. m. Prahy
+  - Jednací řád Zastupitelstva hl. m. Prahy
 ...
