@@ -24,7 +24,7 @@ Vážení,
 jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – Vás zdvořile žádám podle zákona č. 106/1999 Sb,. o svobodném přístupu k informacím, o poskytnutí následujících informací:
 
 * Výši všech odměn Moniky Krobové Hášové před zdaněním, které ji byly vyplaceny za všechny funkce ve společnosti Pražská energetika a.s. od okamžiku do jejího jmenování do dozorčí rady Pražské energetiky a.s. Žádám tuto částku nikoliv souhrně, nýbrž rozepsanou na jednotlivé měsíce (v případě měsíčních odměn) a jednotlivé roky (v případě ročních odměn).
-* Informace o konrkténí činnosti Moniky Krobové Hášové v dozorčí radě Pražské energetiky a.s., tedy splněné úkoly, počet odpracovaných hodin a úkoly, které jí byly zadány. 
+* Informace o konkrténí činnosti Moniky Krobové Hášové v dozorčí radě Pražské energetiky a.s., tedy splněné úkoly, počet odpracovaných hodin a úkoly, které jí byly zadány. 
 * Právní důvod vyplacených odměn rozepsaný na každý rok, eventuálně každý měsíc, podle toho, jak byly odměny vypláceny. 
  
 Prosím o poskytnutí informace v elektronické podobě e-mailem či do datové schránky na adresu 4memzkm. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Ke komunikaci zmocňuji dále svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17, tel. 608 213 119). Předem děkuji za Vaši vstřícnost. 
