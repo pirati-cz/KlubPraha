@@ -1,42 +1,40 @@
-Zápis z jednání hodnotící komise
-===============================
+# Výběrové řízení na [krajského manažera](https://forum.pirati.cz/verejna-vyberova-rizeni-f572/vyberove-rizeni-na-krajskeho-manazera-t33050.html)
 
-**Datum jednání**:
+Datum jednání: 12. 4. 2016
 
-**Zástupce zadavatele**: Jan Loužek, zveřejňovač klubu Pirátů, předsedá jednání
+Přítomní členové hodnotící komise: Barbora Hrůzová, Lukáš Findeis, Pavel Hájek, Jan Loužek... 
 
-**Přítomní členové hodnotící komise**:
+Zástupce zadavatele: Jan Loužek, zveřejňovač klubu Pirátů, předsedá jednání
 
-**Zapisovatel**:
+Zapisovatel: Lukáš Findeis
 
-**Hosté**:
+Hosté: N/A
 
-**Program**:
+Program:
 
 * Seznámení s pravidly výběrového řízení
 * Oznámení možného střetu zájmů členů hodnotící komise
-* Hodnocení uchazečů
-* Výsledek výběrového řízení
+* Rozhodnutí o vyřazení nabídek v rozporu zadání
+* První kolo hodnocení uchazečů
+* Další postup a termín jednání
 
-**Program byl/nebyl schválen konsensem.**
+Program byl schválen konsensem.
 
 ## Seznámení s pravidly výběrového řízení
 
-Zástupce zadavatele vyzval přítomné členy hodnotící komise s [pravidly výběrového řízení][pravidla].
+Zástupce zadavatele vyzval přítomné členy hodnotící komise s pravidly výběrového řízení. 
 
-[pravidla]: ../zadani/pravidla.md
+Členové prohlašují, že jim rozumí a zavazují se podle nich postupovat.
 
-**Členové prohlašují, že jim rozumí a zavazují se podle nich postupovat.**
-
-Výhrady:
+Výhrady: Bára Hrůzová jako člen výběrové komise uvedla výhradu k pravidlům výběru kandidátů v 1. kole. 
 
 ## Oznámení možného střetu zájmů členů hodnotící komise
 
 Zástupce zadavatele vyzval přítomné členy hodnotící komise k oznámení střetu zájmů vzhledem k uchazečům či jejich známým. 
 
-**Přítomní členové hodnotící komise prohlásili, že žádná skutečnost zakládající střet zájmů jim není známa.**
+Přítomní členové hodnotící komise prohlásili, že žádná skutečnost zakládající střet zájmů jim není známa.
 
-Výhrady:
+Výhrady: žádné
 
 ## Hodnocení uchazečů
 
@@ -44,13 +42,13 @@ Podle pravidel výběrového řízení:
 
 > Nabídky zaslané opožděně či jinak v rozporu s pravidly, inzerátem, schválenými usneseními nebo jinými zveřejněnými směrodatnými dokumenty (společně jen „zadání“) budou vyřazeny. Zástupce zadavatele nebo hodnotící komise mohou vyzvat uchazeče k opravě či doplnění nabídky a osobnímu pohovoru či ověření předpokladů, pokud je to potřebné, ale nejsou k tomu povinni. Hodnotí se podle dodaných materiálů (životopis, motivační dopis, reference apod.) a informací, které má hodnotící komise k dispozici nebo které si zjistí.
 
-Zástupce zadavatele seznámil členy hodnotící komise s kompletními nabídkami. O vyřazení nabídky, která nesplňuje některé kritérium inzerátu bude rozhodnuto až hodnocením v rámci prvního kola.
+Zástupce zadavatele seznámil členy hodnotící komise s kompletními nabídkami.
 
-**Přítomní členové hodnotící komise prohlásili, že se s nabídkami seznámili a že u žádné nabídky není důvod jejího vyřazení před prvním kolem.**
+Přítomní členové hodnotící komise prohlásili, že se s nabídkami seznámili a že u žádné nabídky není důvod jejího vyřazení (s výjimkou kritérií podle inzerátu, která budou hodnocena v rámci prvního kola).
 
-Výhrady:
+Výhrady: žádné
 
-### První kolo hodnocení uchazečů
+### První kolo
 
 Podle pravidel výběrového řízení:
 
@@ -65,20 +63,24 @@ Kritéria podle inzerátu:
 5. Manuální zručnost
 6. Komunikační dovednosti, svědomitost a slušnost
 
-[program]: https://www.pirati.cz/program/start
-[forum]: https://forum.pirati.cz
-[redmine]: https://redmine.pirati.cz/
+Uchazeč \ hodnocení | 1. | 2. | 3. | 4. | 5. | 6. | Celkem
+------------------- | -- | -- | -- | -- | -- | -- | -----
+Radek Valenta       | 1  | 1  | 1  | 1  | 1  | 1  | 6
+Tobias Esener       | 1  | 1  | 1  | 1  | 1  | 1  | 6
+Pavel Majtáň        | 1  | 1  | 0  | 1  | 1  | 1  | 5
 
-Hodnotící komise hodnotila jednotlivé uchazeče v prvním kole následovně:
+Uchazeči, kteří uspěli v prvním kole výběrového řízení:
 
-Uchazeč \ hodnocení | 1.  | 2.  | 3.  | 4.  | 5.  | 6.  | Celkem
-------------------- | --- | --- | --- | --- | --- | --- | -----
-A.                  | 1   | 0   | 1   | 1   | 0   | 1   | 0
-B.                  | 1   | 1   | 1   | 1   | 1   | 1   | 1
+* Radek Valenta
+* Tobias Esner
 
-**V prvním kole výběrového řízení uspěli uchazeči: ................................ . V prvním kole výběrového řízení neuspěli uchazeči: ......................... . Úspěšní uchazeči postupují do druhého kola výběrového řízení. / Jako jediný uchazeč byl v prvním kole výběrového řízení vybrán ........................ .**  
+Uchazeči, kteří neuspěli v prvním kole výběrového řízení:
+
+* Pavel Majtáň
 
 ### Druhé kolo hodnocení uchazečů
+
+* 21.4.2016
 
 Podle pravidel výběrového řízení:
 
@@ -94,18 +96,34 @@ Kritérium | počet bodů
 4. zkušenosti s administrativou | 30
 5. práce s technickými systémy | 20
 
-Podle pravidel výběrového řízení:
-
-> Maximální počet bodů má obdržet kandidát, který zcela znamenitě splňuje předpoklady z dané oblasti.
-
-Hodnotící komise hodnotila jednotlivé uchazeče v prvním kole následovně:
-
 Uchazeč \ hodnocení |  1. |  2. |  3. |  4. |  5. | Celkem
 ------------------- | --: | --: | --: | --: | --: | ----:
 Maximum             |  10 | 30  |  20 |  30 |  20 | 110
 Minimum             |  0  |  0  |  0  |  0  |  0  |   0
+Hodnotitel 1 | --: | --: | --: | --: | --: | ----:
+Tobias Esner|10|30|15|30|20
+Radek Valenta|5|20|15|20|10
+Hodnotitel 2 | --: | --: | --: | --: | --: | ----:
+Tobias Esner|8|30|15|30|15
+Radek Valenta|5|20|10|20|10
+Hodnotitel 3 | --: | --: | --: | --: | --: | ----:
+Tobias Esner|10|25|12|30|15
+Radek Valenta|4|15|10|15|10
+Hodnotitel 4 | --: | --: | --: | --: | --: | ----:
+Tobias Esner | 3 | 30 | 15 | 30 | 15 |
+Radek Valenta | 6 | 25 | 16 | 14 | 11 |
+Hodnotitel 2 | --: | --: | --: | --: | --: | ----:
+Tobias Esner|8|30|10|30|15
+Radek Valenta|4|20|15|15|10
+**Součty** | --: | --: | --: | --: | --: | ----:
+**Tobias Esner**|**39**|**145**|**67**|**150**|**80**|**481**
+**Radek Valenta**|**24**|**100**|**66**|**84**|**51**|**325**
 
-## Výsledek výběrového řízení
+Podle pravidel výběrového řízení:
+
+> Maximální počet bodů má obdržet kandidát, který zcela znamenitě splňuje předpoklady z dané oblasti. 
+
+### Výrok hodnotící komise
 
 Podle pravidel výběrového řízení:
 
@@ -113,8 +131,19 @@ Podle pravidel výběrového řízení:
 
 Hodnotící komise se usnesla na následujícím výroku:
 
-**Přijatelné nabídky jsou 1. ........................, 2. ......................... . Nepřijatelné a vyřazené nabídky jsou .................... . Komise doporučuje uzavřít smlouvu s prvním vybraným uchazečem/Jiné doporučení.**  
+Seznam nabídek, které jsou přijatelné v pořadí podle hodnocení:
 
-Hlasování: ........... (uveďte jmenovitě)
+1. Tobias Esner
+2. Radek Valenta
+3.
 
-Zapsáno dne XYZ v Praze, zápis před zveřejněním ověřil zástupce zadavatele.
+Seznam nabídek, které nejsou přijatelné nebo které byly vyřazeny:
+
+1. Pavel Majtáň (vyřazen v 1. kole)
+2.
+3. 
+
+Doporučení k uzavření smlouvy: Komise se jednomyslně shodla, že vítěz výběrového řízení (Tobias Esner) by se měl stát Krajským manažerem tak, jak bylo avizováno v nabídce na danou pracovní pozici.
+
+Zapsáno dne 22. 4. 2016 v Praze, zápis před zveřejněním ověřil zástupce zadavatele.
+
