@@ -56,8 +56,8 @@ Podle pravidel výběrového řízení:
 
 Kritéria podle inzerátu:
 
-1. Filosofické ztotožnění se s [Pirátským programem][program]
-2. Schopnost naučit se používat [Pirátský redmine][redmine] a [Pirátské fórum][forum] a další technické systémy
+1. Filosofické ztotožnění se s [Pirátským programem](https://www.pirati.cz/program/start)
+2. Schopnost naučit se používat [Pirátský redmine](https://redmine.pirati.cz/) a [Pirátské fórum](https://forum.pirati.cz/) a další technické systémy
 3. Zkušenosti s administrativou a dobrý písemný projev 
 4. Časovou flexibilitu a schopnost rychle se dopravit do Pirátského centra 
 5. Manuální zručnost
@@ -146,4 +146,3 @@ Seznam nabídek, které nejsou přijatelné nebo které byly vyřazeny:
 Doporučení k uzavření smlouvy: Komise se jednomyslně shodla, že vítěz výběrového řízení (Tobias Esner) by se měl stát Krajským manažerem tak, jak bylo avizováno v nabídce na danou pracovní pozici.
 
 Zapsáno dne 22. 4. 2016 v Praze, zápis před zveřejněním ověřil zástupce zadavatele.
-
