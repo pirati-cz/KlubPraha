@@ -112,12 +112,9 @@ Radek Valenta|4|15|10|15|10
 Hodnotitel 4 | | | | | | 
 Tobias Esner | 3 | 30 | 15 | 30 | 15 |
 Radek Valenta | 6 | 25 | 16 | 14 | 11 |
-Hodnotitel 2 | | | | | | 
-Tobias Esner|8|30|10|30|15
-Radek Valenta|4|20|15|15|10
 **Součty** | | | | | | 
-**Tobias Esner**|**39**|**145**|**67**|**150**|**80**|**481**
-**Radek Valenta**|**24**|**100**|**66**|**84**|**51**|**325**
+**Tobias Esner**|**31**|**115**|**52**|**120**|**65**|**383**
+**Radek Valenta**|**19**|**80**|**56**|**64**|**41**|**260**
 
 Podle pravidel výběrového řízení:
 
@@ -135,12 +132,12 @@ Seznam nabídek, které jsou přijatelné v pořadí podle hodnocení:
 
 1. Tobias Esner
 2. Radek Valenta
-3.
+3. 
 
 Seznam nabídek, které nejsou přijatelné nebo které byly vyřazeny:
 
 1. Pavel Majtáň (vyřazen v 1. kole)
-2.
+2. 
 3. 
 
 Doporučení k uzavření smlouvy: Komise se jednomyslně shodla, že vítěz výběrového řízení (Tobias Esner) by se měl stát Krajským manažerem tak, jak bylo avizováno v nabídce na danou pracovní pozici.
