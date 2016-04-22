@@ -38,4 +38,8 @@ signature:
   - nar. 6. 2. 1989
   - zastupitel hl. m. Prahy
 abbr:       jakub
+attachments:
+  - Stanovisko občanského sdružení Oživení
+  - Notářský zápis NZ č. 231/2016
+  - Usnesení rady hl. m. Prahy č. 3119 ze dne 15. 12. 2015
 ...
