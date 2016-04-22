@@ -1,5 +1,5 @@
 ---
-title:      Podnět k vymáhání škody
+title:      Podnět k vymáhání škody v souvislosti s Jednotným ekonomickým systémem (JES)
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
