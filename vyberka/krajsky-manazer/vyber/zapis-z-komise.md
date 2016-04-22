@@ -64,7 +64,7 @@ Kritéria podle inzerátu:
 6. Komunikační dovednosti, svědomitost a slušnost
 
 Uchazeč \ hodnocení | 1. | 2. | 3. | 4. | 5. | 6. | Celkem
-------------------- | -- | -- | -- | -- | -- | -- | -----
+------------------- | --: | --: | --: | --: | --: | --: | -----:
 Radek Valenta       | 1  | 1  | 1  | 1  | 1  | 1  | 6
 Tobias Esener       | 1  | 1  | 1  | 1  | 1  | 1  | 6
 Pavel Majtáň        | 1  | 1  | 0  | 1  | 1  | 1  | 5
@@ -100,22 +100,22 @@ Uchazeč \ hodnocení |  1. |  2. |  3. |  4. |  5. | Celkem
 ------------------- | --: | --: | --: | --: | --: | ----:
 Maximum             |  10 | 30  |  20 |  30 |  20 | 110
 Minimum             |  0  |  0  |  0  |  0  |  0  |   0
-Hodnotitel 1 | --: | --: | --: | --: | --: | ----:
+Hodnotitel 1 | | | | | | 
 Tobias Esner|10|30|15|30|20
 Radek Valenta|5|20|15|20|10
-Hodnotitel 2 | --: | --: | --: | --: | --: | ----:
+Hodnotitel 2 | | | | | | 
 Tobias Esner|8|30|15|30|15
 Radek Valenta|5|20|10|20|10
-Hodnotitel 3 | --: | --: | --: | --: | --: | ----:
+Hodnotitel 3 | | | | | | 
 Tobias Esner|10|25|12|30|15
 Radek Valenta|4|15|10|15|10
-Hodnotitel 4 | --: | --: | --: | --: | --: | ----:
+Hodnotitel 4 | | | | | | 
 Tobias Esner | 3 | 30 | 15 | 30 | 15 |
 Radek Valenta | 6 | 25 | 16 | 14 | 11 |
-Hodnotitel 2 | --: | --: | --: | --: | --: | ----:
+Hodnotitel 2 | | | | | | 
 Tobias Esner|8|30|10|30|15
 Radek Valenta|4|20|15|15|10
-**Součty** | --: | --: | --: | --: | --: | ----:
+**Součty** | | | | | | 
 **Tobias Esner**|**39**|**145**|**67**|**150**|**80**|**481**
 **Radek Valenta**|**24**|**100**|**66**|**84**|**51**|**325**
 
