@@ -112,7 +112,7 @@ Radek Valenta|4|15|10|15|10
 Hodnotitel 4 | | | | | | 
 Tobias Esner | 3 | 30 | 15 | 30 | 15 |
 Radek Valenta | 6 | 25 | 16 | 14 | 11 |
-Hodnotitel 2 | | | | | | 
+Hodnotitel 5 | | | | | | 
 Tobias Esner|8|30|10|30|15
 Radek Valenta|4|20|15|15|10
 **Součty** | | | | | | 
