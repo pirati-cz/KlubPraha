@@ -9,7 +9,7 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha 94/2016
 your:
-   role:    Povinný subjekt
+   role:    
    name:    
       -     Rada hlavního města Prahy
    address:
