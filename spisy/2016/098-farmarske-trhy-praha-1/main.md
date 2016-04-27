@@ -7,7 +7,7 @@ author:
    mail:    adam.zabransky@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    ZK Pha 69/2016
+   sign:    ZK Pha 98/2016
 your:
    role:    Povinný subjekt
    name:    
@@ -21,10 +21,10 @@ style:      letter
 
 Vážení,
 
-jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – Vás tímto zdvořile žádám v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím, a § 51 zákona č. 131/2000 Sb., o hlavním městě Praze, o následující informace:
+jako fyzická osoba Vás tímto zdvořile žádám v souladu se zákonem č. 106/1999 Sb, o svobodném přístupu k informacím o následující informace:
 
 1. Seznam všech míst, kde jsou na území Městské části Praha 1 provozovány farmářské trhy podle smlouvy, uzavřené mezi MČ Praha 1 a provozovatelem.
-2. Všechny smlouvy, které Městská část Praha 1 uzavřela na pořádání jednotlivých farmářských trhů, za období posledního 1 roku. Žádám úplné znění těchto smluv, včetně dodatků.
+2. Všechny aktuálně platné smlouvy, které Městská část Praha 1 kdy uzavřela na pořádání jednotlivých farmářských trhů. Žádám úplné znění těchto smluv, včetně dodatků.
 
 Prosím o poskytnutí informace v elektronické podobě do datové schránky, případně na e-mail. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
 
