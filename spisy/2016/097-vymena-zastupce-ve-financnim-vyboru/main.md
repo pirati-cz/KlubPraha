@@ -1,10 +1,10 @@
 ---
 title:      Nominace Ladislava Kose do Finančního výboru ZHMP
 author:
-   name:    Jakub Michálek
-   phone:   +420 608 213 119
+   name:    Ondřej Profant
+   phone:   +420 607 580 015
    ds:      
-   mail:    jakub.michalek@praha.eu
+   mail:    ondrej.profant@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha 97/2016
@@ -22,7 +22,7 @@ Vážení,
 
 dovoluji si vás informovat, že náš zástupce ve Finančním výboru, Viktor Mahrik, v dohledné době změní své bydliště a nebude již proto občanem Hlavního města Prahy. Proto již nebude moci vykonávat svoji funkci člena Finančního výboru ZHMP a na jeho místo bude muset nastoupit nový člen. 
 
-V souvislosti s tím se náš zastupitelský klub usnesl, že na místo, které bude uvolněno, bude nominovat Ladislava Kose, bývalého místostarostu městské části Praha 11.
+V souvislosti s tím se náš zastupitelský klub usnesl, že na místo, které bude uvolněno, bude nominovat Ing. Ladislava Kose, bývalého místostarostu městské části Praha 11.
 
 Ladislav Kos (jehož životopis přikládám), je zakládajícím členem Hnutí pro Prahu 11, které v komunálních volbách podpořila Pirátská strana. Jako místostarosta měl Kos na městské části na starost mimo jiné i problematiku financí. Má bohaté zkušenosti v ekonomické oblasti a dlouhou dobu působil jako živnostník. Proto se domnívám, že bude důstojným náhradníkem Viktora Mahrika, který se pravidelně účastnil jednání finančního výboru od doby svého jmenování do funkce před dvěmi lety až doteď. 
 
@@ -32,9 +32,8 @@ S pozdravem
 
 ---
 signature: 
-  - Mgr. Bc. Jakub Michálek
-  - nar. 6. 2. 1989
+  - Ondřej Profant
   - zastupitel hl. m. Prahy
-  - předseda zast. klubu Pirátů
-abbr:       jakub
+  - místopředseda zast. klubu Pirátů
+abbr:       ondra
 ...
