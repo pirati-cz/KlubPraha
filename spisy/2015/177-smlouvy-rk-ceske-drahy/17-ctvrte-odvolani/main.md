@@ -1,4 +1,4 @@
-﻿---
+---
 title:      Odvolání proti odmítnutí žádosti o informace
 author:
    name:    Adam Zábranský
@@ -33,9 +33,9 @@ Na základě mého odvolání nadřazený správní orgán (ředitel společnost
 
 Povinný subjekt žádným způsobem nezohlednil důvody, které jsem uvedl ve svém odvolání ze dne 3. 3. 2016, stejně jako i v odvoláních dřívějších. V oblasti ochrany osobních údajů musím i nadále odkázat na své předchozí odvolání ze dne 4. 11. 2015. Opakuji, že Ústavní soud již v roce 2004 v nálezu Pl.ÚS 38/02 uvedl, že údaje o podnikatelské činnosti fyzických osob nespadají pod režim zákona o ochraně osobních údajů. Navíc úvaha povinného subjektu o absolutní přednosti práva na ochranu osobnosti nad právem na informace je mylná, jak je zřejmé ze znění Listiny základních práv a svobod, zákona o svobodném přístupu k informacím, zákona o ochraně osobních údajů i z četné judikatury Ústavního soudu, případně Nejvyššího správního soudu.
 
-Z výše uvedených důvodů podávám proti rozhodnutí odvolání v souladu § 16 InfZ. Požaduji, aby nadřízený správní orgán napadené rozhodnutí zrušil a nařídil povinnému subjektu mi požadované informace poskytnout, popř. mi je sám poskytl.
+Z výše uvedených důvodů podávám proti rozhodnutí odvolání v souladu § 16 InfZ. Požaduji, aby nadřízený správní orgán napadené rozhodnutí zrušil a informace mi poskytl. Jestliže opět pouze zruší rozhodnutí a nařídí nové vyřízení tak, jak to už udělal třikrát, budu to považovat za pokračování v obstrukčním jednání.
 
-Prosím o poskytnutí informace v elektronické podobě e-mailem. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost. 
+Vyžaduji poskytnutí informace v elektronické podobě e-mailem. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost. 
 
 S pozdravem
 
