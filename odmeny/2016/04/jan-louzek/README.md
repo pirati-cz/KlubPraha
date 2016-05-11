@@ -1,7 +1,7 @@
 ---
 osoba:                Jan Loužek
 období:               2016-04
-počet pracovních dnů: 21
+počet pracovních dnů: 20
 user_id:              46
 ---
 Česká pirátská strana  
@@ -44,8 +44,8 @@ Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 **A. Práce pro město**                 | [148.72][linktocityhours]
 **Celkový počet hodin**                | 148.72
-Dohodnutý rozsah práce                 | 168.00
-**Procento vytížení**                  | 88
+Dohodnutý rozsah práce                 | 160.00
+**Procento vytížení**                  | 92
 
 Grafické znázornění [odpracované doby dle aktivity][activitylist]:
 

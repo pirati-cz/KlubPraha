@@ -1,7 +1,7 @@
 ---
 osoba:                Ondřej Profant
 období:               2016-04
-počet pracovních dnů: 21
+počet pracovních dnů: 20
 user_id:              3
 ---
 Česká pirátská strana  
@@ -51,8 +51,8 @@ Rozsah činnosti                        | Počet hodin
 B.1 v projektu zastupitelstva          | [85.60][linktohomehours]
 B.2 v ostatních projektech             | [8.70][linktootherhours]
 **Celkový počet hodin**                | 109.90
-Dohodnutý rozsah práce                 | 126.00
-**Procento vytížení**                  | 87
+Dohodnutý rozsah práce                 | 120.00
+**Procento vytížení**                  | 91
 
 Grafické znázornění [odpracované doby dle aktivity][activitylist]:
 
@@ -72,16 +72,16 @@ Zdroj příjmu                           | Výše příjmu (Kč)
 *z toho*                               |
 A.1 paušální odměna                    | 5486
 A.2 náhrada výdělku                    | 7020
-**B. Peníze od strany**                | 12117
+**B. Peníze od strany**                | 9507
 *z toho*                               |
-B.1 pevná složka odměny                | 6361
-B.2 variabilní složka odměny           | 5756
+B.1 pevná složka odměny                | 6679
+B.2 variabilní složka odměny           | 2828
 *z toho*                               |
-B.2.1 odměna za dodržení rozsahu práce | 756
+B.2.1 odměna za dodržení rozsahu práce | 828
 B.2.2 odměna za přesčasy               | 0
-B.2.3 odměna za významné splněné úkoly | 5000
+B.2.3 odměna za významné splněné úkoly | 2000
 B.2.4 odpočet za výhrady               | 0
-**Celkový měsíční příjem**             | 24623
+**Celkový měsíční příjem**             | 22013
 
 Částky jsou uváděny vždy v hrubé výši, přičemž z paušální odměny odvádí město zálohu na daň z příjmu a zdravotní pojištění. Je dále odpovědností každého zastupitele, aby příjem zdanil a zaplatil zákonné pojištění.
 

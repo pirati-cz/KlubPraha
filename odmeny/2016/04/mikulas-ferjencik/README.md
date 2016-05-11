@@ -1,7 +1,7 @@
 ---
 osoba:                Mikuláš Ferjenčík
 období:               2016-04
-počet pracovních dnů: 21
+počet pracovních dnů: 20
 user_id:              17
 ---
 Česká pirátská strana  
@@ -44,8 +44,8 @@ Rozsah činnosti                        | Počet hodin
 B.1 v projektu zastupitelstva          | [34.30][linktohomehours]
 B.2 v ostatních projektech             | [0.00][linktootherhours]
 **Celkový počet hodin**                | 48.55
-Dohodnutý rozsah práce                 | 126.00
-**Procento vytížení**                  | 38
+Dohodnutý rozsah práce                 | 120.00
+**Procento vytížení**                  | 40
 
 Grafické znázornění [odpracované doby dle aktivity][activitylist]:
 
@@ -65,16 +65,16 @@ Zdroj příjmu                           | Výše příjmu (Kč)
 *z toho*                               |
 A.1 paušální odměna                    | 5486
 A.2 náhrada výdělku                    | 6412
-**B. Peníze od strany**                | 2457
+**B. Peníze od strany**                | 2889
 *z toho*                               |
-B.1 pevná složka odměny                | 2313
-B.2 variabilní složka odměny           | 144
+B.1 pevná složka odměny                | 2429
+B.2 variabilní složka odměny           | 460
 *z toho*                               |
-B.2.1 odměna za dodržení rozsahu práce | 144
+B.2.1 odměna za dodržení rozsahu práce | 160
 B.2.2 odměna za přesčasy               | 0
-B.2.3 odměna za významné splněné úkoly | 0
+B.2.3 odměna za významné splněné úkoly | 300
 B.2.4 odpočet za výhrady               | 0
-**Celkový měsíční příjem**             | 14355
+**Celkový měsíční příjem**             | 14787
 
 Částky jsou uváděny vždy v hrubé výši, přičemž z paušální odměny odvádí město zálohu na daň z příjmu a zdravotní pojištění. Je dále odpovědností každého zastupitele, aby příjem zdanil a zaplatil zákonné pojištění.
 

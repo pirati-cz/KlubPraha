@@ -1,7 +1,7 @@
 ---
 osoba:                Jakub Michálek
 období:               2016-04
-počet pracovních dnů: 21
+počet pracovních dnů: 20
 user_id:              4
 ---
 Česká pirátská strana  
@@ -43,8 +43,8 @@ Rozsah činnosti                        | Počet hodin
 B.1 v projektu zastupitelstva          | [46.25][linktohomehours]
 B.2 v ostatních projektech             | [6.15][linktootherhours]
 **Celkový počet hodin**                | 65.40
-Dohodnutý rozsah práce                 | 126.00
-**Procento vytížení**                  | 51
+Dohodnutý rozsah práce                 | 120.00
+**Procento vytížení**                  | 54
 
 Grafické znázornění [odpracované doby dle aktivity][activitylist]:
 
@@ -64,16 +64,16 @@ Zdroj příjmu                           | Výše příjmu (Kč)
 *z toho*                               |
 A.1 paušální odměna                    | 5486
 A.2 náhrada výdělku                    | 5850
-**B. Peníze od strany**                | 4794
+**B. Peníze od strany**                | 4302
 *z toho*                               |
-B.1 pevná složka odměny                | 3534
-B.2 variabilní složka odměny           | 1260
+B.1 pevná složka odměny                | 3711
+B.2 variabilní složka odměny           | 591
 *z toho*                               |
-B.2.1 odměna za dodržení rozsahu práce | 260
+B.2.1 odměna za dodržení rozsahu práce | 291
 B.2.2 odměna za přesčasy               | 0
-B.2.3 odměna za významné splněné úkoly | 1000	
+B.2.3 odměna za významné splněné úkoly | 300
 B.2.4 odpočet za výhrady               | 0
-**Celkový měsíční příjem**             | 16130
+**Celkový měsíční příjem**             | 15638
 
 Částky jsou uváděny vždy v hrubé výši, přičemž z paušální odměny odvádí město zálohu na daň z příjmu a zdravotní pojištění. Je dále odpovědností každého zastupitele, aby příjem zdanil a zaplatil zákonné pojištění.
 
