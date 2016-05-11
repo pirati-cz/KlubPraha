@@ -1,7 +1,7 @@
 ---
 osoba:                Adam Zábranský
 období:               2016-04
-počet pracovních dnů: 21
+počet pracovních dnů: 20
 user_id:              16
 ---
 Česká pirátská strana  
@@ -50,8 +50,8 @@ Rozsah činnosti                        | Počet hodin
 B.1 v projektu zastupitelstva          | [68.30][linktohomehours]
 B.2 v ostatních projektech             | [0.00][linktootherhours]
 **Celkový počet hodin**                | 83.65
-Dohodnutý rozsah práce                 | 126.00
-**Procento vytížení**                  | 66
+Dohodnutý rozsah práce                 | 120.00
+**Procento vytížení**                  | 69
 
 Grafické znázornění [odpracované doby dle aktivity][activitylist]:
 
@@ -71,16 +71,16 @@ Zdroj příjmu                           | Výše příjmu (Kč)
 *z toho*                               |
 A.1 paušální odměna                    | 5486
 A.2 náhrada výdělku                    | 6907
-**B. Peníze od strany**                | 8042
+**B. Peníze od strany**                | 6313
 *z toho*                               |
-B.1 pevná složka odměny                | 4607
-B.2 variabilní složka odměny           | 3435
+B.1 pevná složka odměny                | 4837
+B.2 variabilní složka odměny           | 1476
 *z toho*                               |
-B.2.1 odměna za dodržení rozsahu práce | 435
+B.2.1 odměna za dodržení rozsahu práce | 476
 B.2.2 odměna za přesčasy               | 0
-B.2.3 odměna za významné splněné úkoly | 3000
+B.2.3 odměna za významné splněné úkoly | 1000
 B.2.4 odpočet za výhrady               | 0
-**Celkový měsíční příjem**             | 20435
+**Celkový měsíční příjem**             | 18706
 
 Částky jsou uváděny vždy v hrubé výši, přičemž z paušální odměny odvádí město zálohu na daň z příjmu a zdravotní pojištění. Je dále odpovědností každého zastupitele, aby příjem zdanil a zaplatil zákonné pojištění.
 

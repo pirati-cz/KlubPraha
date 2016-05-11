@@ -1,7 +1,7 @@
 ---
 osoba:                Michaela Krausová
 období:               2016-04
-počet pracovních dnů: 21
+počet pracovních dnů: 20
 user_id:              7
 ---
 Česká pirátská strana  
@@ -42,8 +42,8 @@ Rozsah činnosti                        | Počet hodin
 B.1 v projektu krajského sdružení Praha| [28.70][linktohomehours]
 B.2 v ostatních projektech             | [57.55][linktootherhours]
 **Celkový počet hodin**                | 86.25
-Dohodnutý rozsah práce                 | 84.00
-**Procento vytížení**                  | 102
+Dohodnutý rozsah práce                 | 80.00
+**Procento vytížení**                  | 107
 
 Grafické znázornění [odpracované doby dle aktivity][activitylist]:
 
@@ -59,16 +59,16 @@ Dodavatel má na základě [smlouvy][smlouva] s Českou pirátskou stranou práv
 
 Zdroj příjmu                           | Výše příjmu (Kč)
 -----------------                      | --------------:
-**B. Peníze od strany**                | TMPPARTYMONEY
+**B. Peníze od strany**                | 10000
 *z toho*                               |
 B.1 pevná složka odměny                | 6000
-B.2 variabilní složka odměny           | TMPVARMONEY
+B.2 variabilní složka odměny           | 4000
 *z toho*                               |
 B.2.1 odměna za dodržení rozsahu práce | 800
-B.2.2 odměna za přesčasy               | 160
-B.2.3 odměna za významné splněné úkoly | TMPTASKSMONEY
-B.2.4 odpočet za výhrady               | TMPSANCTIONS
-**Celkový měsíční příjem**             | TMPTOTALMONEY
+B.2.2 odměna za přesčasy               | 468
+B.2.3 odměna za významné splněné úkoly | 2732
+B.2.4 odpočet za výhrady               | 0
+**Celkový měsíční příjem**             | 10000
 
 Částky jsou uváděny vždy v hrubé výši. Je odpovědností každého dodavatele, aby příjem zdanil a zaplatil zákonné pojištění.
 
