@@ -30,7 +30,7 @@ obsahové zaměření:
 :   noviny politické strany
 
 četnost vydávání:
-:   příležitostně
+:   2x ročně.
 
 údaje o regionálních mutacích:
 :   organizační jednotky strany mohou vydávat také krajské a místní mutace
