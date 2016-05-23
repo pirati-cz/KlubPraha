@@ -21,7 +21,7 @@ style:      letter
 
 Vážení,
 
-podávám tímto trestní oznámení na na neznámou úřední osobu podle § 329-330 zákona č. 40/2009 Sb., trestního zákoníku. 
+podávám tímto trestní oznámení na neznámou úřední osobu podle § 329-330 zákona č. 40/2009 Sb., trestního zákoníku. 
 
 ## Kdo se trestného činu dopustil?
 
