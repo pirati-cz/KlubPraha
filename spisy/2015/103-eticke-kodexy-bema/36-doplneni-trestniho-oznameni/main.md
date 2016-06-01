@@ -23,7 +23,7 @@ style:      letter
 
 Vážený pane vrchní komisaři, 
 
-posílám všechny písemné materiály, o které jste mne požádal dne 30. 5. 2016 v souvislosti s podaným trestním oznámením. Poslední z přiložených dokumentů je rozhodnutí povinného subjektu ze dne 26. 2. 2016, které uvádí jako možnou podezřelou osobu sekretářku Kontrolního výboru Alenu Šenkýřovou.
+posílám všechny písemné materiály, o které jste mě požádal dne 30. 5. 2016 v souvislosti s podaným trestním oznámením. Poslední z přiložených dokumentů je rozhodnutí povinného subjektu ze dne 26. 2. 2016, které uvádí jako možnou podezřelou osobu sekretářku Kontrolního výboru Alenu Šenkýřovou.
 
 Rovněž uvádím, že celý spis, který se této záležitosti týká (vedený pod spisovou značkou Zk Pha 103/2015) je k dispozici i v naší veřejné spisové službě a nachází se na této adrese: [https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/103-eticke-kodexy-bema](https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/103-eticke-kodexy-bema)
 

@@ -14,7 +14,7 @@ your:
    address:
       -     Ovocný trh 587/14
       -     11000 Praha 1 – Staré Město
-   ds:      mrfdq3m
+   ds:      pd3ab3a
    sign:    Sp. zn. 34 E 3/2016
 sendby:     ds
 style:      letter
