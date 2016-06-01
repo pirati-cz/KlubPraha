@@ -31,8 +31,9 @@ zástupce:  Mgr. Filip Hajný, advokát, ev. č. ČAK 14269, se sídlem Moskevsk
 1. Plná moc
 2. Žádost o informace ze dne 3. 3. 2016
 3. Přípis žalované ze dne 9. 3. 2016
-4. Žádost na opatření proti nečinnosti ze dne 12. 4. 2016
-5. Přípis žalované ze dne 27. 4. 2016
+4. Odvolání žalobce ze dne 24. 3. 2016
+5. Žádost na opatření proti nečinnosti ze dne 12. 4. 2016
+6. Přípis žalované ze dne 27. 4. 2016
 
 ### Předmět řízení a dosavadní průběh řízení
 
