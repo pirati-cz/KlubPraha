@@ -28,7 +28,7 @@ zástupce:  Mgr. Filip Hajný, advokát, ev. č. ČAK 14269, se sídlem Moskevsk
 **Přílohy:**
 
 1. Plná moc
-2. Žádost žalobce ze dne ???
+2. Žádost žalobce ze dne 28. 10. 2015
 3. Rozhodnutí Městské části Praha 10 ze dne 9. 11. 2015 
 4. Odvolání žalobce ze dne 24. 11. 2015
 5. Zrušující rozhodnutí žalované ze dne 15. 12. 2015
