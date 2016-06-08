@@ -3,7 +3,7 @@ title:      Žádost o informace
 author:
    name:    Ondřej Profant
    phone:   +420 607 580 015
-   ds:      
+   ds:      d25rp6p
    mail:    ondrej.profant@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
@@ -15,7 +15,7 @@ your:
    address:
       -     Mariánské náměstí 2
       -     110 00 Praha 1
-sendby:     mail
+sendby:     ds
 style:      letter
 ---
 
