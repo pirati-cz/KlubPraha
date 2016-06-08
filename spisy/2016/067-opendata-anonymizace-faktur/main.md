@@ -26,12 +26,13 @@ v rámci realizace projektu celopražských otevřených dat[^1] zvažujeme jak 
 
 Šlo by o to, že data by se přímo vyexportovala z ekonomického systému. Seznam by byl automaticky roztříděn, tak aby byla co nejjednodušší kontrola ochrany osobních údajů. Přesná pravidla třídění by se připravila v rámci projektu, pokud by bylo rozhodnuto o jeho realizaci. V této věci vás prosím o vyjádření:
 
-1. Využili byste takový software?
+1. Využili byste takový software? Vám by nevznikaly žádné náklady, jelikož aplikace by nejspíše byla webová.
 2. Jste ochotni se zapojit do přípravy obdobného software? To znamená, že bychom s vaším koordinátorem a dalšími zapojenými zaměstnanci úzce spolupracovali.
+3. Jako další okruhy nás napadl seznam smluv a organizační struktura. Měli byste zájem i o ně? Jaký software používáte pro příslušnou evidenci?
 
 V případě zapojení bychom potřebovali pouze součinost z vaší strany, nepředpokládáme žádné finanční nároky na vaší MČ.
 
-[^1]: Schválený...
+[^1]: Schválený komisi ICT RHMP dne 16. 5. 2015.
 
 S pozdravem
 
