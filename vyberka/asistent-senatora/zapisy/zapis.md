@@ -120,12 +120,10 @@ Seznam nabídek, které jsou přijatelné v pořadí podle hodnocení:
 
 1. Vít Šimral
 2. Jan Svoboda
-3.
 
 Seznam nabídek, které nejsou přijatelné nebo které byly vyřazeny:
 
 1. Jiří Rys
-2.
 
 Doporučení k uzavření smlouvy: 
 
