@@ -73,12 +73,11 @@ C. Vít Šimral       | 1  | 1  | 1  | 1  | 1  | 1  | 1
 
 Uchazeči, kteří uspěli v prvním kole výběrového řízení:
 
-* Jiří Rys, Jan Svoboda, Vít Šimral
+* Jan Svoboda, Vít Šimral
 
 Uchazeči, kteří neuspěli v prvním kole výběrového řízení:
 
-*
-*
+* Jiří Rys
 
 ### Druhé kolo hodnocení uchazečů
 
