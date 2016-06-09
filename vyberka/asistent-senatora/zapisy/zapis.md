@@ -67,7 +67,7 @@ Kritéria podle inzerátu:
 
 Uchazeč \ hodnocení | 1. | 2. | 3. | 4. | 5. | 6. | Celkem
 ------------------- | --: | --: | --: | --: | --: | --: | -----:
-A. Jiří Rys         | 0  | 1  | 0  | 1  | 1  | 1  | 1
+A. Jiří Rys         | 0  | 1  | 0  | 1  | 1  | 1  | 0
 B. Jan Svoboda	    | 1  | 1  | 1  | 1  | 1  | 1  | 1
 C. Vít Šimral       | 1  | 1  | 1  | 1  | 1  | 1  | 1
 
