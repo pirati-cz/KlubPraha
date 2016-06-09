@@ -66,7 +66,7 @@ Kritéria podle inzerátu:
 6. znalost angličtiny 
 
 Uchazeč \ hodnocení | 1. | 2. | 3. | 4. | 5. | 6. | Celkem
-------------------- | -- | -- | -- | -- | -- | -- | -----
+------------------- | --: | --: | --: | --: | --: | --: | -----:
 A. Jiří Rys         | 0  | 1  | 0  | 1  | 1  | 1  | 1
 B. Jan Svoboda	    | 1  | 1  | 1  | 1  | 1  | 1  | 1
 C. Vít Šimral       | 1  | 1  | 1  | 1  | 1  | 1  | 1
@@ -127,7 +127,6 @@ Seznam nabídek, které nejsou přijatelné nebo které byly vyřazeny:
 
 1. Jiří Rys
 2.
-3. 
 
 Doporučení k uzavření smlouvy: 
 
