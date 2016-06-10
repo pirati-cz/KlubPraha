@@ -18,7 +18,7 @@ sendby:     ds
 style:      letter
 ---
 
-## Správní žaloba
+## Žaloba proti rozhodnutí správního orgánu
 
 **Žalobce:**   Jakub Michálek, narozen 9. 2. 1989, bytem Zenklova 193, Praha 8
 
