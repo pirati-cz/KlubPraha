@@ -14,12 +14,13 @@ your:
    address:
       -     Na Hroudě 19
       -     100 05 Praha 10
+   note:    k rukám Ing. Pavla Elise, MBA, generálního ředitele
    ds:      
 sendby:     ds
 style:      letter
 ---
 
-Vážení,
+Vážený pane generální řediteli,
 
 dne 9. 5. 2016 jsem Vás jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – zdvořile požádal podle zákona č. 106/1999 Sb,. o svobodném přístupu k informacím, o poskytnutí všech aktuálně platných akcionářských smluv, jejichž jednou ze zúčastněných stran je Pražská energetika a.s.
 
