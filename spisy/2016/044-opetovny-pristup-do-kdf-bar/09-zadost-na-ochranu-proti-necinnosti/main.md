@@ -1,5 +1,5 @@
 ---
-title:      Žádost na ochranu proti nečinnosti
+title:      Žádost na uplatnění ochrany proti nečinnosti
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
