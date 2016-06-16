@@ -39,7 +39,7 @@ Komentář: Podmínky jsou to vesměs rozumné. Některé jsou směšné a nevym
 
 ## Stavební povolení
 
-11.4.2016 (!!) bylo prodloužené stavební povolení na "stavbu multifunkčního domu" (původně Delvita), původní staveb. povolení z r. 2001 (!!) (viz příloha 11)
+11.4.2016 (!!) bylo prodloužené [stavební povolení](dokumenty/stavebni-povoleni_do_11.4.2018.pdf) na "stavbu multifunkčního domu" (původně Delvita), původní staveb. povolení z r. 2001 (!!)
 
 
 ## Politicky
