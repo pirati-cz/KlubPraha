@@ -1,5 +1,5 @@
 ---
-"Funkcionář":        Mgr. Bc. Jakub Michálek
+"Funkcionář":        Mgr. Jakub Michálek
 "Datum narození":    6. 2. 1989
 "E-mail":            jakub.michalek@pirati.cz
 "Politická strana":  Česká pirátská strana
@@ -22,8 +22,8 @@ Aktuální informace o stavu jmění
 | Popis věci            | Odhad hodnoty |  Převažující zdroj                  |
 | --------------------- | ------------: |  ---------------------- |
 | Bankovní účet u FIO banky, a. s. - spořící | 135 000 Kč | zůstatek ze stavebního spoření, úspory |
-| Bankovní účet u FIO banky, a. s. - běžný osobní | 24 000 Kč | běžný příjem (viz níže) |
-| Bankovní účet u FIO banky, a. s. - společný s partnerkou | 9 000 Kč | pravidelný odvod z běžného osobního účtu |
+| Bankovní účet u FIO banky, a. s. - běžný osobní | 33 000 Kč | běžný příjem (viz níže) |
+| Bankovní účet u FIO banky, a. s. - společný s partnerkou | 5 000 Kč | pravidelný odvod z běžného osobního účtu |
 | Pohledávka z půjčky Mikuláši Ferjenčíkovi |  6 000 Kč | peníze na bankovním účtu |
 | Keyboard |  20 000 Kč | z poloviny dar od rodičů, z druhé poloviny z vlastních úspor |
 | Nábytek | 5 000 Kč | dar z rodiny |
