@@ -23,9 +23,9 @@ Následující seznam obsahuje přehled o veškerém majetku výše uvedeného f
 | --------------------- | ------------: |  ---------------------- |
 | Bankovní účet u České spořitelny | ~ 100 000 Kč | úspory |
 | Stavební spoření      | 135 000 Kč | dar od rodičů |
-| Notebook (2ks)        |  20 000 Kč | úspory, dar od rodičů |
-| Nábytek               |  15 000 Kč | úspory, dar z rodiny |
-| Mobilní telefon       |   3 000 Kč | vlastní úspory |
+| Notebook (2ks)        |  15 000 Kč | úspory, dar od rodičů |
+| Nábytek               |  14 000 Kč | úspory, dar z rodiny |
+| Mobilní telefon       |   2 000 Kč | vlastní úspory |
 | Počítač. hry ve službě Steam cca 300 ks (mnoho kupováno v balicích či jiných slevách)| 2000-6000 Kč | úspory |
 
 ### Dluhy
