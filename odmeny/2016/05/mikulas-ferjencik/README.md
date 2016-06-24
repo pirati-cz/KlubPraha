@@ -64,7 +64,7 @@ Zdroj příjmu                           | Výše příjmu (Kč)
 *z toho*                               |
 A.1 paušální odměna                    | 5486
 A.2 náhrada výdělku                    | 2700
-**B. Peníze od strany**                | TMPPARTYMONEY
+**B. Peníze od strany**                | 3530
 *z toho*                               |
 B.1 pevná složka odměny                | 2886
 B.2 variabilní složka odměny           | 644
