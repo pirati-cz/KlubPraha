@@ -72,11 +72,11 @@ A.2 náhrada výdělku                    | 5175
 **B. Peníze od strany**                | TMPPARTYMONEY
 *z toho*                               |
 B.1 pevná složka odměny                | 6278
-B.2 variabilní složka odměny           | TMPVARMONEY
+B.2 variabilní složka odměny           | 1872
 *z toho*                               |
 B.2.1 odměna za dodržení rozsahu práce | 672
 B.2.2 odměna za přesčasy               | 0
-B.2.3 odměna za významné splněné úkoly | TMPTASKSMONEY
+B.2.3 odměna za významné splněné úkoly | 1200
 B.2.4 odpočet za výhrady               | TMPSANCTIONS
 **Celkový měsíční příjem**             | TMPTOTALMONEY
 
