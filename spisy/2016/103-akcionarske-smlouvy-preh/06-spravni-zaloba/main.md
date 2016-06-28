@@ -1,5 +1,5 @@
 ---
-title:      --
+title:      Žaloba proti rozhodnutí správního orgánu
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
@@ -18,19 +18,21 @@ sendby:     ds
 style:      letter
 ---
 
-## Žaloba proti rozhodnutí správního orgánu
-
-**Žalobce:**   Jakub Michálek, narozen 9. 2. 1989, bytem Zenklova 193, Praha 8
+**Žalobce:**   Jakub Michálek, narozen 9. 2. 1989, bytem Zenklova 193, Praha 8, 180 00
 
 zástupce:  Mgr. Filip Hajný, advokát, ev. č. ČAK 14269, se sídlem Moskevská 532/60, 101 00 Praha 10 - Vršovice
 
-**Žalovaná:**  
+**Žalovaná:**  Pražská teplárenská Holding a.s., se sídlem Partyzánská 1, Praha 7, 170 00
 
 **Přílohy:**
 
 1. Plná moc
-2. Žádost žalobce ze dne 
-3. 
+2. Žádost žalobce ze dne 9. května 2016 
+3. Přípis žalované ze dne 20. května 2016
+4. Odvolání žalobce ze dne 10. června 2016
+5. Přípis žalované ze dne 27. června 2016
+
+\newpage
 
 ### Předmět řízení a dosavadní průběh řízení
 
@@ -55,5 +57,6 @@ Z výše uvedených důvodů žalobce navrhuje, aby soud vydal následující ro
 ---
 signature:
   - Mgr. et Mgr. Jakub Michálek
+  - Zenklova 193, Praha 8
 abbr:       jakub
 ...
