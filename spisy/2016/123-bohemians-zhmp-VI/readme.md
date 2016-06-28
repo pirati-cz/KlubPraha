@@ -5,6 +5,26 @@
 - koupě stadionu schválena 31. 3. 2016 jako [Z-4057](dokumenty/ZHMP-4057.pdf)
 - Praha 10 reagovalo [memorandem](dokumenty/memorandum-p10-1121-1.docx)
 
+## Časová osa
+
+|||
+|------------:|--------------------------------------------------------------------|
+| 26. 6. 2001 | P10 uděluje stavební povolení na Integrovaný a bytový dům Delvita |
+|  1. 2. 2005 | Konkurs FC Bohemians Praha, a.s vlastněným Michalem Vejsadou, dluh 40 M Kč |
+|  3. 2. 2005 | Vzniká iniciativa S.O.S. klokan |
+| 21. 3. 2005 | S.O.S. klokan => Družstvo fanoušků Bohemians (DFB), prostřednictvím tohoto spolku klub vybere dost na finančních prostředků na záchranu |
+| 28. 5. 2009 | Úřad průmyslového vlastnictví uděluje práva Bohemians 1905 |
+|  ?. ?. 2011 | Znalecký odhad oceňuje stadion na 85 000 000 Kč |
+| 25. 6. 2014 | P10 schvaluje směnu |
+| 2. 10. 2014 | P10: zastupitelstvo schválilo směnu (8 dní před volbama) |
+| ?. 10. 2014 | P10 podepisuje smlouvu s Bohemians Real o směně a doplatku ze strany MČ | 
+| 15. 9. 2015 | 1. majetkový výbor ZHMP s bodem ohledně Bohemians |
+| 18. 2. 2016 | 2. majetkový výbor ZHMP s bidem oheldně Bohemians |
+| 31. 3. 2016 | ZHMP schvaluje koupi za 121 M Kč s podmínkami |
+| 11. 4. 2016 | Prodloužení stavebního povolení o 24 měsíců |
+| 24. 5. 2016 | Memorandum P10 k odsvěření pozemku |
+| 16. 6. 2016 | Piráti na ZHMP navrhují urychlené schválení memoranda P10 |
+| 27. 6. 2016 | Ekospol projevuje zájem |
 
 ## Návrh na ZHMP 16. 6.
 
@@ -46,8 +66,23 @@ Komentář: Podmínky jsou to vesměs rozumné. Některé jsou směšné a nevym
 
 stejní lidé, kteří hlasovali 25.6. 2014 pro směnu (a tedy odevzdání pozemku developerovi, bez podmínek), nyní podmínky kladu magistrátu: Novák, Nováková, Vondráková (ČSSD), Zoufalík (NPPD-HPLD-HChKRDTN), Hejl, Jirásková (ODS), Čunátová (KSČ), Cabrnochová (SZ)
 
+### Bohumil Zoufalík
+V roce 2013 starosta P10 jako nezavislý, ex ODS
+
+### Pro směnu
+
+Ivana Cabrnochová, Jana Čunátová, Jan Florián, Martin Hejl, Karel Hošek, Markéta Jirásková, Vladislav Lipovský, Michal Neubauer, Vladimír Novák, Hana Nováková, Hana Nováková, Aleš Polanecký, Miroslav Svoboda, Boris Šťastný, Vanda Švecová, Milan Richter, Jiří Vaníček, Ivan Vinš, Jiřina Vondráková, Petr Vozobule, Antonín Weinert a Bohumil Zoufalík.
 
 ## Odkazy
 
 https://praha.pirati.cz/trafikantka-zustane.html
 
+[aktualne]: https://sport.aktualne.cz/fotbal/akce-dolicek-praha-10-chce-do-leta-ziskat-stadion-bohemians/r~17facd5a371d11e3bb540025900fea04/
+[idnes]: http://praha.idnes.cz/dolicek-smenna-smlouva-bohemians-real-d89-/praha-zpravy.aspx?c=A160615_160253_plzen-prilohy_nub
+[zvo]: http://wgp.urm.cz/app/tms/aplk/urm_apl/regulativ/index.php?kodfp=ZVO&area=16736,436078#navrh
+[sv-g]: http://wgp.urm.cz/app/tms/aplk/urm_apl/regulativ/index.php?kodfp=SV-G&area=5194,90336
+[key-ivestments]: https://cs.wikipedia.org/wiki/Key_Investments
+[key-img-1]: http://1gr.cz/fotky/lidovky/14/053/lnorg/SK53573f_keyinvestments.JPG
+[key-img-2]: http://1gr.cz/fotky/lidovky/15/032/lnorg/KAS59d6da_cep.jpg
+[kauza-stadion]: https://cs.wikipedia.org/wiki/Kauza_Bohemians
+[ekospol]: http://zpravy.e15.cz/byznys/reality-a-stavebnictvi/na-fotbalovy-stanek-bohemians-ma-zalusk-developer-ekospol-1304702
