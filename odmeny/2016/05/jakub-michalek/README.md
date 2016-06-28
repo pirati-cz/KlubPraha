@@ -60,14 +60,14 @@ Zdroj příjmu                           | Výše příjmu (Kč)
 *z toho*                               |
 A.1 paušální odměna                    | 5486
 A.2 náhrada výdělku                    | 1575
-**B. Peníze od strany**                | TMPPARTYMONEY
+**B. Peníze od strany**                | 2108
 *z toho*                               |
 B.1 pevná složka odměny                | 1564
-B.2 variabilní složka odměny           | TMPVARMONEY
+B.2 variabilní složka odměny           | 544
 *z toho*                               |
 B.2.1 odměna za dodržení rozsahu práce | 44
 B.2.2 odměna za přesčasy               | 0
-B.2.3 odměna za významné splněné úkoly | TMPTASKSMONEY
+B.2.3 odměna za významné splněné úkoly | 500
 B.2.4 odpočet za výhrady               | TMPSANCTIONS
 **Celkový měsíční příjem**             | TMPTOTALMONEY
 

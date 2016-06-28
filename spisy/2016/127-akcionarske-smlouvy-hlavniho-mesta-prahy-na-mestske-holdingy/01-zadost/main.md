@@ -21,7 +21,7 @@ style:      letter
 
 Vážení,
 
-jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – Vás zdvořile žádám podle zákona č. 106/1999 Sb,. o svobodném přístupu k informacím a podle § 51, odst. 3, písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze o poskytnutí následujících informací:
+jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – Vás zdvořile žádám podle zákona č. 106/1999 Sb,. o svobodném přístupu k informacím, a podle § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, o poskytnutí následujících informací:
 
 Veškeré akcionářské smlouvy Hlavního města Prahy, které Hlavní město Praha uzavřelo s dalšími subjekty v souvislosti s řízením obchodních společností, ve kterých má Hlavní město Praha majetkovou účast.
 
