@@ -3,10 +3,10 @@ Zápis z jednání výběrové komise
 
 Datum jednání: 8. 6. 2016
 
-Přítomní členové hodnotící komise: Jakub Michálek a Bára Hrůzová  
-Nepřítomni: Petr Klimeš
+Přítomní členové hodnotící komise: Jakub Michálek (předsedá jednání) a Bára Hrůzová  
+Nepřítomní členové hodnotící komise: Petr Klimeš
 
-Zástupce zadavatele: Jan Loužek, zveřejňovač klubu Pirátů, předsedá jednání
+Zástupce zadavatele: Jan Loužek, zveřejňovač klubu Pirátů
 
 Zapisovatel: Jan Loužek
 
