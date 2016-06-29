@@ -3,10 +3,10 @@ Zápis z jednání výběrové komise
 
 Datum jednání: 8. 6. 2016
 
-Přítomní členové hodnotící komise: Jakub Michálek a Bára Hrůzová
-Nepřítomni: Petr Klimeš, Libor Michálek
+Přítomní členové hodnotící komise: Jakub Michálek (předsedá jednání) a Bára Hrůzová  
+Nepřítomní členové hodnotící komise: Petr Klimeš
 
-Zástupce zadavatele: Jan Loužek, zveřejňovač klubu Pirátů, předsedá jednání
+Zástupce zadavatele: Jan Loužek, zveřejňovač klubu Pirátů
 
 Zapisovatel: Jan Loužek
 
@@ -28,7 +28,7 @@ Zástupce zadavatele vyzval přítomné členy hodnotící komise s pravidly vý
 
 Členové prohlašují, že jim rozumí a zavazují se podle nich postupovat.
 
-Výhrady: N/A
+Výhrady: žádné
 
 ## Oznámení možného střetu zájmů členů hodnotící komise
 
@@ -73,7 +73,8 @@ C. Vít Šimral       | 1  | 1  | 1  | 1  | 1  | 1  | 1
 
 Uchazeči, kteří uspěli v prvním kole výběrového řízení:
 
-* Jan Svoboda, Vít Šimral
+* Jan Svoboda, 
+* Vít Šimral
 
 Uchazeči, kteří neuspěli v prvním kole výběrového řízení:
 
@@ -121,12 +122,13 @@ Seznam nabídek, které jsou přijatelné v pořadí podle hodnocení:
 1. Vít Šimral
 2. Jan Svoboda
 
-Seznam nabídek, které nejsou přijatelné nebo které byly vyřazeny:
+Seznam nabídek, které nejsou přijatelné nebo které byly vyřazeny: Jiří Rys
 
-1. Jiří Rys
+Doporučení k uzavření smlouvy: Uzavřít smlouvu s prvním uchazečem v pořadí.
 
-Doporučení k uzavření smlouvy: 
-
-Hlasování:
+Hlasování:  
+Pro: Jakub Michálek, Bára Hrůzová  
+Neúčast: Petr Klimeš  
+Návrh byl schválen.
 
 Zapsáno dne 8. června v Praze, zápis před zveřejněním ověřil zástupce zadavatele.
