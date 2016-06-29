@@ -1,42 +1,38 @@
 
 # Stadionu Bohemians 1905
 
-- několikrát pojednáváno na výboru
-- koupě stadionu schválena 31. 3. 2016 jako [Z-4057](dokumenty/ZHMP-4057.pdf)
-- Praha 10 reagovalo [memorandem](dokumenty/memorandum-p10-1121-1.docx)
-
 ## Časová osa
 
-|||
-|------------:|--------------------------------------------------------------------|
-| 26. 6. 2001 | P10 uděluje stavební povolení na Integrovaný a bytový dům Delvita |
-|  1. 2. 2005 | Konkurs FC Bohemians Praha, a.s vlastněným Michalem Vejsadou, dluh 40 M Kč |
-|  3. 2. 2005 | Vzniká iniciativa S.O.S. klokan |
-| 21. 3. 2005 | S.O.S. klokan => Družstvo fanoušků Bohemians (DFB), prostřednictvím tohoto spolku klub vybere dost na finančních prostředků na záchranu |
-| 28. 5. 2009 | Úřad průmyslového vlastnictví uděluje práva Bohemians 1905 |
-|  ?. ?. 2011 | Znalecký odhad oceňuje stadion na 85 000 000 Kč |
-| 25. 6. 2014 | P10 schvaluje směnu |
-| 2. 10. 2014 | P10: zastupitelstvo schválilo směnu (8 dní před volbama) |
-| ?. 10. 2014 | P10 podepisuje smlouvu s Bohemians Real o směně a doplatku ze strany MČ | 
-| 15. 9. 2015 | 1. majetkový výbor ZHMP s bodem ohledně Bohemians |
-| 18. 2. 2016 | 2. majetkový výbor ZHMP s bidem oheldně Bohemians |
-| 31. 3. 2016 | ZHMP schvaluje koupi za 121 M Kč s podmínkami |
-| 11. 4. 2016 | Prodloužení stavebního povolení o 24 měsíců |
-| 24. 5. 2016 | Memorandum P10 k odsvěření pozemku |
-| 16. 6. 2016 | Piráti na ZHMP navrhují urychlené schválení memoranda P10 |
-| 27. 6. 2016 | Ekospol projevuje zájem |
+| Kdy         |  Kdo                     | Co                                                                         |
+|------------:|-------------------------:|----------------------------------------------------------------------------|
+| 26. 6. 2001 | ÚMČ P10                  | Stavební povolení na Integrovaný a bytový dům Delvita                      |
+|  1. 2. 2005 | FC Boheminas Praha, a.s. | se dostává do konkursu, vlastněná Michalem Vejsadou, dluh 40 M Kč |
+|  3. 2. 2005 | S.O.S Klokan             | vzniká                                             |
+| 21. 3. 2005 | DFB                      | S.O.S. Klokan => Družstvo fanoušků Bohemians (DFB), prostřednictvím tohoto spolku klub vybere dost na finančních prostředků na záchranu |
+| 28. 5. 2009 | ÚPV                      | Úřad průmyslového vlastnictví uděluje práva Bohemians 1905 |
+|  ?. ?. 2011 |                          | Znalecký odhad oceňuje stadion na 85 000 000 Kč |
+| 2. 10. 2014 | zmč P10                  | schválilo směnu [P10-100839/2014](dokumenty/zmčP10-28-2-2014.md) (8 dní před volbama) |
+| ?. 10. 2014 | starosta P10             | podepisuje smlouvu s Bohemians Real o směně a doplatku ze strany MČ | 
+| 15. 9. 2015 | ZHMP                     | [majetkový výbor ZHMP 8](dokumenty/vybor-maj-zhmp-8.pdf) s bodem ohledně Bohemians |
+| 18. 2. 2016 | ZHMP                     | [majetkový výbor ZHMP 10](dokumenty/vybor-maj-zhmp-8.pdf) s bodem oheldně Bohemians |
+| 31. 3. 2016 | ZHMP                     | schvaluje koupi za 121 M Kč s podmínkami jako tisk [Z-4057](dokumenty/ZHMP-4057.pdf) |
+| 11. 4. 2016 | ÚMČ P10                  | [Prodloužení stavebního povolení o 24 měsíců](dokumenty/stavebni-povoleni_do_11.4.2018.pdf)|
+| 24. 5. 2016 | zmč P10                  | [memorandum](dokumenty/memorandum-p10-1121-1.docx) P10 k odsvěření pozemku |
+| 16. 6. 2016 | Piráti                   | na ZHMP navrhují urychlené schválení memoranda P10, neprošlo |
+| 27. 6. 2016 | Ekospol                  | projevuje zájem koupit stadion sám, pokud Praha nebude jednat |
+
+## Pozemky
+
+![mapa dle územního plánu](up.png)
+
+**1121/1 v kú Vršovice**: SV-G – všeobecně smíšené s kódem míry využití G a ZMK – zeleň městská, krajinná. V současnosti se na ploše pozemků nachází povrchové parkoviště o kapacitě 307 automobilových stání.
+
 
 ## Návrh na ZHMP 16. 6.
 
 Zařadit bod: *k podmínkám MČ P10 pro odejmutí pozemku parc. č. 1121/1 v k.ú. Vršovice* jako 35/2 (poslední tisk Grabeina Procházky)
 
-
-## Pozemek 1121/1 v kú Vršovice
-
-SV-G – všeobecně smíšené s kódem míry využití G a ZMK – zeleň městská, krajinná. V současnosti se na ploše pozemků nachází povrchové parkoviště o kapacitě 307 automobilových stání.  
-
-
-## Memorandum
+### Memorandum P10 k 1121/1
 
 A. Urbanistické podmínky
 
