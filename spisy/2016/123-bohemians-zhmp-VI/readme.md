@@ -23,7 +23,7 @@
 
 ## Pozemky
 
-![mapa dle územního plánu](up.png)
+![mapa dle územního plánu](img/up.png)
 
 **1121/1 v kú Vršovice**: SV-G – všeobecně smíšené s kódem míry využití G a ZMK – zeleň městská, krajinná. V současnosti se na ploše pozemků nachází povrchové parkoviště o kapacitě 307 automobilových stání.
 
