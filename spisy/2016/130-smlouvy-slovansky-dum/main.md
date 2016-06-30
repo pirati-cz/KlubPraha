@@ -23,7 +23,7 @@ Vážení,
 
 v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, resp. podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, žádám o poskytnutí všech smluv, které kdy Hlavní město Praha uzavřelo s druhými subjekty na pronájem Slovanského domu (Na Příkopě 22, Praha 1). 
 
-Žádám poskytnutí celého znění těchto smluv a jejich zaslání v elektronické podobě do datové schránky nebo e-mailu jakub.michalek@pirati.cz. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Předem děkuji za Vaši vstřícnost. Ke komunikaci tímto dále zmocňuji svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Písemnosti, které není možné doručit do datové schránky doručujte prosím na adresu Mariánské náměstí 2., Praha 1.
+Žádám poskytnutí celého znění těchto smluv a jejich zaslání v elektronické podobě do datové schránky nebo e-mailu jakub.michalek@pirati.cz. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Ke komunikaci tímto dále zmocňuji svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Písemnosti, které není možné doručit do datové schránky doručujte prosím na adresu Mariánské náměstí 2, Praha 1. Předem děkuji za Vaši vstřícnost.
 
 S pozdravem
 
