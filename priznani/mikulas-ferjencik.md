@@ -22,7 +22,7 @@ Následující seznam obsahuje přehled o veškerém majetku výše uvedeného f
 | Popis věci            | Odhad hodnoty |  Převažující zdroj                  |
 | --------------------- | ------------: |  ---------------------- |
 | Byt v Pardubicích, náměstí dukelských hrdinů 2233 |  1 000 000 Kč | dar od rodičů|
-| Bankovní účet u ČSOB |  4 000 Kč | příjmy z činnosti zastupitele a vedení kroužků zábavné logiky |
+| Bankovní účet u ČSOB |  12 000 Kč | příjmy z činnosti zastupitele a vedení kroužků zábavné logiky |
 | Notebook | 12 000 Kč | Dar od rodičů |
 | 2 akordeony | celkem 30 000 Kč | dar od rodiny |
 
@@ -40,12 +40,13 @@ V následujícím seznamu jsou uvedeny všechny nesplacené dluhy (půjčky, úv
 
 Následující text vysvětluje, jakým způsobem výše uvedený funkcionář aktuálně financuje svou obživu, bydlení a další základní životní potřeby, zejména u koho je zaměstnán, ve službě, nebo kde vykonává funkci člena orgánu právnické osoby či kde podniká, jakou pobírá odměnu a jiné příjmy z veřejných zdrojů, případně kdo je jeho podpůrcem.
 
-Podnikám jako OSVČ, vedu kroužky zábavné logiky pro žáky prvního stupně ZŠ, překládám z AJ a do AJ, vedu [projekt Pirátské listy](https://www.pirati.cz/fo/rozpocty/participativni/prihlasky/plisty) a příležitostně doučuji středoškolskou matematiku. Navíc mám příjem z pronájmu bytu, který vlastnim v Pardubicích. Můj úhrnný měsíční příjem se pohybuje od 10 000 Kč (když kvůli politice nemám čas vydělávat peníze) do 50 000 Kč (v případě velké překladatelské zakázky). 
+Podnikám jako OSVČ, vedu kroužky zábavné logiky pro žáky prvního stupně ZŠ, překládám z AJ a do AJ a příležitostně doučuji středoškolskou matematiku. Navíc mám příjem z pronájmu bytu, který vlastnim v Pardubicích. Můj úhrnný měsíční příjem se pohybuje od 10 000 Kč (když kvůli politice nemám čas vydělávat peníze) do 50 000 Kč (v případě velké překladatelské zakázky). 
 
 Mé příjmy ze zastupitelské činnosti naleznete [zde](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny), z části mne platí město a z části Pirátská strana. 
 
 ### Neziskové aktivity
-Jsem členem [Akademického senátu Univerzity Karlovy](http://www.cuni.cz/UK-5760.html). Působil jsem jako koordinátor dobrovolníků [Rekonstrukce státu](http://www.rekonstrukcestatu.cz/cs) a s cíli této aliance neziskovek se ztotožňuji. 
+Působil jsem jako koordinátor dobrovolníků [Rekonstrukce státu](http://www.rekonstrukcestatu.cz/cs) a s cíli této aliance neziskovek se ztotožňuji. 
+Vedu mediální odbor Pirátů, většinou dobrovolnicky, občas v rámci mandátní smlouvy s Pirátskou stranou
 
 Informace o významných změnách
 ----------------------------------
