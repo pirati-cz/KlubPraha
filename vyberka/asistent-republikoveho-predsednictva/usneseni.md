@@ -43,6 +43,8 @@ Očekáváme, že asistent bude pro Piráty pracovat dlouhodobě, přičemž na 
 
 Z hlediska vnitrostranických předpisů jde o jeden záměr v rozpočtové jednotce Česká pirátská strana ([§ 10 pravidel hospodaření][prah]).
 
+[prah]: https://www.pirati.cz/rules/prah
+
 Harmonogram projektu
 --------------------
 

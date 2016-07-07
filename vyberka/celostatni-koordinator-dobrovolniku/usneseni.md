@@ -43,6 +43,8 @@ Dlouhodobý výhled:
 
 Očekáváme, že koordinátor dobrovolníků s působností pro celou Českou republiku bude pro Piráty pracovat dlouhodobě, přičemž na jeho odměnu jsou vyhrazeny prostředky v rozpočtové položce s kódem č. 212900003, tedy Odměny v personálním odboru. Z hlediska vnitrostranických předpisů se jedná o jeden záměr v rozpočtové jednotce Česká pirátská strana ([§ 10 pravidel hospodaření][prah]).
 
+[prah]: https://www.pirati.cz/rules/prah
+
 Harmonogram projektu
 --------------------
 
