@@ -46,32 +46,33 @@ zástupce:  Mgr. Filip Hajný, advokát, ev. č. ČAK 14269, se sídlem Moskevsk
 
 ### Předmět řízení a dosavadní průběh řízení
 
-1. Dne 28. 10. 2015 podal žalobce žádost o informace městské části Praha 10 podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ve které požadoval poskytnutí celkové výše finančních prostředků, které povinný subjekt poskytl osobám, které v uplynulých 3 letech zastávaly následující funkce: starosta, tajemník, vedoucí odboru Úřadu městské části Praha 10. Žádal, aby byla informace rozepsána u každé z osob zvlášť, a aby u každé byly uvedeny základní osobní údaje uvedené v § 8b zákona č. 106/1999 Sb., o svobodném přístupu k informacím.
-2. Dne 9. 11. 2015 vydala Městská část Praha 10 rozhodnutí, v rámci něhož poskytla první třetinu žádaných informací, tedy výši finančních prostředů, které povinný subjekt poskytl starostovi Městské části Praha 10. 
-3. Vzhledem k tomu, že obdobné informace neposkytla Městská část Praha 10 o tajemníkovi úřadu, ani o vedoucím odboru Úřadu městské části Praha 10, podal žalobce dne 24. 11. 2015 odvolání proti rozhodnutí o odepření informací. 
-4. Dne 15. 12. 2015 žalovaná zrušila rozhodnutí Městské části Praha 10 ze dne 9. 11. 2015 a nařídila nové vyřízení žádosti v zákonné lhůtě 15 dnů. 
-5. Dne 17. 12. 2015 vydala Městská část Praha 10 nové rozhodnutí, které žalobce obdržel dne 23. 12. 2015. Městská část Praha 10 v něm opět odmítla informace poskytnout. Své rozhodnutí odůvodnila stejným způsobem, jako tomu bylo v případě dřívějšího rozhodnutí z 9. 11. 2015. 
-6. Dne 4. 1. 2016 podal žalobce proti rozsudku Městské části Praha 10 odvolání, ve kterém zdůraznil, že je povinný subjekt vázán rozhodnutím nadřízeného správního orgánu (§ 90 odst. 1 zákona č. 500/2004 Sb., správní řád), a tedy pokud Hlavní město Praha (tedy v tomto případě žalovaná) zruší toto rozhodnutí, nemůže Městská část Praha 10 vydat nové rozhodnutí stejného obsahu, nebo se stejným odůvodněním.
-7. Dne 1. 2. 2016 zrušila žalovaná rozhodnutí Městské části Prahy 10 ze dne 17. 12. 2015. 
-8. Dne 16. 2. 2016 obdržel žalobce rozhodnutí Městské části Prahy 10 ze dne 8. 2. 2016. Městská část Praha 10 poskytla druhou třetinu požadovaných informací, tedy rozepsané finanční prostředky, které poskytla tajemníkovi úřadu Městské části Praha 10. Neposkytla nicméně informace o tom, jaké odměny měl vedoucí odboru Úřadu městské části Prahy 10. 
-9. Dne 19. 2. 2016 podal žalobce stížnost proti rozhodnutí Městské části Praha 10.
-10. Dne 21. 3. 2016 zrušila žalovaná rozhodnutí Městské části Prahy 10 ze dne 8. 2. 2016. 
-11. Dne 12. 4. 2016 vydala Městská část Praha 10 nové rozhodnutí, na základě něhož odmítla poskytnout požadované informace.
-12. Dne 19. 4. 2016 podal žalobce odvolání proti rozhodnutí Městské části Prahy 10.
-13. Dne 16. 5. 2016 zrušila žalovaná rozhodnutí Městské části Prahy 10 ze dne 12. 4. 2016.
-14. Dne 30. 5. 2016 vydala Městské část Praha 10 nové rozhodnutí, na základě něhož odmítla poskyntout požadované informace.
+1. Dne 28. 10. 2015 podal žalobce žádost o informace městské části Praha 10 (dále jen „povinný subjekt“) podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), ve které požadoval poskytnutí celkové výše finančních prostředků, které povinný subjekt poskytl osobám, které v uplynulých 3 letech zastávaly následující funkce: starosta, tajemník, vedoucí odboru Úřadu povinného subjektu. Žádal, aby byla informace rozepsána u každé z osob zvlášť, a aby u každé byly uvedeny základní osobní údaje uvedené v § 8b InfZ.
+2. Dne 9. 11. 2015 vydal povinný subjekt rozhodnutí, v rámci něhož poskytl první třetinu žádaných informací, tedy výši finančních prostředů, které povinný subjekt poskytl starostovi. 
+3. Vzhledem k tomu, že obdobné informace neposkytl povinný subjekt o tajemníkovi úřadu, ani o vedoucím odboru Úřadu povinného subjektu, podal žalobce dne 24. 11. 2015 odvolání proti rozhodnutí o odepření informací. 
+4. Dne 15. 12. 2015 žalovaná zrušila rozhodnutí povinného subjektu ze dne 9. 11. 2015 a nařídila nové vyřízení žádosti v zákonné lhůtě 15 dnů. 
+5. Dne 17. 12. 2015 vydal povinný subjekt nové rozhodnutí, které žalobce obdržel dne 23. 12. 2015 a ve kterém opět odmítl informace poskytnout. Své rozhodnutí odůvodnil stejným způsobem, jako tomu bylo v případě dřívějšího rozhodnutí z 9. 11. 2015. 
+6. Dne 4. 1. 2016 podal žalobce proti rozhodnutí povinného subjektu odvolání, ve kterém zdůraznil, že je povinný subjekt vázán rozhodnutím nadřízeného správního orgánu a tedy pokud ten zruší toto rozhodnutí, nemůže povinný subjekt vydat nové rozhodnutí stejného obsahu, nebo se stejným odůvodněním.
+7. Dne 1. 2. 2016 zrušila žalovaná rozhodnutí povinného subjektu ze dne 17. 12. 2015. 
+8. Dne 16. 2. 2016 obdržel žalobce rozhodnutí povinného subjektu ze dne 8. 2. 2016. Povinný subjekt poskytla druhou třetinu požadovaných informací, tedy rozepsané finanční prostředky, které poskytla tajemníkovi úřadu povinného subjektu. Neposkytla nicméně informace o tom, jaké odměny měl vedoucí odboru Úřadu povinného subjektu. 
+9. Dne 19. 2. 2016 podal žalobce stížnost proti rozhodnutí povinného subjektu.
+10. Dne 21. 3. 2016 zrušila žalovaná rozhodnutí povinného subjektu ze dne 8. 2. 2016. 
+11. Dne 12. 4. 2016 vydal povinný subjekt nové rozhodnutí, na základě něhož odmítl poskytnout požadované informace.
+12. Dne 19. 4. 2016 podal žalobce odvolání proti rozhodnutí povinného subjektu.
+13. Dne 16. 5. 2016 žalovaná vydala rozhodnutí (dále jen „napadené rozhodnutí“), jímž zrušila rozhodnutí povinného subjektu ze dne 12. 4. 2016.
+14. Dne 30. 5. 2016 vydal povinný subjekt nové rozhodnutí, na základě něhož odmítla poskytnout požadované informace.
 
 ### Žalobní body
 
-1. Žalobce má za to, že se ze strany žalované jedná o obstrukci, která ma za cíl zabránit realizaci práva žadatele na informace. Žalovaná totiž neuvádí žádné nové důvody pro neposkytnutí informací; opakuje jen jeden jediný důvod, který zmínila ve svém prvním rozhodnutí o neposkytnutí žádosti.
-2. Žalobce se domnívá, že žalovaná k této obstrukci napomáhá neustálým rušením rozhodnutí (tj. rozhodnutí ze dne 9. 11. 2015, 23. 12. 2015 a 1. 2. 2016, 21. 3. 2016 a 12. 4. 2016), a to tak, aby nebylo možné celý proces žádnání informace ukončit, a aby skončil v neustálém koloběhu rozhodnutí o odmítnutí, odvolání a zrušení rozhodnutí, známém též jako tzv. „administrativní ping-pong“. 
-3. Čtyři výše uvedená zrušující rozhodnutí tak dle žalobce fakticky plní úlohu rozhodnutí o odepření žádosti. Žalobce se domnívá, že ve světle judikatury, zejména rozsudku Nejvyššího správního soudu ze dne 28. 1. 2015, č. j. 6 As 113/2014-35, lze podrobit zrušující rozhodnutí ze dne 16. 5. 2016 soudnímu přezkumu.
+1. Žalobce má za to, že se ze strany povinného subjektu jedná o obstrukci, která ma za cíl zabránit realizaci práva žadatele na informace. Povinný subjekt totiž neuvádí žádné nové důvody pro neposkytnutí informací; opakuje jen jeden jediný důvod, který zmínil ve svém prvním rozhodnutí o neposkytnutí žádosti.
+2. Žalobce si uvědomuje, že vzhledem k ustanovení § 90 odst. 1 písm. c) správního řádu nemohla žalovaná rozhodovat jinak, než že rozhodnutí povinného subjektu pouze zrušovala a věc vracela k novému rozhodnutí. Neobviňuje ji tedy, že se ze své vůle podílela na výše zmíněných obstrukcích - podílela se na nich jaksi z donucení, protože zákon ji nic jiného neumožňuje. Nicméně žalobce nemá jinou možnost, než podat žalobu proti napadenému rozhodnutí žalova.
+3. Zákon sice nenabízí řešení tzv. „administrativního ping-pongu“, ke kterému v tomto případě došlo, ale judikatura ano. Nejvyšší správní soud ve svém rozsudku ze dne 28. 1. 2015, č. j. 6 As 113/2014-35, došel k závěru, že v případech administrativního ping-pongu lze soudně přezkoumat zrušovací rozhodnutí odvolacího orgánu. Jednalo se sice o případ, kdy se nadřízený správní orgán aktivně podílel na obstrukcích (protože povinným subjektem byla obchodní společnost, mohl nadřízený správní orgán informace sám poskytnout), nicméně žalobce má za to, že je tento krok možné uplatit i v tomto řízení. Pokud totiž soud rozhodne podle § 16 odst. 4 InfZ, může nařídit povinnému subjektu poskytnout požadované informace. Ačkoliv žalobce považuje za nešťastné, že žalovaná bude v případě prohraného sporu „pykat“ za nezákonný postup povinného subjektu, zákon mu neumožňuje žalovat povinný subjekt.
 
 ### Návrh rozsudku
 
 Z výše uvedených důvodů navrhuji, aby soud vydal následující rozsudek:
 
-1. Žalované se nařizuje, aby poskytla informace, žádané v žádosti ze dne 28. 10. 2015, a to do 3 dnů od právní moci rozsudku.
+1. Rozhodnutí žalované ze dne 16. 5. 2016 se zrušuje.
+2. Rozhodnutí povinného subjektu ze dne 12. 4. 2016 se zrušuje a povinnému subjektu se nařizuje poskytnout požadované informace.
 2. Žalovaná je povinna zaplatit žalobci náhradu nákladů řízení, a to do 3 dnů od právní moci rozsudku, k rukám zástupce žalobce.
 
 Žalobce souhlasí s tím, aby soud projednal věc bez nařízení jednání. 
@@ -79,5 +80,5 @@ Z výše uvedených důvodů navrhuji, aby soud vydal následující rozsudek:
 ---
 signature:
   - Jakub Michálek
-abbr:       adam
+abbr:       jakub
 ...
