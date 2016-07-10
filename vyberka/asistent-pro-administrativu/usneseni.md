@@ -16,7 +16,7 @@ Potřeba projektu
 
 Záměr zřídit pozici celostátního koordinátora dobrovolníků byl předběžně diskutován při schvalování rozpočtu na rok 2016 na zasedání republikového výboru dne 21. 1. 2016 v Praze, a to na návrh administrativního odboru. Svého asistenta pro administrativu již má krajské sdružení Praha (jednak krajského manažera a jednak v zastupitelském klubu), pozice se v Praze osvědčila – tyto zkušenosti je třeba přenést na celostátní úroveň zejména v souvislosti s krajskými volbami a fungováním celostátních orgánů. Není možné, aby předsednictvo suplovalo roli sekretářky a nemohlo se v důsledku toho věnovat celostátnímu vedení. Klíčem pro úspěch ve volbách je mimo jiné bezproblémová a rychlá administrativa. Velkou pozornost je však třeba věnovat tomu, aby nedocházelo k samoúčelnému bujení byrokracie, na což bude dohlížet republikové předsednictvo. Úkolem asistenta pro administrativu bude, aby ostatní pocítili nutnou byrokracii co nejméně nebo o ní nejlépe vůbec nevěděli. 
  
-Dne 2. 7. 2016 schválilo republikové předsednictvo k urychlenému řešení s termínem do 20. 8. 2016 úkol administrativnímu odboru zprocesovat výběrové řízení na asistenta pro administrativu. Asistent bude sloužit zejména republikovému předsednictvu (zjišťování aktuálního stavu strategických úkolů, příprava agendy a dokumentů, příprava rozhodnutí, sledování podatelny, hlasování), republikovému výboru a administrativnímu odboru (okrskové volební komise). Bude financován z příslušné položky rozpočtu. Předpokládaný rozsah práce je poloviční úvazek. Podmínky výběrového řízení budou vycházet z výběrového řízení na asistenta senátora Libora Michálka a administrativu zprocesuje Jan Loužek. Republikové předsednictvo stanovilo tým ve složení Jan Loužek, Vojtěch Pikal, Martin Kučera, Alex Mansurov.
+Dne 2. 7. 2016 schválilo republikové předsednictvo k urychlenému řešení s termínem do 20. 8. 2016 úkol administrativnímu odboru zprocesovat výběrové řízení na asistenta pro administrativu. Asistent bude sloužit zejména republikovému předsednictvu (zjišťování aktuálního stavu strategických úkolů, organizace schůzek a setkání, příprava agendy a dokumentů, příprava rozhodnutí, sledování podatelny, hlasování), republikovému výboru a administrativnímu odboru (okrskové volební komise, sledování termínů). Bude financován z příslušné položky rozpočtu. Předpokládaný rozsah práce je poloviční úvazek. Podmínky výběrového řízení budou vycházet z výběrového řízení na asistenta senátora Libora Michálka a administrativu zprocesuje Jan Loužek. Republikové předsednictvo stanovilo tým ve složení Jan Loužek, Vojtěch Pikal, Martin Kučera, Alex Mansurov.
 
 Rozpočet projektu
 -----------------
@@ -74,7 +74,7 @@ Ve jmenované hodnotící komisi by měli být podle [§ 6 odst. 2 pravidel hosp
 
 Výběrové řízení se bude řídit následujícími dokumenty, které jsou přílohou tohoto záměru:
 
-* [Inzerát na celostátního koordinátora dobrovolníků](README.md)
+* [Inzerát na celostátního asistenta pro administrativu](README.md)
 * [Pravidla výběrového řízení](pravidla.md)
 
 Smlouva bude uzavřena prostřednictvím zadávacího listu podle [podmínek pro placené úkoly](https://github.com/pirati-cz/sablony/blob/4b07ba675434ee634c527909d537122264cc712e/ukoly/podminky/podminky.md), přičemž smluvní typ se bude určen podle požadavku vybraného uchazeče.
