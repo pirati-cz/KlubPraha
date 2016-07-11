@@ -15,6 +15,9 @@ your:
    address:
       -     Mariánské náměstí 2
       -     110 00 Praha 1
+   note:
+      -     k rukám JUDr. Martiny Děverové
+      -     ředitelky MHMP
 sendby:     mail
 style:      letter
 ---
