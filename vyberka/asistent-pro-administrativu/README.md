@@ -52,7 +52,7 @@ V nabídce nám prosím zašli v jednom PDF dokumentu následující materiály:
 1. krátký motivační dopis,
 2. svůj životopis.
 
-Z výše uvedených dokumentů by měly být patrné zejména zkušenosti z administrativy, práce s technickými systémy (preferujeme ty svobodné), plánování a angličtinou, příp. zkušenosti s dobrovolnictvím.
+Z výše uvedených dokumentů by měly být patrné zejména zkušenosti z administrativy, práce s technickými systémy (preferujeme ty svobodné), plánování, příp. zkušenosti s dobrovolnictvím, a dále znalost angličtiny.
 
 
 [plan]: https://redmine.pirati.cz/projects/senat/roadmap
