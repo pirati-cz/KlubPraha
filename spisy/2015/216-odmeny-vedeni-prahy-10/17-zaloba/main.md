@@ -40,7 +40,7 @@ zástupce:  Mgr. Filip Hajný, advokát, ev. č. ČAK 14269, se sídlem Moskevsk
 11. Zrušující rozhodnutí žalované ze dne 21. 3. 2016
 12. Rozhodnutí Městské části Praha 10 ze dne 12. 4. 2016
 13. Odvolání žalobce ze dne 19. 4. 2016
-14. Zrušující rozhodnutí žalované ze dne 12. 4. 2016
+14. Zrušující rozhodnutí žalované ze dne 12. 5. 2016
 15. Rozhodnutí Městské části Praha 10 ze dne 30. 5. 2016
 
 
