@@ -39,10 +39,10 @@ přihlášení zobrazí v projektovém systému.
 
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
-**A. Práce pro město**                 | [16.25][linktocityhours]
-**B. Práce pro stranu**                | 60.83
+**A. Práce pro město**                 | [20.25][linktocityhours]
+**B. Práce pro stranu**                | 56.83
 *z toho*                               |
-B.1 v projektu zastupitelstva          | [59.83][linktohomehours]
+B.1 v projektu zastupitelstva          | [55.83][linktohomehours]
 B.2 v ostatních projektech             | [1.00][linktootherhours]
 **Celkový počet hodin**                | 77.08
 Dohodnutý rozsah práce                 | 132.00
@@ -62,20 +62,20 @@ Zastupitel má na základě zákona právo na odměnu a náhradu výdělku. Vedl
 
 Zdroj příjmu                           | Výše příjmu (Kč)
 -----------------                      | --------------:
-**A. Peníze od města**                 | 12798
+**A. Peníze od města**                 | 14598
 *z toho*                               |
 A.1 paušální odměna                    | 5486
-A.2 náhrada výdělku                    | 7312
-**B. Peníze od strany**                | TMPPARTYMONEY
+A.2 náhrada výdělku                    | 9112
+**B. Peníze od strany**                | 5995
 *z toho*                               |
-B.1 pevná složka odměny                | 3917
-B.2 variabilní složka odměny           | TMPVARMONEY
+B.1 pevná složka odměny                | 3659
+B.2 variabilní složka odměny           | 2336
 *z toho*                               |
 B.2.1 odměna za dodržení rozsahu práce | 336
 B.2.2 odměna za přesčasy               | 0
-B.2.3 odměna za významné splněné úkoly | TMPTASKSMONEY
-B.2.4 odpočet za výhrady               | TMPSANCTIONS
-**Celkový měsíční příjem**             | TMPTOTALMONEY
+B.2.3 odměna za významné splněné úkoly | 2000
+B.2.4 odpočet za výhrady               | 0
+**Celkový měsíční příjem**             | 20593
 
 Částky jsou uváděny vždy v hrubé výši, přičemž z paušální odměny odvádí město zálohu na daň z příjmu a zdravotní pojištění. Je dále odpovědností každého zastupitele, aby příjem zdanil a zaplatil zákonné pojištění.
 

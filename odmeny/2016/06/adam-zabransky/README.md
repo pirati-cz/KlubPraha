@@ -38,13 +38,13 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 **A. Práce pro město**                 | [17.50][linktocityhours]
-**B. Práce pro stranu**                | 28.95
+**B. Práce pro stranu**                | 28.25
 *z toho*                               |
-B.1 v projektu zastupitelstva          | [28.95][linktohomehours]
+B.1 v projektu zastupitelstva          | [28.25][linktohomehours]
 B.2 v ostatních projektech             | [0.00][linktootherhours]
-**Celkový počet hodin**                | 46.45
+**Celkový počet hodin**                | 45.75
 Dohodnutý rozsah práce                 | 132.00
-**Procento vytížení**                  | 35
+**Procento vytížení**                  | 34
 
 Grafické znázornění [odpracované doby dle aktivity][activitylist]:
 
@@ -64,16 +64,16 @@ Zdroj příjmu                           | Výše příjmu (Kč)
 *z toho*                               |
 A.1 paušální odměna                    | 5486
 A.2 náhrada výdělku                    | 7875
-**B. Peníze od strany**                | TMPPARTYMONEY
+**B. Peníze od strany**                | 2634
 *z toho*                               |
-B.1 pevná složka odměny                | 1864
-B.2 variabilní složka odměny           | TMPVARMONEY
+B.1 pevná složka odměny                | 1819
+B.2 variabilní složka odměny           | 815
 *z toho*                               |
-B.2.1 odměna za dodržení rozsahu práce | 122
+B.2.1 odměna za dodržení rozsahu práce | 115
 B.2.2 odměna za přesčasy               | 0
-B.2.3 odměna za významné splněné úkoly | TMPTASKSMONEY
-B.2.4 odpočet za výhrady               | TMPSANCTIONS
-**Celkový měsíční příjem**             | TMPTOTALMONEY
+B.2.3 odměna za významné splněné úkoly | 700
+B.2.4 odpočet za výhrady               | 0
+**Celkový měsíční příjem**             | 15995
 
 Částky jsou uváděny vždy v hrubé výši, přičemž z paušální odměny odvádí město zálohu na daň z příjmu a zdravotní pojištění. Je dále odpovědností každého zastupitele, aby příjem zdanil a zaplatil zákonné pojištění.
 

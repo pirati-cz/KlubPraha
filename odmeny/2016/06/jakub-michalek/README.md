@@ -19,14 +19,13 @@ Významné úkoly
 
 Následující seznam zahrnuje všechny úkoly z [projektu krajského sdružení Praha][kspraha], které zabraly déle než 3 hodiny. Zastupitel si může tento seznam doplnit či upravit podle své úvahy tak, aby podával co nejlepší informaci o odvedené práci.
 
-Číslo              |   Název úkolu                                   |  Celkem           
--------------------|-------------------------------------------------|------------------:
-[#3296][task3296]  |   Zasedání zastupitelstva 16. 6. 2016           |  [10.50][time3296]
-[#1763][task1763]  |   Teambuildingy                                 |  [8.50][time1763] 
-[#1996][task1996]  |   Přenášení zkušeností do strany                |  [6.31][time1996] 
-[#2590][task2590]  |   Jednání klubu 2016                            |  [6.25][time2590] 
-[#2630][task2630]  |   Informační strategie                          |  [3.50][time2630] 
-[#1522][task1522]  |   Zveřejnění technických norem ve stavebnictví  |  [3.33][time1522] 
+Číslo              |   Název úkolu                          |  Celkem           
+-------------------|----------------------------------------|------------------:
+[#3296][task3296]  |   Zasedání zastupitelstva 16. 6. 2016  |  [10.50][time3296]
+[#1763][task1763]  |   Teambuildingy                        |  [8.50][time1763] 
+[#1996][task1996]  |   Přenášení zkušeností do strany       |  [6.31][time1996] 
+[#2590][task2590]  |   Jednání klubu 2016                   |  [6.25][time2590] 
+[#2630][task2630]  |   Informační strategie                 |  [3.50][time2630] 
 
 Můžete si zobrazit plný [přehled plněných úkolů][tasklist].
 
@@ -40,13 +39,13 @@ přihlášení zobrazí v projektovém systému.
 Rozsah činnosti                        | Počet hodin
 --------------                         | ----------:
 **A. Práce pro město**                 | [10.00][linktocityhours]
-**B. Práce pro stranu**                | 44.29
+**B. Práce pro stranu**                | 47.04
 *z toho*                               |
-B.1 v projektu zastupitelstva          | [29.04][linktohomehours]
-B.2 v ostatních projektech             | [15.25][linktootherhours]
-**Celkový počet hodin**                | 54.29
+B.1 v projektu zastupitelstva          | [24.21][linktohomehours]
+B.2 v ostatních projektech             | [22.83][linktootherhours]
+**Celkový počet hodin**                | 57.04
 Dohodnutý rozsah práce                 | 132.00
-**Procento vytížení**                  | 41
+**Procento vytížení**                  | 43
 
 Grafické znázornění [odpracované doby dle aktivity][activitylist]:
 
@@ -66,16 +65,16 @@ Zdroj příjmu                           | Výše příjmu (Kč)
 *z toho*                               |
 A.1 paušální odměna                    | 5486
 A.2 náhrada výdělku                    | 4500
-**B. Peníze od strany**                | TMPPARTYMONEY
+**B. Peníze od strany**                | 3713
 *z toho*                               |
-B.1 pevná složka odměny                | 2852
-B.2 variabilní složka odměny           | TMPVARMONEY
+B.1 pevná složka odměny                | 3029
+B.2 variabilní složka odměny           | 684
 *z toho*                               |
-B.2.1 odměna za dodržení rozsahu práce | 168
+B.2.1 odměna za dodržení rozsahu práce | 184
 B.2.2 odměna za přesčasy               | 0
-B.2.3 odměna za významné splněné úkoly | TMPTASKSMONEY
-B.2.4 odpočet za výhrady               | TMPSANCTIONS
-**Celkový měsíční příjem**             | TMPTOTALMONEY
+B.2.3 odměna za významné splněné úkoly | 500
+B.2.4 odpočet za výhrady               | 0
+**Celkový měsíční příjem**             | 13699
 
 Částky jsou uváděny vždy v hrubé výši, přičemž z paušální odměny odvádí město zálohu na daň z příjmu a zdravotní pojištění. Je dále odpovědností každého zastupitele, aby příjem zdanil a zaplatil zákonné pojištění.
 
@@ -93,8 +92,6 @@ B.2.4 odpočet za výhrady               | TMPSANCTIONS
 [time2590]:https://redmine.pirati.cz/issues/2590/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-06-01&v[spent_on][]=2016-06-30&v[user_id][]=4
 [task2630]: https://redmine.pirati.cz/issues/2630
 [time2630]:https://redmine.pirati.cz/issues/2630/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-06-01&v[spent_on][]=2016-06-30&v[user_id][]=4
-[task1522]: https://redmine.pirati.cz/issues/1522
-[time1522]:https://redmine.pirati.cz/issues/1522/time_entries?f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-06-01&v[spent_on][]=2016-06-30&v[user_id][]=4
 [activitylist]: https://redmine.pirati.cz/projects/kspraha/time_entries/report?columns=month&criteria[]=activity&f[]=spent_on&f[]=user_id&f[]=&op[spent_on]=><&op[user_id]==&utf8=✓&v[spent_on][]=2016-06-01&v[spent_on][]=2016-06-30&v[user_id][]=4
 
 [smlouva]: https://smlouvy.pirati.cz/smlouvy/2014/11/13/jakub-michalek/index.html
