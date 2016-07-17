@@ -13,7 +13,7 @@ Dobrý den,
 * formát dvou listů A2 vložených do sebe a přeložených 1x, přeložení každého výtisku vcelku ještě 1x vítáme (nebo berlínský formát)
 * tisk 4/4 barva
 * doprava na později upřesněná místa v krajích: Jihočeský (50 000 ks), Jihomoravský (10 000 ks), Karlovarský (25 000 ks), Královéhradecký (110 000 ks), Liberecký (10 000 ks), Moravskoslezský (20 000 ks), Pardubický (1 000 ks), Plzeňský (50 000 ks), Středočeský (50 000 ks), Olomoucký (30 000 ks), Ústecký (60 000 + 10 000 ks), Zlínský (20 000 ks)
-* termín dodání 28. srpna 2016 (jde o nejpozější termín dodání)
+* termín dodání 28. srpna 2016 (jde o nejpozdější termín dodání)
 
 Žádám vás o nacenění této zakázky včetně dopravy na oznámené místo převzetí. Cenu zaplatíme na základě faktury po dodání. Můžeme složit zálohu po objednávce až do výše 70 % ceny zakázky na základě zálohové faktury.
 
