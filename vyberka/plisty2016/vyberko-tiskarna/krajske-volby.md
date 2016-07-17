@@ -20,7 +20,7 @@ Dobrý den,
 Vytištěné noviny očekáváme do 4 pracovních dnů od předání tiskových pdf.
 Ceny prosím uveďte VČETNĚ DPH.
 
-Nabídku nám prosím zašlete do 22. dubna 2016 do 12:00h, téhož dne se vám ozvu ohledně výsledku výběrového řízení. Nabídku pošlete na adresu michaela.krausova@pirati.cz, kopii potom na info@pirati.cz.
+Nabídku nám prosím zašlete do 22. července 2016 do 12:00h, téhož dne se vám ozvu ohledně výsledku výběrového řízení. Nabídku pošlete na adresu michaela.krausova@pirati.cz, kopii potom na info@pirati.cz.
 
 Pokud máte zájem o upřesnění informací, neváhejte se na mne obrátit emailem, či telefonicky. 
 
