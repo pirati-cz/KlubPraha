@@ -15,7 +15,7 @@ Dobrý den,
 * doprava na později upřesněná místa v krajích: Jihočeský (50 000 ks), Jihomoravský (10 000 ks), Karlovarský (25 000 ks), Královéhradecký (110 000 ks), Liberecký (10 000 ks), Moravskoslezský (20 000 ks), Pardubický (1 000 ks), Plzeňský (50 000 ks), Středočeský (50 000 ks), Olomoucký (30 000 ks), Ústecký (60 000 + 10 000 ks), Zlínský (20 000 ks)
 * termín dodání 28. srpna 2016 (jde o nejpozdější termín dodání)
 
-Žádám vás o nacenění této zakázky včetně dopravy na oznámené místo převzetí. Cenu zaplatíme na základě faktury po dodání. Můžeme složit zálohu po objednávce až do výše 70 % ceny zakázky na základě zálohové faktury.
+Žádám vás o nacenění této zakázky včetně odhadu dopravy na později upřesněná místa v krajích. Cenu zaplatíme na základě faktury po dodání. Můžeme složit zálohu po objednávce až do výše 70 % ceny zakázky na základě zálohové faktury.
 
 Vytištěné noviny očekáváme do 4 pracovních dnů od předání tiskových pdf.
 Ceny prosím uveďte VČETNĚ DPH.
