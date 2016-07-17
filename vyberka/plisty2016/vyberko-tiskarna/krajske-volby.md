@@ -35,5 +35,5 @@ tel. 732 858 172
 
 ## Související odkazy
 
-* [Schválené usnesení](./../README.md) 
+* [Schválené usnesení](https://forum.pirati.cz/republikovy-vybor-f248/rv-34-2016-zamer-krajskych-piratskych-listu-t34660.html#p467864) 
 * [Pravidla výběrového řízení](pravidla.md)
