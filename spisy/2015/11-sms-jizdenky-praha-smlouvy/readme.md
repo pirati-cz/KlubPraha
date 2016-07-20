@@ -46,11 +46,29 @@ b) CROWS bude mít po 31. 7. 2018 nadále zájem o pokračování v plnění té
 
 12.2. Tuto smlouvu nelze jednostranně vypovědět.
 
-12.3. Obě smluvní strany jsou oprávněny od této smlouvy odstoupit pouze v následujících případech a za následujcích podmínek:
+12.3. Obě smluvní strany jsou oprávněny￼ od této smlouvy odstoupit pouze v následujících případech a za následujcích podmínek:
 
 a) V případě, že povinná smluvní strana poruší své povinnosti dle této smlouvy *podstatným způsobem*, je oprávněná smluvní strana povinna písemně upozornit povinnou smluvní stranu na porušení smlouvy a vyzvat ji, aby se porušování smlouvy popsaným způsobem nadále zdržela a dále (je-li to s ohledem na způsob porušení smlouvy možné) aby v přiměrené lhůtě, která nesmí být kratší než 30 dní odstranila závadný stav vzniklý v důsledku porušení předmětné povinnosti. V případě, že povinná smluvní strana neodstraní závadný stav ve stanovené lhůtě nebo se v období 60 dnů od doručení písemného upozornění opět dopustí porušení téže nebo jakékoli jiné smluvní povinnosti *podstatným zpsůobem*, je oprávněná smluvní strana oprávněna od této smlouvy odstoupit.
 b) V případě, že povinná smluvní strana poruší své povinnosti dle této smlouvy *nepodstatným způsobem*, je oprávněná smluvní strana povinna písemně upozornit povinnou smluvní stranu na porušení smlouvy a vyzvat ji, aby se porušování smlouvy popsaným způsobem nadále zdržela a dále (je-li to s ohledem na způsob porušení smlouvy možné), aby v přiměřené lhůtě, která nesmí být kratší než 60 dní, odstranila závadný stav vzniklý v důsledku porušení předmětné povinnosti. V případě, že povinná smluvní strana neodstraní závadný stav ve stanovené lhůtě nebo se v období 30 dnů od doručení písemného upozornění opět dopustí porušení téže smluvní povinnosti, popř. se v tomto období opakovaně (nejméně dvakrát) dopustí porušení jiných smluvních povinností *nepodstatným způsobem*, je oprávněná smluvní strana oprávněna od této smlouvy odstoupit.
 
 Odstoupení od smlouvy výše uvedeným způosbem je účinné okamžikem doručení písemného oznámení o odstoupení od této smlouvy smluvní straně, která porušuje povinnosti dle této smlouvy.
 12.4. Odstoupením od této smlouvy zanikají všechna práva a povinnosti stran z této smlouvy, a to s účinností "ex nunc", tj. s účinností ke dni odstoupení od této smlouvy.
-12.5. V důsledku odstoupení od této smlouvy nedochází k zániku nároků na náhradu škody vzniklých porušením této smlouvy, národků na uhrazení smluvních pokut, ani jiných ustanovení, která podle projevené vůle stran nebo vzhledem ke své povaze mají trva ti po ukončení této smlouvy.  
+12.5. V důsledku odstoupení od této smlouvy nedochází k zániku nároků na náhradu škody vzniklých porušením této smlouvy, národků na uhrazení smluvních pokut, ani jiných ustanovení, která podle projevené vůle stran nebo vzhledem ke své povaze mají trva ti po ukončení této smlouvy. 
+
+## Dodatky
+
+* Dodatek č. 1. zahrnul možnost platby pomocí Premium SMS a elektronická platba. Bylo vymezeno, že do ceny SMS jízdenky nebude zahrnuta cena za poslání SMS jízdenky a do ceny za elektronickou platbu nebude zahrnuta cena za datový přenos platby. Tento dodatek byl podepsán 18. 3. 2009. 
+
+* Dodatek č. 2. zavedl možnost, aby CROWS platil Dopravnímu podniku peníze za jízdenky vždy k 20. dni měsíce, s tím, že CROWS zajistí dopravnímu podniku podklady k inkasované částce o jízdence. Tento dodatek byl uzavřen dne 7. 9. 2009
+
+* Dodatek č. 3  stanovil způsob výpočtu odměny pro společnost CROWS. Rovněž také marži pro společnost CROWS stanovil ve výši 29 % z ceny SMS jízdenky a 15 % z ceny elektronické platby. Tento dodatek byl uzavřen dne 7. 2. 2010.
+
+* Dodatek č. 4  zavázal společnost CROWS uchovávat údaje pro kontrolu správnosti výše odměny pro společnost CROWS. Rovněž byla marže z ceny jízdenky stanovena na 29 % pro jízdenky v hodnotě pod 100 Kč a 27 % pro jízdenky v hodnotě více než 100 Kč. Byl podepsán dne 20. 6. 2011.
+
+* Dodatek č. 5  zavázal společnost CROWS uchovávat údaje pro kontrolu správnosti výše odměny pro společnost CROWS. Rovněž byla marže z ceny jízdenky stanovena na 25,6 % pro jízdenky v hodnotě pod 100 Kč a 23,4 % pro jízdenky v hodnotě více než 100 Kč. Marže z elektronických plateb byla snížena na 7 %. Byl podepsán dne 23. 9. 2011.
+
+* Dodatek č. 6
+
+* Dodatek č. 7
+
+* Dodatek č. 8
