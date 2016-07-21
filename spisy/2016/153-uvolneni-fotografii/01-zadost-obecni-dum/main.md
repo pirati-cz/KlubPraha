@@ -16,12 +16,10 @@ your:
       -     nám. Republiky 5, 
       -     111 21, Praha 1
    note:
-      - k rukám předsedy představenstva Mgr. Vlastimila Ježka
+      - k rukám předsedy představenstva, Mgr. Vlastimila Ježka
 sendby:     mail
 style:      letter
 ---
-
-Vážení,
 
 Vážený pane předsedo,
 
