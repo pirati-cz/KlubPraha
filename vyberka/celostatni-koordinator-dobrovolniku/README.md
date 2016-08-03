@@ -1,7 +1,7 @@
 Česká pirátská strana  
 republikové předsednictvo
 
-**TOTO JE NÁVRH DOSUD NEVYHLÁŠENÉHO VÝBĚROVÉHO ŘÍZENÍ. NEPOSÍLEJTE NÁM PROSÍM ZATÍM ŽÁDNÉ NABÍDKY.**
+**VÝBĚROVÉ ŘÍZENÍ BYLO VYHLÁŠENO DNE 30. 7. 2016**
 
 Výběrové řízení na celostátního koordinátora dobrovolníků
 ========================
@@ -57,7 +57,7 @@ Pokud máš nedejbože záznam v trestním rejstříku, popiš ho a zdůvodni v 
 
 Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPP, DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [podmínek pro placené úkoly](https://github.com/pirati-cz/sablony/blob/4b07ba675434ee634c527909d537122264cc712e/ukoly/podminky/podminky.md) s vykazováním v systémů [redmine][redmine].
 
-**Nabídku nám prosím zašli do 16 dnů od vyhlášení výběrového řízení, do tří dnů se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošli na adresu <jan.louzek@pirati.cz>, kopii potom na <info@pirati.cz>.**
+**Nabídku nám prosím zašli do 15. 8. 2016, do tří dnů se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošli na adresu <jan.louzek@pirati.cz>, kopii potom na <info@pirati.cz>.**
 
 S pozdravem 
 
