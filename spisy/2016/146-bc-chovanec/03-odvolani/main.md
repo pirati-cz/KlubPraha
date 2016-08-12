@@ -16,7 +16,9 @@ your:
       -     Univerzitní 2732/8
       -     30100 Plzeň-Jižní Předměstí
    note:
-      -     
+      -     k rukám rektora
+   sign:    ZCU 020125/2016
+   date:    28.7.2016
 sendby:     mail
 style:      letter
 ---
