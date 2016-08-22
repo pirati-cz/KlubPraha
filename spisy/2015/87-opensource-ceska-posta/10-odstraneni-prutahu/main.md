@@ -32,6 +32,5 @@ signature:
   - Mgr. et Mgr. Jakub Michálek
   - nar. 6. 2. 1989
   - bytem Bořivojova 103, Praha 3
-  - zastupitel hl. m. Prahy
 abbr:       jakub
 ...
