@@ -28,10 +28,10 @@ v řízení spisové značky 11A 201/2015 žádám o odstranění průtahů (§ 
 Předem děkuji za Vaši vstřícnost.
 
 ---
-podpis: 
-  - Mgr. Bc. Jakub Michálek
+signature: 
+  - Mgr. et Mgr. Jakub Michálek
   - nar. 6. 2. 1989
-  - bytem Zenklova 841/193, Praha 8
-  - předseda klubu Pirátů
-  - zastupitelstvo hl. m. Prahy
+  - bytem Bořivojova 103, Praha 3
+  - zastupitel hl. m. Prahy
+abbr:       jakub
 ...
