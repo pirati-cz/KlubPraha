@@ -21,11 +21,7 @@ style:      letter
 
 Vážení,
 
-tímto Vám sdělujeme, že v létě 2016 hodláme vydat noviny politické strany s názvem Pirátské listy pro oblast hl. m. Prahy a Středočeského kraje. 
-
-Pokud se vydání osvědčí, zvážíme další příležitostné vydávání obdobných listů v téže grafické úpravě a případně také dalších regionálních mutací. V tom případě půjde o periodický tisk, který podléhá oznamovací povinnosti v souladu s § 7 odst. 2 zákona č. 46/2000 Sb., tiskového zákona. 
-
-Žádáme Vás proto předem o zápis Pirátských listů do evidence vedené Ministerstvem kultury s následujícími údaji:
+tímto Vám sdělujeme, že v létě 2016 hodláme vydat noviny politické strany s názvem Pirátské listy pro více krajů v České republice. Vzhledem k tomu, že se již jedná o periodický tisk, který podléhá oznamovací povinnosti v souladu s § 7 odst. 2 zákona č. 46/2000 Sb., tiskového zákona, vás proto žádáme o zápis Pirátských listů do evidence vedené Ministerstvem kultury s následujícími údaji:
 
 název: 
 :   Pirátské listy
