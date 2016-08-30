@@ -12,7 +12,7 @@ Dobrý den,
 * papír bude novinový, 45 gramů, 
 * formát dvou listů A2 vložených do sebe a přeložených 1x, přeložení každého výtisku vcelku ještě 1x vítáme (nebo berlínský formát)
 * tisk 4/4 barva
-* doprava na později upřesněná místa v krajích: Jihočeská mutace (50 000 ks - České Budějovice), Jihomoravská mutace (10 000 ks - Brno), Karlovarská mutace (25 000 ks - Karlovy Vary), Královéhradecká mutace (160 000 ks), Liberecká mutace (10 000 ks - Jablonec nad Nisou), Moravskoslezská mutace (20 000 ks - Ostrava), Plzeňská mutace (50 000 ks - Plzeň), Středočeská mutace (50 000 ks - Praha), Olomoucká mutace (30 000 ks), Ústecká mutace + senátní mutace (60 000 + 10 000 ks), Zlínská mutace (20 000 ks)
+* doprava na později upřesněná místa v krajích: Jihočeská mutace (50 000 ks - České Budějovice), Jihomoravská mutace (10 000 ks - Brno), Karlovarská mutace (25 000 ks - Karlovy Vary), Královéhradecká mutace (160 000 ks), Liberecká mutace (10 000 ks - Jablonec nad Nisou), Moravskoslezská mutace (20 000 ks - Ostrava), Plzeňská mutace (50 000 ks - Plzeň), Středočeská mutace (50 000 ks - Praha), Olomoucká mutace (30 000 ks), Ústecká mutace + senátní mutace (50 000 + 20 000 ks), Zlínská mutace (20 000 ks)
 * termín dodání 30. srpna 2016 (jde o nejpozdější termín dodání)
 
 Žádám vás o nacenění této zakázky včetně odhadu dopravy na později upřesněná místa v krajích. Cenu zaplatíme na základě faktury po dodání. Můžeme složit zálohu po objednávce až do výše 70 % ceny zakázky na základě zálohové faktury.

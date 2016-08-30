@@ -20,6 +20,7 @@ your:
       - Ing. Ireny Ondráčkové
 sendby:     mail
 style:      letter
+reminder: true
 ---
 
 Vážená paní ředitelko,
