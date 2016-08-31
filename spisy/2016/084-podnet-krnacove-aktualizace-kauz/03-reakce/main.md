@@ -57,6 +57,6 @@ S pozdravem
 ---
 signature: 
   - Mgr. et Mgr. Jakub Michálek
-  - předseda zast. klubu Pirátů v Zastupitelstvu hl. m. Prahy
+  - předseda klubu Pirátů v Zastupitelstvu hl. m. Prahy
 abbr:       jakub
 ...
