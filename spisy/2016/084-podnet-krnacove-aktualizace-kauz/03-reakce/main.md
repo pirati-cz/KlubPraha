@@ -14,7 +14,8 @@ your:
    address:
       -     Mariánské náměstí 2
       -     110 00 Praha 1
-   note:    K rukám primátorky hl. m. Prahy Adriany Krnáčové
+   note:    K rukám primátorky hl. m. Prahy 
+      -     Adriany Krnáčové
    ds:      48ia97h
 sendby:     ds
 style:      letter
@@ -54,6 +55,6 @@ S pozdravem
 ---
 signature: 
   - Mgr. et Mgr. Jakub Michálek
-  - předseda zast. klubu Pirátů v zastupitelstvu hl. m. Prahy
+  - předseda zast. klubu Pirátů v Zastupitelstvu hl. m. Prahy
 abbr:       jakub
 ...
