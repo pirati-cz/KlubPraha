@@ -46,9 +46,9 @@ V souvislosti s ní bych Vás rád požádal o zaslání některých dalších d
 4. Kopii zprávy o informacích zjištěných nahlížením do spisu a stavu dožádání do Švýcarska.
 5. Podání informace o zhodnocení nároku na náhradu škody vůči konkrétním osobám (zejména tehdejšímu primátoru Pavlu Bémovi) v návaznosti na informace zjištěné ze spisu. 
 
-I přes Vámi uvedenou odpověď je neoddiskutovatelnou skutečností, že v lednu 2017 dojde k promlčení nároku na náhradu škody. Proto je nezbytné danou záležitost urychleně vyřešit. Navrhuji, aby hlavní město Praha podalo v kauze Škodova paláce žalobu co nejdříve, a to i například i vzhledem k potřebě dodržení procesní opatrnosti. 
+I přes Vámi uvedenou odpověď je neoddiskutovatelnou skutečností, že nejpozději v lednu 2017 dojde k promlčení nároku na náhradu škody. Proto je nezbytné danou záležitost urychleně vyřešit. Navrhuji, aby hlavní město Praha podalo v kauze Škodova paláce žalobu co nejdříve, a to i například i vzhledem k potřebě dodržení procesní opatrnosti. 
 
-Všechna tato doporučení a podněty činím i vzhledem k tomu, aby se existující Rada hl. m. Prahy maximálně vyvarovala případných rizik a odpovědnosti vyplývajících z toho, že by došlo k promlčení nároků hl. m. Prahy.
+Všechna tato doporučení a podněty činím i vzhledem k tomu, aby se existující Rada hl. m. Prahy maximálně vyvarovala případných rizik a odpovědnosti vyplývajících z toho, že by došlo k promlčení nároků hl. m. Prahy. Je totiž nepochybné, že pokud nárok bude soudem odmítnut jako promlčení a k tomuto promlčení dojde z důvodů, že Rada hl. m. Prahy nekonala, ačkoliv konat z opatrnosti měla a mohla, bude nutné vyvodit odpovědnost vůči členům této Rady.
 
 Prosím o zaslání odpovědi v elektronické podobě e-mailem či do datové schránky na adresu 4memzkm. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOC, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Ke komunikaci zmocňuji dále svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku, bytem Vondroušova 1198, Praha 17, tel. 608 213 119). Předem děkuji za Vaši vstřícnost. 
 
