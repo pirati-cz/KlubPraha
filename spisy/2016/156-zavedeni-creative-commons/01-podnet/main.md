@@ -1,5 +1,5 @@
 ---
-title:      Podnět
+title:      Podnět v oblasti licenční politiky – užívání licence Creative Commons
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
@@ -33,6 +33,8 @@ Vyjasnění by se dalo docílit jasným deklarováním, že jde o snímky publik
 
 Obdobným způsobem by touto licencí mohlo hlavní město Praha opatřit statistická data (např. údaje z registru vozidel, evidence řidičů, stavu ŽP, přehledů grantů…), fotografie zastupitelů, radních, nebo činností úřadu; záznamy z jednání zastupitelstva, jednání výborů a další materiály, které zveřejňuje na svém portálu praha.eu. Vzhledem k tomu, že hlavní město Praha a jednotlivé městské firmy disponují ohromným množstvím souborů, jednalo by se o nemalý přínos pro veřejnost i český internet. Čím více se bude kvalitní obsah, který hlavní město Praha vytváří, šířit, tím větší reklamu z toho česká metropole přitom bude mít. Jednou z mnohých podmínek této licence je totiž i **povinnost dalších šiřitelů fotografie uvést zdroj, odkud snímek získali.** Ti tak budou mít **zákonnou povinnost** uvést Hlavní město Prahu jako autora, díky čemuž bude uveden úřad, nebo daná městská organizace všude tam, kde bude její obsah opětovně užíván (v médiích, na webech jednotlivců, na sociálních sítích a jinde). 
 
+Výše zmíněná licenční problematika se netýká **všech dat**, která hlavní město Praha zveřejňuje, nýbrž pouze těch, která nejsou díly úředními. Úřední díla sama o sobě autorskoprávní ochraně nepodléhají, zatímco všechna ostatní ano.
+
 Pokud by hlavní město Praha začalo zveřejňovat svůj obsah pod licencí Creative Commons, mohlo by tím jedině získat. V současné době mají žadatelé o opětovné užití materiálů z webu praha.eu povinnost kontaktovat správce webových stránek pro svolení. Pokud by však tato licence byla užita, například ve variantě CC BY-SA 4.0 (uveďte licenci – zachovejte autora), tato povinnost by odpadla, čímž by hlavní město Praha ušetřilo pracovní sílu. Hlavní město Praha by si samo mohlo vybrat, jaké materiály chce zveřejňovat pod touto licencí, či nikoliv. 
 
 S pozdravem
@@ -44,4 +46,6 @@ signature:
   - bytem Zenklova 193, Praha 8
   - zastupitel hl. m. Prahy
 abbr:       jakub
+attachments:
+  - Dokument "The Power of Open" spolku Iuridicum Remedium
 ...
