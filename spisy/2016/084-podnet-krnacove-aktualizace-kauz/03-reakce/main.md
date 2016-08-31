@@ -36,15 +36,17 @@ V souvislosti s ní bych Vás rád požádal o zaslání některých dalších d
 1. Výstupy společnosti Rowan Legal ve ve věci občanskoprávní odpovědnosti bývalého primátora Pavla Béma, resp. odpovědnosti jiných osob než odsouzených v kauze Opencard I. (Seyček, Chytil)
 2. Sdělení, zda-li již v případě náhrady škody v kauze Opencard hlavní město Praha podalo žalobu na p. Seyčka a p. Chytila. 
 
+\newpage
+
 Žádám rovněž o zaslání obdobných materiálů a vyjádření i v souvislosti aktuálního vývoje kauzy Škodova paláce:
 
-1. Kopie trestního oznámení primátora Bohuslava Svobody.
-2. Kopie přihlášení se Policii České republiky s nárokem na náhradu škody. 
-3. Kopie dokumentu o provedení prvních úkonů trestního řízení, resp. usnesení o zahájení trestního stíhání ve věci kauzy Škodova paláce v návaznosti na trestní oznámení bývalého primátora Bohuslava Svobody.
-4. Kopie zprávy o informacích zjištěných nahlížením do spisu a stavu dožádání do Švýcarska.
+1. Kopii trestního oznámení primátora Bohuslava Svobody.
+2. Kopii přihlášení se Policii České republiky s nárokem na náhradu škody. 
+3. Kopii dokumentu o provedení prvních úkonů trestního řízení, resp. usnesení o zahájení trestního stíhání ve věci kauzy Škodova paláce v návaznosti na trestní oznámení bývalého primátora Bohuslava Svobody.
+4. Kopii zprávy o informacích zjištěných nahlížením do spisu a stavu dožádání do Švýcarska.
 5. Podání informace o zhodnocení nároku na náhradu škody vůči konkrétním osobám (zejména tehdejšímu primátoru Pavlu Bémovi) v návaznosti na informace zjištěné ze spisu. 
 
-I přes Vámi uvedenou odpověď je neoddiskutovatelnou skutečností, že v lednu 2017 dojde k promlčení nároku na náhradu škody. Proto je nezbytné danou záležitost urychleně vyřešit. Navrhuji, aby hlavní město Praha podalo v kauze Škodova paláce žalobu co nejdříve, a to i vzhledem k nezbytnosti dodržení procesní opatrnosti. 
+I přes Vámi uvedenou odpověď je neoddiskutovatelnou skutečností, že v lednu 2017 dojde k promlčení nároku na náhradu škody. Proto je nezbytné danou záležitost urychleně vyřešit. Navrhuji, aby hlavní město Praha podalo v kauze Škodova paláce žalobu co nejdříve, a to i například i vzhledem k potřebě dodržení procesní opatrnosti. 
 
 Všechna tato doporučení a podněty činím i vzhledem k tomu, aby se existující Rada hl. m. Prahy maximálně vyvarovala případných rizik a odpovědnosti vyplývajících z toho, že by došlo k promlčení nároků hl. m. Prahy.
 
