@@ -39,7 +39,7 @@ Dne 24. 8. 2016 jsem od Vás obdržel výzvu k upřesnění mé žádosti ze dne
 * Ředitel odboru ekonomického
 * Ředitel odboru kontroly a komunikace
 
-Rovněž upřesňuji, že žádám výše uvedené finanční prostředky poskytnout za roky 2012, 2013, 2014 a 2015 a to rozepsané za jednotlivé měsíce uvedených let (tj. žádám uvést finanční prostředky, které daná osoba získala za leden 2012, únor 2012, březen 2012... až prosinec 2015), a to u každého ředitele odboru zvlášť. 
+Rovněž upřesňuji, že žádám výše uvedené finanční prostředky poskytnout rozepsané pro jednotlivé roky 2012, 2013, 2014 a 2015 (nikoliv měsíce, jak jsem uvedl v původní žádosti), a to u každého ředitele odboru zvlášť. 
 
 Žádám poskytnutí informací v elektronické podobě do datové schránky nebo e-mailu jakub.michalek@pirati.cz. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Ke komunikaci tímto dále zmocňuji svého asistenta Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Písemnosti, které není možné doručit do datové schránky, doručujte prosím na adresu Mariánské náměstí 2, Praha 1. Předem děkuji za Vaši vstřícnost.
 
