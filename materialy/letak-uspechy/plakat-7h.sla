@@ -210,7 +210,7 @@
             <nbspace/>
             <ITEXT CH="školách. • Po debaklu se"/>
             <nbspace/>
-            <ITEXT CH="ztraceným majetkovým přiznáním Pavla Béma jsme schválili jejich elektronickou archivaci."/>
+            <ITEXT CH="ztraceným majetkovým přiznáním Pavla Béma jsme prosadili jejich elektronickou archivaci."/>
             <para PARENT="Odstavec letáku" ALIGN="0"/>
             <ITEXT FONT="Raleway Bold" FONTSIZE="9" CH="4. Šíříme informace mezi lidi"/>
             <para PARENT="Default Paragraph Style"/>
@@ -237,7 +237,7 @@
             <nbspace/>
             <ITEXT CPARENT="Default Character Style" FONTSIZE="9" CH="% – nejdražší v"/>
             <nbspace/>
-            <ITEXT CPARENT="Default Character Style" FONTSIZE="9" CH="republice. Tlačíme DPP k"/>
+            <ITEXT CPARENT="Default Character Style" FONTSIZE="9" CH="republice. Tlačíme Dopravní podnik k"/>
             <nbspace/>
             <ITEXT CPARENT="Default Character Style" FONTSIZE="9" CH="nápravě."/>
             <para PARENT="Odstavec letáku" ALIGN="0"/>
@@ -297,7 +297,7 @@
             <ITEXT CPARENT="Default Character Style" FONTSIZE="9" CH="•"/>
             <ITEXT FONTSIZE="9" CH=" Odhalili jsme podezřele nízký nájem kanceláře KSČM – v"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="budově města platí pouhou tisícovku za"/>
+            <ITEXT FONTSIZE="9" CH="budově města platila pouhou tisícovku za"/>
             <nbspace/>
             <ITEXT FONTSIZE="9" CH="měsíc!"/>
             <para PARENT="Odstavec letáku" ALIGN="0"/>
