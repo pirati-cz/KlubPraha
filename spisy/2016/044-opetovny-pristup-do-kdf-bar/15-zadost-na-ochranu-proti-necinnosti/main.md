@@ -37,7 +37,7 @@ Prosím o poskytnutí informace v elektronické podobě do datové schránky, p�
 
 ---
 signature:
-  - Mgr. Bc. Jakub Michálek
+  - Mgr. et Mgr. Jakub Michálek
   - nar. 6. 2. 1989
   - bytem Zenklova 193, Praha 8
   - zastupitel hl. m. Prahy
