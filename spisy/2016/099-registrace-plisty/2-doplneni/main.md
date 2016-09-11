@@ -1,7 +1,7 @@
 ---
 title:      Doplnění oznámení o periodickém tisku
 author:
-   name:    Ivan Bartoš
+   name:    Vojtěch Pikal
    ds:      b2i4r6j
    mail:    info@pirati.cz
 our:
@@ -30,7 +30,7 @@ obsahové zaměření:
 :   noviny politické strany
 
 četnost vydávání:
-:   2x ročně.
+:   3x ročně.
 
 údaje o regionálních mutacích:
 :   organizační jednotky strany mohou vydávat také krajské a místní mutace
@@ -38,12 +38,12 @@ obsahové zaměření:
 vydavatel:
 :   Česká pirátská strana, se sídlem Řehořova 943/19, 13000 Praha 3-Žižkov, IČ 71339698, žádáme o doručování do datové schránky b2i4r6j
 
-dodávám, že periodicita daného média je příležitostní, a noviny vydáváme v počtu **1-2 vydání ročně**. Žádám proto o zapsání hodnoty periodicita: 2x ročně do evidence Ministerstva kultury.
+dodávám, že periodicita daného média je příležitostní, a noviny vydáváme v počtu **1-3 vydání ročně**. Žádám proto o zapsání hodnoty periodicita: 3x ročně do evidence Ministerstva kultury.
 
 S pozdravem
 
 ---
 signature:
-  - PhDr. Ivan Bartoš, Ph.D.
-  - předseda strany
+  - Bc. Vojtěch Pikal
+  - 1. místopředseda strany
 ...
