@@ -2,6 +2,38 @@
 
 ## Úvodní info
 
+Městská radiová síť (MRS) - TETRA, je využívána MP, DPP, TSK apod, avšak není zabezpečena. Není zde autentifikace ani authorizace, natož šifrování.
+
+### Text k videu
+
+Zdravím,
+
+jmenuji se Ondřej Profant, jsem zastupitel za Pirátskou stranu v zastupitelstvu hl. m. Prahy. Též jsem jedním ze zakladatelů Cryptoparty v Čechách.
+V současnosti se převážně zabývám technologiemi v rámci Prahy.
+
+Městká radiová síť (MRS) slouží Městské policii, Zdravotní záchranné službě, Dopravnímu podniku či Technické správě komunikací. Využívá se jak ke klasické slovní komunikaci skrz vysílačky, tak k posílání textových zpráv.
+
+Důležité je říct, že technologicky to není obdoba GSM - využívaných mobilními operátory, ale jedná se o klasické radio.
+
+Inu dost bylo slov, pojďme si ukázat praktickou ukázku. Co k tomu budeme potřebovat?
+Hlavně běžný USB přijmač radia. Obvykle stojí pár stovek.
+Dále linuxový počítač. Já používám Fedoru 24 Workstation.
+Samozřejmě bude třeba umět pracovat s gitem a vědět něco o kompilaci softwaru.
+
+**Instalace**
+
+Stáhneme si dva repozitáře.
+
+
+- [podrobný návod](https://github.com/Kedrigern/example-projects/blob/master/hw/tetra.md)
+
+
+#### Odkazy
+
+
+[návod]: https://github.com/Kedrigern/example-projects/blob/master/hw/tetra.md
+
+
 ### Korespondence s řed. J. Macháčkem:
 
 > Síť provozuje Praha a to váš odbor (BEZ)?
@@ -31,6 +63,26 @@ Od října 2015 je připraven odborem bezpečnosti MHMP TISK: R-18999 k záměru
 - vysoutěžení rámcové ceny na dodávku terminálů TETRA.
 
 Uvedený materiál nebyl dosud Radou hl. m. Prahy projednán.
+
+> Jak informujete uživatele o bezpečnostních zasadách? Máte nějaká pravidla? Doporučení? Školení?
+
+Jedenkrát za měsíc probíhá pravidelná porada všech uživatelů MRS včetně zástupce servisní organizace. Tuto poradu řídí odbor BEZ MHM. Na této poradě jsou probírána všechna technická opatření, případně vzniklé problémy provozu a požadavky na servisní organizaci. Zápis z těchto jednání je předkládán řediteli odboru BEZ MHMP.
+
+> Kolik je v síti vysílačů (BTS)?
+
+V současné době je v síti MRS celkem 21 SITE.
+
+> Mohl bych vidět tisk R-18999?
+
+Tisk R-18999 byl pozastaven,  je ve fázi dalšího dopracování a doplnění odborného stanoviska.
+
+> Popř. jaké formy je veřejná zakázka? Nadlimitní? JŘBÚ?
+
+Jedná se o Záměr na zadání nadlimitní veřejné zakázky v JŘBU.
+
+---
+
+Dále jsem si psal s MP. Ti mi řekli, že vše řeší odbor BEZ MHMP.
 
 ### Další
 
