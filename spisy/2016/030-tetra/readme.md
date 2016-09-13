@@ -15,13 +15,13 @@ Z faktur jsme našli tyto dodavatele:
 | ASCOM Praha / DELTA Energy      | 40767698 |    173 414 258  |
 | **Suma**                        |          | **676 823 559** |
 
-Podrobnosti jsou v samostatných csv: [faktury_konektel.csv][], [faktury_cofi.csv][], [faktury_ascom.csv][].
+Podrobnosti jsou v samostatných csv: [Connectel](faktury_konektel.csv), [Cofi](./faktury_cofi.csv), [Ascom](./ascom.csv).
 
 Mohou existovat i další. Dále se platí mnoho dalších drobných věcí...
 
 ### Video
 
-- [scénář videa][./video.md]
+- [scénář videa](./video.md)
 
 ### Korespondence s řed. J. Macháčkem:
 
