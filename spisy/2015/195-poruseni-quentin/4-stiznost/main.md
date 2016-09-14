@@ -1,5 +1,5 @@
 ---
-title:      Stížnost na postup krajského soudu
+title:      Stížnost na postup městského soudu
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
