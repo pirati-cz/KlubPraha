@@ -16,7 +16,7 @@ your:
       -     Spálená 2
       -     Praha 2, 120 00
    note:
-      -     k rukám předsedy soudu JUDr.Liboru Vávrovi
+      -     k rukám předsedy soudu JUDr. Liboru Vávrovi
 sendby:     ds
 style:      letter
 ---
