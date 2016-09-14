@@ -33,7 +33,7 @@ o obchodních korporacích, jemuž se podřídila, resp. § 435 zákona č. 89/2
 
 Na své upozornění jsem neobdržel z městského soudu dosud žádnou odpověď, a to ani po urgenci, kterou jsem zaslal dne 30. 11. 2015. Dodnes nevím, zda-li Městský soud v Praze vyvodil z mého podnětu nějaké závěry, či nikoliv. Několikrát jsem se pokoušel neúspěšně telefonicky kontaktovat různá pracoviště Městského soudu v Praze ve snaze zjistit, kdo se danou záležitostí zabývá, nicméně tomu tak bylo vždy neúspěšně.
 
-Vzhledem k tomu, že je soud nečinný a skutečnost, kdy obchodní společnost Quentin Investment Company a.s., IČ 27648303 i nadále nezveřejnila svoji účetní závěrku od roku 2007 (s výjimkou roku 2012) i nadále trvá, podávám stížnost podle § 164 odst. 1 písm. a) zákona č. 6/2002 Sb., o soudech a soudcích. Navrhuji, aby orgán státní správy soudu tuto stížnost postupem podle § 172 zákona č. 6/2000 Sb., o soudech a soudcích, prošetřil. 
+Vzhledem k tomu, že je soud nečinný a skutečnost, kdy obchodní společnost Quentin Investment Company a.s., IČ 27648303 i nadále nezveřejnila svoji účetní závěrku od roku 2007 (s výjimkou roku 2012) i nadále trvá, podávám stížnost podle § 164 odst. 1 písm. a) zákona č. 6/2002 Sb., o soudech a soudcích. Navrhuji, aby orgán státní správy soudu tuto stížnost postupem podle § 172 zákona č. 6/2000 Sb., o soudech a soudcích, prošetřil a vyrozuměl mě o výsledku šetření.
 
 Ohledně doručení odpovědi žádám o následující:
 
@@ -45,7 +45,7 @@ S pozdravem
 
 ---
 signature:
-  - Jakub Michálek
+  - Mgr. et Mgr. Jakub Michálek
   - zastupitel hl. m. Prahy
 abbr:       jakub
 ...
