@@ -4,16 +4,18 @@
 
 Městská radiová síť (MRS) - TETRA, je využívána MP, DPP, TSK apod, avšak není zabezpečena. Není zde autentifikace ani authorizace, natož šifrování. Více informací na en [wiki][tetra].
 
+Stát má radiovou síť PEGAS (nesprávně označovanou Matra), kterou sdílí s MP v Ostravě a Liberci. Podle všeho by měl být přechod pro Prahu bezproblémový. Tuto službu stát poskytuje zdarma! Můžeme dostat 6 kanálů pro potřeby MP. Dnes je na kanále 112 realizováno propojení mezi sítěmi.
+
 ### Náklady
 
 Z faktur jsme našli tyto dodavatele:
 
-| Jméno / jména                   | IČO      | Suma (Kč)       |
-|---------------------------------|----------|----------------:|
-| KonekTel a.s.                   | 15051145 |    202 942 576  |
-| ASCOM (CZ) s.r.o. / COFI s.r.o. | 27187616 |    300 466 725  |
-| ASCOM Praha / DELTA Energy      | 40767698 |    173 414 258  |
-| **Suma**                        |          | **676 823 559** |
+| Jméno / jména                   | IČO      | Suma (Kč)       | Poznámka                             |
+|---------------------------------|----------|----------------:|--------------------------------------|
+| KonekTel a.s.                   | 15051145 |    202 942 576  | v roce 2014 dar [150 00 Kč ODS][dar] |
+| ASCOM (CZ) s.r.o. / COFI s.r.o. | 27187616 |    300 466 725  | |
+| ASCOM Praha / DELTA Energy      | 40767698 |    173 414 258  | |
+| **Suma**                        |          | **676 823 559** | |
 
 Podrobnosti jsou v samostatných csv: [Connectel](faktury_konektel.csv), [Cofi](./faktury_cofi.csv), [Ascom](./ascom.csv).
 
@@ -95,6 +97,7 @@ Dále jsem si psal s MP. Ti mi řekli, že vše řeší odbor BEZ MHMP.
 
 - prezentovat na výboru pro bezpečnost
 
+[dar]: http://www.politickefinance.cz/donor/view/514174
 [tetra]: https://en.wikipedia.org/wiki/Terrestrial_Trunked_Radio
 [RTL2832U]: https://www.google.cz/search?q=Realtek+RTL2832U&ie=utf-8&oe=utf-8&gws_rd=cr&ei=t8jWV6ewOoKnad24uKAK#q=Realtek+RTL2832U&tbm=shop
 [connectel]: http://www.connectel-cz.com/
