@@ -1,4 +1,6 @@
 
+Hotové: https://www.youtube.com/watch?v=JRdjRJjWEx0
+
 Zdravím,
 
 *zobrazit web [praha.pirati.cz][]*
