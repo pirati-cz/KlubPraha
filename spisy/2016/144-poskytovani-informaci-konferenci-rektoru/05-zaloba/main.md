@@ -13,16 +13,19 @@ your:
       -     Městský soud v Brně
    address:
       -     Polní 994/39
-      -     608 01, Brno
+      -     608 01 Brno
 sendby:     ds
 style:      letter
 ---
 
 ## Žaloba proti rozhodnutí správního orgánu
 
-**Žalobce:**   Jakub Michálek, narozen 9. 2. 1989, bytem Zenklova 193, Praha 8
+**Žalobce:**   Jakub Michálek, narozen 9. 2. 1989, bytem Bořivojova 108, Praha 8
 
-zástupce:  Mgr. Filip Hajný, advokát, ev. č. ČAK 14269, se sídlem Moskevská 532/60, 101 00 Praha 10 - Vršovice
+zástupce:  
+
+Mgr. Filip Hajný, advokát, ev. č. ČAK 14269, se sídlem Moskevská 532/60, 101 00 Praha 10 - Vršovice  
+doručovat do datové schránky axxijmt
 
 **Žalovaná:**  Česká konference rektorů, Žerotínovo nám. 9, 601 77 Brno
 
@@ -49,9 +52,9 @@ zástupce:  Mgr. Filip Hajný, advokát, ev. č. ČAK 14269, se sídlem Moskevsk
 
 Z výše uvedených důvodů žalobce navrhuje, aby soud vydal následující rozsudek:
 
-1. Rozhodnutí žalované ze dne 20. 7. 2016 se zrušuje.
-1. Žalované se nařizuje, aby poskytla informace, žádané v žádosti ze dne 23. 6. 2016, a to do 5 dnů od právní moci rozsudku.
-2. Žalovaná je povinna zaplatit žalobci náhradu nákladů řízení, a to do 3 dnů od právní moci rozsudku, k rukám zástupce žalobce.
+1. Rozhodnutí žalované o odmítnutí žádosti o informace ze dne 8. 7. 2016 a rozhodnutí žalované o podaném odvolání ze dne 20. 7. 2016 se zrušují.
+2. Žalované se nařizuje, aby žalobci poskytla informace, a to buď adresu internetové stránky, na které zveřejňujeinformace podle vyhlášky č. 442/2006 Sb., anebo pokud taková stránka neexistuje či neobsahuje některé informace uvedené ve vyhlášce, potom všechny informace podle vyhlášky č. 442/2006 Sb., a to v elektronické podobě do 5 dnů od právní moci rozsudku.
+3. Žalovaná je povinna zaplatit žalobci náhradu nákladů řízení, a to do 3 dnů od právní moci rozsudku, k rukám právního zástupce žalobce.
 
 Žalobce souhlasí s tím, aby soud projednal věc bez nařízení jednání. 
 
