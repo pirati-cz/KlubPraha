@@ -12,7 +12,7 @@ Z faktur jsme našli tyto dodavatele:
 
 | Jméno / jména                   | IČO      | Suma (Kč)       | Poznámka                             |
 |---------------------------------|----------|----------------:|--------------------------------------|
-| KonekTel a.s.                   | 15051145 |    202 942 576  | v roce 2014 dar [150 00 Kč ODS][dar] |
+| KonekTel a.s.                   | 15051145 |    202 942 576  | v roce 2014 dar [150 000 Kč ODS][dar] |
 | ASCOM (CZ) s.r.o. / COFI s.r.o. | 27187616 |    300 466 725  | |
 | ASCOM Praha / DELTA Energy      | 40767698 |    173 414 258  | |
 | **Suma**                        |          | **676 823 559** | |
