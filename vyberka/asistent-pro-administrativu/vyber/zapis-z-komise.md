@@ -75,8 +75,9 @@ Elizabet Kovačeva | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 8
 Uchazeči, kteří uspěli v prvním kole výběrového řízení:
 
 * Jan Svoboda
-* Petr Vosátka
+* Barbara Hradečná
 * Jakub Zítko
+* Elizabet Kovačeva
 
 Uchazeči, kteří neuspěli v prvním kole výběrového řízení:
 
