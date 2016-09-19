@@ -67,10 +67,10 @@ Kritérium počet bodů
 Uchazeč \ hodnocení | 1. | 2. | 3. | 4. | 5. | 6. | 7. | 8. | Celkem
 ------------------- | --: | --: | --: | --: | --: | --: | --: | --:| --:|
 Jan Svoboda| 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  8
-Barbora Hradečná| 1 | 1 | 1 | 1 | 1 | 1 | 1 | 8
+Barbora Hradečná| 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 8
 Petr Vosátka| 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 7
 Jakub Zítko| 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 8
-Elizabet Kovačeva | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 8
+Elizabet Kovačeva | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 8
 
 Uchazeči, kteří uspěli v prvním kole výběrového řízení:
 
