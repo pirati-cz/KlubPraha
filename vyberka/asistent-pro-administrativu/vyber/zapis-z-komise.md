@@ -1,4 +1,4 @@
-# Výběrové řízení na [asistenta pro adminisrtativu](https://github.com/pirati-cz/KlubPraha/tree/master/vyberka/asistent-pro-administrativu )
+# Výběrové řízení na [asistenta pro administrativu](https://github.com/pirati-cz/KlubPraha/tree/master/vyberka/asistent-pro-administrativu )
 
 Datum jednání: 31. 8. 
 
