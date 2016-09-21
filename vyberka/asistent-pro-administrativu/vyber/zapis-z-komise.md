@@ -1,4 +1,4 @@
-# Výběrové řízení na [asistenta pro adminisrtativu](https://github.com/pirati-cz/KlubPraha/tree/master/vyberka/asistent-pro-administrativu )
+# Výběrové řízení na [asistenta pro administrativu](https://github.com/pirati-cz/KlubPraha/tree/master/vyberka/asistent-pro-administrativu )
 
 Datum jednání: 31. 8. 
 
@@ -104,12 +104,12 @@ Kritérium | počet bodů
 4. Zkušenosti s administrativou | 20
 5. Písemný projev | 15
 6. práce s technickými systémy | 15
-7. Plánování 10
-8. Znalost angličtiny 5
+7. Plánování | 10
+8. Znalost angličtiny | 5
 
 
-Uchazeč \ hodnocení |  1. |  2. |  3. |  4. |  5. | 6. | 7. | Celkem
-------------------- | --: | --: | --: | --: | --: | --: | --: | ---:
+Uchazeč \ hodnocení |  1. |  2. |  3. |  4. |  5. | 6. | 7. | 8. | Celkem
+------------------- | --: | --: | --: | --: | --: | --: | --: | ---: | ---:
 Jan Svoboda  | 15 | 5 | 0 | 16 | 15 | 13 | 8 | 5 | 77
 Jakub Zítko | 16 | 8 | 5 | 12 | 15 | 10 | 5 | 2 | 73
 Elizabet Kovačeva | 18 | 4 | 3 | 20 | 15 | 14 | 10 | 5 | 89
@@ -138,6 +138,6 @@ Seznam nabídek, které nejsou přijatelné nebo které byly vyřazeny:
 2. 
 3. 
 
-Doporučení k uzavření smlouvy: Komise se jednomyslně shodla, že vítěz výběrového řízení (Tobias Esner) by se měl stát Krajským manažerem tak, jak bylo avizováno v nabídce na danou pracovní pozici.
+Doporučení k uzavření smlouvy: Komise se jednomyslně shodla, že vítěz výběrového řízení (Elizabet Kovačeva) by se měla stát Asistentem pro administrativu tak, jak bylo avizováno v nabídce na danou pracovní pozici.
 
 Zapsáno dne 4. 9. 2016 v Praze, zápis před zveřejněním ověřil zástupce zadavatele.
