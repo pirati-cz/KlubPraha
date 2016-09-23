@@ -460,3 +460,96 @@ Měsíc,Platba,Plátce,Příjemce,Částka (Kč),Důvod platby,Zdroj
 2016-06,2016-06-09,Praha,Adam Zábranský,4466,paušální odměna,
 2016-06,2016-06-09,Praha,Adam Zábranský,255,zdravotní pojištění z paušální odměny,
 2016-06,2016-06-09,Praha,Adam Zábranský,930,záloha na daň z paušální odměny,
+2016-07,2016-07-09,Praha,Jakub Michálek,4466,paušální odměna,
+2016-07,2016-07-09,Praha,Jakub Michálek,255,zdravotní pojištění z paušální odměny,
+2016-07,2016-07-09,Praha,Jakub Michálek,930,záloha na daň z paušální odměny,
+2016-07,2016-07-09,Praha,Ondřej Profant,4466,paušální odměna,
+2016-07,2016-07-09,Praha,Ondřej Profant,255,zdravotní pojištění z paušální odměny,
+2016-07,2016-07-09,Praha,Ondřej Profant,930,záloha na daň z paušální odměny,
+2016-07,2016-07-09,Praha,Mikuláš Ferjenčík,4466,paušální odměna,
+2016-07,2016-07-09,Praha,Mikuláš Ferjenčík,255,zdravotní pojištění z paušální odměny,
+2016-07,2016-07-09,Praha,Mikuláš Ferjenčík,930,záloha na daň z paušální odměny,
+2016-07,2016-07-09,Praha,Adam Zábranský,4466,paušální odměna,
+2016-07,2016-07-09,Praha,Adam Zábranský,255,zdravotní pojištění z paušální odměny,
+2016-07,2016-07-09,Praha,Adam Zábranský,930,záloha na daň z paušální odměny,
+2016-08,2016-08-09,Praha,Jakub Michálek,4466,paušální odměna,
+2016-08,2016-08-09,Praha,Jakub Michálek,255,zdravotní pojištění z paušální odměny,
+2016-08,2016-08-09,Praha,Jakub Michálek,930,záloha na daň z paušální odměny,
+2016-08,2016-08-09,Praha,Ondřej Profant,4466,paušální odměna,
+2016-08,2016-08-09,Praha,Ondřej Profant,255,zdravotní pojištění z paušální odměny,
+2016-08,2016-08-09,Praha,Ondřej Profant,930,záloha na daň z paušální odměny,
+2016-08,2016-08-09,Praha,Mikuláš Ferjenčík,4466,paušální odměna,
+2016-08,2016-08-09,Praha,Mikuláš Ferjenčík,255,zdravotní pojištění z paušální odměny,
+2016-08,2016-08-09,Praha,Mikuláš Ferjenčík,930,záloha na daň z paušální odměny,
+2016-08,2016-08-09,Praha,Adam Zábranský,4466,paušální odměna,
+2016-08,2016-08-09,Praha,Adam Zábranský,255,zdravotní pojištění z paušální odměny,
+2016-08,2016-08-09,Praha,Adam Zábranský,930,záloha na daň z paušální odměny,
+2016-05,2016-07-02,Praha,Adam Zábranský,3623,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/05/adam-zabransky/README.md
+2016-05,2016-07-02,Pirati,Adam Zábranský,2971,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/05/adam-zabransky/README.md
+2016-05,2016-07-02,Pirati,Adam Zábranský,652,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/05/adam-zabransky/README.md
+2016-05,2016-07-02,Praha,Mikuláš Ferjenčík,3530,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/05/mikulas-ferjencik/README.md
+2016-05,2016-07-02,Pirati,Mikuláš Ferjenčík,2886,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/05/mikulas-ferjencik/README.md
+2016-05,2016-07-02,Pirati,Mikuláš Ferjenčík,644,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/05/mikulas-ferjencik/README.md
+2016-05,2016-07-02,Praha,Ondřej Profant,8150,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/05/ondrej-profant/README.md
+2016-05,2016-07-02,Pirati,Ondřej Profant,6278,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/05/ondrej-profant/README.md
+2016-05,2016-07-02,Pirati,Ondřej Profant,1872,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/05/ondrej-profant/README.md
+2016-05,2016-07-02,Praha,Jakub Michálek,2108,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/05/jakub-michalek/README.md
+2016-05,2016-07-02,Pirati,Jakub Michálek,1564,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/05/jakub-michalek/README.md
+2016-05,2016-07-02,Pirati,Jakub Michálek,544,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/05/jakub-michalek/README.md
+2016-06,2016-07-26,Praha,Adam Zábranský,2634,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/06/adam-zabransky/README.md
+2016-06,2016-07-26,Pirati,Adam Zábranský,1819,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/06/adam-zabransky/README.md
+2016-06,2016-07-26,Pirati,Adam Zábranský,815,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/06/adam-zabransky/README.md
+2016-06,2016-07-26,Praha,Mikuláš Ferjenčík,5995,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/06/mikulas-ferjencik/README.md2016-07,202016-07,2016-09-23,Praha,Adam Zábranský,2290,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/adam-zabransky/README.md
+2016-07,2016-09-23,Pirati,Adam Zábranský,1748,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/adam-zabransky/README.md
+2016-07,2016-09-23,Pirati,Adam Zábranský,542,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/adam-zabransky/README.md
+2016-07,2016-09-23,Praha,Mikuláš Ferjenčík,9391,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/mikulas-ferjencik/README.md
+2016-07,2016-09-23,Pirati,Mikuláš Ferjenčík,5476,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/mikulas-ferjencik/README.md
+2016-07,2016-09-23,Pirati,Mikuláš Ferjenčík,3915,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/mikulas-ferjencik/README.md
+2016-07,2016-09-23,Praha,Ondřej Profant,10534,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/ondrej-profant/README.md
+2016-07,2016-09-23,Pirati,Ondřej Profant,6439,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/ondrej-profant/README.md
+2016-07,2016-09-23,Pirati,Ondřej Profant,4095,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/ondrej-profant/README.md
+2016-07,2016-09-23,Praha,Jakub Michálek,13713,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/jakub-michalek/README.md
+2016-07,2016-09-23,Pirati,Jakub Michálek,8500,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/jakub-michalek/README.md
+2016-07,2016-09-23,Pirati,Jakub Michálek,5242,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/jakub-michalek/README.md2016-07,2016-09-23,Praha,Adam Zábranský,2290,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/adam-zabransky/README.md
+2016-07,2016-09-23,Pirati,Adam Zábranský,1748,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/adam-zabransky/README.md
+2016-07,2016-09-23,Pirati,Adam Zábranský,542,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/adam-zabransky/README.md
+2016-07,2016-09-23,Praha,Mikuláš Ferjenčík,9391,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/mikulas-ferjencik/README.md
+2016-07,2016-09-23,Pirati,Mikuláš Ferjenčík,5476,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/mikulas-ferjencik/README.md
+2016-07,2016-09-23,Pirati,Mikuláš Ferjenčík,3915,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/mikulas-ferjencik/README.md
+2016-07,2016-09-23,Praha,Ondřej Profant,10534,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/ondrej-profant/README.md
+2016-07,2016-09-23,Pirati,Ondřej Profant,6439,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/ondrej-profant/README.md
+2016-07,2016-09-23,Pirati,Ondřej Profant,4095,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/ondrej-profant/README.md
+2016-07,2016-09-23,Praha,Jakub Michálek,13713,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/jakub-michalek/README.md
+2016-07,2016-09-23,Pirati,Jakub Michálek,8500,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/jakub-michalek/README.md
+2016-07,2016-09-23,Pirati,Jakub Michálek,5242,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/jakub-michalek/README.md16-09-23,Praha,Adam Zábranský,2290,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/adam-zabransky/README.md
+2016-07,2016-09-23,Pirati,Adam Zábranský,1748,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/adam-zabransky/README.md
+2016-07,2016-09-23,Pirati,Adam Zábranský,542,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/adam-zabransky/README.md
+2016-07,2016-09-23,Praha,Mikuláš Ferjenčík,9391,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/mikulas-ferjencik/README.md
+2016-07,2016-09-23,Pirati,Mikuláš Ferjenčík,5476,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/mikulas-ferjencik/README.md
+2016-07,2016-09-23,Pirati,Mikuláš Ferjenčík,3915,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/mikulas-ferjencik/README.md
+2016-07,2016-09-23,Praha,Ondřej Profant,10534,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/ondrej-profant/README.md
+2016-07,2016-09-23,Pirati,Ondřej Profant,6439,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/ondrej-profant/README.md
+2016-07,2016-09-23,Pirati,Ondřej Profant,4095,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/ondrej-profant/README.md
+2016-07,2016-09-23,Praha,Jakub Michálek,13713,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/jakub-michalek/README.md
+2016-07,2016-09-23,Pirati,Jakub Michálek,8500,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/jakub-michalek/README.md
+2016-07,2016-09-23,Pirati,Jakub Michálek,5242,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/jakub-michalek/README.md
+2016-06,2016-07-26,Pirati,Mikuláš Ferjenčík,3659,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/06/mikulas-ferjencik/README.md
+2016-06,2016-07-26,Pirati,Mikuláš Ferjenčík,2336,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/06/mikulas-ferjencik/README.md
+2016-06,2016-07-26,Praha,Ondřej Profant,9054,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/06/ondrej-profant/README.md
+2016-06,2016-07-26,Pirati,Ondřej Profant,7054,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/06/ondrej-profant/README.md
+2016-06,2016-07-26,Pirati,Ondřej Profant,2000,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/06/ondrej-profant/README.md
+2016-06,2016-07-26,Praha,Jakub Michálek,3713,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/06/jakub-michalek/README.md
+2016-06,2016-07-26,Pirati,Jakub Michálek,3029,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/06/jakub-michalek/README.md
+2016-06,2016-07-26,Pirati,Jakub Michálek,684,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/06/jakub-michalek/README.md
+2016-07,2016-09-23,Praha,Adam Zábranský,2290,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/adam-zabransky/README.md
+2016-07,2016-09-23,Pirati,Adam Zábranský,1748,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/adam-zabransky/README.md
+2016-07,2016-09-23,Pirati,Adam Zábranský,542,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/adam-zabransky/README.md
+2016-07,2016-09-23,Praha,Mikuláš Ferjenčík,9391,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/mikulas-ferjencik/README.md
+2016-07,2016-09-23,Pirati,Mikuláš Ferjenčík,5476,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/mikulas-ferjencik/README.md
+2016-07,2016-09-23,Pirati,Mikuláš Ferjenčík,3915,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/mikulas-ferjencik/README.md
+2016-07,2016-09-23,Praha,Ondřej Profant,10534,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/ondrej-profant/README.md
+2016-07,2016-09-23,Pirati,Ondřej Profant,6439,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/ondrej-profant/README.md
+2016-07,2016-09-23,Pirati,Ondřej Profant,4095,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/ondrej-profant/README.md
+2016-07,2016-09-23,Praha,Jakub Michálek,13713,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/jakub-michalek/README.md
+2016-07,2016-09-23,Pirati,Jakub Michálek,8500,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/jakub-michalek/README.md
+2016-07,2016-09-23,Pirati,Jakub Michálek,5242,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/jakub-michalek/README.md
