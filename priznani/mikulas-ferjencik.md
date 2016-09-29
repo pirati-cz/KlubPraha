@@ -33,7 +33,6 @@ V následujícím seznamu jsou uvedeny všechny nesplacené dluhy (půjčky, úv
 
 | Popis dluhu           | Odhad hodnoty |
 | --------------------- | ------------: |
-| půjčka od Jakuba Michálka | 6000 Kč |
 
 
 ### Způsob obživy
