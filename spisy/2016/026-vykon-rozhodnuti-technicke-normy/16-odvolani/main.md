@@ -25,9 +25,7 @@ dne 6. 10. 2016 jsem od Obvodního soudu pro Prahu 1 obdržel na svůj návrh us
 
 Obvodní soud pro Prahu 1 tím reagoval na můj návrh s názvem ⁮„Návrh na zastavení výkonu rozhodnutí po splnění uložené povinnosti“, který jsem podal soudu datovou schránkou dne 28. 6. 2016.
 
-V návrhu usnesení ze dne 6. 10. 2016 nicméně Obvodní soud pro Prahu 1 rozhodl, že žádná z uvedených stran nemá nárok na úhradu nákladů, a to postupem dle ust. § 146 odst. 1 písm. b) zákona č. 99/1963 Sb., občanského soudního řádu. S tímto závěrem se nicméně nemohu ztotožnit, neboť i když došlo k zastavení řízení na základě vzájemné dohody, nelze opomenout skutečnost, že k vynucení rozsudku Městského soudu bylo nezbytné udělit celkem tři, byť nepravomocné, pokuty ve výši 100 000 Kč Obvodním soudem pro Prahu 1. 
-
-Domnívám se proto, že Obvodní soud pro Prahu 1 měl postupovat v souladu s ust. § 146 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu. V souvislosti s výše uvedeným proto podávám proti usnesení soudu odvolání. 
+V návrhu usnesení ze dne 6. 10. 2016 nicméně Obvodní soud pro Prahu 1 rozhodl, že žádná z uvedených stran nemá nárok na úhradu nákladů, a to postupem dle ust. § 146 odst. 1 písm. b) zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o.s.ř.“). S tímto závěrem se nicméně nemohu ztotožnit. Podle § 146 odst. 2 o.s.ř, platí: Byl-li pro chování povinného vzat zpět návrh, který byl podán důvodně, je povinen hradit náklady řízení povinný. Oprávněný dne 28. 6. 2016 navrhl zastavení na základě toho, že mezi stranami došlo k dohodě včetně toho, že žalovaný ponese náklady řízení. Je tedy naplněna hypotéza § 146 odst. 2 o.s.ř, neboť oprávněný podal návrh důvodně a vzal ho následně zpět až potom, co povinný během exekuce dodatečně splnil, co mu ukládalo vykonatelné rozhodnutí soudu. Soud tedy měl přiznat náhradu nákladů řízení oprávněnému dle dikce zákona i dohody stran. Navrhuji proto, aby odvolací soud zrušil bod II. napadeného rozhodnutí exekučního soudu a přiznal oprávněnému náhradu nákladů řízení.
 
 S pozdravem
 
