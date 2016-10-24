@@ -6,7 +6,7 @@ Záměr krajské sítě koordinátorů
 Shrnutí
 -------
 
-Součástí strategie pro volby do Parlamentu je udělat spolehlivou síť placených krajských koordinátorů (kostru). Koordinátoři budou odpovědní příslušnému krajskému předsednictvu. Vedle toho je v příslušné oblasti bude metodicky vést celostátní vedení, za celostátní vedení budou odpovídat personálnímu odboru. Odměňováni budou na základě rozhodnutí krajského předsednictva z rozpočtu příslušného krajského sdružení. 
+Součástí strategie pro volby do Parlamentu je udělat spolehlivou síť placených krajských koordinátorů (kostru organizace). Koordinátoři budou odpovědní příslušnému krajskému předsednictvu. Vedle toho je v příslušné oblasti bude metodicky vést celostátní vedení, za celostátní vedení budou odpovídat personálnímu odboru. Odměňováni budou na základě rozhodnutí krajského předsednictva z rozpočtu příslušného krajského sdružení. 
 
 Potřeba projektu
 --------------
