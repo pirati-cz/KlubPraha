@@ -59,7 +59,10 @@ V nabídce nám prosím zašli v jednom PDF dokumentu následující materiály:
 
 1. krátký motivační dopis,
 2. svůj životopis včetně referencí,
-3. návrh organizace předvolební akce s dobrovolníky v daném kraji, která získá voliče, včetně rozpočtu max. 10 tis. Kč, a praktického popisu uspořádání krok za krokem (max 2 normostrany).
+3. sepište návrh organizace akce s dobrovolníky v daném kraji, která získá příznivce či voliče, včetně rozpočtu max. 10 tis. Kč, a praktického popisu uspořádání krok za krokem (např. Pirátský párty 17. listopadu), akci zrealizujte a sepište zprávu s obrázky a odkazy (max 3 normostrany).
+
+
+K uspořádání akce: Akci můžete připravit po dohodě s příslušným krajským sdružením (a klidně s využitím odsouhlasených zdrojů Pirátů), akci zpropagujte na facebooku, mezi lidmi i v ulicích, vymyslete atrativní program a formát, pozvěte lidi mimo Piráty, uspořádejte a zdokumentujte fotkami v události na facebooku - doporučeno je zorganizovat akci v rámci celorepublikové akce 17. listopadu ideálně v oblasti kraje, kde dosud nikdo nepůsobí, ale měli jsme tam dobré výsledky (viz [příklad z roku 2012](https://www.pirati.cz/tiskove-zpravy/17._listopad_-_bud_pirat) a aktuální informace na webu strany a [výsledky voleb dle okrsků](https://interaktivni.rozhlas.cz/krajske-volby-v-okrscich/)).
 
 Z výše uvedených dokumentů by měly být patrné zejména zkušenosti z práce s lidmi, zodpovědnost při nakládání s penězi, schopnost práce s administrativou, práce s technickými systémy (preferujeme ty svobodné), plánování, příp. zkušenosti s dobrovolnictvím. V nabídce by měl být dostatek informací, aby komise mohla ohodnotit všechna kritéria (viz níže).
 
@@ -70,7 +73,7 @@ Rizikové faktory: Pokud máš nedejbože záznam v trestním rejstříku, jsi t
 
 Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPP, DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [podmínek pro placené úkoly](https://www.pirati.cz/rules/ppu) s vykazováním v systémů [redmine][redmine].
 
-**Nabídku nám prosím zašli do patnácti dnů od vyhlášení výběrového řízení, do tří dnů se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošli e-mailem na adresu zadavatele. Kopii potom na <info@pirati.cz>.**
+**Nabídku nám prosím zašli do 20. 11. 2016, do tří dnů se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Pohovory s pozvanými uchazeči budou v období 22.-25. 11. 2016.  Nabídku pošli e-mailem na adresu zadavatele. Kopii potom na <info@pirati.cz>.**
 
 ## Hodnocení nabídek
 
