@@ -14,8 +14,6 @@ se sympatizujícími lokálními subjekty, sestavilo kvalitní a plné krajské 
 podílelo na celostátní kampani Pirátů, nyní zejména do Poslanecké sněmovny, a to zejména pořádáním kontaktní kampaně.
 Pokud sympatizuješ s Piráty a zároveň si chceš i trochu přivydělat, je tohle pro tebe ta pravá nabídka. 
 
-![Republikové předsednictvo Pirátů](predsednictvo.jpg)
-
 ## Poptávaná činnost:
 
 * práce s dobrovolníky a pořádání akcí: vedení krajské evidence dobrovolníků, zajištění lidí na svolané akce (schůze a zejména v kampani), oslovování vybraných vhodných kontaktů s nabídkou většího zapojení či členství, rychlé odpovídání na žádosti o členstí a kontaktování zájemců, vytipování subjektů a osob vhodných ke spolupráci
