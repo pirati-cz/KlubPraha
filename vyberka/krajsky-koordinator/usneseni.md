@@ -1,7 +1,7 @@
 Záměr krajské sítě koordinátorů
 ========================
 
-*Toto je projektový záměr, který personální odbor předkládá republikovému předsednictvu a republikovému výboru.*
+*Toto je projektový záměr, který republikové předsednictvo předkládá republikovému výboru.*
 
 Shrnutí
 -------
