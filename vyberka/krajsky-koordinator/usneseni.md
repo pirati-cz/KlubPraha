@@ -50,7 +50,7 @@ Harmonogram projektu
 * do pondělí 7. 11. - schvalování v republikovém výboru, lhůta pro krajská předsednictva, aby oznámila, zda budou chtít soutěžit společného koordinátora, lhůta pro delegaci osob do výběrové komise, **vyhlášení výběrového řízení**
 * 17. 11. – testovací akce 17. listopadu s Piráty
 * do neděle 20. 11. – lhůta pro přihlašování
-* následně: pohovory s pozvanými uchazeči
+* 22.-25. 11. - pohovory s pozvanými uchazeči
 * 1. 12. - vyhlášení výsledků a uzavření smlouvy
 
 Výběrové řízení proběhne a smlouva bude uzavřena nejpozději do 1 měsíce od schválení usnesení republikovým výborem.
