@@ -28,7 +28,7 @@ Výši proměnlivé složky odměny by navrhovalo krajské předsednictvo, pevn�
 
 Dopad na rozpočet 2016:
 
-Očekáváme, že koordinátoři budou pro Piráty pracovat dlouhodobě, přičemž na jejich odměnu bude pro rok 2016 vyčleněna v rámci rozpočtu strany dotace v [položce personálního odboru na odměny](https://www.pirati.cz/fo/hospodareni2016/rozpocty/strana/212900003), která bude [navýšena o prostředky z rezervy](https://www.pirati.cz/fo/hospodareni2016/rozpocty/strana/212500100). Druhý díl (nedotovaná část) bude hrazen z prostředků krajských sdružení. V roce 2016 při předpokladu nástupu k 1. 11. 2016 jde o celkovou částku cca 280 tis. Kč.
+Očekáváme, že koordinátoři budou pro Piráty pracovat dlouhodobě, přičemž na jejich odměnu bude pro rok 2016 vyčleněna v rámci rozpočtu strany dotace v [položce personálního odboru na odměny](https://www.pirati.cz/fo/hospodareni2016/rozpocty/strana/212900003), která bude [navýšena o prostředky z rezervy](https://www.pirati.cz/fo/hospodareni2016/rozpocty/strana/212500100). Druhý díl (nedotovaná část) bude hrazen z prostředků krajských sdružení. V roce 2016 při předpokladu nástupu k 1. 11. 2016 jde o celkovou částku cca 280 tis. Kč. Skutečný nástup bude však až během listopadu.
 
 Dopad na rozpočet 2017:
 
