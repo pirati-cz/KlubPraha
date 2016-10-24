@@ -59,7 +59,7 @@ V nabídce nám prosím zašli v jednom PDF dokumentu následující materiály:
 
 1. krátký motivační dopis,
 2. svůj životopis včetně referencí,
-3. sepište návrh organizace akce s dobrovolníky v daném kraji, která získá příznivce či voliče, včetně rozpočtu max. 10 tis. Kč, a praktického popisu uspořádání krok za krokem (např. Pirátský párty 17. listopadu), akci zrealizujte a sepište zprávu s obrázky a odkazy (max 3 normostrany).
+3. sepište návrh organizace akce s dobrovolníky v daném kraji, která získá příznivce či voliče, včetně rozpočtu max. 10 tis. Kč, a praktického popisu uspořádání krok za krokem (např. Pirátská párty 17. listopadu), akci zrealizujte a sepište zprávu s obrázky a odkazy (max 3 normostrany).
 
 
 K uspořádání akce: Akci můžete připravit po dohodě s příslušným krajským sdružením (a klidně s využitím odsouhlasených zdrojů Pirátů), akci zpropagujte na facebooku, mezi lidmi i v ulicích, vymyslete atrativní program a formát, pozvěte lidi mimo Piráty, uspořádejte a zdokumentujte fotkami v události na facebooku - doporučeno je zorganizovat akci v rámci celorepublikové akce 17. listopadu ideálně v oblasti kraje, kde dosud nikdo nepůsobí, ale měli jsme tam dobré výsledky (viz [příklad z roku 2012](https://www.pirati.cz/tiskove-zpravy/17._listopad_-_bud_pirat) a aktuální informace na webu strany a [výsledky voleb dle okrsků](https://interaktivni.rozhlas.cz/krajske-volby-v-okrscich/)).
