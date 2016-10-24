@@ -6,7 +6,7 @@ Záměr krajské sítě koordinátorů
 Shrnutí
 -------
 
-Součástí strategie pro volby do Parlamentu je udělat spolehlivou síť placených krajských koordinátorů (kostru organizace). Koordinátoři budou odpovědní příslušnému krajskému předsednictvu. Vedle toho je v příslušné oblasti bude metodicky vést celostátní vedení, za celostátní vedení budou odpovídat personálnímu odboru. Odměňováni budou na základě rozhodnutí krajského předsednictva z rozpočtu příslušného krajského sdružení. 
+Součástí strategie pro volby do Parlamentu je udělat spolehlivou síť placených krajských koordinátorů (kostru organizace). Koordinátoři budou odpovědní příslušnému krajskému předsednictvu. Vedle toho je v příslušné oblasti bude metodicky vést celostátní vedení, za celostátní vedení budou odpovídat personálnímu odboru. Odměňováni budou na návrh krajského předsednictva z celostátního rozpočtu (odměny bude mít centrálně na starosti personální odbor), přičemž část nákladů půjde z příslušného krajského sdružení a část bude dotace z celostátního rozpočtu. Konkrétní podíly stanoví republikový výbor při schvalování rozpočtu na příští rok - dosud je nelze stanovit, protože nemáme odhad výsledků hospodaření, podle nichž je třeba stanovit takový podíl jednotlivých krajských sdružení, aby byla částka pro daný kraj únosná. Odměňování bude pravidelně zúčtováno napříč celou organizací jako sdílená služba (viz návrh organizačního řádu), díky čemuž bude tato administrativa na úrovni strany a nebudou ji muset řešit krajská sdružení.  
 
 Potřeba projektu
 --------------
