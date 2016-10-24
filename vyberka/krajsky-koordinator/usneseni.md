@@ -47,12 +47,15 @@ Harmonogram projektu
 
 * První týden – připomínkování podmínek výběrového řízení zakonečné potvrzením finální verze (rozeslání republikovému předsednictvu a republikovému výboru)
 * Druhý týden – schvalování v republikovém výboru
-* Třetí a čtvrtý týden – lhůta pro přihlašování
-* Pátý týden – Hodnocení
+* Třetí týden – lhůta pro krajská předsednictva, aby oznámila, zda budou chtít soutěžit společného koordinátora
+* Čtvrtý a pátý týden – lhůta pro přihlašování
+* Šestý týden – Hodnocení
+* Osmý týden – Úvodní školení
+
 
 Výběrové řízení proběhne a smlouva bude uzavřena nejpozději do 1 měsíce od schválení usnesení republikovým výborem.
 
-Výběrové řízení na asistenta pro administrativu
+Výběrové řízení na koordinátory dobrovolníků
 ----------------
 
 Součástí záměru je 14 výběrových řízení nad 50 000 Kč, která budou vyhlášena souběžně (z hlediska jednotného informování potenciálních uchazečů). Zadavatelem a komplexním zpracovatelem výběrového řízení je personální odbor. Hodnotící komise výběrového řízení bude fungovat v následujícím složení komise o 3-4 lidech: 
@@ -71,7 +74,7 @@ Výběrové řízení se bude řídit následujícími dokumenty, které jsou p�
 
 Smlouva bude uzavřena prostřednictvím zadávacího listu podle [podmínek pro placené úkoly](https://github.com/pirati-cz/sablony/blob/4b07ba675434ee634c527909d537122264cc712e/ukoly/podminky/podminky.md), přičemž smluvní typ se bude určen podle požadavku vybraného uchazeče.
 
-V úvahu také připadá, aby se nejvýše 2 krajská sdružení dohodla, že budou konat společné výběrové řízení (rozsah práce u takového výběrového řízení bude dvojnásobný). 
+V úvahu také připadá, aby se nejvýše 2 krajská sdružení dohodla, že budou konat společné výběrové řízení (rozsah práce u takového výběrového řízení bude dvojnásobný). Krajská sdružení se tak mohou domluvit i po výsledku výběrového řízení (např. v jednom výběrovém řízení nebude kandidát doporučen a v druhém bude schopný kandidát, který to bude moci dělat).
 
 Personální odbor dále přijme dodatečná pravidla pro efektivní organizaci, např. pověří 2 koordinátory dodatečnými úkoly související s organizací koordinátorů (např. jeden určený koordinátor pro Čechy a jeden určený koordinátor pro Moravu a Slezsko). Vedle toho je v příslušné oblasti bude metodicky vést celostátní vedení. 
 
