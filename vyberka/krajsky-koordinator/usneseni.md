@@ -47,7 +47,7 @@ Harmonogram projektu
 
 * První týden – připomínkování podmínek výběrového řízení zakonečné potvrzením finální verze (rozeslání republikovému předsednictvu a republikovému výboru)
 * Druhý týden – schvalování v republikovém výboru
-* Třetí týden – lhůta pro krajská předsednictva, aby oznámila, zda budou chtít soutěžit společného koordinátora
+* Třetí týden – lhůta pro krajská předsednictva, aby oznámila, zda budou chtít soutěžit společného koordinátora, lhůta pro delegaci osob do výběrové komise, vyhlášení
 * Čtvrtý a pátý týden – lhůta pro přihlašování
 * Šestý týden – Hodnocení
 * Osmý týden – Úvodní školení
@@ -65,7 +65,7 @@ Součástí záměru je 14 výběrových řízení nad 50 000 Kč, která budou 
 * člen krajského předsednictva - odborník
 * (zástupce jmenovaný krajským předsednictvem)
 
-Ve jmenované hodnotící komisi by měli být podle [§ 6 odst. 2 pravidel hospodaření](https://www.pirati.cz/rules/prah#vyberova_rizeni) aspoň 3 odborníci.
+Ve jmenované hodnotící komisi by měli být podle [§ 6 odst. 2 pravidel hospodaření](https://www.pirati.cz/rules/prah#vyberova_rizeni) aspoň 3 odborníci. Bude-li krajské sdružení nečinné, přebírá jeho pravomoci republikového předsednictvo.
 
 Výběrové řízení se bude řídit následujícími dokumenty, které jsou přílohou tohoto záměru:
 
@@ -87,7 +87,7 @@ Schvalování záměru
 Republikový výbor
 
 1. **souhlasí** s předloženým záměrem sítě placených krajských koordinátorů, 
-2. **ukládá** závěry uvedené v předloženém záměru zohlednit v návrhu organizačního řádu a do doby jeho přijetí **ukládá** krajským sdružením poskytnout součinnost k realizaci záměru,
+2. **ukládá** závěry uvedené v předloženém záměru zohlednit v návrhu organizačního řádu a do doby jeho přijetí **stanoví** krajským sdružením povinnost poskytnout součinnost k realizaci záměru,
 3. **souhlasí** s náklady podle předloženého záměru, které vzniknou na celostátní úrovni z důvodu dotace, přičemž konkrétní výše dotace bude určena dle bodu 4 a do té doby se bude provizorně postupovat, jako by byla dotace na všechny náklady projektu, přičemž po schválení výše dotace budou náklady zpětně zúčtovány,
 4. **ukládá** republikovému předsednictvu zohlednit v rámci rozpočtu na rok 2017 tento projekt,
 5. **ukládá** republikovému předsednictvu zahájit realizaci společného postupu výběrových řízení podle projektu.
