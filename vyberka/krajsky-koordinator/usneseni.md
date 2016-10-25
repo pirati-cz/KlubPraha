@@ -1,4 +1,4 @@
-Záměr krajské sítě koordinátorů
+Záměr sítě krajských koordinátorů
 ========================
 
 *Toto je projektový záměr, který republikové předsednictvo předkládá republikovému výboru.*
@@ -20,7 +20,7 @@ Střední roční náklady činí 120 tis. Kč na jednoho koordinátora (z rozpo
 
 [metodika]: https://redmine.pirati.cz/projects/kspraha/wiki/Odm%C4%9B%C5%88ov%C3%A1n%C3%AD 
 
-Odměna bude hrazena dílem z peněz účelově určených krajskému sdružení, dílem z celostátních peněz. Konkrétní výše dotace bude stanovena u jednotlivých krajů v návaznosti na jejich disponibilní prostředky, a to spolu s rozpočtem na rok 2017 a v návaznosti na zjistěný odhad výsledků hospodaření za rok 2016. Výše dotace bude předložena republikovému výboru. Jde o to, aby si mohla dovolit koordinátora i nejmenší sdružení, která nemají dostatečně velký rozpočet, naopak u rozpočtově silných sdružení není třeba dotace tak velká. Na druhou stranu právě tato rozvinutá sdružení (krajské sdružení Praha, Jihomoravský kraj, Karlovarský kraj),  by mohla plnit úlohu koordinační. 
+Koordinátoři budou (vedle asistence krajským předsednictvům) centrálně řízeni personálním odborem, z jehož rozpočtu budou placeni. Prostředky pro odměnu budou do rozpočtu personálního odboru získány dílem z peněz účelově určených krajskému sdružení v krajském rozpočtu (prostřednictvím úhrady tzv. sdílené služby), dílem z celostátních peněz. Konkrétní poměr dotace bude stanovena u jednotlivých krajů v návaznosti na jejich disponibilní prostředky, a to spolu s rozpočtem na rok 2017 a v návaznosti na zjistěný odhad výsledků hospodaření za rok 2016. Výše dotace bude předložena republikovému výboru. Jde o to, aby měla koordinátora i nejmenší sdružení, která nemají dostatečně velký rozpočet, naopak u rozpočtově silných sdružení není třeba dotace tak velká. Na druhou stranu právě tato rozvinutá sdružení (krajské sdružení Praha, Jihomoravský kraj, Karlovarský kraj),  by mohla být mezistupněm v řízení personálního odboru. 
 
 Z hlediska administrativy se mi jeví nejjednodušší, aby žádosti o proplacení u všech koordinátorů podával najednou personální odbor, čímž bude krajskému sdruženímu ulehčena administrativa a zároveň bude zajištěno, že si koordinátor nebude proplácet peníze sám sobě. Rovněž tak bude zajištěno, že příjem bude řádně zdaněn a budou zaplaceny odvody, pokud půjde o zaměstnance (vyžaduje mzdovou účetní), a že odměnu dostanou lidé včas. Rovněž bude zajištěna hromadná úhrada telefonů. Svěření personální agendy jednomu orgánu uvnitř organizace je [osvědčené](https://managementmania.com/cs/personalistika-a-lidske-zdroje) a efektivní. 
 
