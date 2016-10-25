@@ -36,7 +36,7 @@ Pokud sympatizuješ s Piráty a zároveň si chceš i trochu přivydělat, je to
 
 * filosofické ztotožnění se s [Pirátským programem][program] a jeho dobrá znalost, 
 * vysoká loajalitu k Pirátské straně jako organizaci, zodpovědnost při nakládání s penězi, dodržování bezpečnostních pravidel a mlčenlivost ohledně důvěrných informací,
-* závazek pracovat pro Piráty aspoň do konce října 2016 (parlamentní volby), případně za sebe najít a na vlastní náklady zaučit náhradu,
+* závazek pracovat pro Piráty aspoň do konce října 2017 (parlamentní volby), případně za sebe najít a na vlastní náklady zaučit náhradu,
 * znalost kancelářských balíků a google tabulek, schopnost naučit se používat [Pirátský redmine][redmine] a [Pirátské fórum][forum] a další technické systémy,
 * vynikající komunikační dovednosti i po telefonu, reprezentativní a příjemné vystupování, systematičnost, samostatnost, emoční stabilita a pracovitost, dobrý písemný projev,
 * časová flexibilita (aktivity mají často nárazový charakter v časovém tlaku) a mobilita (školení budou v Praze),
@@ -45,7 +45,7 @@ Pokud sympatizuješ s Piráty a zároveň si chceš i trochu přivydělat, je to
 * nabídka je otevřená pro lidi vyskytující se na území daného kraje,
 * nástup nejpozději dvou měsíců ode dne vyhlášení výběrového řízení
 
-Výhodou jsou: schopnost pracovat v březnu až říjnu 2016 další čas, zkušenosti s vlastním dobrovolnictvím, řidičský průkaz skupiny B, znalost angličtiny, zkušenosti s dobrovolnictvím
+Výhodou jsou: schopnost pracovat v březnu až říjnu 2017 další čas, zkušenosti s vlastním dobrovolnictvím, řidičský průkaz skupiny B, znalost angličtiny, zkušenosti s dobrovolnictvím
 
 Podmínkou uzavření smlouvy je, aby daná osoba ještě neměla s Českou pirátskou stranou uzavřenou smlouvu s očekávaným rozsahem práce 20 hodin týdně a více. 
 
