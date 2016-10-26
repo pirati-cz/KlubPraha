@@ -45,7 +45,7 @@ Z hlediska vnitrostranických předpisů se jedná o 15 záměrů v rozpočtový
 Harmonogram projektu
 --------------------
 
-* do úterý 28. 10. - připomínkování podmínek výběrového řízení zakonečné potvrzením finální verze (rozeslání republikovému předsednictvu a republikovému výboru)
+* do pátku 28. 10. - připomínkování podmínek výběrového řízení zakonečné potvrzením finální verze (rozeslání republikovému předsednictvu a republikovému výboru)
 * do středy 2. 11. – zapracování připomínek a předložení republikovému výboru
 * do pondělí 7. 11. - schvalování v republikovém výboru, lhůta pro krajská předsednictva, aby oznámila, zda budou chtít soutěžit společného koordinátora, lhůta pro delegaci osob do výběrové komise, **vyhlášení výběrového řízení**
 * 17. 11. – testovací akce 17. listopadu s Piráty
