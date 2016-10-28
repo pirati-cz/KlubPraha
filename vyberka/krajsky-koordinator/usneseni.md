@@ -16,7 +16,7 @@ Záměr zřídit krajské koordinátory dobrovolníků byl diskutován na jedná
 Rozpočet projektu
 -----------------
 
-Střední roční náklady činí 120 tis. Kč na jednoho koordinátora (z rozpočtu administrativního odboru Pirátské strany) při měsíční smluvní odměně cca 8 tis. Kč v pevné složce (nárokovatelné poměrně vzhledem k rozsahu práce) a až 5 tis. Kč úkolové odměny (odhadována střední částka 2 Kč). Jde tedy o podobný systém odměňování podobný u celopražských Pirátských zastupitelů (viz [metodika][metodika]). V předvolební době lze očekávat nárůst odměny až na cca 15 tis. Kč měsíčně na jednoho koordinátora. 
+Střední roční náklady činí 120 tis. Kč na jednoho koordinátora (z rozpočtu administrativního odboru Pirátské strany) při měsíční smluvní odměně cca 8 tis. Kč v pevné složce (nárokovatelné poměrně vzhledem k rozsahu práce) a až 5 tis. Kč úkolové odměny (odhadována střední částka 2 tis. Kč). Jde tedy o podobný systém odměňování podobný u celopražských Pirátských zastupitelů (viz [metodika][metodika]). V předvolební době lze očekávat nárůst odměny až na cca 15 tis. Kč měsíčně na jednoho koordinátora. 
 
 [metodika]: https://redmine.pirati.cz/projects/kspraha/wiki/Odm%C4%9B%C5%88ov%C3%A1n%C3%AD 
 
