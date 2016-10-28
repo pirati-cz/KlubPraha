@@ -58,12 +58,11 @@ Výběrové řízení proběhne a smlouva bude uzavřena nejpozději do 1 měsí
 Výběrové řízení na koordinátory dobrovolníků
 ----------------
 
-Součástí záměru je 14 výběrových řízení nad 50 000 Kč, která budou vyhlášena souběžně (z hlediska jednotného informování potenciálních uchazečů). Zadavatelem a komplexním zpracovatelem výběrového řízení je personální odbor. Hodnotící komise výběrového řízení bude fungovat v následujícím složení komise o 3-4 lidech: 
+Součástí záměru je 14 výběrových řízení nad 50 000 Kč, která budou vyhlášena souběžně (z hlediska jednotného informování potenciálních uchazečů). Zadavatelem a komplexním zpracovatelem výběrového řízení je personální odbor. Hodnotící komise výběrového řízení bude fungovat v následující minimální složení komise: 
 
-* člen celostátního personálního odboru - odborník
-* člen celostátního administrativního odboru - odborník
-* člen krajského předsednictva - odborník
-* (zástupce jmenovaný krajským předsednictvem)
+* člen krajského předsednictva - odborník na agendu krajského sdružení a předseda komise
+* člen celostátního personálního odboru - odborník na personalistiku
+* zástupce jmenovaný krajským předsednictvem - odborník na administrativu
 
 Ve jmenované hodnotící komisi by měli být podle [§ 6 odst. 2 pravidel hospodaření](https://www.pirati.cz/rules/prah#vyberova_rizeni) aspoň 3 odborníci. Bude-li krajské sdružení nečinné, přebírá jeho pravomoci republikového předsednictvo.
 
