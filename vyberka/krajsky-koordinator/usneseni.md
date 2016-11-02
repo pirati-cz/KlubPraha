@@ -91,6 +91,12 @@ Republikový výbor
 4. **ukládá** republikovému předsednictvu zohlednit v rámci rozpočtu na rok 2017 tento projekt,
 5. **ukládá** republikovému předsednictvu zahájit realizaci společného postupu výběrových řízení podle projektu.
 
+Přílohy:
+
+* [Pravidla výběrového řízení](pravidla.md)
+* [Inzerát výběrového řízení](README.md) 
+
+
 ---
 
 Zpracovatel:
