@@ -8,7 +8,7 @@ Ahoj!
 
 V pražském sdružení Pirátů hledáme **Pirátského asistenta pro senátorku Renatu Chmelovou**, novou nezávislou senátorku za volební obvod č. 22, Praha 10, Dubeč a Štěrboholy. Ideální pro studenty práv či politologie (není ale podmínkou).
 
-![Krajské sdružení Praha](renata-chmelova.png)
+![Krajské sdružení Praha](renata-chmelova.jpg)
 
 ## Poptávaná činnost:
 
