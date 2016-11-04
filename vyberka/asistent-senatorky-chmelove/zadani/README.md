@@ -29,8 +29,12 @@ V pražském sdružení Pirátů hledáme **Pirátského asistenta pro senátork
 
 ## Požadujeme:
 
-* filosofické ztotožnění se s [Pirátským programem][program] a jeho dobrou znalost
+* vynikající komunikační dovednosti, reprezentativní a příjemné vystupování,
+* orientaci na české i zahraniční politické scéně
+* rámcovou znalost současné legislativy, na kterou se zaměřuje program paní senátorky Renaty Chmelové,
+* dobrý písemný projev a zkušenosti s legislativní prací
 * znalost návrhů [Rekonstrukce státu][rest] a zájem o politiku
+* filosofické ztotožnění se s [Pirátským programem][program] a jeho dobrou znalost
 * znalost kancelářských balíků, schopnost naučit se používat [Pirátský redmine][redmine] a [Pirátské fórum][forum] a další technické systémy
 * časová flexibilita (aktivity mají často nárazový charakter v časovém tlaku) a samostatnost
 * znalost anglického jazyka (znalost dalších jazyků výhodou)
