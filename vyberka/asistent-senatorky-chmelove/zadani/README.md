@@ -70,4 +70,3 @@ zveřejňovač Pirátů v Praze
 ## Související odkazy
 
 * [Pravidla výběrového řízení](pravidla.md)
-* [Schválené usnesení](usneseni.md) 
