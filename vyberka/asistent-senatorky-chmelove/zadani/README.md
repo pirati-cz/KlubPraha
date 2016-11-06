@@ -51,7 +51,7 @@ V nabídce nám prosím zašli v jednom PDF dokumentu následující materiály:
 
 1. krátký motivační dopis,
 2. svůj životopis,
-3. dokument, kde připravíš návrh komunikační strategie pro novou senátorku v rozsahu cca 2-3 normostran (nastavení cílů vzhledem k jejímu programu a propojení komunikace paní senátorky a komunikace Pirátské strany, strategii prosazování cílů v krátkodobém a dlouhodobém horizontu, komunikační prostředky atd.)jádření, pozměňovací návrh s důvodovou zprávou atd. – lze zaslat již hotové nebo lze napsat pro účely tohoto výběrového řízení),
+3. dokument, kde připravíš návrh komunikační strategie pro novou senátorku v rozsahu cca 2-3 normostran (nastavení cílů vzhledem k jejímu programu a propojení komunikace paní senátorky a komunikace Pirátské strany, strategii prosazování cílů v krátkodobém a dlouhodobém horizontu, komunikační prostředky atd.)
 
 Pokud máš nedejbože záznam v trestním rejstříku, popiš ho a zdůvodni. Podrobnosti o výběrovém řízení si přečti v [pravidlech výběrového řízení](pravidla.md). Pokud máš zájem o upřesnění informací, neváhej se na mne obrátit emailem či telefonicky.
 
