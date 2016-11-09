@@ -1,6 +1,6 @@
 Česká pirátská strana  
 
-**VÝBĚROVÉ ŘÍZENÍ BYLO VYHLÁŠENO DNE .....................**
+**VÝBĚROVÉ ŘÍZENÍ BYLO VYHLÁŠENO DNE 9. 11. 2016**
 
 Výběrové řízení na krajského koordinátora
 ========================
