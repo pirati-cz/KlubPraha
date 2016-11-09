@@ -73,7 +73,24 @@ Rizikové faktory: Pokud máš nedejbože záznam v trestním rejstříku, jsi t
 
 Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPP, DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [podmínek pro placené úkoly](https://www.pirati.cz/rules/ppu) s vykazováním v systémů [redmine][redmine].
 
-**Nabídku nám prosím zašli do 20. 11. 2016, do tří dnů se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Pohovory s pozvanými uchazeči budou v období 22.-25. 11. 2016.  Nabídku pošli e-mailem na adresu zadavatele. Kopii potom na <info@pirati.cz>.**
+**Nabídku nám prosím zašli do 20. 11. 2016, do tří dnů se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Pohovory s pozvanými uchazeči budou v období 22.-25. 11. 2016.  Nabídku pošli e-mailem na adresu zadavatele (viz níže). Kopii potom na <info@pirati.cz>.**
+
+Výběrová řízení se vypisují pro následující celky, jako adresu zadavatele vyberte příslušný e-mail. Stejně tak můžete příslušného předsedu kontaktovat ohledně synchronizace akcí:
+
+1) Praha + Středočeský kraj, Ondřej Profant - krajský předseda, ondrej.profant@pirati.cz, tel. šest-07 580 015, Lenka Kozlová - krajská předsedkyně, lenka.kozlova@pirati.cz, tel. šest-03 497 753
+2) Moravskoslezský kraj, Jiří Demel - krajský předseda, jiri.demel@pirati.cz, tel. sedm-31 417 618
+3) Karlovarský kraj, Petr Třešňák - krajský předseda, petr.tresnak@pirati.cz, tel. šest-06 675 294 nebo sedm-25 648 489
+4) Pardubický kraj, Pavel Štěpánek - krajský předseda, pavel.stepanek@pirati.cz, tel. šest-08 879 077
+5) Liberecký kraj, Ondřej Kolek - krajský předseda, ondrej.kolek@pirati.cz, tel. sedm-24 730 461
+6) Jihočeský kraj, Lukáš Kolařík - krajský předseda, lukas.kolarik@pirati.cz, tel. šest-08 174 284 
+7) Královéhradecký kraj, Stanislav Štipl - krajský předseda, stanislav.stipl@pirati.cz, tel. sedm-77 046 416
+8) Ústecký kraj, František Navrkal - krajský předseda, frantisek.navrkal@pirati.cz, tel. sedm-36 662 723 
+9) Jihomoravský + Zlínský kraj, Róbert Čuma - krajský předseda, robert.cuma@pirati.cz, tel. sedm-74 281 317 
+10) Olomoucký kraj, Martin Šmída - člen republikového předsednictva, martin.smida@pirati.cz, tel sedm-21 661 311
+11) Plzeňský kraj, Lukáš Bartoň - krajský přdseda, lukas.barton@pirati.cz, tel. sedm-23 199 594
+12) Vysočina, Bára Hradečná - personální odbor, barbora.hradecna@pirati.cz, tel. sedm-24 828 362
+
+Krajská sdružení se mohou v průběhu výběrového řízení i po termínu pro zasílání nabídek rozhodnout, že svá výběrová řízení spojí do jednoho, jehož účastníky budou všichni přihlášení uchazeči.
 
 ## Hodnocení nabídek
 
