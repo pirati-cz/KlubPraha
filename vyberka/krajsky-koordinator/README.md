@@ -1,6 +1,6 @@
 Česká pirátská strana  
 
-**VÝBĚROVÉ ŘÍZENÍ BYLO VYHLÁŠENO DNE .....................**
+**VÝBĚROVÉ ŘÍZENÍ BYLO VYHLÁŠENO DNE 9. 11. 2016**
 
 Výběrové řízení na krajského koordinátora
 ========================
@@ -47,7 +47,7 @@ Pokud sympatizuješ s Piráty a zároveň si chceš i trochu přivydělat, je to
 
 Výhodou jsou: schopnost pracovat v březnu až říjnu 2017 další čas (např. i 40 hodin týdně a více), zkušenosti s vlastním dobrovolnictvím, řidičský průkaz skupiny B, znalost angličtiny, zkušenosti s dobrovolnictvím
 
-Podmínkou uzavření smlouvy je, aby daná osoba ještě neměla s Českou pirátskou stranou uzavřenou smlouvu s očekávaným rozsahem práce 20 hodin týdně a více. 
+Podmínkou uzavření smlouvy je, aby daná osoba ještě neměla s Českou pirátskou stranou uzavřenou smlouvu s očekávaným rozsahem práce 20 hodin týdně a více (tj. aby v celku všechny smlouvy nepřesáhly 40 hodin týdně). 
 
 [program]: https://www.pirati.cz/program/start
 [forum]: https://forum.pirati.cz
@@ -57,10 +57,9 @@ Podmínkou uzavření smlouvy je, aby daná osoba ještě neměla s Českou pir�
 
 V nabídce nám prosím zašli v jednom PDF dokumentu následující materiály: 
 
-1. krátký motivační dopis,
+1. krátký motivační dopis včetně uvedení informace, ve kterém kraji chcete působit,
 2. svůj životopis včetně referencí,
 3. sepište návrh organizace akce s dobrovolníky v daném kraji, která získá příznivce či voliče, včetně rozpočtu max. 10 tis. Kč, a praktického popisu uspořádání krok za krokem (např. Pirátská párty 17. listopadu), akci zrealizujte a sepište zprávu s obrázky a odkazy (max 3 normostrany).
-
 
 K uspořádání akce: Akci připravte po dohodě s příslušným krajským předsednictvem (a klidně s využitím předem odsouhlasených zdrojů Pirátů, kontaktujte krajské předsednictvo). Termín a místo konání akce prosím zkonzultujte s někým z krajského předsednictva (schopnost ho kontaktovat je součástí úkolu :-), zapamatujte si to a v případě problémů doporučte zlepšení ve svém motivačním dopise. Krajské předsednictvo může v případě blízkých sousedních akcí ve stejném čase doporučit posun místa akce, aby byl region vyváženě pokryt. Akci zpropagujte na facebooku, mezi lidmi i v ulicích, vymyslete atraktivní program a formát, pozvěte lidi mimo Piráty, uspořádejte a zdokumentujte fotkami v události na facebooku - doporučeno je zorganizovat akci v rámci celorepublikové akce 17. listopadu ideálně v oblasti kraje, kde dosud nikdo nepůsobí, ale měli jsme tam dobré výsledky (viz [příklad z roku 2012](https://www.pirati.cz/tiskove-zpravy/17._listopad_-_bud_pirat) a aktuální informace na webu strany a [výsledky voleb dle okrsků](https://interaktivni.rozhlas.cz/krajske-volby-v-okrscich/)). 
 
@@ -73,7 +72,26 @@ Rizikové faktory: Pokud máš nedejbože záznam v trestním rejstříku, jsi t
 
 Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPP, DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [podmínek pro placené úkoly](https://www.pirati.cz/rules/ppu) s vykazováním v systémů [redmine][redmine].
 
-**Nabídku nám prosím zašli do 20. 11. 2016, do tří dnů se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Pohovory s pozvanými uchazeči budou v období 22.-25. 11. 2016.  Nabídku pošli e-mailem na adresu zadavatele. Kopii potom na <info@pirati.cz>.**
+**Nabídku nám prosím zašli do 20. 11. 2016, do tří dnů se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Pohovory s pozvanými uchazeči budou v období 22.-25. 11. 2016.  Nabídku pošli e-mailem na adresu zadavatele (viz níže). Kopii potom na <info@pirati.cz>. Do předmětu e-mailu prosím napiš Výběrové řízení na koordinátora - vybraný kraj.**
+
+Výběrová řízení se vypisují pro následující kraje, jako adresu zadavatele vyberte příslušný e-mail. Stejně tak můžete příslušného předsedu kontaktovat ohledně synchronizace akcí:
+
+Oblast | kontaktní osoba
+----   | -------------
+Praha + Středočeský kraj | Ondřej Profant - krajský předseda, ondrej.profant@pirati.cz, tel. šest-07 580 015, Lenka Kozlová - krajská předsedkyně, lenka.kozlova@pirati.cz, tel. šest-03 497 753
+Moravskoslezský kraj | Jiří Demel - krajský předseda, jiri.demel@pirati.cz, tel. sedm-31 417 618
+Karlovarský kraj | Petr Třešňák - krajský předseda, petr.tresnak@pirati.cz, tel. šest-06 675 294 nebo sedm-25 648 489
+Pardubický kraj | Pavel Štěpánek - krajský předseda, pavel.stepanek@pirati.cz, tel. šest-08 879 077
+Liberecký kraj | Ondřej Kolek - krajský předseda, ondrej.kolek@pirati.cz, tel. sedm-24 730 461
+Jihočeský kraj | Lukáš Kolařík - krajský předseda, lukas.kolarik@pirati.cz, tel. šest-08 174 284 
+Královéhradecký kraj | Stanislav Štipl - krajský předseda, stanislav.stipl@pirati.cz, tel. sedm-77 046 416
+Ústecký kraj | František Navrkal - krajský předseda, frantisek.navrkal@pirati.cz, tel. sedm-36 662 723 
+Jihomoravský + Zlínský kraj | Róbert Čuma - krajský předseda, robert.cuma@pirati.cz, tel. sedm-74 281 317 
+Olomoucký kraj | Martin Šmída - člen republikového předsednictva, martin.smida@pirati.cz, tel sedm-21 661 311
+Plzeňský kraj | Lukáš Bartoň - krajský přdseda, lukas.barton@pirati.cz, tel. sedm-23 199 594
+Vysočina | Bára Hradečná - personální odbor, barbora.hradecna@pirati.cz, tel. sedm-24 828 362
+
+Krajská sdružení se mohou v průběhu výběrového řízení i po termínu pro zasílání nabídek rozhodnout, že svá výběrová řízení spojí do jednoho, jehož účastníky budou všichni přihlášení uchazeči. 
 
 ## Hodnocení nabídek
 
