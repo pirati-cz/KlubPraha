@@ -72,7 +72,7 @@ Rizikové faktory: Pokud máš nedejbože záznam v trestním rejstříku, jsi t
 
 Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPP, DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [podmínek pro placené úkoly](https://www.pirati.cz/rules/ppu) s vykazováním v systémů [redmine][redmine].
 
-**Nabídku nám prosím zašli do 20. 11. 2016, do tří dnů se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Pohovory s pozvanými uchazeči budou v období 22.-25. 11. 2016.  Nabídku pošli e-mailem na adresu zadavatele (viz níže). Kopii potom na <info@pirati.cz>. Do předmětu e-mailu prosím napiš Výběrové řízení na koordinátora - vybraný kraj.**
+**Nabídku nám prosím zašli do 20. 11. 2016, do tří dnů se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Pohovory s pozvanými uchazeči budou v období 22.-25. 11. 2016.  Nabídku pošli e-mailem na adresu zadavatele (viz níže). Kopii potom na <vyberka@pirati.cz>. Do předmětu e-mailu prosím napiš Výběrové řízení na koordinátora - vybraný kraj.**
 
 Výběrová řízení se vypisují pro následující kraje, jako adresu zadavatele vyberte příslušný e-mail. Stejně tak můžete příslušného předsedu kontaktovat ohledně synchronizace akcí:
 
