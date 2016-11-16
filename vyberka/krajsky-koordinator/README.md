@@ -3,6 +3,7 @@
 **VÝBĚROVÉ ŘÍZENÍ BYLO VYHLÁŠENO DNE 9. 11. 2016**
 
 **VÝBĚROVÉ ŘÍZENÍ BYLO AKTUALIZOVÁNO DNE 16. 11. 2016**
+
 (Podmínky pro uchazeče jsou mírnější, zaslané přihlášky zůstávají platné.)
 
 
