@@ -10,6 +10,8 @@
 Výběrové řízení na krajského koordinátora
 ========================
 
+[Ivan Bartoš, předseda Pirátů](http://www.piratskelisty.cz/upload/thumbs/w500/1776.jpg)
+
 Ahoj!
 
 V Pirátské straně hledáme **krajského koordinátora**, tedy člověka, který bude pomáhat krajskému sdružení zvládat práci s  
