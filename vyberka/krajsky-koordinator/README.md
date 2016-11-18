@@ -95,7 +95,7 @@ Jihomoravský | Róbert Čuma - krajský předseda, robert.cuma@pirati.cz, tel. 
 Zlínský kraj | Petr Tkadlec - člen republikového výboru, petr.tkadlec@pirati.cz, tel. sedm-24 879 117 
 Olomoucký kraj | Martin Šmída - člen republikového předsednictva, martin.smida@pirati.cz, tel sedm-21 661 311
 Plzeňský kraj | Lukáš Bartoň - krajský přdseda, lukas.barton@pirati.cz, tel. sedm-23 199 594
-Vysočina | Bára Hradečná - personální odbor, barbora.hradecna@pirati.cz, tel. sedm-24 828 362
+Vysočina | Bára Hradečná - personální odbor, barbora.hradecna@pirati.cz, tel. sedm-78 702 243
 
 Personální odbor se může v průběhu výběrového řízení i po termínu pro zasílání nabídek rozhodnout, že výběrová řízení spojí do jednoho, jehož účastníky budou všichni přihlášení uchazeči. Takto vybraný koordinátor bude mít na starosti více krajských sdružení.
 
