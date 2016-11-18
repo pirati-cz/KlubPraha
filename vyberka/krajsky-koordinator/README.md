@@ -83,7 +83,8 @@ Výběrová řízení se vypisují pro následující kraje, jako adresu zadavat
 
 Oblast | kontaktní osoba
 ----   | -------------
-Praha + Středočeský kraj | Ondřej Profant - krajský předseda, ondrej.profant@pirati.cz, tel. šest-07 580 015, Lenka Kozlová - krajská předsedkyně, lenka.kozlova@pirati.cz, tel. šest-03 497 753
+Praha | Ondřej Profant - krajský předseda, ondrej.profant@pirati.cz, tel. šest-07 580 015
+Středočeský kraj | Dominika Michailidu - krajská předsedkyně, dominika.michailidu@pirati.cz, tel. sedm-75 213 131
 Moravskoslezský kraj | Jiří Demel - krajský předseda, jiri.demel@pirati.cz, tel. sedm-31 417 618
 Karlovarský kraj | Petr Třešňák - krajský předseda, petr.tresnak@pirati.cz, tel. šest-06 675 294 nebo sedm-25 648 489
 Pardubický kraj | Pavel Štěpánek - krajský předseda, pavel.stepanek@pirati.cz, tel. šest-08 879 077
