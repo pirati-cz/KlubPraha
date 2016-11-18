@@ -92,7 +92,7 @@ Jihočeský kraj | Lukáš Kolářík - krajský předseda, lukas.kolarik@pirati
 Královéhradecký kraj | Stanislav Štipl - krajský předseda, stanislav.stipl@pirati.cz, tel. sedm-77 046 416
 Ústecký kraj | František Navrkal - krajský předseda, frantisek.navrkal@pirati.cz, tel. sedm-36 662 723 
 Jihomoravský | Róbert Čuma - krajský předseda, robert.cuma@pirati.cz, tel. sedm-74 281 317 
-Zlínský kraj | Petr Tkadlec - člen republikového výboru, petr.tkadlec@pirati.cz, tel. sedm-24 879 117 
+Zlínský kraj | Josef Hruboš - krajský předseda, josef.hrubos@pirati.cz, tel. sedm-31 352  538 
 Olomoucký kraj | Martin Šmída - člen republikového předsednictva, martin.smida@pirati.cz, tel sedm-21 661 311
 Plzeňský kraj | Lukáš Bartoň - krajský přdseda, lukas.barton@pirati.cz, tel. sedm-23 199 594
 Vysočina | Bára Hradečná - personální odbor, barbora.hradecna@pirati.cz, tel. sedm-78 702 243
