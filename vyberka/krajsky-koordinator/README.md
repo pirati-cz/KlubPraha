@@ -10,7 +10,7 @@
 Výběrové řízení na krajského koordinátora
 ========================
 
-[Ivan Bartoš, předseda Pirátů](http://www.piratskelisty.cz/upload/thumbs/w500/1776.jpg)
+![Ivan Bartoš, předseda Pirátů](http://www.piratskelisty.cz/upload/thumbs/w500/1776.jpg)
 
 Ahoj!
 
