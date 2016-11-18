@@ -14,8 +14,7 @@ Výběrové řízení na krajského koordinátora
 
 Ahoj!
 
-V Pirátské straně hledáme **krajského koordinátora**, tedy člověka, který bude pomáhat krajskému sdružení zvládat práci s  
-dobrovolníky, akce, finance a administrativu, bude přebírat pokyny z celostátního vedení a reportovat mu. 
+V Pirátské straně hledáme v každém krajském sdružení **krajského koordinátora**, tedy člověka, který bude pomáhat krajskému sdružení zvládat práci s  dobrovolníky, akce, finance a administrativu, bude přebírat pokyny z celostátního vedení a reportovat mu. 
 
 Jeho hlavním úkolem bude, aby krajské sdružení nabíralo a zapojovalo nové dobrovolníky, navázalo spolupráci 
 se sympatizujícími lokálními subjekty, sestavilo kvalitní a plné krajské kandidátky pro volby do Parlamentu a aktivně se 
