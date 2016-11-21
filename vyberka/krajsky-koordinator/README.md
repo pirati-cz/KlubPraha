@@ -10,10 +10,11 @@
 Výběrové řízení na krajského koordinátora
 ========================
 
+![Ivan Bartoš, předseda Pirátů](http://www.piratskelisty.cz/upload/thumbs/w500/1776.jpg)
+
 Ahoj!
 
-V Pirátské straně hledáme **krajského koordinátora**, tedy člověka, který bude pomáhat krajskému sdružení zvládat práci s  
-dobrovolníky, akce, finance a administrativu, bude přebírat pokyny z celostátního vedení a reportovat mu. 
+V Pirátské straně hledáme v každém krajském sdružení **krajského koordinátora**, tedy člověka, který bude pomáhat krajskému sdružení zvládat práci s  dobrovolníky, akce, finance a administrativu, bude přebírat pokyny z celostátního vedení a reportovat mu. 
 
 Jeho hlavním úkolem bude, aby krajské sdružení nabíralo a zapojovalo nové dobrovolníky, navázalo spolupráci 
 se sympatizujícími lokálními subjekty, sestavilo kvalitní a plné krajské kandidátky pro volby do Parlamentu a aktivně se 
@@ -83,7 +84,8 @@ Výběrová řízení se vypisují pro následující kraje, jako adresu zadavat
 
 Oblast | kontaktní osoba
 ----   | -------------
-Praha + Středočeský kraj | Ondřej Profant - krajský předseda, ondrej.profant@pirati.cz, tel. šest-07 580 015, Lenka Kozlová - krajská předsedkyně, lenka.kozlova@pirati.cz, tel. šest-03 497 753
+Praha | Ondřej Profant - krajský předseda, ondrej.profant@pirati.cz, tel. šest-07 580 015
+Středočeský kraj | Dominika Michailidu - krajská předsedkyně, dominika.michailidu@pirati.cz, tel. sedm-75 213 131
 Moravskoslezský kraj | Jiří Demel - krajský předseda, jiri.demel@pirati.cz, tel. sedm-31 417 618
 Karlovarský kraj | Petr Třešňák - krajský předseda, petr.tresnak@pirati.cz, tel. šest-06 675 294 nebo sedm-25 648 489
 Pardubický kraj | Pavel Štěpánek - krajský předseda, pavel.stepanek@pirati.cz, tel. šest-08 879 077
@@ -92,10 +94,10 @@ Jihočeský kraj | Lukáš Kolářík - krajský předseda, lukas.kolarik@pirati
 Královéhradecký kraj | Stanislav Štipl - krajský předseda, stanislav.stipl@pirati.cz, tel. sedm-77 046 416
 Ústecký kraj | František Navrkal - krajský předseda, frantisek.navrkal@pirati.cz, tel. sedm-36 662 723 
 Jihomoravský | Róbert Čuma - krajský předseda, robert.cuma@pirati.cz, tel. sedm-74 281 317 
-Zlínský kraj | Petr Tkadlec - člen republikového výboru, petr.tkadlec@pirati.cz, tel. sedm-24 879 117 
+Zlínský kraj | Josef Hruboš - krajský předseda, josef.hrubos@pirati.cz, tel. sedm-31 352  538 
 Olomoucký kraj | Martin Šmída - člen republikového předsednictva, martin.smida@pirati.cz, tel sedm-21 661 311
 Plzeňský kraj | Lukáš Bartoň - krajský přdseda, lukas.barton@pirati.cz, tel. sedm-23 199 594
-Vysočina | Bára Hradečná - personální odbor, barbora.hradecna@pirati.cz, tel. sedm-24 828 362
+Vysočina | Bára Hradečná - personální odbor, barbora.hradecna@pirati.cz, tel. sedm-78 702 243
 
 Personální odbor se může v průběhu výběrového řízení i po termínu pro zasílání nabídek rozhodnout, že výběrová řízení spojí do jednoho, jehož účastníky budou všichni přihlášení uchazeči. Takto vybraný koordinátor bude mít na starosti více krajských sdružení.
 
