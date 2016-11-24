@@ -17,13 +17,13 @@ Z faktur jsme našli tyto dodavatele:
 | ASCOM Praha / DELTA Energy      | 40767698 |    173 414 258  | |
 | **Suma**                        |          | **676 823 559** | |
 
-Podrobnosti jsou v samostatných csv: [Connectel](faktury_konektel.csv), [Cofi](./faktury_cofi.csv), [Ascom](./ascom.csv).
+Podrobnosti jsou v samostatných csv: [Connectel](faktury/faktury_konektel.csv), [Cofi](faktury/faktury_cofi.csv), [Ascom](faktury/ascom.csv).
 
 Mohou existovat i další. Dále se platí mnoho dalších drobných věcí...
 
 ### Video
 
-- [scénář videa](./video.md)
+- [scénář videa](./video-scenar.md)
 
 ### Korespondence s řed. J. Macháčkem:
 
@@ -33,7 +33,7 @@ Mohou existovat i další. Dále se platí mnoho dalších drobných věcí...
 
 Síť Městského rádiového systému hl. m. Prahy – TETRA („MRS“) je provozována odborem bezpečnosti Magistrátu hl. m. Prahy.
 
-> Provoz sítě je zajištěn pomocí [Veřejné zakázky](http://www.praha.eu/jnp/cz/o_meste/finance/rodne_listy_zakazek/index.html?zakazkaId=141453)
+> Provoz sítě je zajištěn pomocí [Veřejné zakázky][vz]
 
 Váš odkaz na tzv. „rodný list zakázek“ specifikuje veřejnou zakázku, která řešila modernizaci MRS  v roce 2013 a zajištění následné (tedy stávající) podpory.
 
@@ -101,4 +101,4 @@ Dále jsem si psal s MP. Ti mi řekli, že vše řeší odbor BEZ MHMP.
 [tetra]: https://en.wikipedia.org/wiki/Terrestrial_Trunked_Radio
 [RTL2832U]: https://www.google.cz/search?q=Realtek+RTL2832U&ie=utf-8&oe=utf-8&gws_rd=cr&ei=t8jWV6ewOoKnad24uKAK#q=Realtek+RTL2832U&tbm=shop
 [connectel]: http://www.connectel-cz.com/
-
+[vz]: http://www.praha.eu/jnp/cz/o_meste/finance/rodne_listy_zakazek/index.html?zakazkaId=141453
