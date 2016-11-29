@@ -16,7 +16,7 @@ your:
       -     11000 Praha 1
    note:    k rukám státnímu zástupci
       -     Mgr. Janu Sklenářovi
-   ds:      kvaahpq
+   ds:      iauaiiq
 sendby:     ds
 style:      letter
 ---
