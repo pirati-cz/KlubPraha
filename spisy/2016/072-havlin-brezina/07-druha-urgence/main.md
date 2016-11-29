@@ -27,7 +27,7 @@ dne 29. 3. 2016 jsem požádal Vrchní státní zastupitelstvi v Praze o přeše
 
 Vzhledem k tomu, že od přešetření trestního oznámení již uplynulo 8 měsíců a dosud jsem neobdržel informace o provedených věcí tímto věc urguji a žádám poskytnutí vyrozumění o aktuálním stavu. K Vaší informaci, že orgány činné v trestním řízení nyní čekají na výsledek dovolacího řízení u Nejvyššího soudu ve věci odsouzeného Havlína uvádím, že jde o skutkově jiný případ, který navíc v dovolacím řízení může být posuzován toliko z hlediska správnosti aplikace práva a nikoliv z hlediska správnosti zjištění skutkového stavu.
 
-Proto jsem přesvědčen, že čekání na výsledek dovolacího řízení není v tomto řízení na místě a naopak může způsobit nedůvodné průtahy, jejichž důsledkem může být i zánik trestní odpovědnosti pachatelů trestných činů v důsledku promlčení. Žádám Vás tedy, abyste v souladu s podanou žádostí o přešetření trestního oznámení postupovali v souladu s § 174 odst. 2 zákona č. 141/1961 Sb., trestního řádu.
+Proto jsem přesvědčen, že čekání na výsledek dovolacího řízení není v tomto řízení na místě a naopak může způsobit nedůvodné průtahy, jejichž důsledkem může být i zánik trestní odpovědnosti pachatelů trestných činů v důsledku promlčení. Žádám Vás tedy, abyste v souladu s podanou žádostí o přešetření trestního oznámení postupovali v souladu s § 174 odst. 2 zákona č. 141/1961 Sb., trestního řádu, a vyrozuměli nás o výsledku provedení důkazů navrhovaných v trestním oznámení. 
 
 Žádám o zaslání odpovědi do mé datové schránky na adresu 4memzkm.
 
