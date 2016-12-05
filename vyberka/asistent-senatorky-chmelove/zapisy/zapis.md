@@ -8,11 +8,12 @@
 
 **Hodnocení**
 
-| |A|B|C|D|E|F|suma|
-|Adam Š.|12|16|10|10|12|5|65|
-|Vít Š.|13|18|25|15|12|5|88
+|         |A |B |C |D |E |F|suma|
+|---------|--|--|--|--|--|-|--|
+|Adam Š.  |12|16|10|10|12|5|65|
+|Vít Š.   |13|18|25|15|12|5|88|
 |Martin B.|12|20|18|18|10|3|81|
-|Matěj B.|12|13|14|16|12|4|71|
+|Matěj B. |12|13|14|16|12|4|71|
 
 Ostatní uchazeče komise nehodnotila, protože bylo zjevné, že dosáhnou podstatně horších výsledků či nesplňují některý požadavek výběrového řízení.
 
