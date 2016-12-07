@@ -4,6 +4,14 @@ author: Ondřej Profant
 date: léto 2016
 lang: cs
 mainlang: czech
+geometry:
+- right=30mm
+- left=30mm
+- top=30mm
+- bottom=25mm
+header-includes:
+- \usepackage[hang,flushmargin]{footmisc}
+- \setlength{\footnotemargin}{0.3cm}
 ---
 
 \newpage
@@ -31,7 +39,8 @@ A samozřejmě tou největší ránou je všudypřítomná korupce. Ta tuto obla
 Posun k lepšímu je v této situaci velmi náročnou úlohou. Nám se to přesto podařilo.
 
 \newpage
-# Naše kroky
+
+# Část 1.: Naše kroky
 
 ## Výchozí stav
 
@@ -77,7 +86,7 @@ Společnost Globdata nám jako řešení nevýhodnosti SMS jízdenek nabízela s
 
 ## Čipové karty (Mifare)
 
-Dalším řešením je použít stejnou technologii jako Opencard – čipovou kartu, ale v jiné implementaci. Pokud nechceme začínat na zelené louce, jsou zde v rámci ČR 2 reálné možnosti – Plzeňská karta a In-karta. Avšak obě mají stejný problém. Jsou čistě offline řešením, a tedy velmi omezené. Největší problém je s čtečkami karet, které využívají revizoři/průvodčí. Ty totiž mají tzv. SAM modul, což je slot potřebný pro každou službu. V praxi to znamená, že např. průvodčí ČD může rozpoznat In-kartu a několik dalších služeb. Zároven ČD trvá na tom, že všichni jeho průvodčí musí být vybaveni stejně. Tato podmínka je velmi omezující a v dnešním světě zastaralá. I v případě provozu Opencard se ukazuje jako silně nepraktická.
+Dalším řešením je použít stejnou technologii jako Opencard – čipovou kartu, ale v jiné implementaci. Pokud nechceme začínat na zelené louce, jsou zde v rámci ČR 2 reálné možnosti – Plzeňská karta a In-karta. Avšak obě mají stejný problém. Jsou čistě offline řešením, a tedy velmi omezené. Největší problém je s čtečkami karet, které využívají revizoři/průvodčí. Ty totiž mají tzv. SAM modul, což je zjednodušeně řečeno slot potřebný pro každou další službu. V praxi to znamená, že např. průvodčí ČD může rozpoznat In-kartu a několik dalších služeb. Zároven ČD trvá na tom, že všichni jeho průvodčí musí být vybaveni stejně. Tato podmínka je velmi omezující a v dnešním světě zastaralá. I v případě provozu Opencard se ukazuje jako silně nepraktická.
 
 Nakonec Operátor ICT a. s.[^6d] pod vedením primátorky Krnáčové zavedl čipovou kartu (Mifare) Lítačku. Což je jednoduchá varianta principiálně podobná Opencard, avšak sloužící pouze pro dopravu. Což je krok, který dal čas do pořádného vyřešení situace. Piráti se k Lítačce podrobně vyjádřili.[^6b]
 
@@ -90,7 +99,7 @@ NFC[^6c] je protokol pro bezkontaktní přenos informací na krátkou vzdálenos
 NFC samo o sobě je dobré rozšíření papíru či mobilu (za předpokladu, že nemáme výhradní smlouvu). Avšak implementaci vlastního řešení v rámci Prahy si raději ani nechci představovat. Naštěstí je zde EMV Contactless, což je opravdu robustní a bezpečné řešení.
 
 \newpage
-# Vize podle Pirátů
+# Část 2.: Vize podle Pirátů
 
 ## Výchozí předpoklady
 
@@ -227,11 +236,12 @@ Jednoznačně městu doporučejeme:
 - Statistiky bankovních karet: http://statistiky.cardzone.cz/czech/index.html
 - Pracovní skupina pro použití bezkontaktních bankovních karet ve veřejné dopravě: http://www.psbkvd.cz 
 - Studie pracovní skupiny.: http://www.psbkvd.cz/_ftp/Studie_PSBKVD_verze1_0.pdf
+- Statistika prodaných papírových kuponů: http://opendata.praha.eu/dataset/dpp-statistiky-prodanych-kuponu
 
 
-[1b]: https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/02/ondra/povereni.pdf
-[1]: Wikipedia, 20. 7. 2016: https://cs.wikipedia.org/wiki/Odbavovac%C3%AD_syst%C3%A9my_v_doprav%C4%9B
-[^2]: Zřizovací listina organizace: ROPIDhttp://www.ropid.cz/o-systemu/zrizovaci-listina-organizace-ropid__s177x929.html
+[^1b]:  Pověření: https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/02/ondra/povereni.pdf
+[^1]:   Wikipedia, 20. 7. 2016: https://cs.wikipedia.org/wiki/Odbavovac%C3%AD_syst%C3%A9my_v_doprav%C4%9B
+[^2]:   Zřizovací listina organizace: ROPIDhttp://www.ropid.cz/o-systemu/zrizovaci-listina-organizace-ropid__s177x929.html
 [^3]: Akciová společnost vlastněná městem zřízena na jaře 2014 Radou HMP pod vedením Tomáše Hudečka.
 [^4]: https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/11-sms-jizdenky-praha-smlouvy/Erika%201063%2006%2008%20%20(p%C5%AFv.CROWSNEST)%20konsollidovan%C3%A1%20verze.pdf
 [^5]: Rešerše trhu s SMS jízdenkami v krajských městech 
