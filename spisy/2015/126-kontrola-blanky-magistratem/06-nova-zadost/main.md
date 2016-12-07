@@ -39,5 +39,5 @@ signature:
   - bytem Bořivojova 108, Praha 3
   - korespondenční adresa Mariánské náměstí 2, 110 00 Praha 1
   - zastupitel hl. m. Prahy
-abbr:       adam
+abbr:       jakub
 ...
