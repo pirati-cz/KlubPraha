@@ -40,6 +40,7 @@ Vlastnosti papírových kuponů:
 
 - nejvyšší anonymita
 - jednoduchost
+- nejlevnější
 
 ---
 
@@ -48,7 +49,8 @@ Vlastnosti papírových kuponů:
 - žádné výrazné dominující řešení s dlouhodobou perspektivou.
 - ROPID musí do konce roku 2019 přesoutěžit dopravce.
 - V rámci PID chceme nástup všemi dveřmi, a žádné turnikety
-- Praha je relativně malá konglomerace do 2 milionů obyvatel
+- Praha je relativně malá konglomerace do  
+  2 milionů obyvatel
 - Praha není schopná úspěšně vést a koordinovat technologické projekty mezi vícero subjekty
 
 ---
@@ -57,9 +59,11 @@ Vlastnosti papírových kuponů:
 
 - Nechceme jednoho dominantního dodavatele
 - Chceme ozkoušená řešení s nízkými provozními náklady (max. 4 %)
-- Chceme anonymní jízdenky a kupony
+- Chceme umožnit anonymní jízdenky a kupony
 - Chceme dát zákazníkovi možnost volby
 - Chceme co nejméně obtěžovat zákazníka (žádné fronty, žádné validátory)
+	- decentralizovaný systém
+	- nakup z domova
 
 ---
 
@@ -84,12 +88,29 @@ Vlastnosti papírových kuponů:
 
 ---
 
-# Doporučení pro Prahu
+# Tarify a organizace
+
+- analyzovat kombinované tarify (parkování, kola, železnice)
+- integrace se SČK
+- umožnit zastropování plateb
+
+---
+
+# Doporučení obecná
 
 - Vyvarovat se další problematické smlouvě jako té okolo Opencard nebo SMS jízdenek.
-- Papír funguje a ještě dlouho fungovat bude. Je absolutně zbytečné ho omezovat.
 - S dodavateli je vždy třeba vést **dialog**.
 - U všech řešení je nutné předem spočítat celkové náklady (tzv. TCO), nikoliv jen pořizovací.
+
+---
+
+# Doporučení konkrétní
+
+- Vypovedět smlouvu s Erikou a.s. (dnes Globdata) na sms jízdenky
+- Vysoutěžit novou mob. aplikaci
+- Nerozšiřovat funkce Lítačky
+- Získat úplnou kontrolu nad systémem potřebným k provozu Lítačky (DOS)
+- Papír funguje a ještě dlouho fungovat bude. Je absolutně zbytečné ho omezovat.
 
 ---
 
