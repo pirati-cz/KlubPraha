@@ -1,5 +1,8 @@
 ---
-title: Vize Pirátů pro dopravní odbavení
+title: Vize\linebreak
+ zastupitelského klubu Pirátů\linebreak
+ v Praze\linebreak
+ pro dopravní odbavení
 author: Ondřej Profant
 date: podzim 2016
 lang: cs
