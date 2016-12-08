@@ -1,9 +1,20 @@
 ---
-title: Vize Pirátů pro dopravní odbavení
+title: Vize\linebreak
+ zastupitelského klubu Pirátů\linebreak
+ v Praze\linebreak
+ pro dopravní odbavení
 author: Ondřej Profant
-date: léto 2016
+date: podzim 2016
 lang: cs
 mainlang: czech
+geometry:
+- right=30mm
+- left=30mm
+- top=30mm
+- bottom=25mm
+header-includes:
+- \usepackage[hang,flushmargin]{footmisc}
+- \setlength{\footnotemargin}{0.3cm}
 ---
 
 \newpage
@@ -31,7 +42,8 @@ A samozřejmě tou největší ránou je všudypřítomná korupce. Ta tuto obla
 Posun k lepšímu je v této situaci velmi náročnou úlohou. Nám se to přesto podařilo.
 
 \newpage
-# Naše kroky
+
+# Část 1.: Naše kroky
 
 ## Výchozí stav
 
@@ -47,7 +59,7 @@ Zjistili jsme (stav k počátku roku 2015):
 
 ## Znovuzavedení papírových kuponů
 
-Jedinou možností, jak odvrátit další promrhání prostředků do Opencard, bylo snížit počet licencí.
+Jedinou možností, jak na začátku roku 2015 odvrátit další promrhání prostředků do Opencard, bylo snížit počet licencí.
 
 Zjistili jsme, že existuje mnoho duplicitních karet (tedy i duplicitních licencí). Je znám případ, kdy na 1 osobu bylo dokonce napsáno 24 licencí. Avšak mazání duplicit bylo v systému od EMS možné pouze po jednotlivých duplicitách na vybraných počitačích (ano bavíme se o systému, který vznikl v 21. století). To bylo zcela neefektivní – což nejspíše byl záměr autorů softwaru.
 
@@ -55,7 +67,7 @@ Potřebovali jsme radikálnější snížení odebíraných licencí. Cesta byla
 
 Papírové kupony mají nepřekonatelnou jednoduchost, anonymitu a minimální náklady.
 
-Zavedení papírových kuponů opravdu snížilo odbyt licencí Opencard (zpomalilo výdej karet) a my měli čas připravovat další řešení. Velkou pomocí též bylo, že tlak ze strany EMS byl mnohem méně přesvědčivý, když jsme měli vedle Opencard plně funkční systém pro všechny skupiny cestujících.
+Znovuzavedení papírových kuponů k 1. březnu 2015 opravdu snížilo odbyt licencí Opencard (zpomalilo výdej karet) a my měli čas připravovat další řešení. Velkou pomocí též bylo, že tlak ze strany EMS byl mnohem méně přesvědčivý, když jsme měli vedle Opencard plně funkční systém pro všechny skupiny cestujících.
 
 ## Mobilní aplikace
 
@@ -77,7 +89,7 @@ Společnost Globdata nám jako řešení nevýhodnosti SMS jízdenek nabízela s
 
 ## Čipové karty (Mifare)
 
-Dalším řešením je použít stejnou technologii jako Opencard – čipovou kartu, ale v jiné implementaci. Pokud nechceme začínat na zelené louce, jsou zde v rámci ČR 2 reálné možnosti – Plzeňská karta a In-karta. Avšak obě mají stejný problém. Jsou čistě offline řešením, a tedy velmi omezené. Největší problém je s čtečkami karet, které využívají revizoři/průvodčí. Ty totiž mají tzv. SAM modul, což je slot potřebný pro každou službu. V praxi to znamená, že např. průvodčí ČD může rozpoznat In-kartu a několik dalších služeb. Zároven ČD trvá na tom, že všichni jeho průvodčí musí být vybaveni stejně. Tato podmínka je velmi omezující a v dnešním světě zastaralá. I v případě provozu Opencard se ukazuje jako silně nepraktická.
+Dalším řešením je použít stejnou technologii jako Opencard – čipovou kartu, ale v jiné implementaci. Pokud nechceme začínat na zelené louce, jsou zde v rámci ČR 2 reálné možnosti – Plzeňská karta a In-karta. Avšak obě mají stejný problém. Jsou čistě offline řešením, a tedy velmi omezené. Největší problém je s čtečkami karet, které využívají revizoři/průvodčí. Ty totiž mají tzv. SAM modul, což je zjednodušeně řečeno slot potřebný pro každou další službu. V praxi to znamená, že např. průvodčí ČD může rozpoznat In-kartu a několik dalších služeb. Zároven ČD trvá na tom, že všichni jeho průvodčí musí být vybaveni stejně. Tato podmínka je velmi omezující a v dnešním světě zastaralá. I v případě provozu Opencard se ukazuje jako silně nepraktická.
 
 Nakonec Operátor ICT a. s.[^6d] pod vedením primátorky Krnáčové zavedl čipovou kartu (Mifare) Lítačku. Což je jednoduchá varianta principiálně podobná Opencard, avšak sloužící pouze pro dopravu. Což je krok, který dal čas do pořádného vyřešení situace. Piráti se k Lítačce podrobně vyjádřili.[^6b]
 
@@ -90,7 +102,7 @@ NFC[^6c] je protokol pro bezkontaktní přenos informací na krátkou vzdálenos
 NFC samo o sobě je dobré rozšíření papíru či mobilu (za předpokladu, že nemáme výhradní smlouvu). Avšak implementaci vlastního řešení v rámci Prahy si raději ani nechci představovat. Naštěstí je zde EMV Contactless, což je opravdu robustní a bezpečné řešení.
 
 \newpage
-# Vize podle Pirátů
+# Část 2.: Vize podle Pirátů
 
 ## Výchozí předpoklady
 
@@ -224,27 +236,40 @@ Jednoznačně městu doporučejeme:
 \newpage
 # Zdroje
 
-- Statistiky bankovních karet: http://statistiky.cardzone.cz/czech/index.html
-- Pracovní skupina pro použití bezkontaktních bankovních karet ve veřejné dopravě: http://www.psbkvd.cz 
-- Studie pracovní skupiny.: http://www.psbkvd.cz/_ftp/Studie_PSBKVD_verze1_0.pdf
+- Statistiky bankovních karet:  
+  http://statistiky.cardzone.cz/czech/index.html
+- Pracovní skupina pro použití bezkontaktních bankovních karet ve veřejné dopravě:  
+  http://www.psbkvd.cz 
+- Studie pracovní skupiny:  
+  http://www.psbkvd.cz/_ftp/Studie_PSBKVD_verze1_0.pdf
+- Statistika prodaných papírových kuponů:  
+  http://opendata.praha.eu/dataset/dpp-statistiky-prodanych-kuponu
 
 
-[1b]: https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/02/ondra/povereni.pdf
-[1]: Wikipedia, 20. 7. 2016: https://cs.wikipedia.org/wiki/Odbavovac%C3%AD_syst%C3%A9my_v_doprav%C4%9B
-[^2]: Zřizovací listina organizace: ROPIDhttp://www.ropid.cz/o-systemu/zrizovaci-listina-organizace-ropid__s177x929.html
+[^1b]:  Pověření: https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2015/02/ondra/povereni.pdf
+[^1]:   Wikipedia, 20. 7. 2016:  
+        https://cs.wikipedia.org/wiki/Odbavovac%C3%AD_syst%C3%A9my_v_doprav%C4%9B
+[^2]:   Zřizovací listina organizace ROPID:  
+        http://www.ropid.cz/o-systemu/zrizovaci-listina-organizace-ropid__s177x929.html
 [^3]: Akciová společnost vlastněná městem zřízena na jaře 2014 Radou HMP pod vedením Tomáše Hudečka.
-[^4]: https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/11-sms-jizdenky-praha-smlouvy/Erika%201063%2006%2008%20%20(p%C5%AFv.CROWSNEST)%20konsollidovan%C3%A1%20verze.pdf
-[^5]: Rešerše trhu s SMS jízdenkami v krajských městech 
-ČR s důrazem na působení společnosti Erika a.s.: https://praha.pirati.cz/assets/pdf/reserse.pdf a srovnávací tabulka: https://praha.pirati.cz/assets/pdf/marze.pdf
-[^6]: Smlouva a dodatky s Erikou a. s.: https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/11-sms-jizdenky-praha-smlouvy
-https://www.praguecard.com/index.php?lang=cz
+[^4]: Smlouva na SMS jízdenky:  
+      https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2015/11-sms-jizdenky-praha-smlouvy/Erika%201063%2006%2008%20%20(p%C5%AFv.CROWSNEST)%20konsollidovan%C3%A1%20verze.pdf
+[^5]: Rešerše trhu s SMS jízdenkami v krajských městech ČR s důrazem na působení společnosti Erika a.s.:  
+      https://praha.pirati.cz/assets/pdf/reserse.pdf  
+      a srovnávací tabulka:  
+      https://praha.pirati.cz/assets/pdf/marze.pdf
+[^6]: Smlouva a dodatky s Erikou a. s.:  
+      https://github.com/pirati-cz/KlubPraha/tree/master/spisy/2015/11-sms-jizdenky-praha-smlouvy
 [^6d]: Přejmenovaná společnost Operátor Opencard a.s.
 [^6b]: https://praha.pirati.cz/clanek-litacka.html
 [^6c]: https://en.wikipedia.org/wiki/Near_field_communication
-[^7]: 8 126 085 vydaných bezkontaktních karet v roce 2015 v ČR, zdroj: http://statistiky.cardzone.cz/download/sbk_statistika_2015.pdf
+[^7]: 8 126 085 vydaných bezkontaktních karet v roce 2015 v ČR, zdroj: 
+      http://statistiky.cardzone.cz/download/sbk_statistika_2015.pdf
 [^8]: Počet vydaných karet MasterCard: 6 665 244 a VISA: 4 483 360; stejný zdroj
 [^9]: Není jedna výrazně dominující banka. Je zde reálný výběr.
-[^10]: 89 760 pokladen akceptujících bezkontaktní karty. Zdroj: http://statistiky.cardzone.cz/download/sbk_statistika_2015.pdf
+[^10]: 89 760 pokladen akceptujících bezkontaktní karty. Zdroj:  
+       http://statistiky.cardzone.cz/download/sbk_statistika_2015.pdf
 [^10b]: V srpnu 2016 se jedná o tramvajové linky 18, 22 a autobusové lince 119. Viz www.dpp.cz/bezkontaktne Avšak jedná se o iniciativu DPP namísto ROPID a o otevřené soutěži také nemůže být řeč.
 [^11]: http://www.penize.cz/internetbanking/53605-proc-se-utrata-kartou-odepise-z-uctu-az-za-nekolik-dnu
-[^12]: Běžná sazba byla okolo 1 %, nově bude ještě výrazně nižší, zdroj: http://www.penize.cz/platebni-karty/306615-obchodnici-usetri-na-poplatcich-za-platby-kartou-vam-zbozi-nezlevni
+[^12]: Běžná sazba byla okolo 1 %, nově bude ještě výrazně nižší, zdroj:  
+       http://www.penize.cz/platebni-karty/306615-obchodnici-usetri-na-poplatcich-za-platby-kartou-vam-zbozi-nezlevni
