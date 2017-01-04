@@ -21,7 +21,7 @@ style:      letter
 
 Vážení,
 
-jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – podávám v souladu s § 51, odst. 3, písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze podnět následujícího obsahu: 
+jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu – podávám v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze podnět následujícího obsahu: 
 
 Navrhuji, aby Hlavní město Praha zvýšilo míru informovanosti o svých webových stránkách v souladu s doporučením spolku Iuridicum Remedium (dále jen „IuRe“), zabývalo se doporučeními uvedenými v přiloženém dokumentu, s cílem, aby mohli občané a jednotlivé organizace lépe a účinněji přebírat obsah těchto webů. 
 
