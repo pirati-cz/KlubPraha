@@ -43,7 +43,6 @@ Uchazeči, kteří uspěli v druhém kole výběrového řízení: Miroslav Bro�
 Seznam nabídek, které jsou přijatelné v pořadí podle hodnocení:
 **1. Miroslav Brož**
 
-Odůvodnění:  Uchazečka svou několikaletou aktivní činností ve prospěch České pirátské strany a zkušeností s administrativní prací v různých institucích státní správy se jeví, jako ideální kandidát na post krajského koordinátora.
 
 Doporučení k uzavření smlouvy: **Uzavřít smlouvu s prvním uchazečem v pořadí.**
 
