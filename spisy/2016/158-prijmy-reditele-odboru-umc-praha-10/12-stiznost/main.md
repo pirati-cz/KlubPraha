@@ -21,7 +21,7 @@ style:      letter
 
 Vážení, 
 
-dne 9. ledna jsem – jako fyzická osoba – v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen InfZ), požádal o poskytnutí následujících informací:
+dne 9. ledna 2017 jsem Vás – jako fyzická osoba – v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen InfZ), požádal o poskytnutí následujících informací:
 
 * Základní osobní údaje ve smyslu § 8b odst. 1 zákona č. 106/1999 Sb., o svobodném přístupu k informacím, ředitelů odborů Úřadu městské části Praha 10, kteří přijali v letech 2012, 2013, 2014 a 2015 odměny ve výši, které uvedl povinný subjekt ve svém přípisu č. j. P10-115108/2016 ze dne 3. 11. 2016. Uvedenou informaci poskytněte tak, aby ke každé osobě na každém řádku tabulky (označené VO 1 – VO 17) bylo přirazeno jedno jméno a příjmení konkrétního ředitele odboru. 
 
