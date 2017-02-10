@@ -1,6 +1,6 @@
 # Výběrová řízení České pirátské strany
 
-Všechna výběrová řízení edená stranou, jsou shromaždována [repozitáři výměrových říení](https://github.com/pirati-byro/vyberka)
+Všechna výběrová řízení edená stranou, jsou shromaždována v [repozitáři výměrových říení](https://github.com/pirati-byro/vyberka)
 
 Výběrová řízení probíhají přiměřeně podle [pravidel hospodaření](http://pirati.cz/rules/prah).
 
