@@ -67,3 +67,9 @@ V tuto chvíli Praha bohužel vypadá jako jedno obří parkoviště. Kvůli plo
 ## Závěr
 
 Jsme si vědomi toho, že oblast individuální automobilové dopravy se v nadcházejících desetiletích pravděpodobně dočká velkých změn (rozmach sdílení aut, samořiditelná auta, možnost automatizované detekce volných parkovacích míst atp.). Historie je bohužel taková, že kdykoliv se Praha snažila předstihnout soukromý sektor v technologiích, skončilo to ekonomickou katastrofou (Opencard, SMS jízdenky, účetní systém). Proto navrhujeme úpravu stávajícího systému parkování tak, aby ho bylo možné ho realizovat se stávající infrastrukturou. 
+
+## TODO
+
+- právnické osoby
+- přesnější tarif (budou se škálovat i paušály)
+- jaký je třeba mít vztah k autu
