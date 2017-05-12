@@ -11,10 +11,10 @@ our:
 your:
    role:    Povinný subjekt
    name:    
-      -     Česká pošta
+      -     Česká pošta, s.p.
    address:
-      -     Kavčí hory, 
-      -     140 70 Praha 4
+      -     Politických vězňů 909/4,
+      -     225 99 Praha 1
 style:      letter
 ---
 
