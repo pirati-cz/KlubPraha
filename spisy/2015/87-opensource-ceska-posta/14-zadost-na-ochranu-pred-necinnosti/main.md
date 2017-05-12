@@ -29,6 +29,8 @@ počítačového programu, rozsahu nasazení (počet uživatelů, koncových za�
 
 Dne 26. srpna 2015 následně Česká pošta vydala přípis, ve kterém mi požadované informace odmítla poskytnout. Dne 28. srpna 2015 jsem proti němu podal odvolání, neboť jsem s odůvodněním nesouhlasil a považoval jej za nezákonné. Dne 1. října 2015 následně mému odvolání nevyhověl generální ředitel České pošty, který rozhodoval z pozice nadřízeného správního orgánu v souladu s ust. § 20 odst. 5 zákona č. 106/1999 Sb., o svobodném přístupu k informacím. Vzhledem k tomu, že tím byly vyčerpány všechny možné opravné prostředky, podal jsem žalobu k Městskému soudu v Praze. Soud svým rozsudkem dne 20. dubna 2017 rozhodl o zrušení rozhodnutí generálního ředitele České pošty a nařídil další řízení v dané záležitosti. 
 
+\newpage
+
 Konstatuji, že nadřízený správní orgán v patnáctidenní lhůtě, ve které měl žádost vyřídit, tak neučinil. Proto jsem nucen se domnívat, že je nečinný, a žádám o uplatnění žádosti na ochranu proti nečinnosti v souladu s ust. § 80 odst. 1 zákona č. 500/2004 Sb., Správního řádu. 
 
 Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Ke komunikaci tímto dále zmocňuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Žádám o doručování do datové schránky 4memzkm. Písemnosti, které není možné doručit do datové schránky, doručujte prosím na adresu Mariánské náměstí 2, Praha 1. Předem děkuji za Vaši vstřícnost.
