@@ -59,8 +59,8 @@ předseda klubu Pirátů v Zastupitelstvu hl. m. Prahy
 
 ![Ondřej Profant](ondrej-profant.jpg)
 
-* Povedlo se: Praha má úspěšně fungující portál Otevřených dat. 
-* Nepovedlo se: Majetková politika a informační strategie. Poté, co jsme připravili Teze informační strategie se s námi vedení města přestalo bavit.
+* Povedlo se: Praha má úspěšně fungující portál Otevřených dat, upozornili jsme na nezabezpečení radiové sítě.
+* Nepovedlo se: Majetková politika a informační strategie. Poté, co jsme připravili Teze informační strategie se s námi vedení města přestalo bavit. Rozpracovat Teze digitální strategie do řádné koncepce informatiky.
 
 ## Jakub Michálek
 
@@ -89,7 +89,7 @@ Jsme aktivní v řadě výborů. Účastníme se i jednání těch výborů, kde
 
 **Mikuláš Ferjenčík** je členem výboru pro územní plánování, kde sleduje navrhované změny pražského územního plánu. Upozornil na případy, kdy soukromý investor koupí louku za městem, následně zatlačí na pražské zastupitele a nechá si jí změnit na stavební parcelu. Louka za několik milionů tak může získat hodnotu několika set milionů korun. Takové případy se uskutečnily např. v Čakovicích, kde se Mikulášovi Ferjenčíkovi podařilo zastavit nebezpečnou změnu, nebo na Šabatce v Komořanech, kde však vládnoucí koalice změnu územního plánu nakonec prosadila. Mikuláš Ferjenčík rovněž navštěvuje i jednání výboru pro životní prostředí a infrastrukturu.
 
-**Ondřej Profant** je členem komise Rady hlavního města pro Smart Cities. Zde kritizuje nekoncepční řešení, jako jsou např. chytré lavičky, nebo neustálé prodlužování nevýhodných smluv na software se společností Gordic, ale i dalšími. Upozornil na projekty s cenou okolo několika desítek milionů korun, které mají sice z Prahy učinit formálně „Smart City“, ve skutečnosti je ale nikdo nepotřebuje. K čemu snad může být pražanům lavička s obrazovkou, na které běží reklamy nebo předpověď počasí? Ondřej Profant je také členem výboru pro správu majetku. Účastní se také jednání výboru pro dopravu.
+**Ondřej Profant** je členem komise Rady hlavního města pro Smart Cities a komise ICT. Zde kritizuje nekoncepční řešení, jako jsou např. chytré lavičky, nebo neustálé prodlužování nevýhodných smluv na software se společností Gordic, ale i dalšími. Upozornil na projekty s cenou okolo několika desítek milionů korun, které mají sice z Prahy učinit formálně „Smart City“, ve skutečnosti je ale nikdo nepotřebuje. K čemu snad může být pražanům lavička s obrazovkou, na které běží reklamy nebo předpověď počasí? Ondřej Profant je také členem výboru pro správu majetku. Účastní se také jednání výboru pro bezpečnost a dopravu.
 
 **Adam Zábranský** je členem legislativního výboru a výboru pro sport a volný čas. Kritizoval především naprosto děsivé praktiky v oblasti rozdělování sportovních dotací, apeloval na vznik pravidel pro transparentní obsazování dozorčích rad a dodržování zákona o zveřejňování smluv hlanvím městěm Prahou. 
 
