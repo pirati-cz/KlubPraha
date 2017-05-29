@@ -5,12 +5,9 @@ tables:     true
 
 # Výroční zpráva
 
-o činnosti Pirátů v Zastupitelstvu hl. m. Prahy za říjen 2015 až září 2016
+o činnosti Pirátů v Zastupitelstvu hl. m. Prahy za říjen 2015 až prosinec 2016
 
 ![Zastupitelé Pirátů (zleva): Adam Zábranský, Mikuláš Ferjenčík, Jakub Michálek, Ondřej Profant](uvodni.jpg)
-
-
-\mytoc
 
 # Úvodní slovo předsedy klubu
 
@@ -20,13 +17,13 @@ o činnosti Pirátů v Zastupitelstvu hl. m. Prahy za říjen 2015 až září 2
 
 Milí Pražané!
 
-Již druhým rokem jsme v Zastupitelstu hlavního města Prahy. Přestože se na podzim roku 2015 rozpadla koalice ANO, ČSSD a Trojkoalice, **odmítli jsme lukrativní funkce v Radě hlavního města Prahy a zůstali v opozici.** Na každém zasedání zastupitelstva kontrujeme ty nejhorší návrhy současné koalice. Bojujeme za záchranu buskingu, pomohli jsme zachránit Libeňský most před jeho nahrazením dálničním mostem a zveřejnili jsme čtvrt milionu faktur Magistrátu. Upozorňujeme na politické trafiky, kterými si koalice nakupuje další zastupitele. Nemáme problém jít do křížku i s velkými subjekty (např. developery), pokud hrozí, že by z Prahy byly vyváděny peníze. V kontrolním a finančním výboru důsledně dohlížíme na to, aby vedení Prahy dodržovalo platné zákony.
+Již druhým rokem jsme v Zastupitelstu hlavního města Prahy. Přestože se na podzim roku 2015 rozpadla koalice ANO, ČSSD a Trojkoalice, **odmítli jsme lukrativní funkce v Radě hlavního města Prahy a zůstali v opozici.** Na každém zasedání zastupitelstva kontrujeme ty nejhorší návrhy současné koalice. [Bojujeme za záchranu buskingu](https://praha.pirati.cz/omezeni-buskingu.html), pomohli jsme zachránit Libeňský most před jeho nahrazením dálničním mostem a zveřejnili jsme čtvrt milionu faktur Magistrátu. [Upozorňujeme na politické trafiky](https://praha.pirati.cz/odmena-moniky-krobove-hasove.html), kterými si koalice nakupuje další zastupitele. Nemáme problém jít do křížku i s velkými subjekty (např. developery), pokud hrozí, že by z Prahy byly vyváděny peníze. V kontrolním a finančním výboru důsledně dohlížíme na to, aby vedení Prahy dodržovalo platné zákony.
 
 Na podzim 2015 se rozpadla vládnoucí koalice. Vyzvali jsme proto TOP 09, Trojkoalici a Nezávislé k jednání o možném novém vedení Prahy. Jak jsme očekávali, jednání skončila bojem o udržení starých struktur. Přestože jsme důrazně odmítli jednání s pravomocně odsouzeným podvodníkem Karlem Březinou, na společné jednání o nové koalici si jej nakonec všechny strany přivedly. Proto jsme se rozhodli se jednání dále neúčastnit. Se šíbry se nejedná!
 
-Byla tak obnovena koalice ANO, ČSSD a Trojkoalice. **Do funkcí v Radě a ve výborech byli dosazeni naprosto nedůvěryhodní politici.** Jan Slezák, který rozháněl demonstranty během Palachova týdne, řídí výbor pro územní plánování. Karel Březina, který neoprávněně pobíral odměny v Dopravním podniku hl. m. Prahy, je předsedou Výboru pro správu majetku. Přeběhlice Monika Krobová Hášová je členkou výboru pro boj proti korupci. Chybí jen pověstný Rumburak.
+Byla tak obnovena koalice ANO, ČSSD a Trojkoalice. **Do funkcí v Radě a ve výborech byli dosazeni naprosto nedůvěryhodní politici.** Jan Slezák, který rozháněl demonstranty během Palachova týdne, řídí výbor pro územní plánování. Karel Březina, který neoprávněně pobíral odměny v Dopravním podniku hl. m. Prahy, je předsedou Výboru pro správu majetku. [Přeběhlice](https://praha.pirati.cz/prebehlictvi.html) Monika Krobová Hášová je členkou výboru pro boj proti korupci. Chybí jen pověstný Rumburak.
 
-Po volbách v říjnu 2014 nám ANO i TOP 09 nabídly funkce radních v nové pražské Radě. Nám nešlo o to, abychom získali funkce, ale aby Praha přestala být doupě korupce. Jakoukoliv podporu jsme podmínili seznamem deseti požadavků, zejména aby **Praha hospodařila skutečně transparentně**.
+Po volbách v říjnu 2014 nám ANO i TOP 09 nabídly funkce radních v nové pražské Radě. Nám nešlo o to, abychom získali funkce, ale aby Praha přestala být doupě korupce. 
 
 I nadále pracujeme velmi otevřeně. Zveřejňujeme [naše majetková přiznání](https://github.com/pirati-cz/KlubPraha/tree/master/priznani), informace [o schůzkách](https://redmine.pirati.cz/projects/praha/issues?query_id=13) i odměny. Pracujeme ve veřejně přístupném informačním systému [Redmine](https://redmine.pirati.cz/projects/praha/issues), kde se každý může podívat, co aktuálně děláme. 
 
@@ -46,21 +43,21 @@ předseda klubu Pirátů v Zastupitelstvu hl. m. Prahy
 ![Adam Zábranský](adam-zabransky.jpg)
 
 * Povedlo se: Dokázali jsme zveřejnit faktury pražského Magistrátu. Každý se tak může podívat, jak úřad hospodaří.
-* Nepovedlo se: Praha bohužel neschválila pravidla pro transparentní obsazování dozorčích rad městských firem. Provozuje i nadále politické trafiky.
+* Nepovedlo se: Praha bohužel neschválila pravidla pro transparentní obsazování dozorčích rad městských firem. [Provozuje i nadále politické trafiky](https://praha.pirati.cz/dozorci-rady.html).
 
 ## Mikuláš Ferjenčík
 
 ![Mikuláš Ferjenčík](mikulas-ferjencik.jpg)
 
-* Povedlo se: Podařilo se nám zastavit změnu územního plánu v Čakovicích Z-2901, na které chtěl developer na úkor hlavního města Prahy vydělat miliony. 
+* Povedlo se: Zveřejnili jsme připravovaný Metropolitní plán Prahy. 
 * Nepovedlo se: V čele výboru pro územní plánování sedí stále Jan Slezák.
 
 ## Ondřej Profant
 
 ![Ondřej Profant](ondrej-profant.jpg)
 
-* Povedlo se: Praha má úspěšně fungující portál Otevřených dat. 
-* Nepovedlo se: Majetková politika a informační strategie. Poté, co jsme připravili Teze informační strategie se s námi vedení města přestalo bavit.
+* Povedlo se: Praha má úspěšně fungující portál Otevřených dat, upozornili jsme na nezabezpečení radiové sítě. 
+* Nepovedlo se: Majetková politika a informační strategie. Poté, co jsme připravili Teze informační strategie se s námi vedení města přestalo bavit. Rozpracovat Teze digitální strategie do řádné koncepce informatiky.
 
 ## Jakub Michálek
 
@@ -85,11 +82,11 @@ Již před volbami v roce 2014 jsme deklarovali, že odmítáme účast v koalic
 
 Jsme aktivní v řadě výborů. Účastníme se i jednání těch výborů, kde své zástupce nemáme. 
 
-**Jakub Michálek** je členem kontrolního výboru. Inicioval dohledání majetkových přiznání Pavla Béma a Petra Hulinského, které Magistrát hlavního města Prahy po skončení volebního období obou pánů ztratil. Apeloval na dodržování zákona o hl. městě Praze vždy tehdy, dochází-li k jeho porušování (např. v případě finančního výboru). Jakub Michálek je od roku 2016 i členem Výboru pro evropské fondy, kde dohlíží na jejich správné přidělování. 
+**Jakub Michálek** je členem kontrolního výboru. Inicioval dohledání majetkových přiznání Pavla Béma a Petra Hulinského, které Magistrát hlavního města Prahy po skončení volebního období obou pánů [ztratil](https://praha.pirati.cz/problemy-s-priznanimi.html). Apeloval na dodržování zákona o hl. městě Praze vždy tehdy, dochází-li k jeho porušování (např. v případě finančního výboru). Jakub Michálek je od roku 2016 i členem Výboru pro evropské fondy, kde dohlíží na jejich správné přidělování. 
 
-**Mikuláš Ferjenčík** je členem výboru pro územní plánování, kde sleduje navrhované změny pražského územního plánu. Upozornil na případy, kdy soukromý investor koupí louku za městem, následně zatlačí na pražské zastupitele a nechá si jí změnit na stavební parcelu. Louka za několik milionů tak může získat hodnotu několika set milionů korun. Takové případy se uskutečnily např. v Čakovicích, kde se Mikulášovi Ferjenčíkovi podařilo zastavit nebezpečnou změnu, nebo na Šabatce v Komořanech, kde však vládnoucí koalice změnu územního plánu nakonec prosadila. Mikuláš Ferjenčík rovněž navštěvuje i jednání výboru pro životní prostředí a infrastrukturu.
+**Mikuláš Ferjenčík** je členem výboru pro územní plánování, kde sleduje navrhované změny pražského územního plánu. Upozornil na případy, kdy soukromý investor koupí louku za městem, následně zatlačí na pražské zastupitele a nechá si jí změnit na stavební parcelu. Louka za několik milionů tak může získat hodnotu několika set milionů korun. Takové případy se uskutečnily [např. v Čakovicích](https://praha.pirati.cz/pole-v-cakovicich.html), kde se Mikulášovi Ferjenčíkovi podařilo zastavit nebezpečnou změnu, nebo na Šabatce v Komořanech, kde však vládnoucí koalice změnu územního plánu nakonec prosadila. Mikuláš Ferjenčík rovněž navštěvuje i jednání výboru pro životní prostředí a infrastrukturu.
 
-**Ondřej Profant** je členem komise Rady hlavního města pro Smart Cities. Zde kritizuje nekoncepční řešení, jako jsou např. chytré lavičky, nebo neustálé prodlužování nevýhodných smluv na software se společností Gordic, ale i dalšími. Upozornil na projekty s cenou okolo několika desítek milionů korun, které mají sice z Prahy učinit formálně „Smart City“, ve skutečnosti je ale nikdo nepotřebuje. K čemu snad může být pražanům lavička s obrazovkou, na které běží reklamy nebo předpověď počasí? Ondřej Profant je také členem výboru pro správu majetku. Účastní se také jednání výboru pro dopravu.
++**Ondřej Profant** je členem komise Rady hlavního města pro Smart Cities a komise ICT. Zde kritizuje nekoncepční řešení, jako jsou např. chytré lavičky, nebo neustálé prodlužování [nevýhodných smluv](https://praha.pirati.cz/praha-rezignovala-na-boj-se-zavislosti-na-dodavateli-ucetnictvi.html) na software se společností Gordic, ale i dalšími. Upozornil na projekty s cenou okolo několika desítek milionů korun, které mají sice z Prahy učinit formálně „Smart City“, ve skutečnosti je ale nikdo nepotřebuje. K čemu snad může být pražanům lavička s obrazovkou, na které běží reklamy nebo předpověď počasí? Ondřej Profant je také členem výboru pro správu majetku. Účastní se také jednání výboru pro bezpečnost a dopravu.
 
 **Adam Zábranský** je členem legislativního výboru a výboru pro sport a volný čas. Kritizoval především naprosto děsivé praktiky v oblasti rozdělování sportovních dotací, apeloval na vznik pravidel pro transparentní obsazování dozorčích rad a dodržování zákona o zveřejňování smluv hlanvím městěm Prahou. 
 
@@ -112,6 +109,7 @@ Pravidelně jsme v uvedeném období vydávali tiskové zprávy o tom, co se v p
 * Získali jsme čtvrt milionu faktur MHMP a zveřejnili je. Úřad nám od té doby přístup k účetnictví města odpírá pod různými většinou nezákonnými důvody (odvoláváme se proti nim, Ministerstvo vnitra dává odvoláním za pravdu). 
 * Zjistili jsme, že se majetkové přiznání Pavla Béma a Petra Hulinského „ztratilo“. Informovali jsme Státní oblastní archiv v Praze, aby v tomto případě zjednal ve vztahu s Prahou nápravu. 
 * Zjistili jsme roční odměny přeběhlice Moniky Krobové Hášové (1 167 000 Kč) za její členství v dozorčí radě.
+* Na základě průlomového rozsudku Adama Zábranského musí městské společnosti [poskytovat informace](https://praha.pirati.cz/poskytovani-informaci-mestskymi-firmami.html).
 
 # Vybraná témata
 
@@ -119,16 +117,16 @@ Pravidelně jsme v uvedeném období vydávali tiskové zprávy o tom, co se v p
 
 ## Trafiky v městských firmách
 
-* Upzornili jsme na přeběhlictví Moniky Krobové Hášové a její roli v Pražské energetice
-* Podali jsme trestní oznámení na Radmilu Kleslovou
-* Zažádali jsme o informace o odměných městských firem.
+* Upzornili jsme na [přeběhlictví Moniky Krobové Hášové](https://github.com/pirati-cz/KlubPraha/blob/master/spisy/2016/128-neeticke-prijimani-prebehliku-v-cssd/main.pdf) a její roli v Pražské energetice
+* Podali jsme [trestní oznámení na Radmilu Kleslovou](https://praha.pirati.cz/kleslova.html)
+* Zažádali jsme o informace o odměnách členů dozorčích rad městských firem
 
 ## Pronájmy
 
 * Systematicky sledujeme, jak Praha hospodaří se svým majetkem
-* Kritizujeme nízké nájmy, které jsou spojené s vládnoucími politiky (např. radní Hodek)
-* Dále se snažíme dohledat, kdo je odpovědný za kauzu Škodův palác
-* Zastali jsme se občanů sídliště v Písnici, které bylo prodáno developerovi.
+* Kritizujeme [nízké nájmy](https://praha.pirati.cz/farmarske-trhy.html), které jsou spojené s vládnoucími politiky (např. radní Hodek)
+* Dále se snažíme dohledat, [kdo je odpovědný](https://praha.pirati.cz/skoduv-palac-2.html) za kauzu Škodův palác
+* [Zastali jsme se](https://praha.pirati.cz/pisnicti-pres-palubu.html) občanů sídliště v Písnici, které bylo prodáno developerovi.
 
 ## Územní plánování
 
@@ -140,11 +138,15 @@ Pravidelně jsme v uvedeném období vydávali tiskové zprávy o tom, co se v p
 
 ## Metropolitní plán
 
-* V květnu 2016 jsme [zveřejnili Metropolitní plán](https://mup.pirati.cz/cs/metropolitni-plan.html).
+* V květnu 2016 jsme [zveřejnili](https://praha.pirati.cz/metropolitni-plan.html) [Metropolitní plán](https://mup.pirati.cz/cs/metropolitni-plan.html).
 
 ## Libeňský most
 
-* Zachránili jsme Libeňský most před zbouráním a nahrazením betonovým monstrem, které by sloužilo jako dálnice z Holešovic do Libně.
+* [Zachránili jsme Libeňský most](https://praha.pirati.cz/zastupitelstvo-unor-2016.html) před zbouráním a nahrazením betonovým monstrem, které by sloužilo jako dálnice z Holešovic do Libně.
+
+## Nezabezpečené rádio
+
+* Upozornili jsme, že [kdokoliv může odposlouchávat](https://praha.pirati.cz/odposlouchavani.html) radiový systém Tetra, který slouží Praze pro komunikaci s bezpečnostními složkami.
 
 ## Majetková přiznání
 
@@ -161,7 +163,7 @@ Zprovoznili jsme nový [repozitář odměn](https://github.com/pirati-cz/transpa
 
 V říjnu 2014 uzavřeli pirátští zastupitelé mandátní smlouvy s Pirátskou stranou. Jedna z podmínek této smlouvy stanoví, že se zastupitelé mají věnovat činnosti pro zastupitelský klub 30 hodin týdně, tedy v přepočtu 6 hodin denně. Průměrně za měsíc odpracují zastupitelé cca 80 hodin měsíčně, maximální množství odpracovaného času u jednoho zastupitele bylo 200 hodin za měsíc.
 
-Za druhý rok své činnosti odvedli zastupitelé celkem okolo 4000 hodin. za rok 2016 je to 1256 hodin u Ondřeje Profanta, 931 hodin u Jakuba Michálka, 870 u Adama Zábranského a 904 u Mikuláše Ferjenčíka.
+Za podzim roku 2015 a rok 2016 odvedli zastupitelé celkem okolo 5200 hodin. za rok 2016 je to 1533 hodin u Ondřeje Profanta, 1294 hodin u Jakuba Michálka, 1195 u Adama Zábranského a 1213 u Mikuláše Ferjenčíka.
 
 ## Příjmy zastupitelů
 
@@ -181,19 +183,19 @@ Jednotliví zastupitelé vykazují svojí aktivitu v systému [redmine][redmine]
 [redmine]: https://redmine.pirati.cz/projects/praha
 [repo-odmen]: https://github.com/pirati-cz/KlubPraha/tree/master/odmeny/2016/
 
-Celková výše **hrubých** příjmů (před zaplacením daní a pojistného) včetně průměru za období říjen 2015 až září 2016 je uvedena v následující tabulce.
+Celková výše **hrubých** příjmů (před zaplacením daní a pojistného) včetně průměru za období říjen 2015 až prosinec 2016 je uvedena v následující tabulce.
 
 Příjemce              | Příjmy od města        | Příjmy od strany     |        Součet příjmů
 ------                | -------:               | ---:                 | ----:
-**Adam Zábranský**    | 133614                 | 67323                | 200937
-  čili měsíčně        | 11134                  | 5611                 | 16745
-**Jakub Michálek**    | 142098                 | 86098                | 228196
-  čili měsíčně        | 11841                  | 7175                 | 19016
-**Mikuláš Ferjenčík** | 141854                 | 83951                | 225805
-  čili měsíčně        | 11821                  | 6996                 | 18817
-**Ondřej Profant**    | 161277                 | 111863               | 273140
-  čili měsíčně        | 13439                  | 9322                 | 22761
-**měsíční průměr**    | 12059                  | 7276                 | 19335
+**Adam Zábranský**    | 171586                 | 91131                | 262717
+  čili měsíčně        | 11439                  | 6075                 | 17514
+**Jakub Michálek**    | 180831                 | 124655               | 305486
+  čili měsíčně        | 12055                  | 8310                 | 20365
+**Mikuláš Ferjenčík** | 179768                 | 109672               | 289440
+  čili měsíčně        | 11984                  | 7311                 | 19296
+**Ondřej Profant**    | 200505                 | 145506               | 346011
+  čili měsíčně        | 13367                  | 9700                 | 23067
+**měsíční průměr**    | 12211                  | 7849                 | 20060
 
 <!--
 Od strany:
@@ -210,6 +212,9 @@ J M O A
 7/2016 13742 9392 10534 2291
 8/2016 2562 9424 10741 1858
 9/2016 10728 9464 9555 3165
+10/2016 12634 10368 11638 6854
+11/2016 14758 9191 12844 7763
+12/2016 11165 6162 9161 9191
 -->
 
 <!--
@@ -227,6 +232,9 @@ J M O A
 7/2016 0 0 0 0
 8/2016 0 0 0 0
 9/2016 6066 0 0 0
+10/2016 7155 8361 6750 9072
+11/2016 8775 7425 10350 8032
+12/2016 5850 5175 5175 3915
 -->
 
 <!--
@@ -244,6 +252,9 @@ J M O A
 7/2016 5651 5651 5651 5651
 8/2016 5651 5651 5651 5651
 9/2016 5651 5651 5651 5651
+10/2016 5651 5651 5651 5651
+11/2016 5651 5651 5651 5651
+12/2016 5651 5651 5651 5651
 -->
 
 : Roční a měsíční příjmy zastupitelů v klubu Pirátů
@@ -260,8 +271,6 @@ J M O A
 
 Následující graf ukazuje výši příjmů jednotlivých zastupitelů v jednotlivých měsících:
 
-![Paušální odměna podle jednotlivých zastupitelů](pausalni-odmena-graf.png)
-
 [Paušální odměna v tabulce](data.csv)
 
 #### A.2 Náhrada výdělku
@@ -272,7 +281,7 @@ Následující graf ukazuje výši příjmů jednotlivých zastupitelů v jednot
 
 Následující graf ukazuje výši příjmů jednotlivých zastupitelů v jednotlivých měsících:
 
-![Náhrada výdělku od města podle jednotlivých zastupitelů](nahrada-vydelku-graf.png)
+![Paušální odměna a náhrada výdělku od města podle jednotlivých zastupitelů](nahrada-vydelku-graf2.png)
 
 V [repozitáři odměn][repo-odmen] si lze prohlédnout výčetky zastupitelů za každý měsíc. V nich je vždy rozpis konkrétní činnosti zastupitele, za který odměna náleží.
 
