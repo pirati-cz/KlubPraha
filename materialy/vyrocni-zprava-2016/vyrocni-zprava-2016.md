@@ -58,8 +58,8 @@ předseda klubu Pirátů v Zastupitelstvu hl. m. Prahy
 
 ![Ondřej Profant](ondrej-profant.jpg)
 
-* Povedlo se: Praha má úspěšně fungující portál Otevřených dat, upozornili jsme na nezabezpečení radiové sítě. 
-* Nepovedlo se: Majetková politika a informační strategie. Poté, co jsme připravili Teze informační strategie se s námi vedení města přestalo bavit. Rozpracovat Teze digitální strategie do řádné koncepce informatiky.
+* Povedlo se: Praha má úspěšně fungující portál [Otevřených dat](http://opendata.praha.eu/), upozornili jsme na [nezabezpečení radiové sítě](https://praha.pirati.cz/odposlouchavani.html). 
+* Nepovedlo se: Majetková politika a informační strategie. Poté, co jsme připravili [Teze informační strategie](https://praha.pirati.cz/rada-digitalni-strategie.html) se s námi vedení města přestalo bavit. Rozpracovat Teze digitální strategie do řádné koncepce informatiky.
 
 ## Jakub Michálek
 
