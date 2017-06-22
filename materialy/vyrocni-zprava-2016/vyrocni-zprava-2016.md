@@ -52,6 +52,8 @@ předseda klubu Pirátů v Zastupitelstvu hl. m. Prahy
 * Povedlo se: Zveřejnili jsme připravovaný Metropolitní plán Prahy. 
 * Nepovedlo se: V čele výboru pro územní plánování sedí stále Jan Slezák.
 
+\newpage
+
 ## Ondřej Profant
 
 ![Ondřej Profant](ondrej-profant.jpg)
