@@ -22,7 +22,7 @@ Následující seznam obsahuje přehled o veškerém majetku výše uvedeného f
 | Popis věci            | Odhad hodnoty |  Převažující zdroj                  |
 | --------------------- | ------------: |  ---------------------- |
 | Byt v Pardubicích, náměstí dukelských hrdinů 2233 |  1 000 000 Kč | dar od rodičů|
-| Bankovní účet u ČSOB |  12 000 Kč | příjmy z činnosti zastupitele a vedení kroužků zábavné logiky |
+| Bankovní účet u ČSOB |  7 000 Kč | příjmy z činnosti zastupitele, z vedení mediálního odboru Pirátů a vedení kroužků zábavné logiky |
 | Notebook | 12 000 Kč | Dar od rodičů |
 | 2 akordeony | celkem 30 000 Kč | dar od rodiny |
 
