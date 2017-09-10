@@ -57,7 +57,7 @@ Byl jsem zaměstnán v pracovním poměru na dobu neurčitou na pozici advokátn
 
 #### Doba po zvolení členem Zastupitelstva hl. m. Prahy
 
-Od listopadu 2014 se věnuji na plný úvazek funkci zastupitele. Mé finanční příjmy tvoří příjem z [mandátní smlouvy uzavřené s Českou pirátskou stranou](http://smlouvy.pirati.cz/smlouvy/2014/11/13/jakub-michalek/index.html), příjmy od města v podobě odměny zastupitele a náhrady ušlého výdělku (viz [seznam příjmů](#Seznam příjmů od veřejných institucí)). Dále v rámci okrajové živnosti zpracovávám podkladové dokumenty z právní oblasti, živnost mám zapsanou od 1. 1. 2015, příležitostně přednáším o autorském právu. Žiju v nájemním bytě na Žižkově o výměře cca 20 metrů čtverečních s nájemným 5000 Kč měsíčně.
+Od listopadu 2014 se věnuji na plný úvazek funkci zastupitele. Mé finanční příjmy tvoří příjem z [mandátní smlouvy uzavřené s Českou pirátskou stranou](http://smlouvy.pirati.cz/smlouvy/2014/11/13/jakub-michalek/index.html), příjmy od města v podobě odměny zastupitele a náhrady ušlého výdělku (viz seznam příjmů od veřejných institucí). Dále v rámci okrajové živnosti zpracovávám podkladové dokumenty z právní oblasti, živnost mám zapsanou od 1. 1. 2015, příležitostně přednáším o autorském právu. Žiju v nájemním bytě na Žižkově o výměře cca 20 metrů čtverečních s nájemným 5000 Kč měsíčně.
 
 Úplný rozpis příjmů viz níže.
 
@@ -71,9 +71,9 @@ Informace o příjmech
 ### Seznam darů a příjmů od veřejných institucí
 *Následuje seznam darů a příjmů od veřejných institucí. Darem se rozumí darované plnění, výhoda a jiný bezplatný požitek za období od vzniku funkce nebo s funkcí související. Za dar se považuje každé plnění nebo opomenutí funkcionáři v rozsahu, ve kterém funkcionář neuhradí odpovídající protihodnotu (bezplatné dovolené, prominutí dluhu apod.) a nejde přitom o obvyklé darování (např. přiměřený dar od blízkých k svátku, běžně dostupná sleva na elektřinu apod.). Pokud jde o příjem od veřejné instituce, veřejnou institucí se zde rozumí stát, územní samosprávné celky, veřejné vysoké školy, veřejné výzkumné instituce, školy, prosefní komory, jakož i akciové společnosti nebo jiné veřejné instituce jimi ovládané. V seznamu nemusí být uvedeny dary a příjmy do 5000 Kč ročně od jedné osoby.*
 
-* [oznámení podle etického kodexu za rok 2014](https://github.com/pirati-cz/KlubPraha/raw/master/priznani/eticky-kodex/2014/jakub/eticky_kodex_jakub_doplnek_signed.pdf).
-* [oznámení podle etického kodexu za rok 2015](https://github.com/pirati-cz/KlubPraha/raw/master/priznani/eticky-kodex/2015/jakub/eticky_kodex.odt).
-* [oznámení podle etického kodexu za rok 2016](https://github.com/pirati-cz/KlubPraha/raw/master/priznani/eticky-kodex/2016/jakub/eticky_kodex.pdf).
+* [oznámení podle etického kodexu za rok 2014](https://github.com/pirati-cz/KlubPraha/raw/master/priznani/eticky-kodex/2014/jakub/eticky_kodex_jakub_doplnek_signed.pdf)
+* [oznámení podle etického kodexu za rok 2015](https://github.com/pirati-cz/KlubPraha/raw/master/priznani/eticky-kodex/2015/jakub/eticky_kodex.odt)
+* [oznámení podle etického kodexu za rok 2016](https://github.com/pirati-cz/KlubPraha/raw/master/priznani/eticky-kodex/2016/jakub/eticky_kodex.pdf)
 
 
 Prohlašuji, že jsem výše uvedené údaje uvedl úplně a pravdivě. 
