@@ -71,9 +71,9 @@ Informace o příjmech
 ### Seznam darů a příjmů od veřejných institucí
 *Následuje seznam darů a příjmů od veřejných institucí. Darem se rozumí darované plnění, výhoda a jiný bezplatný požitek za období od vzniku funkce nebo s funkcí související. Za dar se považuje každé plnění nebo opomenutí funkcionáři v rozsahu, ve kterém funkcionář neuhradí odpovídající protihodnotu (bezplatné dovolené, prominutí dluhu apod.) a nejde přitom o obvyklé darování (např. přiměřený dar od blízkých k svátku, běžně dostupná sleva na elektřinu apod.). Pokud jde o příjem od veřejné instituce, veřejnou institucí se zde rozumí stát, územní samosprávné celky, veřejné vysoké školy, veřejné výzkumné instituce, školy, prosefní komory, jakož i akciové společnosti nebo jiné veřejné instituce jimi ovládané. V seznamu nemusí být uvedeny dary a příjmy do 5000 Kč ročně od jedné osoby.*
 
-[oznámení podle etického kodexu za rok 2014](https://github.com/pirati-cz/KlubPraha/raw/master/priznani/eticky-kodex/2014/jakub/eticky_kodex_jakub_doplnek_signed.pdf).
-[oznámení podle etického kodexu za rok 2015](https://github.com/pirati-cz/KlubPraha/raw/master/priznani/eticky-kodex/2015/jakub/eticky_kodex.odt).
-[oznámení podle etického kodexu za rok 2016](https://github.com/pirati-cz/KlubPraha/raw/master/priznani/eticky-kodex/2016/jakub/eticky_kodex.pdf).
+* [oznámení podle etického kodexu za rok 2014](https://github.com/pirati-cz/KlubPraha/raw/master/priznani/eticky-kodex/2014/jakub/eticky_kodex_jakub_doplnek_signed.pdf).
+* [oznámení podle etického kodexu za rok 2015](https://github.com/pirati-cz/KlubPraha/raw/master/priznani/eticky-kodex/2015/jakub/eticky_kodex.odt).
+* [oznámení podle etického kodexu za rok 2016](https://github.com/pirati-cz/KlubPraha/raw/master/priznani/eticky-kodex/2016/jakub/eticky_kodex.pdf).
 
 
 Prohlašuji, že jsem výše uvedené údaje uvedl úplně a pravdivě. 
