@@ -21,6 +21,7 @@ Pravidla výběrového řízení
    znalost angličtiny | 5
 
    Maximální počet bodů má obdržet kandidát, který zcela znamenitě splňuje předpoklady z dané oblasti. Nula bodů obdrží kandidát, jehož hodnocení je na nepřijatelné úrovni (tím není dotčeno právo komise kandidáta kvůli nesplnění požadavků vyloučit).
+
 8. Výsledkem výběrového řízení je seřazený seznam nabídek s uvedením, jaké je pořadí nabídek, které jsou přijatelné nabídky, a čí nabídka je vyřazena. O hodnocení a výsledku výběrového řízení rozhoduje hodnotící komise jmenovaná zadavatelem do termínu pro zaslání nabídek. 
 9. Zadavatel **uzavře smlouvu** s vítězem výběrového řízení. Rozhodne-li se tak zadavatel, může vedle vítěze přijmout postupně v pořadí i druhou či další nabídku, která nebyla vyřazena, ale vždy tak, aby míra plnění odpovídala pořadí ve výběrovém řízení. Odpadne-li vítěz, může zadavatel uzavřít smlouvu na základě další přijatelné nabídky v pořadí dle výsledků. Nejpozději tak může učinit do 1 roku od vyhlášení výsledků výběrového řízení.
 10. Rozsah práce bude odpovídat hodnotě 40 hodin týdně. Výsledek výběrového řízení bude použitelný i pro další srovnatelné pozice (např. případní další asistenti republikového předsednictva Pirátské strany), ale smlouva musí být uzavřena do 1 roku od vyhlášení výsledků výběrového řízení.
