@@ -31,8 +31,9 @@ V Pirátské straně hledáme **vedoucí nebo vedoucího kanceláře republikov�
 * důslednost v práci a profesionální přístup, schopnost hlídání termínů různých akcí apod.
 * vysokou míru samostatnosti a proaktivní přístup
 * filosofické ztotožnění se s [Pirátským programem][program] a jeho dobrou znalost
-* velmi dobrou znalost kancelářských balíků, schopnost naučit se používat [Pirátský redmine][redmine], [Pirátský github][github] a [Pirátské fórum][forum] a další technické systémy
+* velmi dobrou znalost kancelářských balíků včetně dokumentů google (dokumenty, tabulky, prezentace), schopnost naučit se používat [Pirátský redmine][redmine], [Pirátský github][github] a [Pirátské fórum][forum] a další technické systémy
 * vynikající komunikační dovednosti, reprezentativní a příjemné vystupování
+* vysokoškolské vzdělání a reference s obdobnou pozicí; ekonomické a právní minimum
 * časová flexibilita (aktivity mají často nárazový charakter v časovém tlaku) a zvládání stresu
 * ochotu pracovat s dobrovolníky
 * znalost anglického jazyka
