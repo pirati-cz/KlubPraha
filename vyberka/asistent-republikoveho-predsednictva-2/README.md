@@ -19,7 +19,7 @@ V Pirátské straně hledáme **vedoucí nebo vedoucího kanceláře republikov�
 
 ## Nabízíme:
 
-* smlouvu na dobu neurčitou, s odměnou 35-45 000 Kč hrubého na hlavní pracovní poměr (aspoň 7 hodin denně)
+* smlouvu na dobu určitou, s odměnou 35-45 000 Kč hrubého na hlavní pracovní poměr (aspoň 7 hodin denně) se zkušební dobou 3 měsíců, a to na dobu trvání 1 roku, v případě oboustranné spokojenosti s možností prodloužení
 * možnost podílet se na realizaci Pirátského programu
 * práce ve skvělém kolektivu předních osobností Pirátů v České republice,
 * seznámení s moderními technologiemi používanými při fungování Pirátské strany,
@@ -37,6 +37,8 @@ V Pirátské straně hledáme **vedoucí nebo vedoucího kanceláře republikov�
 * reference na předchozí práci s obdobnou zodpovědností, 
 * všeobecné minimum znalostí nutné pro zvládnutí této profese (manažerské, ekonomické, právní, personální) 
 * časová flexibilita (aktivity mají někdy nárazový charakter v časovém tlaku) a zvládání stresu
+* čistý trestní rejstřík a bezproblémovost z hlediska napojení na organizovaný zločin, struktury, které mu pomáhají, konkurenčí politické strany či jiné podobné organizace, kde mají Piráti rozumné důvody obávat se střetu zájmů
+* ochota podrobit se důkladnému back-ground checku a risk analýze, abychom zabránili infiltraci
 * ochotu pracovat s dobrovolníky
 * znalost anglického jazyka
 
@@ -52,7 +54,7 @@ V nabídce nám prosím zašli v jednom PDF dokumentu následující materiály:
 1. krátký motivační dopis,
 2. svůj životopis,
 
-Pokud máš nedejbože záznam v trestním rejstříku, popiš ho a zdůvodni. Podrobnosti o výběrovém řízení si přečti v [pravidlech výběrového řízení](pravidla.md). Pokud máš zájem o upřesnění informací, neváhej se na mne obrátit emailem či telefonicky.
+Podrobnosti o výběrovém řízení si přečti v [pravidlech výběrového řízení](pravidla.md). Pokud máš zájem o upřesnění informací, neváhej se na mne obrátit emailem či telefonicky.
 
 Na zadání bude sepsán standardní zadávací list podle [podmínek pro placené úkoly](https://github.com/pirati-cz/sablony/blob/4b07ba675434ee634c527909d537122264cc712e/ukoly/podminky/podminky.md) s vykazováním v systémů [redmine][redmine].
 
