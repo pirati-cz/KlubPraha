@@ -1,20 +1,20 @@
 Česká pirátská strana  
 republikové předsednictvo
 
-Výběrové řízení na asistenta pro republikové předsednictvo Pirátské strany
+Výběrové řízení na vedoucí kanceláře republikového předsednictva Pirátské strany
 ========================
 
 Ahoj!
 
-V Pirátské straně hledáme **vedoucí nebo vedoucího kanceláře republikového předsednictva**, tedy pracovníka, který bude pomáhat exekutivnímu vedení Pirátů. Pokud sympatizuješ s Piráty, umíš výborně plánovat a koordinovat souběžné věci, administrativa ti nedělá problémy a rád vnášíš do chaosu řád, je tohle pro tebe ta pravá nabídka. 
+V Pirátské straně hledáme **vedoucí nebo vedoucího kanceláře republikového předsednictva**, tedy člověka, který bude pravou rukou exekutivního vedení Pirátů. Pokud sympatizuješ s Piráty, umíš výborně plánovat a koordinovat souběžné věci, administrativa ti nedělá problémy a rád vnášíš do chaosu řád, je tohle pro tebe ta pravá nabídka. 
 
 ## Poptávaná činnost:
 
 * veškerá administrativní agenda republikového předsednictva Pirátské strany, příprava agendy jednání republikového předsednictva, tvorba zápisů z jednání, kontrola plnění úkolů odbory, příprava schůzek a rešerší
-* příprava výběrových řízení
+* příprava výběrových řízení, jednání s dodavateli, publikování smluv, organizace akcí
+* koordinace činností republikového předsednictva s dalšími orgány Pirátské strany, např. republikovým výborem a týmy podřízenými republikovému předsednictvu
 * vedení spisové služby republikového předsednictva
 * příprava podkladů pro mediální a vnitrostranickou činnost republikového předsednitva
-* koordinace činností republikového předsednictva s dalšími orgány Pirátské strany, např. republikovým výborem a týmy podřízenými republikovému předsednictvu
 * předpokládaný rozsah činnosti je cca 40 hodin týdně (cca plný úvazek; 1.0 úvazku)
 
 ## Nabízíme:
@@ -33,8 +33,10 @@ V Pirátské straně hledáme **vedoucí nebo vedoucího kanceláře republikov�
 * filosofické ztotožnění se s [Pirátským programem][program] a jeho dobrou znalost
 * velmi dobrou znalost kancelářských balíků včetně dokumentů google (dokumenty, tabulky, prezentace), schopnost naučit se používat [Pirátský redmine][redmine], [Pirátský github][github] a [Pirátské fórum][forum] a další technické systémy
 * vynikající komunikační dovednosti, reprezentativní a příjemné vystupování
-* vysokoškolské vzdělání a reference s obdobnou pozicí; ekonomické a právní minimum
-* časová flexibilita (aktivity mají často nárazový charakter v časovém tlaku) a zvládání stresu
+* vysokoškolské vzdělání (nebo doložení plně ekvivalentních znalostí a zkušeností)
+* reference na předchozí práci s obdobnou zodpovědností, 
+* všeobecné minimum znalostí nutné pro zvládnutí této profese (manažerské, ekonomické, právní, personální) 
+* časová flexibilita (aktivity mají někdy nárazový charakter v časovém tlaku) a zvládání stresu
 * ochotu pracovat s dobrovolníky
 * znalost anglického jazyka
 
