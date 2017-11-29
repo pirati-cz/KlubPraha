@@ -24,7 +24,7 @@ problémy:
         - rozdíl v hodnotě podílu: z 1,022 mld (str. 71 původního) na 1,490 mld (str. 70 aktualizovaného)
         - posudky nezohledňují fakt, že smlouvu z roku 2016 lze od roku 2018 vypovědět s roční výpovědní dobou (tudíž hodnotu společnosti nezvyšuje tolik, jak v posudku tvrdí)
     - na PTH z 31.8.2016, aktualizovaný 30.4.2017, doplnění podle vyplacených tantiém k 30.4.2017
-        dle výnosové metody čistých výnosů hodnota podílu 2,957 mld (str. 63), dle tržního porovnání pomocí odvětvových násobitelů 2,986 mld (str. 65), výsledek 2,957 mld; podle aktualizovaného výsledek 3,028 mld (str. 68)
-        v aktualizovaném není zohledněna účetní závěrka za rok 2016, kdy se meziročně zvýšil čistý zisk z 361 mil na 756 mil! (zohledněna je jen výplata dividend PTH na neprovozní obchodní majetek PTH, a to v doplnění)
-        divná situace: PTH už má v OR účetní závěrku za 2016, PT ne (proč? schovávají, že měli výrazně vyšší zisky?)
+        - dle výnosové metody čistých výnosů hodnota podílu 2,957 mld (str. 63), dle tržního porovnání pomocí odvětvových násobitelů 2,986 mld (str. 65), výsledek 2,957 mld; podle aktualizovaného výsledek 3,028 mld (str. 68)
+        - v aktualizovaném není zohledněna účetní závěrka za rok 2016, kdy se meziročně zvýšil čistý zisk z 361 mil na 756 mil! (zohledněna je jen výplata dividend PTH na neprovozní obchodní majetek PTH, a to v doplnění)
+        - divná situace: PTH už má v OR účetní závěrku za 2016, PT ne (proč? schovávají, že měli výrazně vyšší zisky?)
 - faktická nemožnost vypovědět smlouvu z roku 2016 (Praha by pak musela koupit závod AVE za více než miliardu, což by se nevyplatilo)
