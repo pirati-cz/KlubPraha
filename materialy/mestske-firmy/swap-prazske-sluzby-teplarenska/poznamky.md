@@ -14,17 +14,17 @@ důvody proč to udělat (nehodnotím, jestli dávají smysl, ale jsou to ofici�
 kolik stály posudky od Apogeo - ne tak drahé, viz https://www.hlidacsmluv.cz/hledat?Q=26103451
 
 problémy:
-- nedostatečné podklady: chybí zdůvodnění směny (např. vlastnická politika), SWOT analýza, variantní řešení, due diligence (zaměstnanecká struktura, smluvní závazky, stav majetku, zatížení majetku)
-- posudky jen z veřejných zdrojů
- - na PS první z 31.8.2016, aktualizovaný 30.4.2017
-  - rozdíl 1 mld v hodnotě společnosti dle metody srovnatelných podniků (4,079 mld na str. 67 vs 4,999 mld na str. 62, rozdíl asi zapříčiněn a) zvýšením zisku díky smlouvě z megatendru z roku 2016 - viz str. 24 aktualizovaného posudku - a b) rozdílem v násobiteli EV/EBITDA - 7,12 vs 8,9; rozdíl v EV/EBITDA mohl být zapříčiněn tím, že v původním posudku do srovnatelných podniků započítávali i Veolia Environment a GROUPE Pizzorno Environment, které měli malý EV/EBITDA, v aktualizaci je vyřadili!)
+1) nedostatečné podklady: chybí zdůvodnění směny (např. vlastnická politika), SWOT analýza, variantní řešení, due diligence (zaměstnanecká struktura, smluvní závazky, stav majetku, zatížení majetku)
+2) posudky jen z veřejných zdrojů
+ - **na PS první z 31.8.2016, aktualizovaný 30.4.2017**
+    - rozdíl 1 mld v hodnotě společnosti dle metody srovnatelných podniků (4,079 mld na str. 67 vs 4,999 mld na str. 62, rozdíl asi zapříčiněn a) zvýšením zisku díky smlouvě z megatendru z roku 2016 - viz str. 24 aktualizovaného posudku - a b) rozdílem v násobiteli EV/EBITDA - 7,12 vs 8,9; rozdíl v EV/EBITDA mohl být zapříčiněn tím, že v původním posudku do srovnatelných podniků započítávali i Veolia Environment a GROUPE Pizzorno Environment, které měli malý EV/EBITDA, v aktualizaci je vyřadili!)
   - rozdíl mezi posudky ve výsledné hodnotě podílu před novou smlouvou: 821 mil vs 964 mil (jak je tohle možné?)
   - v aktualizovaném posudku přičetli i hodnotu ze smlouvy na údržbu komunikací od TSK (která ovšem ještě nebyla vysoutěžena, veřejná zakázka běží pod číslem Z2017-008306), jejíž přínos pro hodnotu podílu vyčíslili na 238 mil (str. 67)
   - z aktualizovaného na str. 17 vyplývá, že megatendr na odpad z roku 2016 navýšil odměny ze smlouvy z 780 mil ročně na 1,196 mld ročně, tedy o 400 mil ročně, což mj. výrazně zvýšilo hodnotu firmy
   - rozdíl v hodnotě podílu: z 1,022 mld (str. 71 původního) na 1,490 mld (str. 70 aktualizovaného)
   - posudky nezohledňují fakt, že smlouvu z roku 2016 lze od roku 2018 vypovědět s roční výpovědní dobou (tudíž hodnotu společnosti nezvyšuje tolik, jak v posudku tvrdí)
- - na PTH z 31.8.2016, aktualizovaný 30.4.2017, doplnění podle vyplacených tantiém k 30.4.2017
+ - **na PTH z 31.8.2016, aktualizovaný 30.4.2017, doplnění podle vyplacených tantiém k 30.4.2017**
   - dle výnosové metody čistých výnosů hodnota podílu 2,957 mld (str. 63), dle tržního porovnání pomocí odvětvových násobitelů 2,986 mld (str. 65), výsledek 2,957 mld; podle aktualizovaného výsledek 3,028 mld (str. 68)
   - v aktualizovaném není zohledněna účetní závěrka za rok 2016, kdy se meziročně zvýšil čistý zisk z 361 mil na 756 mil! (zohledněna je jen výplata dividend PTH na neprovozní obchodní majetek PTH, a to v doplnění)
   - divná situace: PTH už má v OR účetní závěrku za 2016, PT ne (proč? schovávají, že měli výrazně vyšší zisky?)
-- faktická nemožnost vypovědět smlouvu z roku 2016 (Praha by pak musela koupit závod AVE za více než miliardu, což by se nevyplatilo)
+3) faktická nemožnost vypovědět smlouvu z roku 2016 (Praha by pak musela koupit závod AVE za více než miliardu, což by se nevyplatilo)
