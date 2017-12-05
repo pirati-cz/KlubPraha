@@ -18,7 +18,7 @@ Pravidla výběrového řízení
    Zkušenosti s administrativou | 5
    Písemný projev | 10
    Práce s technickými systémy  | 15
-   Schopnost samostatného rozhodování a jednání | 10
+   Předchozí zapojení do aktivit Pirátů | 10
 
 Maximální počet bodů má obdržet kandidát, který zcela znamenitě splňuje předpoklady z dané oblasti. Nulový počet má obdržet kandidát, který předpoklady z dané oblasti pro danou pozici splňuje zcela nedostatečně. 
 
