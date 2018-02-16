@@ -556,7 +556,6 @@ Měsíc,Platba,Plátce,Příjemce,Částka (Kč),Důvod platby,Zdroj
 2016-07,2016-09-23,Praha,Jakub Michálek,13713,náhrada výdělku,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/jakub-michalek/README.md
 2016-07,2016-09-23,Pirati,Jakub Michálek,8500,pevná část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/jakub-michalek/README.md
 2016-07,2016-09-23,Pirati,Jakub Michálek,5242,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-cz/KlubPraha/blob/master/odmeny/2016/07/jakub-michalek/README.md
-
 2016-08,2016-09-23,Praha,Adam Zábranský,1858,náhrada výdělku,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2016/08/adam-zabransky
 2016-08,2016-09-23,Pirati,Adam Zábranský,1333,pevná část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2016/08/adam-zabransky
 2016-08,2016-09-23,Pirati,Adam Zábranský,524,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2016/08/adam-zabransky
@@ -569,7 +568,6 @@ Měsíc,Platba,Plátce,Příjemce,Částka (Kč),Důvod platby,Zdroj
 2016-08,2016-09-23,Praha,Jakub Michálek,12220,náhrada výdělku,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2016/08/jakub-michalek
 2016-08,2016-09-23,Pirati,Jakub Michálek,7864,pevná část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2016/08/jakub-michalek
 2016-08,2016-09-23,Pirati,Jakub Michálek,4356,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2016/08/jakub-michalek
-
 2016-10,2016-11-15,Praha,Jakub Michálek,4466,paušální odměna,
 2016-10,2016-11-15,Praha,Jakub Michálek,255,zdravotní pojištění z paušální odměny,
 2016-10,2016-11-15,Praha,Jakub Michálek,930,záloha na daň z paušální odměny,
@@ -594,6 +592,42 @@ Měsíc,Platba,Plátce,Příjemce,Částka (Kč),Důvod platby,Zdroj
 2016-12,2017-01-16,Praha,Adam Zábranský,4466,paušální odměna,
 2016-12,2017-01-16,Praha,Adam Zábranský,255,zdravotní pojištění z paušální odměny,
 2016-12,2017-01-16,Praha,Adam Zábranský,930,záloha na daň z paušální odměny,
+2016-12,2017-01-16,Praha,Jakub Michálek,4466,paušální odměna,
+2016-12,2017-01-16,Praha,Jakub Michálek,255,zdravotní pojištění z paušální odměny,
+2016-12,2017-01-16,Praha,Jakub Michálek,930,záloha na daň z paušální odměny,
+2016-12,2017-01-16,Praha,Ondřej Profant,4466,paušální odměna,
+2016-12,2017-01-16,Praha,Ondřej Profant,255,zdravotní pojištění z paušální odměny,
+2016-12,2017-01-16,Praha,Ondřej Profant,930,záloha na daň z paušální odměny,
+2016-12,2017-01-16,Praha,Mikuláš Ferjenčík,4466,paušální odměna,
+2016-12,2017-01-16,Praha,Mikuláš Ferjenčík,255,zdravotní pojištění z paušální odměny,
+2016-12,2017-01-16,Praha,Mikuláš Ferjenčík,930,záloha na daň z paušální odměny,
+2016-12,2017-01-16,Praha,Adam Zábranský,4466,paušální odměna,
+2016-12,2017-01-16,Praha,Adam Zábranský,255,zdravotní pojištění z paušální odměny,
+2016-12,2017-01-16,Praha,Adam Zábranský,930,záloha na daň z paušální odměny,
+2017-01,2017-02-16,Praha,Jakub Michálek,4466,paušální odměna,
+2017-01,2017-02-16,Praha,Jakub Michálek,255,zdravotní pojištění z paušální odměny,
+2017-01,2017-02-16,Praha,Jakub Michálek,930,záloha na daň z paušální odměny,
+2017-01,2017-02-16,Praha,Ondřej Profant,4466,paušální odměna,
+2017-01,2017-02-16,Praha,Ondřej Profant,255,zdravotní pojištění z paušální odměny,
+2017-01,2017-02-16,Praha,Ondřej Profant,930,záloha na daň z paušální odměny,
+2017-01,2017-02-16,Praha,Mikuláš Ferjenčík,4466,paušální odměna,
+2017-01,2017-02-16,Praha,Mikuláš Ferjenčík,255,zdravotní pojištění z paušální odměny,
+2017-01,2017-02-16,Praha,Mikuláš Ferjenčík,930,záloha na daň z paušální odměny,
+2017-01,2017-02-16,Praha,Adam Zábranský,4466,paušální odměna,
+2017-01,2017-02-16,Praha,Adam Zábranský,255,zdravotní pojištění z paušální odměny,
+2017-01,2017-02-16,Praha,Adam Zábranský,930,záloha na daň z paušální odměny,с
+2017-01,2017-03-02,Praha,Adam Zábranský,1745,náhrada výdělku,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2017/01/adam-zabransky
+2017-01,2017-03-02,Pirati,Adam Zábranský,1745,pevná část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2017/01/adam-zabransky
+2017-01,2017-03-02,Pirati,Adam Zábranský,0,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2017/01/adam-zabransky
+2017-01,2017-03-02,Praha,Mikuláš Ferjenčík,4991,náhrada výdělku,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2017/01/mikulas-ferjencik
+2017-01,2017-03-02,Pirati,Mikuláš Ferjenčík,3491,pevná část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2017/01/mikulas-ferjencik
+2017-01,2017-03-02,Pirati,Mikuláš Ferjenčík,1500,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2017/01/mikulas-ferjencik/README.md
+2017-01,2017-03-02,Praha,Ondřej Profant,5991,náhrada výdělku,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2017/01/ondrej-profant
+2017-01,2017-03-02,Pirati,Ondřej Profant,4491,pevná část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2017/01/ondrej-profant
+2017-01,2017-03-02,Pirati,Ondřej Profant,1500,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2017/01/ondrej-profant
+2017-01,2017-03-02,Praha,Jakub Michálek,11873,náhrada výdělku,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2017/01/jakub-michalek
+2017-01,2017-03-02,Pirati,Jakub Michálek,8580,pevná část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2017/01/jakub-michalek
+2017-01,2017-03-02,Pirati,Jakub Michálek,3293,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/tymy/praha/2017/01/jakub-michalek
 2018-01,2018-02-15,Praha,Viktor Mahrik,11433,paušální odměna,
 2018-01,2018-02-15,Praha,Viktor Mahrik,651,zdravotní pojištění z paušální odměny,
 2018-01,2018-02-15,Praha,Viktor Mahrik,2370,záloha na daň z paušální odměny,
