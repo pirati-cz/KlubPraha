@@ -648,6 +648,46 @@ Měsíc,Platba,Plátce,Příjemce,Částka (Kč),Důvod platby,Zdroj
 2017-03,2017-04-15,Pirati,Ondřej Profant,3600,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/03/ondrej profant
 2017-03,2017-04-15,Pirati,Jakub Michálek,9600,pevná část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/03/jakub-michalek
 2017-03,2017-04-15,Pirati,Jakub Michálek,4000,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/03/jakub-michalek
+2017-03,2017-04-16,Praha,Jakub Michálek,4466,paušální odměna,
+2017-03,2017-04-16,Praha,Jakub Michálek,255,zdravotní pojištění z paušální odměny,
+2017-03,2017-04-16,Praha,Jakub Michálek,930,záloha na daň z paušální odměny,
+2017-03,2017-04-16,Praha,Ondřej Profant,4466,paušální odměna,
+2017-03,2017-04-16,Praha,Ondřej Profant,255,zdravotní pojištění z paušální odměny,
+2017-03,2017-04-16,Praha,Ondřej Profant,930,záloha na daň z paušální odměny,
+2017-03,2017-04-16,Praha,Mikuláš Ferjenčík,4466,paušální odměna,
+2017-03,2017-04-16,Praha,Mikuláš Ferjenčík,255,zdravotní pojištění z paušální odměny,
+2017-03,2017-04-16,Praha,Mikuláš Ferjenčík,930,záloha na daň z paušální odměny,
+2017-03,2017-04-16,Praha,Adam Zábranský,4466,paušální odměna,
+2017-03,2017-04-16,Praha,Adam Zábranský,255,zdravotní pojištění z paušální odměny,
+2017-03,2017-04-16,Praha,Adam Zábranský,930,záloha na daň z paušální odměny,
+2017-04,2017-05-24,Pirati,Adam Zábranský,1835,pevná část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/04/adam-zabransky
+2017-04,2017-05-24,Pirati,Adam Zábranský,2000,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/04/adam-zabransky
+2017-04,2017-05-24,Pirati,Mikuláš Ferjenčík,2756,pevná část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/04/mikulas-ferjencik
+2017-04,2017-05-24,Pirati,Mikuláš Ferjenčík,1700,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/04/mikulas-ferjencik
+2017-04,2017-05-24,Pirati,Ondřej Profant,4234,pevná část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/04/ondrej-profant
+2017-04,2017-05-24,Pirati,Ondřej Profant,2000,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/04/ondrej profant
+2017-04,2017-05-24,Pirati,Jakub Michálek,2718,pevná část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/04/jakub-michalek
+2017-04,2017-05-24,Pirati,Jakub Michálek,2300,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/04/jakub-michalek
+2017-04,2017-05-16,Praha,Jakub Michálek,4466,paušální odměna,
+2017-04,2017-05-16,Praha,Jakub Michálek,255,zdravotní pojištění z paušální odměny,
+2017-04,2017-05-16,Praha,Jakub Michálek,930,záloha na daň z paušální odměny,
+2017-04,2017-05-16,Praha,Ondřej Profant,4466,paušální odměna,
+2017-04,2017-05-16,Praha,Ondřej Profant,255,zdravotní pojištění z paušální odměny,
+2017-04,2017-05-16,Praha,Ondřej Profant,930,záloha na daň z paušální odměny,
+2017-04,2017-05-16,Praha,Mikuláš Ferjenčík,4466,paušální odměna,
+2017-04,2017-05-16,Praha,Mikuláš Ferjenčík,255,zdravotní pojištění z paušální odměny,
+2017-04,2017-05-16,Praha,Mikuláš Ferjenčík,930,záloha na daň z paušální odměny,
+2017-04,2017-05-16,Praha,Adam Zábranský,4466,paušální odměna,
+2017-04,2017-05-16,Praha,Adam Zábranský,255,zdravotní pojištění z paušální odměny,
+2017-04,2017-05-16,Praha,Adam Zábranský,930,záloha na daň z paušální odměny,
+2017-05,2017-07-13,Pirati,Adam Zábranský,1734,pevná část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/05/adam-zabransky
+2017-05,2017-07-13,Pirati,Adam Zábranský,0,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/05/adam-zabransky
+2017-05,2017-07-13,Pirati,Mikuláš Ferjenčík,2282,pevná část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/05/mikulas-ferjencik
+2017-05,2017-07-13,Pirati,Mikuláš Ferjenčík,0,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/05/mikulas-ferjencik
+2017-05,2017-07-13,Pirati,Ondřej Profant,6123,pevná část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/05/ondrej-profant
+2017-05,2017-07-13,Pirati,Ondřej Profant,1800,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/05/ondrej profant
+2017-05,2017-07-13,Pirati,Jakub Michálek,7339,pevná část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/05/jakub-michalek
+2017-05,2017-07-13,Pirati,Jakub Michálek,3200,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2017/05/jakub-michalek
 2018-01,2018-02-15,Praha,Viktor Mahrik,11433,paušální odměna,
 2018-01,2018-02-15,Praha,Viktor Mahrik,651,zdravotní pojištění z paušální odměny,
 2018-01,2018-02-15,Praha,Viktor Mahrik,2370,záloha na daň z paušální odměny,
