@@ -21,16 +21,16 @@ Aktuální informace o stavu jmění
 
 | Popis věci            | Odhad hodnoty |  Převažující zdroj                  |
 | --------------------- | ------------: |  ---------------------- |
-| Chatka s pozemkem s celkovou rozlohou 400 metrů čtverečních v Čerčanech | kupní cena 250 000 Kč, dnes už pravděpodobně o dost vyšší (zkrášlení, zavedení elektřiny a vody) | úspory prarodičů a rodičů |
-| Stavební spoření u ČMSS | 160 000 Kč | úspory rodičů |
-| Investiční fond Pioneer Investments | 100 000 Kč | měsíční příjmy (viz níže) |
-| Dluhopis společnosti DRFG, a.s. | 50 000 Kč | měsíční příjmy |
-| Akcie (spekuluji na české i americké burze) | 80 000 Kč | měsíční příjmy (viz níže) |
-| Bankovní účet u FIO banky a.s. | značně kolísá mezi 1 000 Kč a 40 000 Kč | měsíční příjmy (viz níže) |
-| Notebook | 12 000 Kč | měsíční příjmy (viz níže) |
+| Chatka s pozemkem s celkovou rozlohou 400 metrů čtverečních v Čerčanech | kupní cena 250 000 Kč | dar od prarodičů a rodičů |
+| Investiční fond Pioneer Investments | 130 000 Kč | měsíční příjmy (viz níže) |
+| Dluhopis společnosti DRFG, a.s. | 50 000 Kč | měsíční příjmy (viz níže) |
+| Akcie (na české i americké burze - konkrétní akcie se mění, na vyžádání předám aktuální seznam) | kolísavé, okolo 150 000 Kč | měsíční příjmy (viz níže) |
+| Různé kryptoměny | značně kolísavé - několik desítek tisíc Kč | měsíční příjmy (viz níže) |
+| volné prostředky na účtu a v hotovosti | kolísavé - několik desítek tisíc Kč | měsíční příjmy (viz níže), peníze vybrané ze stavebního spoření |
+| Notebook | kupní cena 12 000 Kč | měsíční příjmy (viz níže) |
 | Postel | 7 000 Kč | měsíční příjmy (viz níže) |
 | Lednička | 6 000 Kč | měsíční příjmy (viz níže) |
-| Tablet Dell Venue 11 Pro | 30 000 Kč | Výpůjčka od Magistrátu hl. m. Prahy (po skončení mandátu zastupitele budu vracet) |
+| Tablet Dell Venue 11 Pro | 10 000 Kč | výpůjčka od Magistrátu hl. m. Prahy (po skončení mandátu zastupitele budu vracet) |
 
 
 ### Dluhy
@@ -46,10 +46,10 @@ Aktuální informace o stavu jmění
 
 *Následující text vysvětluje, jakým způsobem výše uvedený funkcionář aktuálně financuje svou obživu, bydlení a další základní životní potřeby, zejména u koho je zaměstnán, ve službě, nebo kde vykonává funkci člena orgánu právnické osoby či kde podniká, jakou pobírá odměnu a jiné příjmy z veřejných zdrojů, případně kdo je jeho podpůrcem.*
 
-Z rozpočtu Magistrátu hl. m. Prahy dostávám odměny za výkon funkce člena zastupitelstva (zákonná měsíční odměna ve výši cca 4500 Kč) a náhrady za ušlý zisk (jejich výše je každý měsíc jiná, viz [rozpis odměn](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny/odmeny.csv)). Příjem mám i z [příkazní smlouvy uzavřené s Českou pirátskou stranou](http://smlouvy.pirati.cz/smlouvy/2014/11/13/adam-zabransky/index.html) ve výši zhruba 10 000 Kč měsíčně (za výkon mandátu). Žiju v bytě s přítelkyní (byt je jejích rodičů), obživu a náklady na byt hradíme společně.
+Z rozpočtu Magistrátu hl. m. Prahy dostávám odměny za výkon funkce člena zastupitelstva (zákonná měsíční odměna ve výši cca 18 000 Kč) a náhrady za ušlý zisk (jejich výše je každý měsíc jiná, viz [rozpis odměn](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny/odmeny.csv)). Příjem mám i z [příkazní smlouvy uzavřené s Českou pirátskou stranou](http://smlouvy.pirati.cz/smlouvy/2014/11/13/adam-zabransky/index.html) ve výši zhruba 10 000 Kč měsíčně (za výkon mandátu). Žiju v bytě s přítelkyní (byt je jejích rodičů), obživu a náklady na byt hradíme společně.
 
 ### Neziskové aktivity
-Jsem členem České veganské společnosti a KomPotu (spolek, který si pěstuje zeleninu v rámci komunitně podporovaného zemědělství). Měsíčně přispívám 300 Kč spolku Otevři oči a po 150 Kč spolkům Auto*mat a Oživení.
+Jsem členem Spolku pro efektivní altruismus, České veganské společnosti a KomPotu (spolek, který si pěstuje zeleninu v rámci komunitně podporovaného zemědělství). Měsíčně přispívám 300 Kč spolku Otevři oči a po 150 Kč spolkům Automat a Oživení a dalším neziskovým organizacím - na dobročinné účely se snažím rozdávat cca 15 % svých čistých příjmů.
 
 
 Informace o významných změnách
