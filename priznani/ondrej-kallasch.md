@@ -40,7 +40,7 @@ Aktuální informace o stavu jmění
 
 *Následující text vysvětluje, jakým způsobem výše uvedený funkcionář aktuálně financuje svou obživu, bydlení a další základní životní potřeby, zejména u koho je zaměstnán, ve službě, nebo kde vykonává funkci člena orgánu právnické osoby či kde podniká, jakou pobírá odměnu a jiné příjmy z veřejných zdrojů, případně kdo je jeho podpůrcem.*
 
-Z rozpočtu Magistrátu hl. m. Prahy dostávám odměny za výkon funkce člena zastupitelstva (zákonná měsíční odměna ve výši cca 6 000 Kč). Příjem mám i z [příkazní smlouvy uzavřené s Českou pirátskou stranou] (https://smlouvy.pirati.cz/smlouvy/2018/01/11/zhmp-kallasch/ ) ve výši zhruba 6 000 Kč měsíčně (za výkon mandátu). Přes pracovní smlouvu jsem zaměstnán u soukromé společnosti ( zaměstnavatel si nepřeje být spojován s mím politickým životem, proto neuvádím název ). Žiju v bytě s přítelkyní (Nemovitost patří mojí mamince4), obživu a náklady na byt hradíme společně.
+Z rozpočtu Magistrátu hl. m. Prahy dostávám odměny za výkon funkce člena zastupitelstva (zákonná měsíční odměna ve výši cca 6 000 Kč). Příjem mám i z [příkazní smlouvy uzavřené s Českou pirátskou stranou](https://smlouvy.pirati.cz/smlouvy/2018/01/11/zhmp-kallasch/) ve výši zhruba 6 000 Kč měsíčně (za výkon mandátu). Přes pracovní smlouvu jsem zaměstnán u soukromé společnosti (zaměstnavatel si nepřeje být spojován s mým politickým životem, proto neuvádím název). Žiju v bytě s přítelkyní (Nemovitost patří mojí mamince), obživu a náklady na byt hradíme společně.
 
 Informace o významných změnách
 ----------------------------------
