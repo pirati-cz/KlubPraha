@@ -44,7 +44,7 @@ Aktuální informace o stavu jmění
 
 *Následující text vysvětluje, jakým způsobem výše uvedený funkcionář aktuálně financuje svou obživu, bydlení a další základní životní potřeby, zejména u koho je zaměstnán, ve službě, nebo kde vykonává funkci člena orgánu právnické osoby či kde podniká, jakou pobírá odměnu a jiné příjmy z veřejných zdrojů, případně kdo je jeho podpůrcem.*
 
-Z rozpočtu Magistrátu hl. m. Prahy dostávám odměny za výkon funkce člena zastupitelstva (zákonná měsíční odměna ve výši cca 18 000 Kč) a náhrady za ušlý zisk (jejich výše je každý měsíc jiná, viz [rozpis odměn](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny/odmeny.csv)). Příjem mám i z [příkazní smlouvy uzavřené s Českou pirátskou stranou](http://smlouvy.pirati.cz/smlouvy/) ve výši zhruba 10 000 Kč měsíčně (za výkon mandátu). Aktuálně dodávám služby týkající se poskytování technické podpory a dalších záležitostí v rámci projektu NetMonitor společnosti Gemius, s.r.o. aktuálně mám z této činnosti asi 17 000 Kč/měsíc.
+Z rozpočtu Magistrátu hl. m. Prahy dostávám odměny za výkon funkce člena zastupitelstva (zákonná měsíční odměna ve výši cca 18 000 Kč) a náhrady za ušlý zisk (jejich výše je každý měsíc jiná, viz [rozpis odměn](https://github.com/pirati-cz/KlubPraha/tree/master/odmeny/odmeny.csv)). Příjem mám i z [příkazní smlouvy uzavřené s Českou pirátskou stranou](https://smlouvy.pirati.cz/smlouvy/2018/01/16/zhmp-mahrik/) ve výši zhruba 10 000 Kč měsíčně (za výkon mandátu). Aktuálně dodávám služby týkající se poskytování technické podpory a dalších záležitostí v rámci projektu NetMonitor společnosti Gemius, s.r.o. aktuálně mám z této činnosti asi 17 000 Kč/měsíc.
 
 ### Neziskové aktivity
 Měsíčně přispívám 300 Kč Člověku v tísni.
