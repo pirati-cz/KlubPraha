@@ -736,3 +736,7 @@ Měsíc,Platba,Plátce,Příjemce,Částka (Kč),Důvod platby,Zdroj
 2018-04,2018-05-20,Praha,Adam Zábranský,17150,paušální odměna,
 2018-04,2018-05-22,Praha,Adam Zábranský,976,zdravotní pojištění z paušální odměny,
 2018-04,2018-05-22,Praha,Adam Zábranský,3555,záloha na daň z paušální odměny,
+2018-04,2018-05-22,Pirati,Adam Zábranský,8206.25,pevná část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2018/04/adam-zabransky
+2018-04,2018-05-22,Pirati,Adam Zábranský,4500,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2018/04/adam-zabransky
+2018-04,2018-05-11,Pirati,Mikuláš Ferjenčík,6666,pevná část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2018/04/ivan-mikolas
+2018-04,2018-05-11,Pirati,Mikuláš Ferjenčík,7000,proměnlivá část odměny z mandátní smlouvy,https://github.com/pirati-byro/transparence/tree/master/odmeny/tymy/Pha/2018/04/ivan-mikolas
