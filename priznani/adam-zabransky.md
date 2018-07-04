@@ -19,7 +19,7 @@ Aktuální informace o stavu jmění
 
 *Následující seznam obsahuje přehled o veškerém majetku výše uvedeného funkcionáře. Zahrnuje jeho nemovitosti, cenné papíry, majetkové účasti v právnických osobách, práva s majetkovou hodnotou a jiné majetkové hodnoty. Věci jsou oceněny tržní (zpravidla pořizovací nebo odhadní) cenou, která může být zaokrouhlena na desetitisíce, v případě velkých majetků může být cena uvedena s tolerancí 10 %, pokud nelze zjistit přesnější údaj. V seznamu nemusí být uvedeny věci levnější než 20000 Kč.*
 
-| Popis věci            | Odhad hodnoty |  Převažující zdroj                  |
+| Popis věci            | Odhad hodnoty |  Převažující zdroj prostředků                 |
 | --------------------- | ------------: |  ---------------------- |
 | Chatka s pozemkem s celkovou rozlohou 400 metrů čtverečních v Čerčanech | kupní cena 250 000 Kč | dar od prarodičů a rodičů |
 | volné prostředky na účtu a v hotovosti | kolísavé - nízké stovky tisíc Kč | měsíční příjmy (viz níže), peníze vybrané ze stavebního spoření |
