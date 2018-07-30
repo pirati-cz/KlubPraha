@@ -53,11 +53,19 @@ Měsíčně přispívám 300 Kč Člověku v tísni.
 Informace o významných změnách
 ----------------------------------
 
-<!--
 ### Seznam darů
+
 *Následuje seznam darovaných plnění, výhod a jiných bezplatných požitků za období od vzniku funkce. Za dar se považuje každé plnění nebo opomenutí funkcionáři v rozsahu, ve kterém funkcionář neuhradí odpovídající protihodnotu (bezplatné dovolené, prominutí dluhu apod.).*
 
-Viz [oznámení podle etického kodexu]-->
+#### Dary za rok 2018
+| Popis daru           | Odhad hodnoty |
+| --------------------- | ------------: |
+| 2x VIP vstupenka na Metronome Festival 2018 | 9 980 Kč |
+| Vstupenka na 115 let Harley-Davidson | 625 Kč |
+
+
+
+Viz [oznámení podle etického kodexu]
 
 ### Seznam příjmů od veřejných institucí
 *Následuje seznam příjmů poskytnutých od veřejných institucí. Veřejnou institucí je stát, územní samosprávné celky, veřejné vysoké školy, veřejné výzkumné instituce, školy, prosefní komory, jakož i akciové společnosti nebo jiné veřejné instituce jimi ovládané.*
