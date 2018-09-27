@@ -7,7 +7,7 @@ author:
    mail:    adam.zabransky@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    
+   sign:    Zk Pha 177/2015
 your:
    role:    Povinný subjekt
    name:    České dráhy a.s.
