@@ -14,9 +14,10 @@ V Pirátské straně hledáme **asistenta pro administrativu**, tedy člověka, 
 
 ## Poptávaná činnost:
 
-* administrativní agenda celostátního vedení (republikového předsednictva, administrativního odboru, republikového výboru) 
-* např. tvorba stručných zápisů z jednání, správa podatelny, příprava jednání a schůzek a jednoduchých rešerší, správa spisové služby, vedení registrů, pomoc s okrskovými volebními komisemi, zjišťování stavu úkolů apod., případně další věci dle dohody a schopností
-* předpokládaný rozsah činnosti je cca 20 hodin týdně (cca poloviční úvazek)
+* organizační koordinace činností a programů politického klubu,
+* příprava jednání svolaných politickým klubem včetně vyhotovování zápisů z jednání a vedení
+administrativní agendy klubu,
+* příprava podkladů pro jednání politického klubu členů ZHMP v ZHMP, výborech ZHMP a komisích RHMP.
 
 ## Nabízíme:
 
