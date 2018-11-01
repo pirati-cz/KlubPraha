@@ -5,6 +5,8 @@ Zastupitelský klub Pirátů
 Výběrové řízení na druhého tajemníka klubu
 ========================
 
+![Zastupitelé na Magistrátu](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/zastupko2.jpg "Zastupitelé na Magistrátu")
+
 Ahoj!
 
 Pirátští zastupitelé na Magistrátu hledají **druhého pracovníka** pro svůj třináctihlavý klub. Jedná se o člověka, který bude asistovat jednotlivým zastupitelům v jejich agendě. Pokud sympatizuješ s Piráty, administrativa ti nedělá problémy a rád vnášíš do chaosu řád, je tohle pro tebe ta pravá nabídka. 
