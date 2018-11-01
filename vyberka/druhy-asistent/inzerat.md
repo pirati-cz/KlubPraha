@@ -18,6 +18,7 @@ Pirátští zastupitelé na Magistrátu hledají **druhého pracovníka** pro sv
 ## Nabízíme:
 
 * pracovní smlouvu na dobou určitou (nejprve na rok) s možností prodloužení na dobu celého volebního období (2018-2022)
+* osmou platovou třídu, platový stupeň dle předchozí praxe (od 16 000 až do 21 600 v prvním stupni). 
 * možnost podílet se na realizaci Pirátského programu v hlavním městě Praze
 * práce ve skvělém kolektivu Pirátů na pražském Magistrátu, kteří mají poprvé z pozice koaliční strany s vlastním primátorem šanci skutečně změnit Prahu
 * seznámení s moderními technologiemi používanými při fungování Pirátské strany a jejího klubu zastupitelů
