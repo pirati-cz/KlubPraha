@@ -2,7 +2,7 @@
 krajské sdružení Praha  
 Zastupitelský klub Pirátů
 
-Výběrové řízení na druhého tajemníka klubu
+Výběrové řízení na tajemníka klubu
 ========================
 
 ![Zastupitelé na Magistrátu](https://github.com/pirati-cz/KlubPraha/blob/master/materialy/zastupko2.jpg "Zastupitelé na Magistrátu")
