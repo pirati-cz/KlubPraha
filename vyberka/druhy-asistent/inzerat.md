@@ -1,5 +1,5 @@
 Česká pirátská strana  
-krajské sdružení Praha
+krajské sdružení Praha  
 Zastupitelský klub Pirátů
 
 Výběrové řízení na druhého tajemníka klubu
@@ -17,7 +17,7 @@ Pirátští zastupitelé na Magistrátu hledají **druhého pracovníka** pro sv
 
 ## Nabízíme:
 
-* smlouvu na dobou určitou (nejprve na rok) s možností prodloužení na dobu celého volebního období (2018-2022)
+* pracovní smlouvu na dobou určitou (nejprve na rok) s možností prodloužení na dobu celého volebního období (2018-2022)
 * možnost podílet se na realizaci Pirátského programu v hlavním městě Praze
 * práce ve skvělém kolektivu Pirátů na pražském Magistrátu, kteří mají poprvé z pozice koaliční strany s vlastním primátorem šanci skutečně změnit Prahu
 * seznámení s moderními technologiemi používanými při fungování Pirátské strany a jejího klubu zastupitelů
@@ -26,7 +26,7 @@ Pirátští zastupitelé na Magistrátu hledají **druhého pracovníka** pro sv
 
 * středoškolské vzdělání zakončené maturitou (minimálně, podmínka Magistrátu)
 * filosofické ztotožnění se s [Pirátským programem][program] a jeho dobrou znalost,
-* znalost kancelářských balíků, schopnost naučit se používat [Pirátský redmine][redmine] a Github. 
+* znalost kancelářských balíků, schopnost naučit se používat [Pirátský redmine][redmine] a [Github][github]. 
 * vynikající komunikační dovednosti, reprezentativní a příjemné vystupování,
 * dobrý písemný projev, schopnost plánování, samostatnost a svědomitost,
 * znalost anglického jazyka,
@@ -35,6 +35,7 @@ Pirátští zastupitelé na Magistrátu hledají **druhého pracovníka** pro sv
 
 [program]: https://www.pirati.cz/program/start
 [redmine]: https://redmine.pirati.cz/
+[github]: https://github.com/
 
 ## Zasílání nabídek
 
