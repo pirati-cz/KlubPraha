@@ -20,7 +20,7 @@ Pirátští zastupitelé na Magistrátu hledají **druhého pracovníka** pro sv
 ## Nabízíme:
 
 * pracovní smlouvu na dobou určitou (nejprve na rok) s možností prodloužení na dobu celého volebního období (2018-2022)
-* osmou platovou třídu, platový stupeň dle předchozí praxe (od 16 000 až do 21 600 v prvním stupni). 
+* [Osmou platovou třídu](https://www.vimvic.cz/upload/thumbnails/image-1140--fit-10944.png), platový stupeň dle předchozí praxe (až do 21 600 v prvním stupni, až do 23 225 Kč v pátém stupni apod.)
 * možnost podílet se na realizaci Pirátského programu v hlavním městě Praze
 * práce ve skvělém kolektivu Pirátů na pražském Magistrátu, kteří mají poprvé z pozice koaliční strany s vlastním primátorem šanci skutečně změnit Prahu
 * seznámení s moderními technologiemi používanými při fungování Pirátské strany a jejího klubu zastupitelů
@@ -33,8 +33,9 @@ Pirátští zastupitelé na Magistrátu hledají **druhého pracovníka** pro sv
 * vynikající komunikační dovednosti, reprezentativní a příjemné vystupování,
 * dobrý písemný projev, schopnost plánování, samostatnost a svědomitost,
 * znalost anglického jazyka,
-* osobní zkušenost s dobrovolnickou prací v libovolné podobě je výhodou,
-* znalost a přístup k svobodnému softwaru a alternativním operačním systémům nebo kancelářským balíkům je výhodou
+* výhodou: osobní zkušenost s dobrovolnickou prací v libovolné podobě
+* výhodou: znalost svobodného softwaru a alternativních operačním systémů nebo kancelářských balíků
+
 
 [program]: https://www.pirati.cz/program/start
 [redmine]: https://redmine.pirati.cz/
@@ -49,13 +50,15 @@ V nabídce nám prosím zašli v jednom PDF dokumentu následující materiály:
 
 Z výše uvedených dokumentů by měly být patrné zejména zkušenosti z administrativy, práce s technickými systémy (preferujeme ty svobodné), plánování, příp. zkušenosti s dobrovolnictvím, a dále znalost angličtiny.
 
-**Nabídku nám prosím zašli do 15. 11. 2018, do tří dnů se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošli na adresu <jan.louzek@pirati.cz>, kopii potom na <info@pirati.cz>.**
+**Nabídku nám prosím zašli do 20. 1. 2018, do tří dnů se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošli na adresu <jan.louzek@pirati.cz>, kopii potom na <info@pirati.cz>.**
 
 S pozdravem 
 
 Bc. Jan Loužek  
-zveřejňovač Pirátů v Praze  
+asistent zastupitelského klubu Pirátů v Praze  
 <jan.louzek@pirati.cz>, tel. 608 213 119
+
+Poznámka: V loňském roce jsme již **vybrali** ve veřejném výběrovém řízení člověka do pozice tajemníka zastupitelského klubu. Po skončení výběrového řízení však vítězný kandidát odstoupil. Vzhledem k tomu, že další vhodní kandidáti se uplatnili již v podobných pozicích vypisujeme toto výběrové řízení opětovně. 
 
 ----
 
