@@ -50,7 +50,7 @@ V nabídce nám prosím zašli v jednom PDF dokumentu následující materiály:
 
 Z výše uvedených dokumentů by měly být patrné zejména zkušenosti z administrativy, práce s technickými systémy (preferujeme ty svobodné), plánování, příp. zkušenosti s dobrovolnictvím, a dále znalost angličtiny.
 
-**Nabídku nám prosím zašli do 20. 1. 2018, do tří dnů se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošli na adresu <jan.louzek@pirati.cz>, kopii potom na <info@pirati.cz>.**
+**Nabídku nám prosím zašli do <s>20. 1. 2018</s> 1. února 2019, do tří dnů se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošli na adresu <jan.louzek@pirati.cz>, kopii potom na <info@pirati.cz>.**
 
 S pozdravem 
 
@@ -58,7 +58,7 @@ Bc. Jan Loužek
 asistent zastupitelského klubu Pirátů v Praze  
 <jan.louzek@pirati.cz>, tel. 608 213 119
 
-Poznámka: V loňském roce jsme již **vybrali** ve veřejném výběrovém řízení člověka do pozice tajemníka zastupitelského klubu. Po skončení výběrového řízení však vítězný kandidát odstoupil. Vzhledem k tomu, že další vhodní kandidáti se uplatnili již v podobných pozicích vypisujeme toto výběrové řízení opětovně. 
+Poznámka: V loňském roce jsme již **vybrali** ve veřejném výběrovém řízení člověka do pozice tajemníka zastupitelského klubu. Po skončení výběrového řízení však vítězný kandidát odstoupil. Vzhledem k tomu, že další vhodní kandidáti se uplatnili již v podobných pozicích vypisujeme toto výběrové řízení opětovně. Termín pro sběr uchazečů do tohoto výběrového řízení byl prodloužen do 1. února 2019.
 
 ----
 
